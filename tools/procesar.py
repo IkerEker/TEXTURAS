@@ -250,7 +250,18 @@ def job(a):
 PATRON = re.compile(r'cuadricul|milimetr|isom[eé]tr|punteado|pautado|rayado|triangular|azulejo', re.I)
 
 
+OVERRIDE = {
+ 'papelator/NUEVAS/TEXTURA_IMPERFECCIONES/Gemini_Generated_Image_6lto7b6lto7b6lto.jpg': dict(metodo='relieve'),
+ 'papelator/NUEVAS/TEXTURA_IMPERFECCIONES/Primer plano de dos perforaciones en papel blanco.png': dict(metodo='relieve'),
+ 'papelator/imperfecciones/Gemini_Generated_Image_bcw9d7bcw9d7bcw9.jpg': dict(sub='huella_grasa', metodo='relieve', nombre='Huellas dactilares tenues'),
+ 'papelator/imperfecciones/Gemini_Generated_Image_mezhg4mezhg4mezh.jpg': dict(sub='huella_grasa', metodo='relieve', nombre='Huellas dactilares tenues'),
+ 'papelator/imperfecciones/Textura de papel marfil fibroso.png': dict(cat='tileables', sub='papel', metodo='tileable'),
+ 'papelator/NUEVAS/TEXTURA_IMPERFECCIONES/Textura de papel con sutil pliegue curvo.png': dict(sub='arruguita', metodo='relieve'),
+}
+
+
 def fix_class(c):
+    c.update(OVERRIDE.get(c['src'], {}))
     if c.get('cat') == 'tileables' and c['metodo'] in ('tileable', 'tileable_verificar') and PATRON.search(c.get('desc_origen') or ''):
         c['metodo'] = 'tileable_patron'
     if c.get('cat') == 'imperfecciones' and c['metodo'] == 'papel_piezas':

@@ -2,16 +2,16 @@
  "nombre": "TEXTURAS",
  "descripcion": "Biblioteca común de texturas, trazos, elementos y vídeos para los plugins de Iker",
  "generado": "2026-11-18",
- "total": 1680,
+ "total": 1678,
  "por_categoria": {
   "bordes": 155,
-  "imperfecciones": 168,
+  "imperfecciones": 167,
   "luz_y_elementos": 148,
   "manchas": 258,
   "pliegues": 76,
   "superposiciones": 114,
-  "tileables": 415,
-  "trazos": 289,
+  "tileables": 416,
+  "trazos": 287,
   "video": 57
  },
  "por_carpeta": {
@@ -35,7 +35,7 @@
   "imperfecciones/acida": 7,
   "imperfecciones/adhesivo": 7,
   "imperfecciones/agua": 8,
-  "imperfecciones/arruguita": 1,
+  "imperfecciones/arruguita": 2,
   "imperfecciones/barro": 1,
   "imperfecciones/cafe": 6,
   "imperfecciones/calor": 4,
@@ -51,14 +51,14 @@
   "imperfecciones/grapa_agujero": 7,
   "imperfecciones/grapa_marca": 3,
   "imperfecciones/grasa": 4,
-  "imperfecciones/huella_grasa": 3,
+  "imperfecciones/huella_grasa": 5,
   "imperfecciones/huella_tinta": 7,
   "imperfecciones/humedad": 6,
   "imperfecciones/matasellos": 5,
   "imperfecciones/mecano": 5,
   "imperfecciones/media_luna": 4,
   "imperfecciones/nodulos": 3,
-  "imperfecciones/otras": 5,
+  "imperfecciones/otras": 1,
   "imperfecciones/pinza": 2,
   "imperfecciones/polvo": 2,
   "imperfecciones/quemadura": 8,
@@ -112,7 +112,7 @@
   "tileables/liquidos": 16,
   "tileables/madera_y_carton": 29,
   "tileables/naturaleza": 4,
-  "tileables/papel": 79,
+  "tileables/papel": 80,
   "tileables/pintura": 122,
   "tileables/superficies": 71,
   "tileables/veta_pintada": 5,
@@ -120,9 +120,9 @@
   "trazos/aguada": 20,
   "trazos/boligrafo": 26,
   "trazos/brocha": 2,
-  "trazos/carbon": 8,
+  "trazos/carbon": 7,
   "trazos/cera": 9,
-  "trazos/gouache": 15,
+  "trazos/gouache": 14,
   "trazos/lapiz": 71,
   "trazos/oleo": 6,
   "trazos/pincel": 39,
@@ -7941,6 +7941,30 @@
   },
   {
    "origen": {
+    "ruta": "papelator/NUEVAS/TEXTURA_IMPERFECCIONES/Textura de papel con sutil pliegue curvo.png",
+    "copias": [],
+    "repo": "papelator",
+    "sha1": "aecdca2a545b13311a425ef7de71a0dec7e89acb",
+    "w": 1536,
+    "h": 1024
+   },
+   "metodo": "relieve",
+   "archivo": "imperfecciones/arruguita/textura_papel_sutil_pliegue_curvo_0773_relieve.png",
+   "cat": "imperfecciones",
+   "sub": "arruguita",
+   "w": 1536,
+   "h": 1024,
+   "alfa": false,
+   "bytes": 1237242,
+   "desc": "Textura de papel con sutil pliegue curvo (relieve)",
+   "modo": "superponer o luz suave (gris 50 % = neutro)",
+   "ganancia": 8.92,
+   "tipo": "imagen",
+   "id": "imperfecciones/arruguita/textura_papel_sutil_pliegue_curvo_0773_relieve",
+   "carpeta": "imperfecciones/arruguita"
+  },
+  {
+   "origen": {
     "ruta": "papelator/imperfecciones/Gemini_Generated_Image_9sfnc09sfnc09sfn.jpg",
     "copias": [
      "neonizador/TEXTURAS_02/imperfecciones/Gemini_Generated_Image_9sfnc09sfnc09sfn.jpg"
@@ -10826,49 +10850,27 @@
     "w": 2816,
     "h": 1536
    },
-   "metodo": "papel_entera",
+   "metodo": "relieve",
    "usado_en": "PAPELATOR (imperf › grapa_agujero)",
    "nombre": "Agujeros de grapa",
    "modo_papelator": "hole",
    "donde": "staple",
-   "archivo": "imperfecciones/grapa_agujero/agujeros_grapa_0757.png",
+   "archivo": "imperfecciones/grapa_agujero/agujeros_grapa_0757_relieve.png",
    "cat": "imperfecciones",
    "sub": "grapa_agujero",
    "w": 2816,
-   "h": 1472,
-   "alfa": true,
-   "bytes": 78582,
-   "color_medio": [
-    127,
-    127,
-    126
-   ],
-   "desc": "grapa agujero",
-   "color": "gris",
-   "modo": "normal",
-   "recorte": [
-    60,
-    1532,
-    0,
-    2816
-   ],
-   "papel": {
-    "umbral_papel": 0.0486,
-    "denso": 0.4648,
-    "papel_rgb": [
-     0.945,
-     0.946,
-     0.945
-    ]
-   },
+   "h": 1536,
+   "alfa": false,
+   "bytes": 2391945,
+   "desc": "Agujeros de grapa (relieve)",
+   "modo": "superponer o luz suave (gris 50 % = neutro)",
+   "ganancia": 3.53,
    "tamano_real_mm": [
     13,
     16
    ],
-   "pieza": 1,
-   "piezas": 1,
    "tipo": "imagen",
-   "id": "imperfecciones/grapa_agujero/agujeros_grapa_0757",
+   "id": "imperfecciones/grapa_agujero/agujeros_grapa_0757_relieve",
    "carpeta": "imperfecciones/grapa_agujero"
   },
   {
@@ -11153,49 +11155,27 @@
     "w": 1536,
     "h": 1024
    },
-   "metodo": "papel_entera",
+   "metodo": "relieve",
    "usado_en": "PAPELATOR (imperf › grapa_agujero)",
    "nombre": "Agujeros de grapa",
    "modo_papelator": "hole",
    "donde": "staple",
-   "archivo": "imperfecciones/grapa_agujero/primer_plano_dos_perforaciones_0762.png",
+   "archivo": "imperfecciones/grapa_agujero/primer_plano_dos_perforaciones_0762_relieve.png",
    "cat": "imperfecciones",
    "sub": "grapa_agujero",
    "w": 1536,
    "h": 1024,
-   "alfa": true,
-   "bytes": 28422,
-   "color_medio": [
-    72,
-    62,
-    47
-   ],
-   "desc": "Primer plano de dos perforaciones",
-   "color": "marrón oscuro",
-   "modo": "normal",
-   "recorte": [
-    0,
-    1024,
-    0,
-    1536
-   ],
-   "papel": {
-    "umbral_papel": 0.0987,
-    "denso": 0.7762,
-    "papel_rgb": [
-     0.891,
-     0.89,
-     0.891
-    ]
-   },
+   "alfa": false,
+   "bytes": 963246,
+   "desc": "Agujeros de grapa (relieve)",
+   "modo": "superponer o luz suave (gris 50 % = neutro)",
+   "ganancia": 1.66,
    "tamano_real_mm": [
     13,
     16
    ],
-   "pieza": 1,
-   "piezas": 1,
    "tipo": "imagen",
-   "id": "imperfecciones/grapa_agujero/primer_plano_dos_perforaciones_0762",
+   "id": "imperfecciones/grapa_agujero/primer_plano_dos_perforaciones_0762_relieve",
    "carpeta": "imperfecciones/grapa_agujero"
   },
   {
@@ -11521,6 +11501,60 @@
    "tipo": "imagen",
    "id": "imperfecciones/grasa/mancha_grasa_0902",
    "carpeta": "imperfecciones/grasa"
+  },
+  {
+   "origen": {
+    "ruta": "papelator/imperfecciones/Gemini_Generated_Image_bcw9d7bcw9d7bcw9.jpg",
+    "copias": [
+     "neonizador/TEXTURAS_02/imperfecciones/Gemini_Generated_Image_bcw9d7bcw9d7bcw9.jpg"
+    ],
+    "repo": "papelator",
+    "sha1": "802f959482c3e646966f79cdb0dee60cb1e55003",
+    "w": 2048,
+    "h": 2048
+   },
+   "metodo": "relieve",
+   "nombre": "Huellas dactilares tenues",
+   "archivo": "imperfecciones/huella_grasa/huellas_dactilares_tenues_0873_relieve.png",
+   "cat": "imperfecciones",
+   "sub": "huella_grasa",
+   "w": 2048,
+   "h": 2048,
+   "alfa": false,
+   "bytes": 2581000,
+   "desc": "Huellas dactilares tenues (relieve)",
+   "modo": "superponer o luz suave (gris 50 % = neutro)",
+   "ganancia": 5.16,
+   "tipo": "imagen",
+   "id": "imperfecciones/huella_grasa/huellas_dactilares_tenues_0873_relieve",
+   "carpeta": "imperfecciones/huella_grasa"
+  },
+  {
+   "origen": {
+    "ruta": "papelator/imperfecciones/Gemini_Generated_Image_mezhg4mezhg4mezh.jpg",
+    "copias": [
+     "neonizador/TEXTURAS_02/imperfecciones/Gemini_Generated_Image_mezhg4mezhg4mezh.jpg"
+    ],
+    "repo": "papelator",
+    "sha1": "13d18861d27cb63ac742bc1bf2f981adff3eabd0",
+    "w": 2048,
+    "h": 2048
+   },
+   "metodo": "relieve",
+   "nombre": "Huellas dactilares tenues",
+   "archivo": "imperfecciones/huella_grasa/huellas_dactilares_tenues_0897_relieve.png",
+   "cat": "imperfecciones",
+   "sub": "huella_grasa",
+   "w": 2048,
+   "h": 2048,
+   "alfa": false,
+   "bytes": 2583370,
+   "desc": "Huellas dactilares tenues (relieve)",
+   "modo": "superponer o luz suave (gris 50 % = neutro)",
+   "ganancia": 6.48,
+   "tipo": "imagen",
+   "id": "imperfecciones/huella_grasa/huellas_dactilares_tenues_0897_relieve",
+   "carpeta": "imperfecciones/huella_grasa"
   },
   {
    "origen": {
@@ -13074,54 +13108,6 @@
   },
   {
    "origen": {
-    "ruta": "papelator/imperfecciones/Gemini_Generated_Image_bcw9d7bcw9d7bcw9.jpg",
-    "copias": [
-     "neonizador/TEXTURAS_02/imperfecciones/Gemini_Generated_Image_bcw9d7bcw9d7bcw9.jpg"
-    ],
-    "repo": "papelator",
-    "sha1": "802f959482c3e646966f79cdb0dee60cb1e55003",
-    "w": 2048,
-    "h": 2048
-   },
-   "metodo": "papel_entera",
-   "archivo": "imperfecciones/otras/otras_gris_claro_0873.png",
-   "cat": "imperfecciones",
-   "sub": "otras",
-   "w": 1764,
-   "h": 1398,
-   "alfa": true,
-   "bytes": 486312,
-   "color_medio": [
-    199,
-    197,
-    192
-   ],
-   "desc": "otras",
-   "color": "gris claro",
-   "modo": "normal",
-   "recorte": [
-    325,
-    1723,
-    274,
-    2038
-   ],
-   "papel": {
-    "umbral_papel": 0.0598,
-    "denso": 0.1495,
-    "papel_rgb": [
-     0.924,
-     0.924,
-     0.922
-    ]
-   },
-   "pieza": 1,
-   "piezas": 1,
-   "tipo": "imagen",
-   "id": "imperfecciones/otras/otras_gris_claro_0873",
-   "carpeta": "imperfecciones/otras"
-  },
-  {
-   "origen": {
     "ruta": "papelator/imperfecciones/Gemini_Generated_Image_ye3djnye3djnye3d.jpg",
     "copias": [
      "neonizador/TEXTURAS_02/imperfecciones/Gemini_Generated_Image_ye3djnye3djnye3d.jpg"
@@ -13166,148 +13152,6 @@
    "piezas": 1,
    "tipo": "imagen",
    "id": "imperfecciones/otras/otras_gris_claro_0915",
-   "carpeta": "imperfecciones/otras"
-  },
-  {
-   "origen": {
-    "ruta": "papelator/imperfecciones/Gemini_Generated_Image_mezhg4mezhg4mezh.jpg",
-    "copias": [
-     "neonizador/TEXTURAS_02/imperfecciones/Gemini_Generated_Image_mezhg4mezhg4mezh.jpg"
-    ],
-    "repo": "papelator",
-    "sha1": "13d18861d27cb63ac742bc1bf2f981adff3eabd0",
-    "w": 2048,
-    "h": 2048
-   },
-   "metodo": "papel_entera",
-   "archivo": "imperfecciones/otras/otras_negro_0897.png",
-   "cat": "imperfecciones",
-   "sub": "otras",
-   "w": 1415,
-   "h": 1134,
-   "alfa": true,
-   "bytes": 43690,
-   "color_medio": [
-    0,
-    0,
-    0
-   ],
-   "desc": "otras",
-   "color": "negro",
-   "modo": "normal",
-   "recorte": [
-    445,
-    1579,
-    343,
-    1758
-   ],
-   "papel": {
-    "umbral_papel": 0.0721,
-    "denso": 1.0,
-    "papel_rgb": [
-     0.95,
-     0.95,
-     0.948
-    ]
-   },
-   "pieza": 1,
-   "piezas": 1,
-   "tipo": "imagen",
-   "id": "imperfecciones/otras/otras_negro_0897",
-   "carpeta": "imperfecciones/otras"
-  },
-  {
-   "origen": {
-    "ruta": "papelator/imperfecciones/Textura de papel marfil fibroso.png",
-    "copias": [
-     "neonizador/TEXTURAS_02/imperfecciones/Textura de papel marfil fibroso.png"
-    ],
-    "repo": "papelator",
-    "sha1": "b50b46546b17d55d9260ee336b008e37e76ddd98",
-    "w": 1254,
-    "h": 1254
-   },
-   "metodo": "papel_entera",
-   "archivo": "imperfecciones/otras/textura_papel_marfil_fibroso_0988.png",
-   "cat": "imperfecciones",
-   "sub": "otras",
-   "w": 1254,
-   "h": 1254,
-   "alfa": true,
-   "bytes": 8195,
-   "color_medio": [
-    0,
-    0,
-    0
-   ],
-   "desc": "Textura de papel marfil fibroso",
-   "color": "negro",
-   "modo": "normal",
-   "recorte": [
-    0,
-    1254,
-    0,
-    1254
-   ],
-   "papel": {
-    "umbral_papel": 0.1198,
-    "denso": 1.0,
-    "papel_rgb": [
-     0.933,
-     0.916,
-     0.892
-    ]
-   },
-   "pieza": 1,
-   "piezas": 1,
-   "tipo": "imagen",
-   "id": "imperfecciones/otras/textura_papel_marfil_fibroso_0988",
-   "carpeta": "imperfecciones/otras"
-  },
-  {
-   "origen": {
-    "ruta": "papelator/NUEVAS/TEXTURA_IMPERFECCIONES/Textura de papel con sutil pliegue curvo.png",
-    "copias": [],
-    "repo": "papelator",
-    "sha1": "aecdca2a545b13311a425ef7de71a0dec7e89acb",
-    "w": 1536,
-    "h": 1024
-   },
-   "metodo": "papel_entera",
-   "archivo": "imperfecciones/otras/textura_papel_sutil_pliegue_curvo_0773.png",
-   "cat": "imperfecciones",
-   "sub": "otras",
-   "w": 1482,
-   "h": 1020,
-   "alfa": true,
-   "bytes": 11556,
-   "color_medio": [
-    185,
-    180,
-    181
-   ],
-   "desc": "Textura de papel con sutil pliegue curvo",
-   "color": "gris claro",
-   "modo": "normal",
-   "recorte": [
-    4,
-    1024,
-    15,
-    1497
-   ],
-   "papel": {
-    "umbral_papel": 0.0601,
-    "denso": 0.2257,
-    "papel_rgb": [
-     0.938,
-     0.936,
-     0.945
-    ]
-   },
-   "pieza": 1,
-   "piezas": 1,
-   "tipo": "imagen",
-   "id": "imperfecciones/otras/textura_papel_sutil_pliegue_curvo_0773",
    "carpeta": "imperfecciones/otras"
   },
   {
@@ -42791,6 +42635,47 @@
   },
   {
    "origen": {
+    "ruta": "papelator/imperfecciones/Textura de papel marfil fibroso.png",
+    "copias": [
+     "neonizador/TEXTURAS_02/imperfecciones/Textura de papel marfil fibroso.png"
+    ],
+    "repo": "papelator",
+    "sha1": "b50b46546b17d55d9260ee336b008e37e76ddd98",
+    "w": 1254,
+    "h": 1254
+   },
+   "metodo": "tileable",
+   "archivo": "tileables/papel/textura_papel_marfil_fibroso_0988.jpg",
+   "cat": "tileables",
+   "sub": "papel",
+   "w": 1150,
+   "h": 1150,
+   "alfa": false,
+   "bytes": 507646,
+   "color_medio": [
+    237,
+    233,
+    227
+   ],
+   "desc": "Textura de papel marfil fibroso",
+   "color": "blanco",
+   "modo": "multiplicar (sobre el arte) o normal (como fondo)",
+   "tileable": true,
+   "costura_antes": [
+    2.14,
+    1.64
+   ],
+   "costura": [
+    0.92,
+    0.92
+   ],
+   "proceso": "luz aplanada + costura óptima (altas) + fundido (bajas)",
+   "tipo": "imagen",
+   "id": "tileables/papel/textura_papel_marfil_fibroso_0988",
+   "carpeta": "tileables/papel"
+  },
+  {
+   "origen": {
     "ruta": "papelator/texturas_tileables/Textura de papel punteado minimalista.png",
     "copias": [
      "neonizador/TEXTURAS_02/texturas_tileables/Textura de papel punteado minimalista.png"
@@ -58111,60 +57996,9 @@
     ]
    },
    "pieza": 1,
-   "piezas": 2,
+   "piezas": 1,
    "tipo": "imagen",
    "id": "trazos/carbon/trazo_carboncillo_gris_oscuro_0051_01",
-   "carpeta": "trazos/carbon"
-  },
-  {
-   "origen": {
-    "ruta": "a-mano/TRAZOS/LAPIZ/Gemini_Generated_Image_uvge2nuvge2nuvge.jpg",
-    "copias": [
-     "neonizador/TEXTURAS_02/TRAZOS/LAPIZ/Gemini_Generated_Image_uvge2nuvge2nuvge.jpg",
-     "papelator/APOYO/TRAZOS/LAPIZ/Gemini_Generated_Image_uvge2nuvge2nuvge.jpg",
-     "trazo/TEXTURES/TRAZOS/LAPIZ/Gemini_Generated_Image_uvge2nuvge2nuvge.jpg"
-    ],
-    "repo": "a-mano",
-    "sha1": "184af84732557c5565848cd87438c03105fd8ccc",
-    "w": 1536,
-    "h": 2752
-   },
-   "metodo": "papel_piezas",
-   "usado_en": "A mano / Trazo (pinceladas reales)",
-   "archivo": "trazos/carbon/trazo_carboncillo_negro_0051_02.png",
-   "cat": "trazos",
-   "sub": "carbon",
-   "w": 283,
-   "h": 242,
-   "alfa": true,
-   "bytes": 26039,
-   "color_medio": [
-    0,
-    0,
-    0
-   ],
-   "desc": "Trazo de carboncillo negro",
-   "color": "negro",
-   "modo": "normal",
-   "recorte": [
-    2510,
-    2752,
-    1253,
-    1536
-   ],
-   "papel": {
-    "umbral_papel": 0.0513,
-    "denso": 0.6708,
-    "papel_rgb": [
-     0.901,
-     0.885,
-     0.872
-    ]
-   },
-   "pieza": 2,
-   "piezas": 2,
-   "tipo": "imagen",
-   "id": "trazos/carbon/trazo_carboncillo_negro_0051_02",
    "carpeta": "trazos/carbon"
   },
   {
@@ -58993,7 +58827,7 @@
     ]
    },
    "pieza": 2,
-   "piezas": 4,
+   "piezas": 3,
    "tipo": "imagen",
    "id": "trazos/gouache/trazo_gouache_gris_0026_02",
    "carpeta": "trazos/gouache"
@@ -59044,7 +58878,7 @@
     ]
    },
    "pieza": 3,
-   "piezas": 4,
+   "piezas": 3,
    "tipo": "imagen",
    "id": "trazos/gouache/trazo_gouache_gris_0026_03",
    "carpeta": "trazos/gouache"
@@ -59401,60 +59235,9 @@
     ]
    },
    "pieza": 1,
-   "piezas": 4,
+   "piezas": 3,
    "tipo": "imagen",
    "id": "trazos/gouache/trazo_gouache_gris_oscuro_0026_01",
-   "carpeta": "trazos/gouache"
-  },
-  {
-   "origen": {
-    "ruta": "a-mano/TRAZOS/GUACHE/Gemini_Generated_Image_scmr90scmr90scmr.jpg",
-    "copias": [
-     "neonizador/TEXTURAS_02/TRAZOS/GUACHE/Gemini_Generated_Image_scmr90scmr90scmr.jpg",
-     "papelator/APOYO/TRAZOS/GUACHE/Gemini_Generated_Image_scmr90scmr90scmr.jpg",
-     "trazo/TEXTURES/TRAZOS/GUACHE/Gemini_Generated_Image_scmr90scmr90scmr.jpg"
-    ],
-    "repo": "a-mano",
-    "sha1": "4e0344f33ddd5ddb3ee2f7482f98b8719d662432",
-    "w": 1536,
-    "h": 2752
-   },
-   "metodo": "papel_piezas",
-   "usado_en": "A mano / Trazo (pinceladas reales)",
-   "archivo": "trazos/gouache/trazo_gouache_negro_0026_04.png",
-   "cat": "trazos",
-   "sub": "gouache",
-   "w": 1536,
-   "h": 352,
-   "alfa": true,
-   "bytes": 240659,
-   "color_medio": [
-    0,
-    0,
-    0
-   ],
-   "desc": "Trazo de gouache negro",
-   "color": "negro",
-   "modo": "normal",
-   "recorte": [
-    2400,
-    2752,
-    0,
-    1536
-   ],
-   "papel": {
-    "umbral_papel": 0.0544,
-    "denso": 0.5496,
-    "papel_rgb": [
-     0.941,
-     0.941,
-     0.94
-    ]
-   },
-   "pieza": 4,
-   "piezas": 4,
-   "tipo": "imagen",
-   "id": "trazos/gouache/trazo_gouache_negro_0026_04",
    "carpeta": "trazos/gouache"
   },
   {

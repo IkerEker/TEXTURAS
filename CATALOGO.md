@@ -1,6 +1,6 @@
 # Catálogo de TEXTURAS
 
-Generado el 2026-11-18 · 1680 archivos. La ficha completa de cada uno está en `catalogo.json`; las hojas de contactos de cada carpeta, en `hojas/`.
+Generado el 2026-11-18 · 1678 archivos. La ficha completa de cada uno está en `catalogo.json`; las hojas de contactos de cada carpeta, en `hojas/`.
 
 ## Resumen
 
@@ -26,7 +26,7 @@ Generado el 2026-11-18 · 1680 archivos. La ficha completa de cada uno está en 
 | `imperfecciones/acida` | 7 |
 | `imperfecciones/adhesivo` | 7 |
 | `imperfecciones/agua` | 8 |
-| `imperfecciones/arruguita` | 1 |
+| `imperfecciones/arruguita` | 2 |
 | `imperfecciones/barro` | 1 |
 | `imperfecciones/cafe` | 6 |
 | `imperfecciones/calor` | 4 |
@@ -42,14 +42,14 @@ Generado el 2026-11-18 · 1680 archivos. La ficha completa de cada uno está en 
 | `imperfecciones/grapa_agujero` | 7 |
 | `imperfecciones/grapa_marca` | 3 |
 | `imperfecciones/grasa` | 4 |
-| `imperfecciones/huella_grasa` | 3 |
+| `imperfecciones/huella_grasa` | 5 |
 | `imperfecciones/huella_tinta` | 7 |
 | `imperfecciones/humedad` | 6 |
 | `imperfecciones/matasellos` | 5 |
 | `imperfecciones/mecano` | 5 |
 | `imperfecciones/media_luna` | 4 |
 | `imperfecciones/nodulos` | 3 |
-| `imperfecciones/otras` | 5 |
+| `imperfecciones/otras` | 1 |
 | `imperfecciones/pinza` | 2 |
 | `imperfecciones/polvo` | 2 |
 | `imperfecciones/quemadura` | 8 |
@@ -95,7 +95,7 @@ Generado el 2026-11-18 · 1680 archivos. La ficha completa de cada uno está en 
 | `tileables/liquidos` | 16 |
 | `tileables/madera_y_carton` | 29 |
 | `tileables/naturaleza` | 4 |
-| `tileables/papel` | 79 |
+| `tileables/papel` | 80 |
 | `tileables/pintura` | 122 |
 | `tileables/superficies` | 71 |
 | `tileables/veta_pintada` | 5 |
@@ -103,9 +103,9 @@ Generado el 2026-11-18 · 1680 archivos. La ficha completa de cada uno está en 
 | `trazos/aguada` | 20 |
 | `trazos/boligrafo` | 26 |
 | `trazos/brocha` | 2 |
-| `trazos/carbon` | 8 |
+| `trazos/carbon` | 7 |
 | `trazos/cera` | 9 |
-| `trazos/gouache` | 15 |
+| `trazos/gouache` | 14 |
 | `trazos/lapiz` | 71 |
 | `trazos/oleo` | 6 |
 | `trazos/pincel` | 39 |
@@ -456,6 +456,7 @@ Hoja de contactos: [`hojas/imperfecciones__arruguita.jpg`](hojas/imperfecciones_
 | Archivo | Qué es | Tamaño | Modo | Notas |
 |---|---|---|---|---|
 | `sutiles_marcas_0770_relieve.png` | Arruguita de manipulación (relieve) | 501×615 | superponer o luz suave (gris 50 % = neutro) | tamaño real [16, 30] mm · usado en PAPELATOR (imperf › arruguita) |
+| `textura_papel_sutil_pliegue_curvo_0773_relieve.png` | Textura de papel con sutil pliegue curvo (relieve) | 1536×1024 | superponer o luz suave (gris 50 % = neutro) |  |
 
 ## `imperfecciones/barro`
 
@@ -605,13 +606,13 @@ Hoja de contactos: [`hojas/imperfecciones__grapa_agujero.jpg`](hojas/imperfeccio
 
 | Archivo | Qué es | Tamaño | Modo | Notas |
 |---|---|---|---|---|
-| `agujeros_grapa_0757.png` | grapa agujero | 2816×1472 RGBA | normal | tamaño real [13, 16] mm · usado en PAPELATOR (imperf › grapa_agujero) |
+| `agujeros_grapa_0757_relieve.png` | Agujeros de grapa (relieve) | 2816×1536 | superponer o luz suave (gris 50 % = neutro) | tamaño real [13, 16] mm · usado en PAPELATOR (imperf › grapa_agujero) |
 | `dos_pequenos_agujeros_0754.png` | Dos pequeños agujeros | 575×224 RGBA | normal | tamaño real [13, 16] mm · usado en PAPELATOR (imperf › grapa_agujero) |
 | `dos_pequenos_agujeros_0755.png` | Dos pequeños agujeros | 509×262 RGBA | normal | tamaño real [13, 16] mm · usado en PAPELATOR (imperf › grapa_agujero) |
 | `dos_pequenos_agujeros_grapa_0753.png` | Dos pequeños agujeros de grapa | 579×281 RGBA | normal | tamaño real [13, 16] mm · usado en PAPELATOR (imperf › grapa_agujero) |
 | `dos_pequenos_agujeros_papel_0756.png` | Dos pequeños agujeros en papel | 229×89 RGBA | normal | tamaño real [13, 16] mm · usado en PAPELATOR (imperf › grapa_agujero) |
 | `pequenos_agujeros_grapa_0761.png` | Pequeños agujeros de grapa | 504×202 RGBA | normal | tamaño real [13, 16] mm · usado en PAPELATOR (imperf › grapa_agujero) |
-| `primer_plano_dos_perforaciones_0762.png` | Primer plano de dos perforaciones | 1536×1024 RGBA | normal | tamaño real [13, 16] mm · usado en PAPELATOR (imperf › grapa_agujero) |
+| `primer_plano_dos_perforaciones_0762_relieve.png` | Agujeros de grapa (relieve) | 1536×1024 | superponer o luz suave (gris 50 % = neutro) | tamaño real [13, 16] mm · usado en PAPELATOR (imperf › grapa_agujero) |
 
 ## `imperfecciones/grapa_marca`
 
@@ -640,6 +641,8 @@ Hoja de contactos: [`hojas/imperfecciones__huella_grasa.jpg`](hojas/imperfeccion
 
 | Archivo | Qué es | Tamaño | Modo | Notas |
 |---|---|---|---|---|
+| `huellas_dactilares_tenues_0873_relieve.png` | Huellas dactilares tenues (relieve) | 2048×2048 | superponer o luz suave (gris 50 % = neutro) |  |
+| `huellas_dactilares_tenues_0897_relieve.png` | Huellas dactilares tenues (relieve) | 2048×2048 | superponer o luz suave (gris 50 % = neutro) |  |
 | `huellas_grasientas_0864.png` | huella grasa | 1040×1269 RGBA | normal | tamaño real [18, 24] mm · usado en PAPELATOR (imperf › huella_grasa) |
 | `huellas_grasientas_0883.png` | huella grasa | 1747×1665 RGBA | normal | tamaño real [18, 24] mm · usado en PAPELATOR (imperf › huella_grasa) |
 | `huellas_grasientas_0892.png` | huella grasa | 1635×1466 RGBA | normal | tamaño real [18, 24] mm · usado en PAPELATOR (imperf › huella_grasa) |
@@ -722,11 +725,7 @@ Hoja de contactos: [`hojas/imperfecciones__otras.jpg`](hojas/imperfecciones__otr
 
 | Archivo | Qué es | Tamaño | Modo | Notas |
 |---|---|---|---|---|
-| `otras_gris_claro_0873.png` | otras | 1764×1398 RGBA | normal |  |
 | `otras_gris_claro_0915.png` | otras | 1670×1681 RGBA | normal |  |
-| `otras_negro_0897.png` | otras | 1415×1134 RGBA | normal |  |
-| `textura_papel_marfil_fibroso_0988.png` | Textura de papel marfil fibroso | 1254×1254 RGBA | normal |  |
-| `textura_papel_sutil_pliegue_curvo_0773.png` | Textura de papel con sutil pliegue curvo | 1482×1020 RGBA | normal |  |
 
 ## `imperfecciones/pinza`
 
@@ -1623,6 +1622,7 @@ Hoja de contactos: [`hojas/tileables__papel.jpg`](hojas/tileables__papel.jpg)
 | `textura_papel_kraft_reciclado_1044.jpg` | Textura de papel kraft reciclado | 1150×1150 | multiplicar (sobre el arte) o normal (como fondo) | tileable (costura 0.95/0.98) |
 | `textura_papel_marfil_artesanal_1045.jpg` | Algodón | 1150×1150 | multiplicar (sobre el arte) o normal (como fondo) | tileable (costura 0.93/1.05) · tile = 91.7×91.7 mm · usado en PAPELATOR (papers/algodon) |
 | `textura_papel_marfil_estriado_1046.jpg` | Textura de papel marfil estriado | 1150×1150 | multiplicar (sobre el arte) o normal (como fondo) | tileable (costura 0.86/1.23) |
+| `textura_papel_marfil_fibroso_0988.jpg` | Textura de papel marfil fibroso | 1150×1150 | multiplicar (sobre el arte) o normal (como fondo) | tileable (costura 0.92/0.92) |
 | `textura_papel_punteado_minimalista_1047.jpg` | Punteado | 627×979 | multiplicar (sobre el arte) o normal (como fondo) | tileable (costura 1.11/0.81) · usado en PAPELATOR (papers/punteado) |
 | `textura_papel_rayado_azul_tenue_1048.jpg` | Rayado tenue | 627×649 | multiplicar (sobre el arte) o normal (como fondo) | tileable (costura 0.97/0.64) · usado en PAPELATOR (papers/rayado_tenue) |
 | `textura_papel_reciclado_fibroso_1049.jpg` | Textura de papel reciclado fibroso | 1150×1150 | multiplicar (sobre el arte) o normal (como fondo) | tileable (costura 0.93/0.97) |
@@ -2012,7 +2012,6 @@ Hoja de contactos: [`hojas/trazos__carbon.jpg`](hojas/trazos__carbon.jpg)
 | `trazo_carboncillo_gris_oscuro_0048_01.png` | Trazo de carboncillo gris oscuro | 895×2446 RGBA | normal | usado en A mano / Trazo (pinceladas reales) |
 | `trazo_carboncillo_gris_oscuro_0048_02.png` | Trazo de carboncillo gris oscuro | 528×2377 RGBA | normal | usado en A mano / Trazo (pinceladas reales) |
 | `trazo_carboncillo_gris_oscuro_0051_01.png` | Trazo de carboncillo gris oscuro | 1280×2579 RGBA | normal | usado en A mano / Trazo (pinceladas reales) |
-| `trazo_carboncillo_negro_0051_02.png` | Trazo de carboncillo negro | 283×242 RGBA | normal | usado en A mano / Trazo (pinceladas reales) |
 | `trazo_serpenteante_carbon_0067.png` | Trazo de carboncillo negro | 1520×544 RGBA | normal | usado en A mano / Trazo (pinceladas reales) |
 
 ## `trazos/cera`
@@ -2051,7 +2050,6 @@ Hoja de contactos: [`hojas/trazos__gouache.jpg`](hojas/trazos__gouache.jpg)
 | `trazo_gouache_gris_oscuro_0023_02.png` | Trazo de gouache gris oscuro | 351×2259 RGBA | normal | usado en A mano / Trazo (pinceladas reales) |
 | `trazo_gouache_gris_oscuro_0023_03.png` | Trazo de gouache gris oscuro | 356×2288 RGBA | normal | usado en A mano / Trazo (pinceladas reales) |
 | `trazo_gouache_gris_oscuro_0026_01.png` | Trazo de gouache gris oscuro | 338×1862 RGBA | normal | usado en A mano / Trazo (pinceladas reales) |
-| `trazo_gouache_negro_0026_04.png` | Trazo de gouache negro | 1536×352 RGBA | normal | usado en A mano / Trazo (pinceladas reales) |
 
 ## `trazos/lapiz`
 

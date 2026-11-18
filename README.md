@@ -6,10 +6,10 @@ Todo sale de NEONIZADOR, Analog FX, PAPELATOR, A mano y Trazo, **sin duplicados*
 
 | Carpeta | Qué hay | Archivos |
 |---|---|---:|
-| `tileables/` | Fondos que se repiten sin costura: papeles (con su escala real), paredes y suelos, madera y cartón, vidrios y plásticos, pintura, grunge, grafito, líquidos | 415 |
-| `trazos/` | Trazos sueltos con transparencia: lápiz, carbón, cera, rotulador, boli, pincel, gouache, óleo, aguada | 289 |
+| `tileables/` | Fondos que se repiten sin costura: papeles (con su escala real), paredes y suelos, madera y cartón, vidrios y plásticos, pintura, grunge, grafito, líquidos | 416 |
+| `trazos/` | Trazos sueltos con transparencia: lápiz, carbón, cera, rotulador, boli, pincel, gouache, óleo, aguada | 287 |
 | `manchas/` | Manchas de pincel y de tinta, y el banco de 219 goteos reales | 258 |
-| `imperfecciones/` | Café, agua, humedad, grasa, óxido, foxing, quemaduras, grapas, clips, sellos… | 168 |
+| `imperfecciones/` | Café, agua, humedad, grasa, óxido, foxing, quemaduras, grapas, clips, sellos… | 167 |
 | `bordes/` | Bordes rasgados, viejos, de cartón, de espiral y esquinas, recortados | 155 |
 | `luz_y_elementos/` | Fuego, chispas, humo, fugas de luz, burbujas, espuma, moho (transparencia real + versión para Trama) | 148 |
 | `superposiciones/` | Texturas 9:16 a pantalla completa, película con polvo, VHS, fotocopia | 114 |
