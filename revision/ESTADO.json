@@ -242,7 +242,7 @@
 "tx:imperfecciones/adhesivo/residuo_cinta_adhesiva_envejecida_0965",
 "tx:imperfecciones/agua/mancha_agua_seca_0855"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_imperfecciones-02",
@@ -263,7 +263,7 @@
 "tx:imperfecciones/cafe/cerco_cafe_0859",
 "tx:imperfecciones/cafe/cerco_cafe_0876"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_imperfecciones-03",
@@ -284,7 +284,7 @@
 "tx:imperfecciones/clip_huella/huella_clip_0758_relieve",
 "tx:imperfecciones/clip_huella/huella_sutil_clip_papel_0759_relieve"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_imperfecciones-04",
@@ -305,7 +305,7 @@
 "tx:imperfecciones/fibras/textura_fibras_papel_dispersas_0978",
 "tx:imperfecciones/fibras/textura_fibras_papel_dispersas_0979"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_imperfecciones-05",
@@ -326,7 +326,7 @@
 "tx:imperfecciones/grafito/mancha_central_grafito_difuminado_0928",
 "tx:imperfecciones/grafito/mancha_grafito_0941"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_imperfecciones-06",
@@ -347,7 +347,7 @@
 "tx:imperfecciones/grapa_agujero/primer_plano_dos_perforaciones_0762_relieve",
 "tx:imperfecciones/grapa_marca/dos_hendiduras_horizontales_paralelas_0752_relieve"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_imperfecciones-07",
@@ -368,7 +368,7 @@
 "tx:imperfecciones/huella_tinta/huella_dactilar_tinta_0917",
 "tx:imperfecciones/huella_tinta/huella_dactilar_tinta_0918"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_imperfecciones-08",
@@ -389,7 +389,7 @@
 "tx:imperfecciones/matasellos/mancha_tinta_postal_difuminada_0955",
 "tx:imperfecciones/mecano/huellas_maquina_escribir_0923_relieve"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_imperfecciones-09",
@@ -410,7 +410,7 @@
 "tx:imperfecciones/pinza/sutiles_huellas_clip_0769_relieve",
 "tx:imperfecciones/polvo/textura_polvo_0989"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_imperfecciones-10",
@@ -431,7 +431,7 @@
 "tx:imperfecciones/salp_cafe/salpicaduras_cafe_0874",
 "tx:imperfecciones/salp_cafe/salpicaduras_cafe_0875"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_imperfecciones-11",
@@ -452,7 +452,7 @@
 "tx:imperfecciones/sello_seco/sello_notarial_oficial_relieve_blanco_0968_relieve",
 "tx:imperfecciones/sello_seco/sello_notarial_relieve_blanco_0966_relieve"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_imperfecciones-12",
@@ -460,7 +460,7 @@
 "tx:imperfecciones/uv/mancha_calida_0931",
 "tx:imperfecciones/uv/textura_circular_papel_quemado_0970"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-01",
@@ -481,7 +481,7 @@
 "tx:luz_y_elementos/burbujas_y_espuma/burbujas_brillantes_0168_trama",
 "tx:luz_y_elementos/burbujas_y_espuma/burbujas_espuma_0169"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-02",
@@ -502,7 +502,7 @@
 "tx:luz_y_elementos/burbujas_y_espuma/isla_burbujas_espuma_0179",
 "tx:luz_y_elementos/burbujas_y_espuma/isla_burbujas_espuma_0179_trama"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-03",
@@ -523,7 +523,7 @@
 "tx:luz_y_elementos/chispas/briznas_incandescentes_0085_trama",
 "tx:luz_y_elementos/chispas/chispa_brasas_incandescentes_0086"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-04",
@@ -544,7 +544,7 @@
 "tx:luz_y_elementos/fuego/explosion_fuego_incandescente_0091",
 "tx:luz_y_elementos/fuego/explosion_fuego_incandescente_0091_trama"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-05",
@@ -565,7 +565,7 @@
 "tx:luz_y_elementos/fuego/llama_arremolinada_0100_trama",
 "tx:luz_y_elementos/fuego/llama_arremolinada_0101"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-06",
@@ -586,7 +586,7 @@
 "tx:luz_y_elementos/fuego/llama_fuego_arremolinada_0103",
 "tx:luz_y_elementos/fuego/llama_fuego_arremolinada_0103_trama"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-07",
@@ -607,7 +607,7 @@
 "tx:luz_y_elementos/fuego/llamas_danzantes_0403_trama",
 "tx:luz_y_elementos/fuego/llamas_doradas_0111"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-08",
@@ -628,7 +628,7 @@
 "tx:luz_y_elementos/fugas_de_luz/fuga_luz_dorada_0391",
 "tx:luz_y_elementos/fugas_de_luz/fuga_luz_dorada_0391_trama"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-09",
@@ -649,7 +649,7 @@
 "tx:luz_y_elementos/humo/espirales_humo_etereo_0387_trama",
 "tx:luz_y_elementos/humo/espirales_vapor_0389"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-10",
@@ -668,7 +668,7 @@
 "tx:luz_y_elementos/moho/colonia_moho_multicolor_0175",
 "tx:luz_y_elementos/moho/colonia_moho_multicolor_0176"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-01",
@@ -689,7 +689,7 @@
 "tx:manchas/goteos/fina/goteo_141",
 "tx:manchas/goteos/fina/goteo_142"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-02",
@@ -710,7 +710,7 @@
 "tx:manchas/goteos/fina/goteo_177",
 "tx:manchas/goteos/fina/goteo_192"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-03",
@@ -731,7 +731,7 @@
 "tx:manchas/goteos/lagrima/goteo_001",
 "tx:manchas/goteos/lagrima/goteo_002"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-04",
@@ -752,7 +752,7 @@
 "tx:manchas/goteos/lagrima/goteo_017",
 "tx:manchas/goteos/lagrima/goteo_018"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-05",
@@ -773,7 +773,7 @@
 "tx:manchas/goteos/lagrima/goteo_034",
 "tx:manchas/goteos/lagrima/goteo_035"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-06",
@@ -794,7 +794,7 @@
 "tx:manchas/goteos/lagrima/goteo_064",
 "tx:manchas/goteos/lagrima/goteo_065"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-07",
@@ -815,7 +815,7 @@
 "tx:manchas/goteos/lagrima/goteo_171",
 "tx:manchas/goteos/lagrima/goteo_191"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-08",
@@ -836,7 +836,7 @@
 "tx:manchas/goteos/seca/goteo_138",
 "tx:manchas/goteos/seca/goteo_139"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-09",

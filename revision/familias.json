@@ -303,5 +303,817 @@
 "usar_si": "quieres un documento viejo",
 "evitar_si": "el ocre fuerte no casa con la paleta",
 "mejor": "tx:bordes/viejo/papel_antiguo_rasgado_0576"
+},
+"migracion_acida": {
+"miembros": [
+"tx:imperfecciones/acida/migracion_acida_0861",
+"tx:imperfecciones/acida/migracion_acida_0862",
+"tx:imperfecciones/acida/migracion_acida_0863",
+"tx:imperfecciones/acida/migracion_acida_0894",
+"tx:imperfecciones/acida/migracion_acida_0903",
+"tx:imperfecciones/acida/migracion_acida_0909",
+"tx:imperfecciones/acida/migracion_acida_0910"
+],
+"uso": "mancha de papel ácido/amarillento en forma de hoja (huella de un papel viejo que tiñó otro), semitransparente",
+"modo": "multiplicar",
+"usar_si": "quieres que un papel limpio parezca de archivo viejo",
+"evitar_si": "el fondo es oscuro: en multiplicar casi no se ve",
+"mejor": "tx:imperfecciones/acida/migracion_acida_0863"
+},
+"residuo_adhesivo": {
+"miembros": [
+"tx:imperfecciones/adhesivo/mancha_adhesivo_envejecido_0932",
+"tx:imperfecciones/adhesivo/mancha_adhesivo_envejecido_0933",
+"tx:imperfecciones/adhesivo/residuo_adhesivo_envejecido_0961",
+"tx:imperfecciones/adhesivo/residuo_adhesivo_envejecido_0962",
+"tx:imperfecciones/adhesivo/residuo_adhesivo_envejecido_0963",
+"tx:imperfecciones/adhesivo/residuo_adhesivo_envejecido_0964",
+"tx:imperfecciones/adhesivo/residuo_cinta_adhesiva_envejecida_0965"
+],
+"uso": "huella de adhesivo/cinta envejecida (rectángulo irregular amarillento o blanquecino), semitransparente",
+"modo": "multiplicar o normal",
+"usar_si": "quieres marcas de cinta arrancada",
+"evitar_si": "va muy grande: se nota la textura repetida",
+"mejor": "tx:imperfecciones/adhesivo/residuo_adhesivo_envejecido_0963"
+},
+"mancha_agua": {
+"miembros": [
+"tx:imperfecciones/agua/mancha_agua_seca_0855",
+"tx:imperfecciones/agua/mancha_agua_seca_0878",
+"tx:imperfecciones/agua/mancha_agua_seca_0879",
+"tx:imperfecciones/agua/mancha_agua_seca_0890",
+"tx:imperfecciones/agua/mancha_agua_seca_0899",
+"tx:imperfecciones/agua/mancha_agua_seca_0901",
+"tx:imperfecciones/agua/mancha_agua_seca_0904",
+"tx:imperfecciones/agua/mancha_agua_seca_0913"
+],
+"uso": "cerco de agua seca con borde marcado",
+"modo": "multiplicar",
+"usar_si": "quieres un cerco de vaso o gota secada",
+"evitar_si": "quieres mancha de color",
+"mejor": "tx:imperfecciones/agua/mancha_agua_seca_0904"
+},
+"relieve_marca": {
+"miembros": [
+"tx:imperfecciones/arruguita/sutiles_marcas_0770_relieve",
+"tx:imperfecciones/arruguita/textura_papel_sutil_pliegue_curvo_0773_relieve",
+"tx:imperfecciones/clip_huella/huella_clip_0758_relieve",
+"tx:imperfecciones/clip_huella/huella_sutil_clip_papel_0759_relieve",
+"tx:imperfecciones/clip_huella/relieve_sutil_pinza_papel_0763_relieve",
+"tx:imperfecciones/clip_huella/sutil_huella_clip_0767_relieve",
+"tx:imperfecciones/clip_huella/textura_sutil_clip_0774_relieve",
+"tx:imperfecciones/grapa_marca/dos_hendiduras_horizontales_paralelas_0752_relieve",
+"tx:imperfecciones/grapa_marca/sutiles_marcas_rectangulares_0771_relieve",
+"tx:imperfecciones/grapa_marca/sutiles_marcas_rectangulares_0772_relieve",
+"tx:imperfecciones/media_luna/sutil_arco_relieve_0764_relieve",
+"tx:imperfecciones/media_luna/sutil_curva_0765_relieve",
+"tx:imperfecciones/media_luna/sutil_curva_0766_relieve",
+"tx:imperfecciones/media_luna/sutil_marca_media_luna_0768_relieve",
+"tx:imperfecciones/pinza/impresiones_sutiles_0760_relieve",
+"tx:imperfecciones/pinza/sutiles_huellas_clip_0769_relieve"
+],
+"uso": "mapa de relieve en gris (128 = plano) de una marca en el papel (hendidura, pliegue curvo)",
+"modo": "superponer o luz suave",
+"usar_si": "quieres que el papel tenga hendiduras/marcas sin cambiar su color",
+"evitar_si": "esperas ver color: es solo relieve",
+"mejor": "tx:imperfecciones/clip_huella/huella_clip_0758_relieve"
+},
+"salpicadura_barro": {
+"miembros": [
+"tx:imperfecciones/barro/gotas_barro_0870"
+],
+"uso": "nube de gotitas de barro/suciedad semitransparentes",
+"modo": "multiplicar",
+"usar_si": "quieres ensuciar un papel con salpicaduras pequeñas",
+"evitar_si": "buscas una mancha grande",
+"mejor": "tx:imperfecciones/barro/gotas_barro_0870"
+},
+"cerco_cafe": {
+"miembros": [
+"tx:imperfecciones/cafe/cerco_cafe_0853",
+"tx:imperfecciones/cafe/cerco_cafe_0857",
+"tx:imperfecciones/cafe/cerco_cafe_0858",
+"tx:imperfecciones/cafe/cerco_cafe_0859",
+"tx:imperfecciones/cafe/cerco_cafe_0876",
+"tx:imperfecciones/cafe/cerco_cafe_0896"
+],
+"uso": "cerco de taza de café marrón con borde oscuro y salpicaduras",
+"modo": "multiplicar",
+"usar_si": "quieres el típico aro de taza",
+"evitar_si": "el diseño es limpio",
+"mejor": "tx:imperfecciones/cafe/cerco_cafe_0853"
+},
+"mancha_calor": {
+"miembros": [
+"tx:imperfecciones/calor/mancha_calida_papel_envejecido_0930",
+"tx:imperfecciones/calor/mancha_calor_0934",
+"tx:imperfecciones/calor/mancha_calor_sutil_0935",
+"tx:imperfecciones/calor/mancha_difusa_papel_envejecido_0956",
+"tx:imperfecciones/uv/mancha_calida_0931",
+"tx:imperfecciones/uv/textura_circular_papel_quemado_0970"
+],
+"uso": "mancha cálida difusa y redonda de papel tostado por calor/edad, borde muy suave",
+"modo": "multiplicar",
+"usar_si": "quieres amarillear una zona del papel",
+"evitar_si": "quieres borde definido",
+"mejor": "tx:imperfecciones/calor/mancha_difusa_papel_envejecido_0956"
+},
+"mancha_cera": {
+"miembros": [
+"tx:imperfecciones/cera/mancha_cera_translucida_0936",
+"tx:imperfecciones/cera/mancha_cera_translucida_0937",
+"tx:imperfecciones/cera/mancha_cera_translucida_0938"
+],
+"uso": "mancha de cera blanca translúcida con relieve",
+"modo": "normal o trama",
+"usar_si": "quieres gotas/plastas de cera sobre papel oscuro",
+"evitar_si": "el fondo es blanco: apenas se ve",
+"mejor": "tx:imperfecciones/cera/mancha_cera_translucida_0936"
+},
+"oxido_clip": {
+"miembros": [
+"tx:imperfecciones/clip/oxido_clip_0866",
+"tx:imperfecciones/clip/oxido_clip_0888",
+"tx:imperfecciones/clip/oxido_clip_0895",
+"tx:imperfecciones/clip/oxido_clip_0905",
+"tx:imperfecciones/clip/oxido_clip_0908"
+],
+"uso": "huella de óxido naranja dejada por un clip, con polvo alrededor",
+"modo": "multiplicar",
+"usar_si": "quieres un clip que estuvo años en un papel",
+"evitar_si": "el papel es oscuro",
+"mejor": "tx:imperfecciones/clip/oxido_clip_0905"
+},
+"relieve_escritura": {
+"miembros": [
+"tx:imperfecciones/escritura/impresiones_caligrafia_relieve_0924_relieve",
+"tx:imperfecciones/escritura/relieve_caligrafia_0959_relieve",
+"tx:imperfecciones/escritura/relieve_escritura_cursiva_0960_relieve",
+"tx:imperfecciones/escritura/textura_escritura_cursiva_relieve_0975_relieve",
+"tx:imperfecciones/escritura/textura_escritura_relieve_0977_relieve",
+"tx:imperfecciones/escritura/textura_escritura_relieve_blanco_0976_relieve"
+],
+"uso": "relieve gris (128 = plano) de escritura a mano apretada que dejó surco en la hoja de debajo",
+"modo": "superponer o luz suave",
+"usar_si": "quieres el rastro de una carta escrita encima",
+"evitar_si": "quieres texto legible: es solo surco",
+"mejor": "tx:imperfecciones/escritura/relieve_caligrafia_0959_relieve"
+},
+"relieve_puntitos": {
+"miembros": [
+"tx:imperfecciones/descamacion/textura_recubrimiento_desgastado_raspado_0991_relieve",
+"tx:imperfecciones/descamacion/textura_sutil_descamacion_0992_relieve",
+"tx:imperfecciones/nodulos/textura_nodulos_celulosa_relieve_0982_relieve",
+"tx:imperfecciones/nodulos/textura_papel_relieve_0985_relieve",
+"tx:imperfecciones/nodulos/textura_pulpa_papel_relieve_0990_relieve"
+],
+"uso": "relieve de picaduras/descamación finas repartidas",
+"modo": "superponer",
+"usar_si": "quieres un papel con poros o desconchado fino",
+"evitar_si": "va a poco tamaño: desaparece",
+"mejor": "tx:imperfecciones/descamacion/textura_sutil_descamacion_0992_relieve"
+},
+"fibras_sueltas": {
+"miembros": [
+"tx:imperfecciones/fibras/textura_fibras_0980",
+"tx:imperfecciones/fibras/textura_fibras_dispersas_0971",
+"tx:imperfecciones/fibras/textura_fibras_papel_dispersas_0978",
+"tx:imperfecciones/fibras/textura_fibras_papel_dispersas_0979",
+"tx:imperfecciones/fibras/textura_papel_fibras_dispersas_0984"
+],
+"uso": "fibras de papel de colores sueltas sobre transparente",
+"modo": "normal",
+"usar_si": "quieres papel con fibras de colores (papel de algodón, billete)",
+"evitar_si": "se ve a poca resolución: son hilos de 1–2 px",
+"mejor": "tx:imperfecciones/fibras/textura_fibras_dispersas_0971"
+},
+"foxing": {
+"miembros": [
+"tx:imperfecciones/foxing/foxing_oxido_moho_0854",
+"tx:imperfecciones/foxing/foxing_oxido_moho_0860",
+"tx:imperfecciones/foxing/foxing_oxido_moho_0872",
+"tx:imperfecciones/foxing/foxing_oxido_moho_0893",
+"tx:imperfecciones/foxing/foxing_oxido_moho_0898",
+"tx:imperfecciones/foxing/foxing_oxido_moho_0907"
+],
+"uso": "manchas de foxing (óxido/moho) marrones repartidas como lunares",
+"modo": "multiplicar",
+"usar_si": "quieres un libro o foto antiguos con manchas de humedad",
+"evitar_si": "abusas: se nota que es la misma nube de puntos",
+"mejor": "tx:imperfecciones/foxing/foxing_oxido_moho_0907"
+},
+"abrasion": {
+"miembros": [
+"tx:imperfecciones/goma/textura_abrasion_papel_0974",
+"tx:imperfecciones/goma/textura_abrasion_papel_fibroso_0973",
+"tx:imperfecciones/goma/textura_papel_desgastado_0972",
+"tx:imperfecciones/goma/textura_papel_erosionado_0987",
+"tx:imperfecciones/goma/textura_papel_erosionado_centrada_0986",
+"tx:imperfecciones/goma/textura_papel_fibras_desgastadas_0983"
+],
+"uso": "zona de papel rozado/erosionado blanquecina con fibras levantadas, semitransparente",
+"modo": "normal o trama",
+"usar_si": "quieres un papel oscuro gastado por el roce",
+"evitar_si": "el papel es blanco: no se ve",
+"mejor": "tx:imperfecciones/goma/textura_papel_erosionado_0987"
+},
+"mancha_grafito": {
+"miembros": [
+"tx:imperfecciones/grafito/mancha_central_grafito_difuminado_0928",
+"tx:imperfecciones/grafito/mancha_grafito_0941",
+"tx:imperfecciones/grafito/mancha_grafito_0942",
+"tx:imperfecciones/grafito/mancha_grafito_0943",
+"tx:imperfecciones/grafito/mancha_grafito_0944",
+"tx:imperfecciones/grafito/mancha_grafito_0945",
+"tx:imperfecciones/grafito/mancha_grafito_difuminado_0939",
+"tx:imperfecciones/grafito/mancha_grafito_difuminado_0940",
+"tx:imperfecciones/grafito/textura_grafito_difuminado_0981"
+],
+"uso": "mancha difusa de grafito restregado",
+"modo": "multiplicar",
+"usar_si": "quieres suciedad de dedo/lápiz",
+"evitar_si": "quieres trazo definido",
+"mejor": "tx:imperfecciones/grafito/mancha_central_grafito_difuminado_0928"
+},
+"agujeros_grapa": {
+"miembros": [
+"tx:imperfecciones/grapa_agujero/agujeros_grapa_0757_relieve",
+"tx:imperfecciones/grapa_agujero/dos_pequenos_agujeros_0754",
+"tx:imperfecciones/grapa_agujero/dos_pequenos_agujeros_0755",
+"tx:imperfecciones/grapa_agujero/dos_pequenos_agujeros_grapa_0753",
+"tx:imperfecciones/grapa_agujero/dos_pequenos_agujeros_papel_0756",
+"tx:imperfecciones/grapa_agujero/pequenos_agujeros_grapa_0761",
+"tx:imperfecciones/grapa_agujero/primer_plano_dos_perforaciones_0762_relieve"
+],
+"uso": "dos agujeros de grapa en el papel (color con alfa, o relieve gris)",
+"modo": "normal (color) / superponer (relieve)",
+"usar_si": "quieres un papel que estuvo grapado",
+"evitar_si": "va muy pequeño: son pocos píxeles",
+"mejor": "tx:imperfecciones/grapa_agujero/agujeros_grapa_0757_relieve"
+},
+"mancha_grasa": {
+"miembros": [
+"tx:imperfecciones/grasa/mancha_grasa_0869",
+"tx:imperfecciones/grasa/mancha_grasa_0881",
+"tx:imperfecciones/grasa/mancha_grasa_0887",
+"tx:imperfecciones/grasa/mancha_grasa_0902"
+],
+"uso": "mancha de grasa translúcida blanquecina (aceite en papel)",
+"modo": "trama o aclarar sobre papel oscuro, normal sobre claro",
+"usar_si": "quieres papel con manchas de aceite",
+"evitar_si": "el papel es blanco: casi no se ve",
+"mejor": "tx:imperfecciones/grasa/mancha_grasa_0887"
+},
+"huella_dactilar": {
+"miembros": [
+"tx:imperfecciones/huella_grasa/huellas_dactilares_tenues_0873_relieve",
+"tx:imperfecciones/huella_grasa/huellas_dactilares_tenues_0897_relieve",
+"tx:imperfecciones/huella_grasa/huellas_grasientas_0864",
+"tx:imperfecciones/huella_grasa/huellas_grasientas_0883",
+"tx:imperfecciones/huella_grasa/huellas_grasientas_0892",
+"tx:imperfecciones/huella_tinta/huella_dactilar_forense_gris_0921",
+"tx:imperfecciones/huella_tinta/huella_dactilar_monocromatica_0922",
+"tx:imperfecciones/huella_tinta/huella_dactilar_tinta_0917",
+"tx:imperfecciones/huella_tinta/huella_dactilar_tinta_0918",
+"tx:imperfecciones/huella_tinta/huella_dactilar_tinta_gris_0916",
+"tx:imperfecciones/huella_tinta/huella_dactilar_tinta_gris_0919",
+"tx:imperfecciones/huella_tinta/huella_dactilar_tinta_gris_0920",
+"tx:imperfecciones/otras/otras_gris_claro_0915"
+],
+"uso": "huella dactilar (tinta gris, grasa blanca o relieve)",
+"modo": "multiplicar (tinta) / normal (grasa) / superponer (relieve)",
+"usar_si": "quieres huellas de manos en un documento",
+"evitar_si": "va grande y centrada: llama mucho la atención",
+"mejor": "tx:imperfecciones/huella_tinta/huella_dactilar_tinta_gris_0916"
+},
+"mancha_humedad": {
+"miembros": [
+"tx:imperfecciones/humedad/mancha_humedad_0856",
+"tx:imperfecciones/humedad/mancha_humedad_0877",
+"tx:imperfecciones/humedad/mancha_humedad_0880",
+"tx:imperfecciones/humedad/mancha_humedad_0884",
+"tx:imperfecciones/humedad/mancha_humedad_0885",
+"tx:imperfecciones/humedad/mancha_humedad_0886"
+],
+"uso": "mancha grande amarillenta de humedad con aureola",
+"modo": "multiplicar",
+"usar_si": "quieres un papel que se mojó",
+"evitar_si": "el papel ya es amarillo: se pierde",
+"mejor": "tx:imperfecciones/humedad/mancha_humedad_0880"
+},
+"mancha_tinta_lavada": {
+"miembros": [
+"tx:imperfecciones/matasellos/mancha_abstracta_acuarela_violeta_0927",
+"tx:imperfecciones/matasellos/mancha_tinta_azul_lavanda_0952",
+"tx:imperfecciones/matasellos/mancha_tinta_postal_difuminada_0953",
+"tx:imperfecciones/matasellos/mancha_tinta_postal_difuminada_0954",
+"tx:imperfecciones/matasellos/mancha_tinta_postal_difuminada_0955"
+],
+"uso": "mancha de tinta azul/violeta lavada (matasellos o tinta corrida)",
+"modo": "multiplicar",
+"usar_si": "quieres tinta corrida o un matasellos borrado",
+"evitar_si": "quieres un sello legible",
+"mejor": "tx:imperfecciones/matasellos/mancha_tinta_postal_difuminada_0953"
+},
+"relieve_maquina": {
+"miembros": [
+"tx:imperfecciones/mecano/huellas_maquina_escribir_0923_relieve",
+"tx:imperfecciones/mecano/impresion_mecanografiada_relieve_0926_relieve",
+"tx:imperfecciones/mecano/impresiones_maquina_escribir_relieve_0925_relieve",
+"tx:imperfecciones/mecano/pagina_mecanografiada_relieve_0958_relieve",
+"tx:imperfecciones/mecano/texto_fantasma_mecanografiado_relieve_0969_relieve"
+],
+"uso": "relieve de letras de máquina de escribir golpeadas por detrás",
+"modo": "superponer",
+"usar_si": "quieres el reverso de una carta mecanografiada",
+"evitar_si": "quieres texto legible",
+"mejor": "tx:imperfecciones/mecano/impresiones_maquina_escribir_relieve_0925_relieve"
+},
+"polvo": {
+"miembros": [
+"tx:imperfecciones/polvo/textura_polvo_0989",
+"tx:imperfecciones/polvo/textura_sutil_papel_desgastado_0993"
+],
+"uso": "polvo/motas finísimas sobre transparente",
+"modo": "normal o multiplicar",
+"usar_si": "quieres ensuciar levemente",
+"evitar_si": "esperas verlo en miniatura: son motas de 1–2 px",
+"mejor": "tx:imperfecciones/polvo/textura_polvo_0989"
+},
+"quemadura": {
+"miembros": [
+"tx:imperfecciones/quemadura/mancha_circular_hollin_quemado_0929",
+"tx:imperfecciones/quemadura/mancha_papel_quemado_0946",
+"tx:imperfecciones/quemadura/mancha_quemado_0948",
+"tx:imperfecciones/quemadura/mancha_quemado_organica_0947",
+"tx:imperfecciones/quemadura/mancha_quemadura_0949",
+"tx:imperfecciones/quemadura/mancha_quemadura_0950",
+"tx:imperfecciones/quemadura/mancha_quemadura_0951",
+"tx:imperfecciones/quemadura/marca_papel_quemado_0957",
+"tx:imperfecciones/quemadura_grande/agujero_papel_quemado_vesm_0358",
+"tx:imperfecciones/quemadura_grande/marca_quemadura_0371",
+"tx:imperfecciones/quemadura_grande/marca_quemadura_0372",
+"tx:imperfecciones/quemadura_grande/textura_papel_quemado_0381"
+],
+"uso": "mancha de quemadura/hollín: centro marrón-negro y aureola naranja difusa",
+"modo": "multiplicar",
+"usar_si": "quieres un papel chamuscado o una marca de cigarro",
+"evitar_si": "repites la misma: el centro es muy reconocible",
+"mejor": "tx:imperfecciones/quemadura_grande/agujero_papel_quemado_vesm_0358"
+},
+"salpicadura_cafe": {
+"miembros": [
+"tx:imperfecciones/salp_cafe/salpicaduras_cafe_0874",
+"tx:imperfecciones/salp_cafe/salpicaduras_cafe_0875"
+],
+"uso": "salpicaduras de café en gotas y manchas",
+"modo": "multiplicar",
+"usar_si": "quieres un papel de mesa de trabajo",
+"evitar_si": "quieres una sola gota",
+"mejor": "tx:imperfecciones/salp_cafe/salpicaduras_cafe_0875"
+},
+"salpicadura_tinta": {
+"miembros": [
+"tx:imperfecciones/salp_tinta/salpicaduras_tinta_0867",
+"tx:imperfecciones/salp_tinta/salpicaduras_tinta_0871",
+"tx:imperfecciones/salp_tinta/salpicaduras_tinta_0882",
+"tx:imperfecciones/salp_tinta/salpicaduras_tinta_0889",
+"tx:imperfecciones/salp_tinta/salpicaduras_tinta_0891",
+"tx:imperfecciones/salp_tinta/salpicaduras_tinta_0912"
+],
+"uso": "salpicadura de tinta negra en gotas y regueros",
+"modo": "normal o multiplicar",
+"usar_si": "quieres un golpe de tinta china",
+"evitar_si": "quieres algo sutil: es muy contundente",
+"mejor": "tx:imperfecciones/salp_tinta/salpicaduras_tinta_0867"
+},
+"sangrado_tinta": {
+"miembros": [
+"tx:imperfecciones/sangrado/sangrado_rotulador_0865",
+"tx:imperfecciones/sangrado/sangrado_rotulador_0868",
+"tx:imperfecciones/sangrado/sangrado_rotulador_0900",
+"tx:imperfecciones/sangrado/sangrado_rotulador_0906",
+"tx:imperfecciones/sangrado/sangrado_rotulador_0911",
+"tx:imperfecciones/sangrado/sangrado_rotulador_0914"
+],
+"uso": "mancha de rotulador/tinta que sangra en el papel, borde difuso y fibroso",
+"modo": "multiplicar",
+"usar_si": "quieres tinta empapada en papel",
+"evitar_si": "quieres borde nítido",
+"mejor": "tx:imperfecciones/sangrado/sangrado_rotulador_0900"
+},
+"sello_seco": {
+"miembros": [
+"tx:imperfecciones/sello_seco/sello_notarial_mexicano_relieve_blanco_0967_relieve",
+"tx:imperfecciones/sello_seco/sello_notarial_oficial_relieve_blanco_0968_relieve",
+"tx:imperfecciones/sello_seco/sello_notarial_relieve_blanco_0966_relieve"
+],
+"uso": "relieve de sello notarial en seco (texto y balanza)",
+"modo": "superponer o luz suave",
+"usar_si": "quieres un documento oficial sellado",
+"evitar_si": "el texto del sello no encaja (pone «Notaría Pública», «Estado de México», «Oficial», «República»)",
+"mejor": "tx:imperfecciones/sello_seco/sello_notarial_oficial_relieve_blanco_0968_relieve"
+},
+"burbuja": {
+"miembros": [
+"tx:luz_y_elementos/burbujas_y_espuma/burbuja_brillante_0161",
+"tx:luz_y_elementos/burbujas_y_espuma/burbuja_brillante_0161_trama",
+"tx:luz_y_elementos/burbujas_y_espuma/burbuja_jabon_brillante_0163",
+"tx:luz_y_elementos/burbujas_y_espuma/burbuja_jabon_brillante_0163_trama",
+"tx:luz_y_elementos/burbujas_y_espuma/burbuja_jabon_iridiscente_blanco_negro_0164",
+"tx:luz_y_elementos/burbujas_y_espuma/burbuja_jabon_iridiscente_blanco_negro_0164_trama",
+"tx:luz_y_elementos/burbujas_y_espuma/burbuja_jabon_perlada_0166",
+"tx:luz_y_elementos/burbujas_y_espuma/burbuja_jabon_perlada_0166_trama",
+"tx:luz_y_elementos/burbujas_y_espuma/burbuja_transparente_0167",
+"tx:luz_y_elementos/burbujas_y_espuma/burbuja_transparente_0167_trama"
+],
+"uso": "burbuja de jabón suelta (PNG con alfa = luz, o _trama sobre negro)",
+"modo": "normal (PNG) o trama (_trama.jpg)",
+"usar_si": "quieres burbujas flotando encima de algo",
+"evitar_si": "el fondo es blanco: en trama no se ve",
+"mejor": "tx:luz_y_elementos/burbujas_y_espuma/burbuja_brillante_0161"
+},
+"espuma_burbujas": {
+"miembros": [
+"tx:luz_y_elementos/burbujas_y_espuma/burbuja_espuma_0162",
+"tx:luz_y_elementos/burbujas_y_espuma/burbuja_espuma_0162_trama",
+"tx:luz_y_elementos/burbujas_y_espuma/burbujas_brillantes_0168",
+"tx:luz_y_elementos/burbujas_y_espuma/burbujas_brillantes_0168_trama",
+"tx:luz_y_elementos/burbujas_y_espuma/burbujas_espuma_0169",
+"tx:luz_y_elementos/burbujas_y_espuma/burbujas_espuma_0169_trama",
+"tx:luz_y_elementos/burbujas_y_espuma/burbujas_espuma_0170",
+"tx:luz_y_elementos/burbujas_y_espuma/burbujas_espuma_0170_trama",
+"tx:luz_y_elementos/burbujas_y_espuma/espectacular_racimo_burbujas_0177",
+"tx:luz_y_elementos/burbujas_y_espuma/espectacular_racimo_burbujas_0177_trama",
+"tx:luz_y_elementos/burbujas_y_espuma/espuma_monocromatica_0178",
+"tx:luz_y_elementos/burbujas_y_espuma/espuma_monocromatica_0178_trama",
+"tx:luz_y_elementos/burbujas_y_espuma/isla_burbujas_espuma_0179",
+"tx:luz_y_elementos/burbujas_y_espuma/isla_burbujas_espuma_0179_trama",
+"tx:luz_y_elementos/burbujas_y_espuma/isla_espuma_burbujeante_blanco_negro_0180",
+"tx:luz_y_elementos/burbujas_y_espuma/isla_espuma_burbujeante_blanco_negro_0180_trama",
+"tx:luz_y_elementos/burbujas_y_espuma/macro_espuma_jabonosa_brillante_0181",
+"tx:luz_y_elementos/burbujas_y_espuma/macro_espuma_jabonosa_brillante_0181_trama",
+"tx:luz_y_elementos/burbujas_y_espuma/racimo_brillante_burbujas_0182",
+"tx:luz_y_elementos/burbujas_y_espuma/racimo_brillante_burbujas_0182_trama"
+],
+"uso": "racimo de burbujas/espuma (PNG alfa = luz o _trama sobre negro)",
+"modo": "normal o trama",
+"usar_si": "quieres espuma de jabón",
+"evitar_si": "el fondo es claro",
+"mejor": "tx:luz_y_elementos/burbujas_y_espuma/burbujas_espuma_0170"
+},
+"burbujas_iridiscentes": {
+"miembros": [
+"tx:luz_y_elementos/burbujas_y_espuma/burbujas_iridiscentes_0361",
+"tx:luz_y_elementos/burbujas_y_espuma/burbujas_iridiscentes_0361_trama",
+"tx:luz_y_elementos/burbujas_y_espuma/burbujas_iridiscentes_flotando_0360",
+"tx:luz_y_elementos/burbujas_y_espuma/burbujas_iridiscentes_flotando_0360_trama",
+"tx:luz_y_elementos/burbujas_y_espuma/burbujas_jabon_iridiscentes_0359",
+"tx:luz_y_elementos/burbujas_y_espuma/burbujas_jabon_iridiscentes_0359_trama"
+],
+"uso": "varias burbujas de jabón sueltas con reflejos de arcoíris",
+"modo": "normal (PNG) o trama (_trama.jpg)",
+"usar_si": "quieres burbujas flotando con color",
+"evitar_si": "quieres una sola burbuja",
+"mejor": "tx:luz_y_elementos/burbujas_y_espuma/burbujas_iridiscentes_0361"
+},
+"brasas": {
+"miembros": [
+"tx:luz_y_elementos/chispas/brasas_flotando_0082",
+"tx:luz_y_elementos/chispas/brasas_flotando_0082_trama",
+"tx:luz_y_elementos/chispas/brasas_flotantes_0083",
+"tx:luz_y_elementos/chispas/brasas_flotantes_0083_trama",
+"tx:luz_y_elementos/chispas/brasas_flotantes_0084",
+"tx:luz_y_elementos/chispas/brasas_flotantes_0084_trama",
+"tx:luz_y_elementos/chispas/briznas_incandescentes_0085",
+"tx:luz_y_elementos/chispas/briznas_incandescentes_0085_trama"
+],
+"uso": "brasas/pavesas incandescentes sueltas flotando (alfa = luz, o _trama sobre negro)",
+"modo": "normal o trama",
+"usar_si": "quieres ceniza ardiendo encima de una imagen",
+"evitar_si": "la imagen es clara: en trama se pierden",
+"mejor": "tx:luz_y_elementos/chispas/brasas_flotantes_0084"
+},
+"chispas": {
+"miembros": [
+"tx:luz_y_elementos/chispas/chispa_brasas_incandescentes_0086",
+"tx:luz_y_elementos/chispas/chispa_brasas_incandescentes_0086_trama",
+"tx:luz_y_elementos/chispas/chispas_ardientes_0383",
+"tx:luz_y_elementos/chispas/chispas_ardientes_0383_trama",
+"tx:luz_y_elementos/chispas/chispas_ardientes_0384",
+"tx:luz_y_elementos/chispas/chispas_ardientes_0384_trama",
+"tx:luz_y_elementos/chispas/chispas_brillantes_0087",
+"tx:luz_y_elementos/chispas/chispas_brillantes_0087_trama",
+"tx:luz_y_elementos/chispas/chispas_incandescentes_0088",
+"tx:luz_y_elementos/chispas/chispas_incandescentes_0088_trama",
+"tx:luz_y_elementos/chispas/chispas_incandescentes_0089",
+"tx:luz_y_elementos/chispas/chispas_incandescentes_0089_trama",
+"tx:luz_y_elementos/chispas/chispas_incandescentes_0385",
+"tx:luz_y_elementos/chispas/chispas_incandescentes_0385_trama"
+],
+"uso": "chispas finas en trazos cortos (alfa = luz o _trama)",
+"modo": "trama",
+"usar_si": "quieres chispas de soldadura/fuego",
+"evitar_si": "el fondo es claro",
+"mejor": "tx:luz_y_elementos/chispas/chispas_ardientes_0383"
+},
+"fuego": {
+"miembros": [
+"tx:luz_y_elementos/fuego/explosion_fuego_incandescente_0091",
+"tx:luz_y_elementos/fuego/explosion_fuego_incandescente_0091_trama",
+"tx:luz_y_elementos/fuego/llama_ardiente_0095",
+"tx:luz_y_elementos/fuego/llama_ardiente_0095_trama",
+"tx:luz_y_elementos/fuego/llama_ardiente_0096",
+"tx:luz_y_elementos/fuego/llama_ardiente_0096_trama",
+"tx:luz_y_elementos/fuego/llama_ardiente_0097",
+"tx:luz_y_elementos/fuego/llama_ardiente_0097_trama",
+"tx:luz_y_elementos/fuego/llama_ardiente_0098",
+"tx:luz_y_elementos/fuego/llama_ardiente_0098_trama",
+"tx:luz_y_elementos/fuego/llama_ardiente_0099",
+"tx:luz_y_elementos/fuego/llama_ardiente_0099_trama",
+"tx:luz_y_elementos/fuego/llama_ardiente_espiral_0094",
+"tx:luz_y_elementos/fuego/llama_ardiente_espiral_0094_trama",
+"tx:luz_y_elementos/fuego/llama_arremolinada_0100",
+"tx:luz_y_elementos/fuego/llama_arremolinada_0100_trama",
+"tx:luz_y_elementos/fuego/llama_arremolinada_0101",
+"tx:luz_y_elementos/fuego/llama_arremolinada_0101_trama",
+"tx:luz_y_elementos/fuego/llama_curvada_0092",
+"tx:luz_y_elementos/fuego/llama_curvada_0092_trama",
+"tx:luz_y_elementos/fuego/llama_danzante_0102",
+"tx:luz_y_elementos/fuego/llama_danzante_0102_trama",
+"tx:luz_y_elementos/fuego/llama_diagonal_0093",
+"tx:luz_y_elementos/fuego/llama_diagonal_0093_trama",
+"tx:luz_y_elementos/fuego/llama_dorada_espiral_0107",
+"tx:luz_y_elementos/fuego/llama_dorada_espiral_0107_trama",
+"tx:luz_y_elementos/fuego/llama_dorada_espiral_0108",
+"tx:luz_y_elementos/fuego/llama_dorada_espiral_0108_trama",
+"tx:luz_y_elementos/fuego/llama_esbelta_0109",
+"tx:luz_y_elementos/fuego/llama_esbelta_0109_trama",
+"tx:luz_y_elementos/fuego/llama_fuego_arremolinada_0103",
+"tx:luz_y_elementos/fuego/llama_fuego_arremolinada_0103_trama",
+"tx:luz_y_elementos/fuego/llama_fuego_espiral_0104",
+"tx:luz_y_elementos/fuego/llama_fuego_espiral_0104_trama",
+"tx:luz_y_elementos/fuego/llama_fuego_espiral_0105",
+"tx:luz_y_elementos/fuego/llama_fuego_espiral_0105_trama",
+"tx:luz_y_elementos/fuego/llama_fuego_espiral_0106",
+"tx:luz_y_elementos/fuego/llama_fuego_espiral_0106_trama",
+"tx:luz_y_elementos/fuego/llama_sinuosa_0110",
+"tx:luz_y_elementos/fuego/llama_sinuosa_0110_trama",
+"tx:luz_y_elementos/fuego/llamas_doradas_0111",
+"tx:luz_y_elementos/fuego/llamas_doradas_0111_trama",
+"tx:luz_y_elementos/fuego/llamas_naranjas_0112",
+"tx:luz_y_elementos/fuego/llamas_naranjas_0112_trama"
+],
+"uso": "llamas de fuego (alfa = luz, o _trama sobre negro)",
+"modo": "trama (o normal el PNG)",
+"usar_si": "quieres fuego encima de algo",
+"evitar_si": "el fondo es blanco: en trama desaparece",
+"mejor": "tx:luz_y_elementos/fuego/llama_ardiente_0096"
+},
+"fuego_borde": {
+"miembros": [
+"tx:luz_y_elementos/fuego/llamas_anaranjadas_0401",
+"tx:luz_y_elementos/fuego/llamas_anaranjadas_0401_trama",
+"tx:luz_y_elementos/fuego/llamas_danzantes_0402",
+"tx:luz_y_elementos/fuego/llamas_danzantes_0402_trama",
+"tx:luz_y_elementos/fuego/llamas_danzantes_0403",
+"tx:luz_y_elementos/fuego/llamas_danzantes_0403_trama",
+"tx:luz_y_elementos/fuego/llamas_doradas_0404",
+"tx:luz_y_elementos/fuego/llamas_doradas_0404_trama",
+"tx:luz_y_elementos/fuego/llamas_naranjas_0400",
+"tx:luz_y_elementos/fuego/llamas_naranjas_0400_trama",
+"tx:luz_y_elementos/fuego/llamas_naranjas_ascendentes_0399",
+"tx:luz_y_elementos/fuego/llamas_naranjas_ascendentes_0399_trama"
+],
+"uso": "cortina de llamas que salen desde abajo, ancha (alfa o _trama)",
+"modo": "trama",
+"usar_si": "quieres un borde inferior en llamas",
+"evitar_si": "quieres una llama aislada",
+"mejor": "tx:luz_y_elementos/fuego/llamas_doradas_0404"
+},
+"fuga_luz": {
+"miembros": [
+"tx:luz_y_elementos/fugas_de_luz/fuga_luz_ambar_0395",
+"tx:luz_y_elementos/fugas_de_luz/fuga_luz_ambar_0395_trama",
+"tx:luz_y_elementos/fugas_de_luz/fuga_luz_analogica_naranja_0390",
+"tx:luz_y_elementos/fugas_de_luz/fuga_luz_analogica_naranja_0390_trama",
+"tx:luz_y_elementos/fugas_de_luz/fuga_luz_dorada_0391",
+"tx:luz_y_elementos/fugas_de_luz/fuga_luz_dorada_0391_trama",
+"tx:luz_y_elementos/fugas_de_luz/fuga_luz_dorada_vintage_0392",
+"tx:luz_y_elementos/fugas_de_luz/fuga_luz_dorada_vintage_0392_trama",
+"tx:luz_y_elementos/fugas_de_luz/fuga_luz_roja_0393",
+"tx:luz_y_elementos/fugas_de_luz/fuga_luz_roja_0393_trama",
+"tx:luz_y_elementos/fugas_de_luz/fuga_luz_roja_0394",
+"tx:luz_y_elementos/fugas_de_luz/fuga_luz_roja_0394_trama"
+],
+"uso": "fuga de luz de película entrando por el borde izquierdo (alfa = luz, o _trama sobre negro)",
+"modo": "trama",
+"usar_si": "quieres un quemado de luz analógico en un lateral",
+"evitar_si": "quieres la fuga en otro lado sin girarla",
+"mejor": "tx:luz_y_elementos/fugas_de_luz/fuga_luz_dorada_0391"
+},
+"humo": {
+"miembros": [
+"tx:luz_y_elementos/humo/espiral_humo_0090",
+"tx:luz_y_elementos/humo/espiral_humo_0090_trama",
+"tx:luz_y_elementos/humo/espiral_humo_0386",
+"tx:luz_y_elementos/humo/espiral_humo_0386_trama",
+"tx:luz_y_elementos/humo/espirales_humo_0388",
+"tx:luz_y_elementos/humo/espirales_humo_0388_trama",
+"tx:luz_y_elementos/humo/espirales_humo_etereo_0387",
+"tx:luz_y_elementos/humo/espirales_humo_etereo_0387_trama",
+"tx:luz_y_elementos/humo/espirales_vapor_0389",
+"tx:luz_y_elementos/humo/espirales_vapor_0389_trama",
+"tx:luz_y_elementos/humo/remolino_humo_0113",
+"tx:luz_y_elementos/humo/remolino_humo_0113_trama",
+"tx:luz_y_elementos/humo/remolino_humo_0114",
+"tx:luz_y_elementos/humo/remolino_humo_0114_trama",
+"tx:luz_y_elementos/humo/remolino_humo_0115",
+"tx:luz_y_elementos/humo/remolino_humo_0115_trama"
+],
+"uso": "humo blanco en volutas (alfa = luz, o _trama sobre negro)",
+"modo": "trama (o normal el PNG)",
+"usar_si": "quieres humo de incienso/cigarro encima",
+"evitar_si": "el fondo es blanco",
+"mejor": "tx:luz_y_elementos/humo/espiral_humo_0386"
+},
+"moho": {
+"miembros": [
+"tx:luz_y_elementos/moho/colonia_moho_multicolor_0171",
+"tx:luz_y_elementos/moho/colonia_moho_multicolor_0172",
+"tx:luz_y_elementos/moho/colonia_moho_multicolor_0173",
+"tx:luz_y_elementos/moho/colonia_moho_multicolor_0174",
+"tx:luz_y_elementos/moho/colonia_moho_multicolor_0175",
+"tx:luz_y_elementos/moho/colonia_moho_multicolor_0176"
+],
+"uso": "colonia de moho multicolor (verde, ocre, blanco) recortada, con huecos",
+"modo": "normal",
+"usar_si": "quieres un papel/pared podrido",
+"evitar_si": "va pequeño: se ve como ruido de colores",
+"mejor": "tx:luz_y_elementos/moho/colonia_moho_multicolor_0173"
+},
+"goteo_fino": {
+"miembros": [
+"tx:manchas/goteos/fina/goteo_049",
+"tx:manchas/goteos/fina/goteo_051",
+"tx:manchas/goteos/fina/goteo_054",
+"tx:manchas/goteos/fina/goteo_055",
+"tx:manchas/goteos/fina/goteo_056",
+"tx:manchas/goteos/fina/goteo_122",
+"tx:manchas/goteos/fina/goteo_123",
+"tx:manchas/goteos/fina/goteo_126",
+"tx:manchas/goteos/fina/goteo_141",
+"tx:manchas/goteos/fina/goteo_142",
+"tx:manchas/goteos/fina/goteo_144",
+"tx:manchas/goteos/fina/goteo_170",
+"tx:manchas/goteos/fina/goteo_172",
+"tx:manchas/goteos/fina/goteo_174",
+"tx:manchas/goteos/fina/goteo_175",
+"tx:manchas/goteos/fina/goteo_177",
+"tx:manchas/goteos/fina/goteo_192",
+"tx:manchas/goteos/fina/goteo_193",
+"tx:manchas/goteos/fina/goteo_194",
+"tx:manchas/goteos/fina/goteo_196",
+"tx:manchas/goteos/fina/goteo_202",
+"tx:manchas/goteos/fina/goteo_204",
+"tx:manchas/goteos/fina/goteo_216",
+"tx:manchas/goteos/fina/goteo_217",
+"tx:manchas/goteos/fina/goteo_218",
+"tx:manchas/goteos/fina/goteo_219",
+"tx:manchas/goteos/lagrima/goteo_046",
+"tx:manchas/goteos/lagrima/goteo_050",
+"tx:manchas/goteos/lagrima/goteo_125",
+"tx:manchas/goteos/lagrima/goteo_143",
+"tx:manchas/goteos/lagrima/goteo_171",
+"tx:manchas/goteos/lagrima/goteo_191"
+],
+"uso": "goteo de pintura blanca/gris fino y largo que cuelga (raíz arriba, gota abajo)",
+"modo": "normal (recolorear con transparencia bloqueada)",
+"usar_si": "quieres pintura chorreando de una letra o borde",
+"evitar_si": "lo pones del revés: la raíz va arriba",
+"mejor": "tx:manchas/goteos/fina/goteo_174"
+},
+"gota_suelta": {
+"miembros": [
+"tx:manchas/goteos/fina/goteo_104",
+"tx:manchas/goteos/fina/goteo_105",
+"tx:manchas/goteos/fina/goteo_124",
+"tx:manchas/goteos/fina/goteo_127",
+"tx:manchas/goteos/fina/goteo_128",
+"tx:manchas/goteos/fina/goteo_150",
+"tx:manchas/goteos/fina/goteo_151",
+"tx:manchas/goteos/fina/goteo_157",
+"tx:manchas/goteos/fina/goteo_159",
+"tx:manchas/goteos/fina/goteo_160",
+"tx:manchas/goteos/fina/goteo_162",
+"tx:manchas/goteos/fina/goteo_165",
+"tx:manchas/goteos/fina/goteo_169",
+"tx:manchas/goteos/fina/goteo_203",
+"tx:manchas/goteos/lagrima/goteo_060",
+"tx:manchas/goteos/lagrima/goteo_205"
+],
+"uso": "gotitas o goteo muy corto suelto (pocos píxeles)",
+"modo": "normal",
+"usar_si": "quieres salpicar el final de un goteo",
+"evitar_si": "esperas detalle: son de 10–20 px de ancho"
+},
+"goteo_impacto": {
+"miembros": [
+"tx:manchas/goteos/impacto/goteo_146",
+"tx:manchas/goteos/impacto/goteo_147",
+"tx:manchas/goteos/impacto/goteo_148"
+],
+"uso": "mancha de pintura agrietada arriba que gotea hacia abajo (raíz arriba)",
+"modo": "normal",
+"usar_si": "quieres un pegote de pintura que chorrea",
+"evitar_si": "quieres un goteo limpio",
+"mejor": "tx:manchas/goteos/impacto/goteo_147"
+},
+"goteo_lagrima": {
+"miembros": [
+"tx:manchas/goteos/lagrima/goteo_001",
+"tx:manchas/goteos/lagrima/goteo_002",
+"tx:manchas/goteos/lagrima/goteo_003",
+"tx:manchas/goteos/lagrima/goteo_004",
+"tx:manchas/goteos/lagrima/goteo_005",
+"tx:manchas/goteos/lagrima/goteo_006",
+"tx:manchas/goteos/lagrima/goteo_007",
+"tx:manchas/goteos/lagrima/goteo_008",
+"tx:manchas/goteos/lagrima/goteo_013",
+"tx:manchas/goteos/lagrima/goteo_014",
+"tx:manchas/goteos/lagrima/goteo_015",
+"tx:manchas/goteos/lagrima/goteo_016",
+"tx:manchas/goteos/lagrima/goteo_017",
+"tx:manchas/goteos/lagrima/goteo_018",
+"tx:manchas/goteos/lagrima/goteo_019",
+"tx:manchas/goteos/lagrima/goteo_020",
+"tx:manchas/goteos/lagrima/goteo_021",
+"tx:manchas/goteos/lagrima/goteo_022",
+"tx:manchas/goteos/lagrima/goteo_023",
+"tx:manchas/goteos/lagrima/goteo_024",
+"tx:manchas/goteos/lagrima/goteo_025",
+"tx:manchas/goteos/lagrima/goteo_026",
+"tx:manchas/goteos/lagrima/goteo_027",
+"tx:manchas/goteos/lagrima/goteo_028",
+"tx:manchas/goteos/lagrima/goteo_029",
+"tx:manchas/goteos/lagrima/goteo_032",
+"tx:manchas/goteos/lagrima/goteo_033",
+"tx:manchas/goteos/lagrima/goteo_034",
+"tx:manchas/goteos/lagrima/goteo_035",
+"tx:manchas/goteos/lagrima/goteo_036",
+"tx:manchas/goteos/lagrima/goteo_041",
+"tx:manchas/goteos/lagrima/goteo_042",
+"tx:manchas/goteos/lagrima/goteo_043",
+"tx:manchas/goteos/lagrima/goteo_044",
+"tx:manchas/goteos/lagrima/goteo_057",
+"tx:manchas/goteos/lagrima/goteo_058",
+"tx:manchas/goteos/lagrima/goteo_059",
+"tx:manchas/goteos/lagrima/goteo_061",
+"tx:manchas/goteos/lagrima/goteo_062",
+"tx:manchas/goteos/lagrima/goteo_064",
+"tx:manchas/goteos/lagrima/goteo_065",
+"tx:manchas/goteos/lagrima/goteo_071",
+"tx:manchas/goteos/lagrima/goteo_072",
+"tx:manchas/goteos/lagrima/goteo_073",
+"tx:manchas/goteos/lagrima/goteo_074",
+"tx:manchas/goteos/lagrima/goteo_075",
+"tx:manchas/goteos/lagrima/goteo_076",
+"tx:manchas/goteos/lagrima/goteo_078",
+"tx:manchas/goteos/seca/goteo_077"
+],
+"uso": "goteo brillante y liso con gota redonda al final (pintura líquida, aspecto 3D)",
+"modo": "normal",
+"usar_si": "quieres pintura fresca, brillante",
+"evitar_si": "quieres un aspecto seco o plano",
+"mejor": "tx:manchas/goteos/lagrima/goteo_076"
+},
+"goteo_seco": {
+"miembros": [
+"tx:manchas/goteos/lagrima/goteo_010",
+"tx:manchas/goteos/lagrima/goteo_011",
+"tx:manchas/goteos/lagrima/goteo_012",
+"tx:manchas/goteos/lagrima/goteo_091",
+"tx:manchas/goteos/lagrima/goteo_092",
+"tx:manchas/goteos/lagrima/goteo_093",
+"tx:manchas/goteos/lagrima/goteo_094",
+"tx:manchas/goteos/lagrima/goteo_200",
+"tx:manchas/goteos/lagrima/goteo_201",
+"tx:manchas/goteos/seca/goteo_009",
+"tx:manchas/goteos/seca/goteo_037",
+"tx:manchas/goteos/seca/goteo_038",
+"tx:manchas/goteos/seca/goteo_039",
+"tx:manchas/goteos/seca/goteo_040",
+"tx:manchas/goteos/seca/goteo_045",
+"tx:manchas/goteos/seca/goteo_047",
+"tx:manchas/goteos/seca/goteo_048",
+"tx:manchas/goteos/seca/goteo_137",
+"tx:manchas/goteos/seca/goteo_138",
+"tx:manchas/goteos/seca/goteo_139"
+],
+"uso": "goteo de pintura seca y agrietada, mate, con borde roto",
+"modo": "normal",
+"usar_si": "quieres pintura vieja que chorreó hace tiempo",
+"evitar_si": "quieres brillo de pintura fresca",
+"mejor": "tx:manchas/goteos/seca/goteo_037"
 }
 }

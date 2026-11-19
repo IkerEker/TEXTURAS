@@ -1,0 +1,28 @@
+{
+"tx:imperfecciones/uv/mancha_calida_0931": {
+"que_es": "mancha cálida difusa redonda",
+"calidad": 4,
+"defectos": "",
+"familia": "mancha_calor",
+"variante": 5,
+"diferencia": "parecida a otras de calor",
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/tx_imperfecciones-12.jpg"
+},
+"tx:imperfecciones/uv/textura_circular_papel_quemado_0970": {
+"que_es": "mancha circular tostada (papel quemado suave)",
+"calidad": 4,
+"defectos": "",
+"familia": "mancha_calor",
+"variante": 6,
+"diferencia": "algo más oscura",
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/tx_imperfecciones-12.jpg"
+}
+}
