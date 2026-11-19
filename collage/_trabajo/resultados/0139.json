@@ -1,0 +1,99 @@
+{
+"n": 139,
+"rel": "PEGATINAS/Gemini_Generated_Image_zc27zzzc27zzzc27.jpg",
+"md5": "e799c49c02c990c1eb142c744de03aed",
+"material": "etiq_vieja",
+"piezas": [
+{
+"id": "tx:collage/etiquetas/envejecidas/etiq_vieja_0139_1",
+"archivo": "collage/etiquetas/envejecidas/etiq_vieja_0139_1.png",
+"familia": "etiquetas/envejecidas",
+"material": "etiq_vieja",
+"desc": "etiqueta de papel envejecida, manchas y esquina despegada",
+"optica": "opaco",
+"borde": "troquelado gastado",
+"w": 972,
+"h": 555,
+"alfa": true,
+"cobertura": 0.8377,
+"alfa_parcial": 0.0167,
+"opacidad_media": 0.994,
+"color_medio": [
+226,
+222,
+213
+],
+"color": "#e2ded5",
+"modo": "normal",
+"recorte": [
+117,
+747,
+972,
+555
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_zc27zzzc27zzzc27.jpg",
+"md5": "e799c49c02c990c1eb142c744de03aed",
+"w": 2048,
+"h": 2048,
+"n": 139,
+"fondo_medido": "#868686",
+"ruido_fondo": 0.6
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "287468f237945efc223a9909d47a6f7f",
+"sombra": {
+"archivo": "collage/etiquetas/envejecidas/etiq_vieja_0139_1_sombra.png",
+"max": 0.742,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/etiquetas/envejecidas/etiq_vieja_0139_2",
+"archivo": "collage/etiquetas/envejecidas/etiq_vieja_0139_2.png",
+"familia": "etiquetas/envejecidas",
+"material": "etiq_vieja",
+"desc": "etiqueta de papel envejecida, manchas y esquina despegada",
+"optica": "opaco",
+"borde": "troquelado gastado",
+"w": 783,
+"h": 550,
+"alfa": true,
+"cobertura": 0.7041,
+"alfa_parcial": 0.0224,
+"opacidad_media": 0.99,
+"color_medio": [
+227,
+221,
+210
+],
+"color": "#e3ddd2",
+"modo": "normal",
+"recorte": [
+1147,
+748,
+783,
+550
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_zc27zzzc27zzzc27.jpg",
+"md5": "e799c49c02c990c1eb142c744de03aed",
+"w": 2048,
+"h": 2048,
+"n": 139,
+"fondo_medido": "#868686",
+"ruido_fondo": 0.6
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "db1e82c905b711b7b23717c7137ffce4",
+"sombra": {
+"archivo": "collage/etiquetas/envejecidas/etiq_vieja_0139_2_sombra.png",
+"max": 0.506,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#868686",
+"ruido_fondo": 0.6,
+"fraccion_fondo": 0.779
+}

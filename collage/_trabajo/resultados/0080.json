@@ -1,0 +1,99 @@
+{
+"n": 80,
+"rel": "PEGATINAS/Etiquetas de papel rasgadas sobre gris.png",
+"md5": "ac966afb0d9972b8b47c4eb33f34832f",
+"material": "etiq_rota",
+"piezas": [
+{
+"id": "tx:collage/etiquetas/arrancadas/etiq_rota_0080_1",
+"archivo": "collage/etiquetas/arrancadas/etiq_rota_0080_1.png",
+"familia": "etiquetas/arrancadas",
+"material": "etiq_rota",
+"desc": "pegatina arrancada / rota con capas de papel y restos de adhesivo",
+"optica": "opaco",
+"borde": "arrancado (deslaminado)",
+"w": 965,
+"h": 501,
+"alfa": true,
+"cobertura": 0.7775,
+"alfa_parcial": 0.0136,
+"opacidad_media": 0.992,
+"color_medio": [
+194,
+194,
+196
+],
+"color": "#c2c2c4",
+"modo": "normal",
+"recorte": [
+146,
+66,
+965,
+501
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Etiquetas de papel rasgadas sobre gris.png",
+"md5": "ac966afb0d9972b8b47c4eb33f34832f",
+"w": 1254,
+"h": 1254,
+"n": 80,
+"fondo_medido": "#605f5f",
+"ruido_fondo": 1.26
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "6a3ef931bd894236ae35234b8f0a0d81",
+"sombra": {
+"archivo": "collage/etiquetas/arrancadas/etiq_rota_0080_1_sombra.png",
+"max": 0.416,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/etiquetas/arrancadas/etiq_rota_0080_2",
+"archivo": "collage/etiquetas/arrancadas/etiq_rota_0080_2.png",
+"familia": "etiquetas/arrancadas",
+"material": "etiq_rota",
+"desc": "pegatina arrancada / rota con capas de papel y restos de adhesivo",
+"optica": "opaco",
+"borde": "arrancado (deslaminado)",
+"w": 747,
+"h": 539,
+"alfa": true,
+"cobertura": 0.7101,
+"alfa_parcial": 0.0096,
+"opacidad_media": 0.994,
+"color_medio": [
+197,
+197,
+198
+],
+"color": "#c5c5c6",
+"modo": "normal",
+"recorte": [
+245,
+645,
+747,
+539
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Etiquetas de papel rasgadas sobre gris.png",
+"md5": "ac966afb0d9972b8b47c4eb33f34832f",
+"w": 1254,
+"h": 1254,
+"n": 80,
+"fondo_medido": "#605f5f",
+"ruido_fondo": 1.26
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "8b3cdeda3605361eec29af692cbea32a",
+"sombra": {
+"archivo": "collage/etiquetas/arrancadas/etiq_rota_0080_2_sombra.png",
+"max": 0.272,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#605f5f",
+"ruido_fondo": 1.26,
+"fraccion_fondo": 0.509
+}

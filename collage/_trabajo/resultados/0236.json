@@ -1,0 +1,38 @@
+{
+"n": 236,
+"rel": "TEXTURAS TRAZOS/Garabatos abstractos de grafito.png",
+"md5": "219709c2dcfb54fc526214fd4fad547a",
+"material": "grafito",
+"piezas": [
+{
+"id": "tx:collage/grafito/grafito_0236",
+"archivo": "collage/grafito/grafito_0236.png",
+"familia": "grafito",
+"material": "grafito",
+"desc": "garabatos de grafito / carboncillo sobre papel blanco (hoja entera)",
+"optica": "trazo (alfa = densidad del grafito)",
+"borde": "hoja entera",
+"w": 1254,
+"h": 1254,
+"alfa": true,
+"cobertura": 0.1213,
+"color": "#272627",
+"color_medio": [
+39,
+38,
+39
+],
+"modo": "normal (RGBA) o multiplicar (_multiplicar.jpg, papel = blanco puro)",
+"version_multiplicar": "collage/grafito/grafito_0236_multiplicar.jpg",
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/TEXTURAS TRAZOS/Garabatos abstractos de grafito.png",
+"md5": "219709c2dcfb54fc526214fd4fad547a",
+"w": 1254,
+"h": 1254,
+"n": 236
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "ef1b1fc68480cfa0a1e0434f3e606b2d"
+}
+]
+}

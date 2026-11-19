@@ -1,0 +1,50 @@
+{
+"n": 61,
+"rel": "Hoja translúcida desgarrada sobre pizarra.png",
+"md5": "bb21d4ff761fefd6fc663260b8e2674c",
+"material": "seda",
+"piezas": [
+{
+"id": "tx:collage/papeles/seda/seda_0061_1",
+"archivo": "collage/papeles/seda/seda_0061_1.png",
+"familia": "papeles/seda",
+"material": "seda",
+"desc": "papel de seda / tisú / vegetal fibroso, translúcido",
+"optica": "translucido",
+"borde": "rasgado deshilachado",
+"w": 1212,
+"h": 928,
+"alfa": true,
+"cobertura": 0.2333,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.435,
+"color_medio": [
+253,
+252,
+253
+],
+"color": "#fdfcfd",
+"modo": "normal",
+"recorte": [
+18,
+169,
+1212,
+928
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Hoja translúcida desgarrada sobre pizarra.png",
+"md5": "bb21d4ff761fefd6fc663260b8e2674c",
+"w": 1254,
+"h": 1254,
+"n": 61,
+"fondo_medido": "#354552",
+"ruido_fondo": 0.49
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "e2ff200dc36cebea8377043b78d3c783"
+}
+],
+"fondo_medido": "#354552",
+"ruido_fondo": 0.49,
+"fraccion_fondo": 0.58
+}

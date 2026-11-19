@@ -1,0 +1,187 @@
+{
+"n": 119,
+"rel": "PEGATINAS/Gemini_Generated_Image_nzqgodnzqgodnzqg.jpg",
+"md5": "630eb6c82982e3e125467fddeb3d6091",
+"material": "etiq_rota",
+"piezas": [
+{
+"id": "tx:collage/etiquetas/arrancadas/etiq_rota_0119_1",
+"archivo": "collage/etiquetas/arrancadas/etiq_rota_0119_1.png",
+"familia": "etiquetas/arrancadas",
+"material": "etiq_rota",
+"desc": "pegatina arrancada / rota con capas de papel y restos de adhesivo",
+"optica": "opaco",
+"borde": "arrancado (deslaminado)",
+"w": 815,
+"h": 1180,
+"alfa": true,
+"cobertura": 0.69,
+"alfa_parcial": 0.0208,
+"opacidad_media": 0.99,
+"color_medio": [
+210,
+209,
+208
+],
+"color": "#d2d1d0",
+"modo": "normal",
+"recorte": [
+143,
+418,
+815,
+1180
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_nzqgodnzqgodnzqg.jpg",
+"md5": "630eb6c82982e3e125467fddeb3d6091",
+"w": 2048,
+"h": 2048,
+"n": 119,
+"fondo_medido": "#595959",
+"ruido_fondo": 1.26
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "66ab2221507f8eddc47834af3ebe10bd",
+"sombra": {
+"archivo": "collage/etiquetas/arrancadas/etiq_rota_0119_1_sombra.png",
+"max": 0.811,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/etiquetas/arrancadas/etiq_rota_0119_2",
+"archivo": "collage/etiquetas/arrancadas/etiq_rota_0119_2.png",
+"familia": "etiquetas/arrancadas",
+"material": "etiq_rota",
+"desc": "pegatina arrancada / rota con capas de papel y restos de adhesivo",
+"optica": "opaco",
+"borde": "arrancado (deslaminado)",
+"w": 915,
+"h": 865,
+"alfa": true,
+"cobertura": 0.647,
+"alfa_parcial": 0.0426,
+"opacidad_media": 0.976,
+"color_medio": [
+202,
+200,
+199
+],
+"color": "#cac8c7",
+"modo": "normal",
+"recorte": [
+1026,
+590,
+915,
+865
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_nzqgodnzqgodnzqg.jpg",
+"md5": "630eb6c82982e3e125467fddeb3d6091",
+"w": 2048,
+"h": 2048,
+"n": 119,
+"fondo_medido": "#595959",
+"ruido_fondo": 1.26
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "77d00c951f52aca7c167b7c27cbc08ae",
+"sombra": {
+"archivo": "collage/etiquetas/arrancadas/etiq_rota_0119_2_sombra.png",
+"max": 0.714,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/etiquetas/arrancadas/etiq_rota_0119_3",
+"archivo": "collage/etiquetas/arrancadas/etiq_rota_0119_3.png",
+"familia": "etiquetas/arrancadas",
+"material": "etiq_rota",
+"desc": "pegatina arrancada / rota con capas de papel y restos de adhesivo",
+"optica": "opaco",
+"borde": "arrancado (deslaminado)",
+"w": 205,
+"h": 256,
+"alfa": true,
+"cobertura": 0.1781,
+"alfa_parcial": 0.196,
+"opacidad_media": 0.905,
+"color_medio": [
+148,
+142,
+133
+],
+"color": "#948e85",
+"modo": "normal",
+"recorte": [
+744,
+1140,
+205,
+256
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_nzqgodnzqgodnzqg.jpg",
+"md5": "630eb6c82982e3e125467fddeb3d6091",
+"w": 2048,
+"h": 2048,
+"n": 119,
+"fondo_medido": "#595959",
+"ruido_fondo": 1.26
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "11649d4fc16d22ec6105164467cdeacc",
+"sombra": {
+"archivo": "collage/etiquetas/arrancadas/etiq_rota_0119_3_sombra.png",
+"max": 0.532,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/etiquetas/arrancadas/etiq_rota_0119_4",
+"archivo": "collage/etiquetas/arrancadas/etiq_rota_0119_4.png",
+"familia": "etiquetas/arrancadas",
+"material": "etiq_rota",
+"desc": "pegatina arrancada / rota con capas de papel y restos de adhesivo",
+"optica": "opaco",
+"borde": "arrancado (deslaminado)",
+"w": 261,
+"h": 179,
+"alfa": true,
+"cobertura": 0.2972,
+"alfa_parcial": 0.1397,
+"opacidad_media": 0.93,
+"color_medio": [
+159,
+154,
+147
+],
+"color": "#9f9a93",
+"modo": "normal",
+"recorte": [
+676,
+1417,
+261,
+179
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_nzqgodnzqgodnzqg.jpg",
+"md5": "630eb6c82982e3e125467fddeb3d6091",
+"w": 2048,
+"h": 2048,
+"n": 119,
+"fondo_medido": "#595959",
+"ruido_fondo": 1.26
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "462c224f0762b8c572170d7e01d46b9d",
+"sombra": {
+"archivo": "collage/etiquetas/arrancadas/etiq_rota_0119_4_sombra.png",
+"max": 0.686,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#595959",
+"ruido_fondo": 1.26,
+"fraccion_fondo": 0.643
+}

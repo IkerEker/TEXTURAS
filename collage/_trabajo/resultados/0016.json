@@ -1,0 +1,55 @@
+{
+"n": 16,
+"rel": "Gemini_Generated_Image_20hg9e20hg9e20hg.jpg",
+"md5": "e0dc9962f90bb1a464c21a6d07ce294f",
+"material": "kraft",
+"piezas": [
+{
+"id": "tx:collage/papeles/kraft/kraft_0016_1",
+"archivo": "collage/papeles/kraft/kraft_0016_1.png",
+"familia": "papeles/kraft",
+"material": "kraft",
+"desc": "papel/cartón kraft marrón rasgado",
+"optica": "opaco",
+"borde": "rasgado con fibras",
+"w": 1543,
+"h": 1476,
+"alfa": true,
+"cobertura": 0.7141,
+"alfa_parcial": 0.0112,
+"opacidad_media": 0.995,
+"color_medio": [
+183,
+140,
+101
+],
+"color": "#b78c65",
+"modo": "normal",
+"recorte": [
+258,
+284,
+1543,
+1476
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_20hg9e20hg9e20hg.jpg",
+"md5": "e0dc9962f90bb1a464c21a6d07ce294f",
+"w": 2048,
+"h": 2048,
+"n": 16,
+"fondo_medido": "#bab9b9",
+"ruido_fondo": 0.75
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "a88bd9151f066b4bd4b65afa0229fe9b",
+"sombra": {
+"archivo": "collage/papeles/kraft/kraft_0016_1_sombra.png",
+"max": 0.485,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#bab9b9",
+"ruido_fondo": 0.75,
+"fraccion_fondo": 0.557
+}

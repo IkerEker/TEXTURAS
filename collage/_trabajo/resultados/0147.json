@@ -1,0 +1,143 @@
+{
+"n": 147,
+"rel": "PEGATINAS/Notas adhesivas pastel sobre gris (2).png",
+"md5": "7bcb206a15e9e155cea159d35a32d657",
+"material": "notas",
+"piezas": [
+{
+"id": "tx:collage/notas/colores/notas_0147_1",
+"archivo": "collage/notas/colores/notas_0147_1.png",
+"familia": "notas/colores",
+"material": "notas",
+"desc": "nota adhesiva de color (rosa, verde, azul)",
+"optica": "opaco",
+"borde": "cortado industrial",
+"w": 711,
+"h": 489,
+"alfa": true,
+"cobertura": 0.9131,
+"alfa_parcial": 0.0072,
+"opacidad_media": 0.997,
+"color_medio": [
+232,
+161,
+171
+],
+"color": "#e8a1ab",
+"modo": "normal",
+"recorte": [
+266,
+59,
+711,
+489
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Notas adhesivas pastel sobre gris (2).png",
+"md5": "7bcb206a15e9e155cea159d35a32d657",
+"w": 1254,
+"h": 1254,
+"n": 147,
+"fondo_medido": "#7a7a78",
+"ruido_fondo": 1.48
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "2faf8b8a7938a75468cae8ddccb662d1",
+"sombra": {
+"archivo": "collage/notas/colores/notas_0147_1_sombra.png",
+"max": 0.477,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/notas/colores/notas_0147_2",
+"archivo": "collage/notas/colores/notas_0147_2.png",
+"familia": "notas/colores",
+"material": "notas",
+"desc": "nota adhesiva de color (rosa, verde, azul)",
+"optica": "opaco",
+"borde": "cortado industrial",
+"w": 171,
+"h": 591,
+"alfa": true,
+"cobertura": 0.814,
+"alfa_parcial": 0.0154,
+"opacidad_media": 0.992,
+"color_medio": [
+161,
+203,
+219
+],
+"color": "#a1cbdb",
+"modo": "normal",
+"recorte": [
+826,
+595,
+171,
+591
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Notas adhesivas pastel sobre gris (2).png",
+"md5": "7bcb206a15e9e155cea159d35a32d657",
+"w": 1254,
+"h": 1254,
+"n": 147,
+"fondo_medido": "#7a7a78",
+"ruido_fondo": 1.48
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "77826ec5874c5dd38ac4f1ddbaddde55",
+"sombra": {
+"archivo": "collage/notas/colores/notas_0147_2_sombra.png",
+"max": 0.532,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/notas/colores/notas_0147_3",
+"archivo": "collage/notas/colores/notas_0147_3.png",
+"familia": "notas/colores",
+"material": "notas",
+"desc": "nota adhesiva de color (rosa, verde, azul)",
+"optica": "opaco",
+"borde": "cortado industrial",
+"w": 489,
+"h": 494,
+"alfa": true,
+"cobertura": 0.8975,
+"alfa_parcial": 0.0061,
+"opacidad_media": 0.996,
+"color_medio": [
+187,
+206,
+153
+],
+"color": "#bbce99",
+"modo": "normal",
+"recorte": [
+204,
+603,
+489,
+494
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Notas adhesivas pastel sobre gris (2).png",
+"md5": "7bcb206a15e9e155cea159d35a32d657",
+"w": 1254,
+"h": 1254,
+"n": 147,
+"fondo_medido": "#7a7a78",
+"ruido_fondo": 1.48
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "b6585b06fe55215a598a879234f3220c",
+"sombra": {
+"archivo": "collage/notas/colores/notas_0147_3_sombra.png",
+"max": 0.54,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#7a7a78",
+"ruido_fondo": 1.48,
+"fraccion_fondo": 0.515
+}

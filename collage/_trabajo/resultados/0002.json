@@ -1,0 +1,50 @@
+{
+"n": 2,
+"rel": "Fragmento de cartón kraft rasgado.png",
+"md5": "a722953d07b96e5365e7c954afebcf42",
+"material": "kraft",
+"piezas": [
+{
+"id": "tx:collage/papeles/kraft/kraft_0002_1",
+"archivo": "collage/papeles/kraft/kraft_0002_1.png",
+"familia": "papeles/kraft",
+"material": "kraft",
+"desc": "papel/cartón kraft marrón rasgado",
+"optica": "opaco",
+"borde": "rasgado con fibras",
+"w": 1156,
+"h": 949,
+"alfa": true,
+"cobertura": 0.8059,
+"alfa_parcial": 0.0098,
+"opacidad_media": 0.995,
+"color_medio": [
+189,
+144,
+95
+],
+"color": "#bd905f",
+"modo": "normal",
+"recorte": [
+53,
+146,
+1156,
+949
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Fragmento de cartón kraft rasgado.png",
+"md5": "a722953d07b96e5365e7c954afebcf42",
+"w": 1254,
+"h": 1254,
+"n": 2,
+"fondo_medido": "#b1b0b0",
+"ruido_fondo": 0.52
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "d90434f843c031e537d5157438ddde5c"
+}
+],
+"fondo_medido": "#b1b0b0",
+"ruido_fondo": 0.52,
+"fraccion_fondo": 0.392
+}

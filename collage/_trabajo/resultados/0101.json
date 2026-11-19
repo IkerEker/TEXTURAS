@@ -1,0 +1,89 @@
+{
+"n": 101,
+"rel": "PEGATINAS/Gemini_Generated_Image_a9vz2ya9vz2ya9vz.jpg",
+"md5": "a966cdb93ae599281880d3aff5b97550",
+"material": "cinta_ambar",
+"piezas": [
+{
+"id": "tx:collage/cintas/ambar/cinta_ambar_0101_1",
+"archivo": "collage/cintas/ambar/cinta_ambar_0101_1.png",
+"familia": "cintas/ambar",
+"material": "cinta_ambar",
+"desc": "cinta de embalaje marrón ámbar translúcida",
+"optica": "translucido",
+"borde": "cortado",
+"w": 995,
+"h": 1230,
+"alfa": true,
+"cobertura": 0.2194,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.591,
+"color_medio": [
+174,
+91,
+3
+],
+"color": "#ae5b03",
+"modo": "normal",
+"recorte": [
+775,
+216,
+995,
+1230
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_a9vz2ya9vz2ya9vz.jpg",
+"md5": "a966cdb93ae599281880d3aff5b97550",
+"w": 2048,
+"h": 2048,
+"n": 101,
+"fondo_medido": "#c2c2c2",
+"ruido_fondo": 0.87
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "4d5099e469ab9b49613c9ee99d1b5426"
+},
+{
+"id": "tx:collage/cintas/ambar/cinta_ambar_0101_2",
+"archivo": "collage/cintas/ambar/cinta_ambar_0101_2.png",
+"familia": "cintas/ambar",
+"material": "cinta_ambar",
+"desc": "cinta de embalaje marrón ámbar translúcida",
+"optica": "translucido",
+"borde": "cortado",
+"w": 1046,
+"h": 1302,
+"alfa": true,
+"cobertura": 0.203,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.593,
+"color_medio": [
+171,
+87,
+0
+],
+"color": "#ab5700",
+"modo": "normal",
+"recorte": [
+238,
+507,
+1046,
+1302
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_a9vz2ya9vz2ya9vz.jpg",
+"md5": "a966cdb93ae599281880d3aff5b97550",
+"w": 2048,
+"h": 2048,
+"n": 101,
+"fondo_medido": "#c2c2c2",
+"ruido_fondo": 0.87
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "19804dd6130f78feebbfcc985aa45429"
+}
+],
+"fondo_medido": "#c2c2c2",
+"ruido_fondo": 0.87,
+"fraccion_fondo": 0.754
+}

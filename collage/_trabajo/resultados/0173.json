@@ -1,0 +1,128 @@
+{
+"n": 173,
+"rel": "PEGATINAS/Texturas de pintura blanca sobre gris.png",
+"md5": "9e3eb0648ca482cea80653d020c0fe7f",
+"material": "pintura",
+"piezas": [
+{
+"id": "tx:collage/pintura/blanca/pintura_0173_1",
+"archivo": "collage/pintura/blanca/pintura_0173_1.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 653,
+"h": 309,
+"alfa": true,
+"cobertura": 0.7544,
+"alfa_parcial": 0.0135,
+"opacidad_media": 0.992,
+"color_medio": [
+218,
+218,
+220
+],
+"color": "#dadadc",
+"modo": "normal",
+"recorte": [
+59,
+116,
+653,
+309
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Texturas de pintura blanca sobre gris.png",
+"md5": "9e3eb0648ca482cea80653d020c0fe7f",
+"w": 1254,
+"h": 1254,
+"n": 173,
+"fondo_medido": "#5c5c5c",
+"ruido_fondo": 0.51
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "9bfae06b5c735d344e6330638036bb86"
+},
+{
+"id": "tx:collage/pintura/blanca/pintura_0173_2",
+"archivo": "collage/pintura/blanca/pintura_0173_2.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 867,
+"h": 505,
+"alfa": true,
+"cobertura": 0.7347,
+"alfa_parcial": 0.0098,
+"opacidad_media": 0.994,
+"color_medio": [
+214,
+214,
+217
+],
+"color": "#d6d6d9",
+"modo": "normal",
+"recorte": [
+350,
+454,
+867,
+505
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Texturas de pintura blanca sobre gris.png",
+"md5": "9e3eb0648ca482cea80653d020c0fe7f",
+"w": 1254,
+"h": 1254,
+"n": 173,
+"fondo_medido": "#5c5c5c",
+"ruido_fondo": 0.51
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "9bd4610be36ef878f9db833f7218132a"
+},
+{
+"id": "tx:collage/pintura/blanca/pintura_0173_3",
+"archivo": "collage/pintura/blanca/pintura_0173_3.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 243,
+"h": 213,
+"alfa": true,
+"cobertura": 0.4934,
+"alfa_parcial": 0.0295,
+"opacidad_media": 0.982,
+"color_medio": [
+217,
+218,
+219
+],
+"color": "#d9dadb",
+"modo": "normal",
+"recorte": [
+86,
+949,
+243,
+213
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Texturas de pintura blanca sobre gris.png",
+"md5": "9e3eb0648ca482cea80653d020c0fe7f",
+"w": 1254,
+"h": 1254,
+"n": 173,
+"fondo_medido": "#5c5c5c",
+"ruido_fondo": 0.51
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "fb139a67b6395470b22708881a5135f1"
+}
+],
+"fondo_medido": "#5c5c5c",
+"ruido_fondo": 0.51,
+"fraccion_fondo": 0.639
+}

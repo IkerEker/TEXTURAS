@@ -1,0 +1,50 @@
+{
+"n": 250,
+"rel": "Tira de papel rasgado sobre gris.png",
+"md5": "206bcb00b4e9252ced498a0c00f4abb3",
+"material": "tira_papel",
+"piezas": [
+{
+"id": "tx:collage/papeles/tiras/tira_papel_0250_1",
+"archivo": "collage/papeles/tiras/tira_papel_0250_1.png",
+"familia": "papeles/tiras",
+"material": "tira_papel",
+"desc": "tira de papel blanco rasgada",
+"optica": "opaco",
+"borde": "rasgado",
+"w": 999,
+"h": 1005,
+"alfa": true,
+"cobertura": 0.1394,
+"alfa_parcial": 0.0324,
+"opacidad_media": 0.975,
+"color_medio": [
+214,
+214,
+218
+],
+"color": "#d6d6da",
+"modo": "normal",
+"recorte": [
+121,
+126,
+999,
+1005
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Tira de papel rasgado sobre gris.png",
+"md5": "206bcb00b4e9252ced498a0c00f4abb3",
+"w": 1254,
+"h": 1254,
+"n": 250,
+"fondo_medido": "#505050",
+"ruido_fondo": 0.47
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "830a22d700025cf15f089bf45881f663"
+}
+],
+"fondo_medido": "#505050",
+"ruido_fondo": 0.47,
+"fraccion_fondo": 0.873
+}

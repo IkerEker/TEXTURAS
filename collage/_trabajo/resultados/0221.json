@@ -1,0 +1,50 @@
+{
+"n": 221,
+"rel": "Papel blanco rasgado sobre gris.png",
+"md5": "712b181e7b788f02b652e480d712cd50",
+"material": "papel_blanco",
+"piezas": [
+{
+"id": "tx:collage/papeles/blanco/papel_blanco_0221_1",
+"archivo": "collage/papeles/blanco/papel_blanco_0221_1.png",
+"familia": "papeles/blanco",
+"material": "papel_blanco",
+"desc": "papel blanco de oficina rasgado a mano",
+"optica": "opaco",
+"borde": "rasgado con fibras",
+"w": 931,
+"h": 818,
+"alfa": true,
+"cobertura": 0.8225,
+"alfa_parcial": 0.0072,
+"opacidad_media": 0.995,
+"color_medio": [
+228,
+227,
+236
+],
+"color": "#e4e3ec",
+"modo": "normal",
+"recorte": [
+141,
+212,
+931,
+818
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Papel blanco rasgado sobre gris.png",
+"md5": "712b181e7b788f02b652e480d712cd50",
+"w": 1254,
+"h": 1254,
+"n": 221,
+"fondo_medido": "#696969",
+"ruido_fondo": 0.53
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "7f5d3e5efe8ca60383e9332bc1b1767b"
+}
+],
+"fondo_medido": "#696969",
+"ruido_fondo": 0.53,
+"fraccion_fondo": 0.563
+}

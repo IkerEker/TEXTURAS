@@ -1,0 +1,143 @@
+{
+"n": 87,
+"rel": "PEGATINAS/Gemini_Generated_Image_2nfoz42nfoz42nfo.jpg",
+"md5": "ba89b6974a7ad98dbbded0cb9cf32d3a",
+"material": "pintura",
+"piezas": [
+{
+"id": "tx:collage/pintura/blanca/pintura_0087_1",
+"archivo": "collage/pintura/blanca/pintura_0087_1.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 652,
+"h": 925,
+"alfa": true,
+"cobertura": 0.6428,
+"alfa_parcial": 0.021,
+"opacidad_media": 0.99,
+"color_medio": [
+206,
+207,
+209
+],
+"color": "#cecfd1",
+"modo": "normal",
+"recorte": [
+673,
+564,
+652,
+925
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_2nfoz42nfoz42nfo.jpg",
+"md5": "ba89b6974a7ad98dbbded0cb9cf32d3a",
+"w": 2048,
+"h": 2048,
+"n": 87,
+"fondo_medido": "#656666",
+"ruido_fondo": 1.85
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "4035f0ca8cf189483bcc3b8c2443fedf",
+"sombra": {
+"archivo": "collage/pintura/blanca/pintura_0087_1_sombra.png",
+"max": 0.143,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/pintura/blanca/pintura_0087_2",
+"archivo": "collage/pintura/blanca/pintura_0087_2.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 333,
+"h": 774,
+"alfa": true,
+"cobertura": 0.646,
+"alfa_parcial": 0.0264,
+"opacidad_media": 0.987,
+"color_medio": [
+203,
+205,
+207
+],
+"color": "#cbcdcf",
+"modo": "normal",
+"recorte": [
+208,
+661,
+333,
+774
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_2nfoz42nfoz42nfo.jpg",
+"md5": "ba89b6974a7ad98dbbded0cb9cf32d3a",
+"w": 2048,
+"h": 2048,
+"n": 87,
+"fondo_medido": "#656666",
+"ruido_fondo": 1.85
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "05d091d535676c0985174bbe4c8f7267",
+"sombra": {
+"archivo": "collage/pintura/blanca/pintura_0087_2_sombra.png",
+"max": 0.195,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/pintura/blanca/pintura_0087_3",
+"archivo": "collage/pintura/blanca/pintura_0087_3.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 492,
+"h": 574,
+"alfa": true,
+"cobertura": 0.4232,
+"alfa_parcial": 0.0506,
+"opacidad_media": 0.982,
+"color_medio": [
+216,
+217,
+216
+],
+"color": "#d8d9d8",
+"modo": "normal",
+"recorte": [
+1425,
+743,
+492,
+574
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_2nfoz42nfoz42nfo.jpg",
+"md5": "ba89b6974a7ad98dbbded0cb9cf32d3a",
+"w": 2048,
+"h": 2048,
+"n": 87,
+"fondo_medido": "#656666",
+"ruido_fondo": 1.85
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "bb4b64b4696d1e5ff54ef9fbce0264f0",
+"sombra": {
+"archivo": "collage/pintura/blanca/pintura_0087_3_sombra.png",
+"max": 0.085,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#656666",
+"ruido_fondo": 1.85,
+"fraccion_fondo": 0.796
+}

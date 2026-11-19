@@ -1,0 +1,143 @@
+{
+"n": 197,
+"rel": "PEGATINAS/Tiras de papel rasgado sobre gris.png",
+"md5": "fdbe09d88c1b2b76e2bd8839a3bb4912",
+"material": "washi",
+"piezas": [
+{
+"id": "tx:collage/cintas/washi/washi_0197_1",
+"archivo": "collage/cintas/washi/washi_0197_1.png",
+"familia": "cintas/washi",
+"material": "washi",
+"desc": "washi tape de papel japonés de color (ligeramente translúcido)",
+"optica": "opaco",
+"borde": "rasgado con fibras",
+"w": 1153,
+"h": 293,
+"alfa": true,
+"cobertura": 0.7523,
+"alfa_parcial": 0.0202,
+"opacidad_media": 0.987,
+"color_medio": [
+194,
+156,
+157
+],
+"color": "#c29c9d",
+"modo": "normal",
+"recorte": [
+50,
+167,
+1153,
+293
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de papel rasgado sobre gris.png",
+"md5": "fdbe09d88c1b2b76e2bd8839a3bb4912",
+"w": 1254,
+"h": 1254,
+"n": 197,
+"fondo_medido": "#868587",
+"ruido_fondo": 1.55
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "b7330abe27b5fb004cee4ee4549d2228",
+"sombra": {
+"archivo": "collage/cintas/washi/washi_0197_1_sombra.png",
+"max": 0.325,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/cintas/washi/washi_0197_2",
+"archivo": "collage/cintas/washi/washi_0197_2.png",
+"familia": "cintas/washi",
+"material": "washi",
+"desc": "washi tape de papel japonés de color (ligeramente translúcido)",
+"optica": "opaco",
+"borde": "rasgado con fibras",
+"w": 1114,
+"h": 275,
+"alfa": true,
+"cobertura": 0.7558,
+"alfa_parcial": 0.0181,
+"opacidad_media": 0.99,
+"color_medio": [
+145,
+154,
+163
+],
+"color": "#919aa3",
+"modo": "normal",
+"recorte": [
+62,
+522,
+1114,
+275
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de papel rasgado sobre gris.png",
+"md5": "fdbe09d88c1b2b76e2bd8839a3bb4912",
+"w": 1254,
+"h": 1254,
+"n": 197,
+"fondo_medido": "#868587",
+"ruido_fondo": 1.55
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "100dbfc903f0b9d1d825de8ec85c02cc",
+"sombra": {
+"archivo": "collage/cintas/washi/washi_0197_2_sombra.png",
+"max": 0.338,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/cintas/washi/washi_0197_3",
+"archivo": "collage/cintas/washi/washi_0197_3.png",
+"familia": "cintas/washi",
+"material": "washi",
+"desc": "washi tape de papel japonés de color (ligeramente translúcido)",
+"optica": "opaco",
+"borde": "rasgado con fibras",
+"w": 1123,
+"h": 281,
+"alfa": true,
+"cobertura": 0.7519,
+"alfa_parcial": 0.0175,
+"opacidad_media": 0.99,
+"color_medio": [
+150,
+162,
+144
+],
+"color": "#96a290",
+"modo": "normal",
+"recorte": [
+59,
+836,
+1123,
+281
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de papel rasgado sobre gris.png",
+"md5": "fdbe09d88c1b2b76e2bd8839a3bb4912",
+"w": 1254,
+"h": 1254,
+"n": 197,
+"fondo_medido": "#868587",
+"ruido_fondo": 1.55
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "6e691b9bee0ec291ddeb68b2465c1bd2",
+"sombra": {
+"archivo": "collage/cintas/washi/washi_0197_3_sombra.png",
+"max": 0.28,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#868587",
+"ruido_fondo": 1.55,
+"fraccion_fondo": 0.44
+}

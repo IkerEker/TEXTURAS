@@ -1,0 +1,128 @@
+{
+"n": 176,
+"rel": "PEGATINAS/Tiras de cinta adhesiva transparente.png",
+"md5": "8bc2f7ae490cad1832933e519f882cd6",
+"material": "cinta_transp",
+"piezas": [
+{
+"id": "tx:collage/cintas/transparente/cinta_transp_0176_1",
+"archivo": "collage/cintas/transparente/cinta_transp_0176_1.png",
+"familia": "cintas/transparente",
+"material": "cinta_transp",
+"desc": "celo / cinta de embalaje transparente",
+"optica": "transparente",
+"borde": "cortado dentado",
+"w": 779,
+"h": 240,
+"alfa": true,
+"cobertura": 0.0205,
+"alfa_parcial": 0.9999,
+"opacidad_media": 0.146,
+"color_medio": [
+225,
+227,
+227
+],
+"color": "#e1e3e3",
+"modo": "normal",
+"recorte": [
+298,
+151,
+779,
+240
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta adhesiva transparente.png",
+"md5": "8bc2f7ae490cad1832933e519f882cd6",
+"w": 1254,
+"h": 1254,
+"n": 176,
+"fondo_medido": "#4c4c4b",
+"ruido_fondo": 2.96
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "0b676111a831305021709053aa112c5f"
+},
+{
+"id": "tx:collage/cintas/transparente/cinta_transp_0176_2",
+"archivo": "collage/cintas/transparente/cinta_transp_0176_2.png",
+"familia": "cintas/transparente",
+"material": "cinta_transp",
+"desc": "celo / cinta de embalaje transparente",
+"optica": "transparente",
+"borde": "cortado dentado",
+"w": 799,
+"h": 437,
+"alfa": true,
+"cobertura": 0.0123,
+"alfa_parcial": 0.9994,
+"opacidad_media": 0.257,
+"color_medio": [
+210,
+212,
+214
+],
+"color": "#d2d4d6",
+"modo": "normal",
+"recorte": [
+154,
+440,
+799,
+437
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta adhesiva transparente.png",
+"md5": "8bc2f7ae490cad1832933e519f882cd6",
+"w": 1254,
+"h": 1254,
+"n": 176,
+"fondo_medido": "#4c4c4b",
+"ruido_fondo": 2.96
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "7ed67509171f5a9236a9e713c59a3cda"
+},
+{
+"id": "tx:collage/cintas/transparente/cinta_transp_0176_3",
+"archivo": "collage/cintas/transparente/cinta_transp_0176_3.png",
+"familia": "cintas/transparente",
+"material": "cinta_transp",
+"desc": "celo / cinta de embalaje transparente",
+"optica": "transparente",
+"borde": "cortado dentado",
+"w": 871,
+"h": 276,
+"alfa": true,
+"cobertura": 0.0147,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.169,
+"color_medio": [
+217,
+217,
+217
+],
+"color": "#d9d9d9",
+"modo": "normal",
+"recorte": [
+258,
+864,
+871,
+276
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta adhesiva transparente.png",
+"md5": "8bc2f7ae490cad1832933e519f882cd6",
+"w": 1254,
+"h": 1254,
+"n": 176,
+"fondo_medido": "#4c4c4b",
+"ruido_fondo": 2.96
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "44518bdb93ea594026e989c0c8cdaa98"
+}
+],
+"fondo_medido": "#4c4c4b",
+"ruido_fondo": 2.96,
+"fraccion_fondo": 0.89
+}

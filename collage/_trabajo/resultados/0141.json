@@ -1,0 +1,128 @@
+{
+"n": 141,
+"rel": "PEGATINAS/Muestrario de pinceladas blancas.png",
+"md5": "9e1ba8c7c4128e4b47f217abf79c562a",
+"material": "pintura",
+"piezas": [
+{
+"id": "tx:collage/pintura/blanca/pintura_0141_1",
+"archivo": "collage/pintura/blanca/pintura_0141_1.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 519,
+"h": 295,
+"alfa": true,
+"cobertura": 0.6739,
+"alfa_parcial": 0.0163,
+"opacidad_media": 0.99,
+"color_medio": [
+211,
+210,
+213
+],
+"color": "#d3d2d5",
+"modo": "normal",
+"recorte": [
+82,
+128,
+519,
+295
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Muestrario de pinceladas blancas.png",
+"md5": "9e1ba8c7c4128e4b47f217abf79c562a",
+"w": 1254,
+"h": 1254,
+"n": 141,
+"fondo_medido": "#5a5959",
+"ruido_fondo": 0.75
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "8f0823a50e0b828ab4104bb23b4a26d1"
+},
+{
+"id": "tx:collage/pintura/blanca/pintura_0141_2",
+"archivo": "collage/pintura/blanca/pintura_0141_2.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 943,
+"h": 460,
+"alfa": true,
+"cobertura": 0.7292,
+"alfa_parcial": 0.0111,
+"opacidad_media": 0.993,
+"color_medio": [
+213,
+212,
+214
+],
+"color": "#d5d4d6",
+"modo": "normal",
+"recorte": [
+208,
+425,
+943,
+460
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Muestrario de pinceladas blancas.png",
+"md5": "9e1ba8c7c4128e4b47f217abf79c562a",
+"w": 1254,
+"h": 1254,
+"n": 141,
+"fondo_medido": "#5a5959",
+"ruido_fondo": 0.75
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "c184af1d370d2518134914a948d01f50"
+},
+{
+"id": "tx:collage/pintura/blanca/pintura_0141_3",
+"archivo": "collage/pintura/blanca/pintura_0141_3.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 325,
+"h": 199,
+"alfa": true,
+"cobertura": 0.4738,
+"alfa_parcial": 0.0322,
+"opacidad_media": 0.98,
+"color_medio": [
+209,
+208,
+210
+],
+"color": "#d1d0d2",
+"modo": "normal",
+"recorte": [
+694,
+977,
+325,
+199
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Muestrario de pinceladas blancas.png",
+"md5": "9e1ba8c7c4128e4b47f217abf79c562a",
+"w": 1254,
+"h": 1254,
+"n": 141,
+"fondo_medido": "#5a5959",
+"ruido_fondo": 0.75
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "849df85ce92640edeab904b564b6ee66"
+}
+],
+"fondo_medido": "#5a5959",
+"ruido_fondo": 0.75,
+"fraccion_fondo": 0.67
+}

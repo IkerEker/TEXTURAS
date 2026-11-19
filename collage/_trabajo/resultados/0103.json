@@ -1,0 +1,138 @@
+{
+"n": 103,
+"rel": "PEGATINAS/Gemini_Generated_Image_c0r6vnc0r6vnc0r6.jpg",
+"md5": "d971c738c60d664d1f637d3ccc3aa876",
+"material": "cinta_negra",
+"piezas": [
+{
+"id": "tx:collage/cintas/aislante_negra/cinta_negra_0103_1",
+"archivo": "collage/cintas/aislante_negra/cinta_negra_0103_1.png",
+"familia": "cintas/aislante_negra",
+"material": "cinta_negra",
+"desc": "cinta aislante de vinilo negra",
+"optica": "opaco",
+"borde": "cortado a tijera",
+"w": 1076,
+"h": 891,
+"alfa": true,
+"cobertura": 0.2883,
+"alfa_parcial": 0.0296,
+"opacidad_media": 0.978,
+"color_medio": [
+43,
+43,
+43
+],
+"color": "#2b2b2b",
+"modo": "normal",
+"recorte": [
+177,
+191,
+1076,
+891
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_c0r6vnc0r6vnc0r6.jpg",
+"md5": "d971c738c60d664d1f637d3ccc3aa876",
+"w": 2048,
+"h": 2048,
+"n": 103,
+"fondo_medido": "#b9baba",
+"ruido_fondo": 0.94
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "875d885cf1a4536e5cecce19e59e4b8a"
+},
+{
+"id": "tx:collage/cintas/aislante_negra/cinta_negra_0103_2",
+"archivo": "collage/cintas/aislante_negra/cinta_negra_0103_2.png",
+"familia": "cintas/aislante_negra",
+"material": "cinta_negra",
+"desc": "cinta aislante de vinilo negra",
+"optica": "opaco",
+"borde": "cortado a tijera",
+"w": 1082,
+"h": 917,
+"alfa": true,
+"cobertura": 0.2705,
+"alfa_parcial": 0.035,
+"opacidad_media": 0.976,
+"color_medio": [
+52,
+52,
+52
+],
+"color": "#343434",
+"modo": "normal",
+"recorte": [
+478,
+557,
+1082,
+917
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_c0r6vnc0r6vnc0r6.jpg",
+"md5": "d971c738c60d664d1f637d3ccc3aa876",
+"w": 2048,
+"h": 2048,
+"n": 103,
+"fondo_medido": "#b9baba",
+"ruido_fondo": 0.94
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "821f8e1137cc598679a9f78d97048711",
+"sombra": {
+"archivo": "collage/cintas/aislante_negra/cinta_negra_0103_2_sombra.png",
+"max": 0.292,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/cintas/aislante_negra/cinta_negra_0103_3",
+"archivo": "collage/cintas/aislante_negra/cinta_negra_0103_3.png",
+"familia": "cintas/aislante_negra",
+"material": "cinta_negra",
+"desc": "cinta aislante de vinilo negra",
+"optica": "opaco",
+"borde": "cortado a tijera",
+"w": 1044,
+"h": 918,
+"alfa": true,
+"cobertura": 0.2954,
+"alfa_parcial": 0.0326,
+"opacidad_media": 0.974,
+"color_medio": [
+28,
+28,
+28
+],
+"color": "#1c1c1c",
+"modo": "normal",
+"recorte": [
+808,
+936,
+1044,
+918
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_c0r6vnc0r6vnc0r6.jpg",
+"md5": "d971c738c60d664d1f637d3ccc3aa876",
+"w": 2048,
+"h": 2048,
+"n": 103,
+"fondo_medido": "#b9baba",
+"ruido_fondo": 0.94
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "b5de4c3b4e807cd64c6d5c778d576e30",
+"sombra": {
+"archivo": "collage/cintas/aislante_negra/cinta_negra_0103_3_sombra.png",
+"max": 0.294,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#b9baba",
+"ruido_fondo": 0.94,
+"fraccion_fondo": 0.744
+}

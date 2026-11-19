@@ -1,0 +1,50 @@
+{
+"n": 56,
+"rel": "Hoja blanca rasgada con perforaciones de espiral-2.png",
+"md5": "e8d517b0e23cbcc7cec1805d5b76d423",
+"material": "cuaderno",
+"piezas": [
+{
+"id": "tx:collage/papeles/cuaderno/cuaderno_0056_1",
+"archivo": "collage/papeles/cuaderno/cuaderno_0056_1.png",
+"familia": "papeles/cuaderno",
+"material": "cuaderno",
+"desc": "hoja de cuaderno arrancada (perforaciones o espiral)",
+"optica": "opaco",
+"borde": "cortado + arrancado por la perforación",
+"w": 1141,
+"h": 813,
+"alfa": true,
+"cobertura": 0.9049,
+"alfa_parcial": 0.0068,
+"opacidad_media": 0.996,
+"color_medio": [
+232,
+232,
+235
+],
+"color": "#e8e8eb",
+"modo": "normal",
+"recorte": [
+57,
+219,
+1141,
+813
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Hoja blanca rasgada con perforaciones de espiral-2.png",
+"md5": "e8d517b0e23cbcc7cec1805d5b76d423",
+"w": 1254,
+"h": 1254,
+"n": 56,
+"fondo_medido": "#666666",
+"ruido_fondo": 0.53
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "c274ce83520dd2ae90bde4813171c3ef"
+}
+],
+"fondo_medido": "#666666",
+"ruido_fondo": 0.53,
+"fraccion_fondo": 0.417
+}

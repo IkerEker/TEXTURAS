@@ -1,0 +1,128 @@
+{
+"n": 200,
+"rel": "PEGATINAS/Tres gotas de gel transparente.png",
+"md5": "dc59b38caa45f1fa8e55f3f8404f4f56",
+"material": "gel",
+"piezas": [
+{
+"id": "tx:collage/adhesivos/gel/gel_0200_1",
+"archivo": "collage/adhesivos/gel/gel_0200_1.png",
+"familia": "adhesivos/gel",
+"material": "gel",
+"desc": "gota o parche de gel / cola transparente",
+"optica": "transparente",
+"borde": "redondeado",
+"w": 446,
+"h": 469,
+"alfa": true,
+"cobertura": 0.0939,
+"alfa_parcial": 0.9944,
+"opacidad_media": 0.201,
+"color_medio": [
+204,
+204,
+208
+],
+"color": "#ccccd0",
+"modo": "normal",
+"recorte": [
+118,
+182,
+446,
+469
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres gotas de gel transparente.png",
+"md5": "dc59b38caa45f1fa8e55f3f8404f4f56",
+"w": 1254,
+"h": 1254,
+"n": 200,
+"fondo_medido": "#504f4f",
+"ruido_fondo": 2.62
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "3855e8b0a19afff7945dfae42225874c"
+},
+{
+"id": "tx:collage/adhesivos/gel/gel_0200_2",
+"archivo": "collage/adhesivos/gel/gel_0200_2.png",
+"familia": "adhesivos/gel",
+"material": "gel",
+"desc": "gota o parche de gel / cola transparente",
+"optica": "transparente",
+"borde": "redondeado",
+"w": 484,
+"h": 452,
+"alfa": true,
+"cobertura": 0.0946,
+"alfa_parcial": 0.9913,
+"opacidad_media": 0.221,
+"color_medio": [
+203,
+205,
+210
+],
+"color": "#cbcdd2",
+"modo": "normal",
+"recorte": [
+683,
+237,
+484,
+452
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres gotas de gel transparente.png",
+"md5": "dc59b38caa45f1fa8e55f3f8404f4f56",
+"w": 1254,
+"h": 1254,
+"n": 200,
+"fondo_medido": "#504f4f",
+"ruido_fondo": 2.62
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "15edc64d8762535cd3f665a89631ef41"
+},
+{
+"id": "tx:collage/adhesivos/gel/gel_0200_3",
+"archivo": "collage/adhesivos/gel/gel_0200_3.png",
+"familia": "adhesivos/gel",
+"material": "gel",
+"desc": "gota o parche de gel / cola transparente",
+"optica": "transparente",
+"borde": "redondeado",
+"w": 466,
+"h": 458,
+"alfa": true,
+"cobertura": 0.0621,
+"alfa_parcial": 0.9948,
+"opacidad_media": 0.217,
+"color_medio": [
+206,
+207,
+209
+],
+"color": "#cecfd1",
+"modo": "normal",
+"recorte": [
+316,
+702,
+466,
+458
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres gotas de gel transparente.png",
+"md5": "dc59b38caa45f1fa8e55f3f8404f4f56",
+"w": 1254,
+"h": 1254,
+"n": 200,
+"fondo_medido": "#504f4f",
+"ruido_fondo": 2.62
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "3497eb568238fd9da20db3769b349b93"
+}
+],
+"fondo_medido": "#504f4f",
+"ruido_fondo": 2.62,
+"fraccion_fondo": 0.778
+}

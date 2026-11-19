@@ -1,0 +1,50 @@
+{
+"n": 226,
+"rel": "Papel rasgado translúcido sobre fondo oscuro.png",
+"md5": "e7d94457a4c4be732ad23659f32a53af",
+"material": "seda",
+"piezas": [
+{
+"id": "tx:collage/papeles/seda/seda_0226_1",
+"archivo": "collage/papeles/seda/seda_0226_1.png",
+"familia": "papeles/seda",
+"material": "seda",
+"desc": "papel de seda / tisú / vegetal fibroso, translúcido",
+"optica": "translucido",
+"borde": "rasgado deshilachado",
+"w": 1148,
+"h": 999,
+"alfa": true,
+"cobertura": 0.2735,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.431,
+"color_medio": [
+254,
+251,
+252
+],
+"color": "#fefbfc",
+"modo": "normal",
+"recorte": [
+56,
+137,
+1148,
+999
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Papel rasgado translúcido sobre fondo oscuro.png",
+"md5": "e7d94457a4c4be732ad23659f32a53af",
+"w": 1254,
+"h": 1254,
+"n": 226,
+"fondo_medido": "#354451",
+"ruido_fondo": 0.7
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "512b815dde2afa48659951e6222de6db"
+}
+],
+"fondo_medido": "#354451",
+"ruido_fondo": 0.7,
+"fraccion_fondo": 0.501
+}

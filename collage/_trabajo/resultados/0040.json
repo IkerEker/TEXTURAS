@@ -1,0 +1,50 @@
+{
+"n": 40,
+"rel": "Gemini_Generated_Image_n7xg69n7xg69n7xg.jpg",
+"md5": "2eb3c7c3e0883d352ca1f813641bc63f",
+"material": "cartulina_azul",
+"piezas": [
+{
+"id": "tx:collage/papeles/cartulina_azul/cartulina_azul_0040_1",
+"archivo": "collage/papeles/cartulina_azul/cartulina_azul_0040_1.png",
+"familia": "papeles/cartulina_azul",
+"material": "cartulina_azul",
+"desc": "polígono de cartulina azul cobalto cortado a cúter",
+"optica": "opaco",
+"borde": "cortado recto",
+"w": 1434,
+"h": 1436,
+"alfa": true,
+"cobertura": 0.704,
+"alfa_parcial": 0.009,
+"opacidad_media": 0.995,
+"color_medio": [
+63,
+99,
+169
+],
+"color": "#3f63a9",
+"modo": "normal",
+"recorte": [
+263,
+342,
+1434,
+1436
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_n7xg69n7xg69n7xg.jpg",
+"md5": "2eb3c7c3e0883d352ca1f813641bc63f",
+"w": 2048,
+"h": 2048,
+"n": 40,
+"fondo_medido": "#bebebe",
+"ruido_fondo": 0.54
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "2d4dd370ba0ff1c3ff778f1460b9f33f"
+}
+],
+"fondo_medido": "#bebebe",
+"ruido_fondo": 0.54,
+"fraccion_fondo": 0.626
+}

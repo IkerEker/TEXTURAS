@@ -1,0 +1,89 @@
+{
+"n": 162,
+"rel": "PEGATINAS/Residuos de adhesivo sobre fondo gris.png",
+"md5": "f6ccc719dcc126cdbd13e59f0c5168b5",
+"material": "residuo",
+"piezas": [
+{
+"id": "tx:collage/adhesivos/residuos/residuo_0162_1",
+"archivo": "collage/adhesivos/residuos/residuo_0162_1.png",
+"familia": "adhesivos/residuos",
+"material": "residuo",
+"desc": "restos de adhesivo y papel al despegar una pegatina",
+"optica": "transparente",
+"borde": "irregular",
+"w": 917,
+"h": 497,
+"alfa": true,
+"cobertura": 0.117,
+"alfa_parcial": 0.999,
+"opacidad_media": 0.317,
+"color_medio": [
+208,
+204,
+190
+],
+"color": "#d0ccbe",
+"modo": "normal",
+"recorte": [
+162,
+149,
+917,
+497
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Residuos de adhesivo sobre fondo gris.png",
+"md5": "f6ccc719dcc126cdbd13e59f0c5168b5",
+"w": 1254,
+"h": 1254,
+"n": 162,
+"fondo_medido": "#555454",
+"ruido_fondo": 2.03
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "b193a50997450a523476d574b8f42453"
+},
+{
+"id": "tx:collage/adhesivos/residuos/residuo_0162_2",
+"archivo": "collage/adhesivos/residuos/residuo_0162_2.png",
+"familia": "adhesivos/residuos",
+"material": "residuo",
+"desc": "restos de adhesivo y papel al despegar una pegatina",
+"optica": "transparente",
+"borde": "irregular",
+"w": 569,
+"h": 417,
+"alfa": true,
+"cobertura": 0.1238,
+"alfa_parcial": 0.9983,
+"opacidad_media": 0.413,
+"color_medio": [
+207,
+204,
+193
+],
+"color": "#cfccc1",
+"modo": "normal",
+"recorte": [
+307,
+719,
+569,
+417
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Residuos de adhesivo sobre fondo gris.png",
+"md5": "f6ccc719dcc126cdbd13e59f0c5168b5",
+"w": 1254,
+"h": 1254,
+"n": 162,
+"fondo_medido": "#555454",
+"ruido_fondo": 2.03
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "2ca3da52801e6dc233fda15f9c107901"
+}
+],
+"fondo_medido": "#555454",
+"ruido_fondo": 2.03,
+"fraccion_fondo": 0.777
+}

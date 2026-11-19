@@ -1,0 +1,89 @@
+{
+"n": 193,
+"rel": "PEGATINAS/Tiras de cinta ámbar sobre gris (1).png",
+"md5": "2d71cf23da9c36f182d3ccf765964865",
+"material": "cinta_ambar",
+"piezas": [
+{
+"id": "tx:collage/cintas/ambar/cinta_ambar_0193_1",
+"archivo": "collage/cintas/ambar/cinta_ambar_0193_1.png",
+"familia": "cintas/ambar",
+"material": "cinta_ambar",
+"desc": "cinta de embalaje marrón ámbar translúcida",
+"optica": "translucido",
+"borde": "cortado",
+"w": 395,
+"h": 1094,
+"alfa": true,
+"cobertura": 0.5532,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.736,
+"color_medio": [
+158,
+103,
+0
+],
+"color": "#9e6700",
+"modo": "normal",
+"recorte": [
+188,
+78,
+395,
+1094
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta ámbar sobre gris (1).png",
+"md5": "2d71cf23da9c36f182d3ccf765964865",
+"w": 1254,
+"h": 1254,
+"n": 193,
+"fondo_medido": "#b6b5b5",
+"ruido_fondo": 0.93
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "05ae5dda23042d97189776ff9e959a2e"
+},
+{
+"id": "tx:collage/cintas/ambar/cinta_ambar_0193_2",
+"archivo": "collage/cintas/ambar/cinta_ambar_0193_2.png",
+"familia": "cintas/ambar",
+"material": "cinta_ambar",
+"desc": "cinta de embalaje marrón ámbar translúcida",
+"optica": "translucido",
+"borde": "cortado",
+"w": 414,
+"h": 723,
+"alfa": true,
+"cobertura": 0.4538,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.693,
+"color_medio": [
+159,
+106,
+1
+],
+"color": "#9f6a01",
+"modo": "normal",
+"recorte": [
+668,
+276,
+414,
+723
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta ámbar sobre gris (1).png",
+"md5": "2d71cf23da9c36f182d3ccf765964865",
+"w": 1254,
+"h": 1254,
+"n": 193,
+"fondo_medido": "#b6b5b5",
+"ruido_fondo": 0.93
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "ed8ad08132a084a3a6e73eff57c02d2b"
+}
+],
+"fondo_medido": "#b6b5b5",
+"ruido_fondo": 0.93,
+"fraccion_fondo": 0.627
+}

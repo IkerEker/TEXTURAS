@@ -1,0 +1,50 @@
+{
+"n": 1,
+"rel": "Collage geométrico azul, crema y rojo.png",
+"md5": "c2316752abe0909a14c8441eceab2e10",
+"material": "estampado",
+"piezas": [
+{
+"id": "tx:collage/papeles/estampado/estampado_0001_1",
+"archivo": "collage/papeles/estampado/estampado_0001_1.png",
+"familia": "papeles/estampado",
+"material": "estampado",
+"desc": "polígono recortado de papel impreso (azul, rojo y crema)",
+"optica": "opaco",
+"borde": "cortado recto",
+"w": 961,
+"h": 870,
+"alfa": true,
+"cobertura": 0.6793,
+"alfa_parcial": 0.0038,
+"opacidad_media": 0.998,
+"color_medio": [
+183,
+142,
+132
+],
+"color": "#b78e84",
+"modo": "normal",
+"recorte": [
+142,
+192,
+961,
+870
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Collage geométrico azul, crema y rojo.png",
+"md5": "c2316752abe0909a14c8441eceab2e10",
+"w": 1254,
+"h": 1254,
+"n": 1,
+"fondo_medido": "#70706f",
+"ruido_fondo": 0.49
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "0efc5fdf86df325a0435ac6e298fbdf6"
+}
+],
+"fondo_medido": "#70706f",
+"ruido_fondo": 0.49,
+"fraccion_fondo": 0.606
+}

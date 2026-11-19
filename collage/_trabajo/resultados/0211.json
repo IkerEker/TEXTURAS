@@ -1,0 +1,99 @@
+{
+"n": 211,
+"rel": "PEGATINAS/Trozos de cinta adhesiva metálica.png",
+"md5": "2159a613df8353ff9e1ba8c01caa3a96",
+"material": "cinta_plata",
+"piezas": [
+{
+"id": "tx:collage/cintas/americana/cinta_plata_0211_1",
+"archivo": "collage/cintas/americana/cinta_plata_0211_1.png",
+"familia": "cintas/americana",
+"material": "cinta_plata",
+"desc": "cinta americana gris plateada con trama",
+"optica": "opaco",
+"borde": "rasgado con hilos",
+"w": 1127,
+"h": 449,
+"alfa": true,
+"cobertura": 0.7822,
+"alfa_parcial": 0.0103,
+"opacidad_media": 0.993,
+"color_medio": [
+143,
+144,
+149
+],
+"color": "#8f9095",
+"modo": "normal",
+"recorte": [
+58,
+73,
+1127,
+449
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Trozos de cinta adhesiva metálica.png",
+"md5": "2159a613df8353ff9e1ba8c01caa3a96",
+"w": 1254,
+"h": 1254,
+"n": 211,
+"fondo_medido": "#cacaca",
+"ruido_fondo": 0.88
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "956fb9585de2c18141e0dd03636d1f6f",
+"sombra": {
+"archivo": "collage/cintas/americana/cinta_plata_0211_1_sombra.png",
+"max": 0.108,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/cintas/americana/cinta_plata_0211_2",
+"archivo": "collage/cintas/americana/cinta_plata_0211_2.png",
+"familia": "cintas/americana",
+"material": "cinta_plata",
+"desc": "cinta americana gris plateada con trama",
+"optica": "opaco",
+"borde": "rasgado con hilos",
+"w": 1145,
+"h": 667,
+"alfa": true,
+"cobertura": 0.5449,
+"alfa_parcial": 0.0095,
+"opacidad_media": 0.993,
+"color_medio": [
+135,
+137,
+141
+],
+"color": "#87898d",
+"modo": "normal",
+"recorte": [
+27,
+526,
+1145,
+667
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Trozos de cinta adhesiva metálica.png",
+"md5": "2159a613df8353ff9e1ba8c01caa3a96",
+"w": 1254,
+"h": 1254,
+"n": 211,
+"fondo_medido": "#cacaca",
+"ruido_fondo": 0.88
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "a7646252e4ed02e9fe0a2d1ed30d0cda",
+"sombra": {
+"archivo": "collage/cintas/americana/cinta_plata_0211_2_sombra.png",
+"max": 0.116,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#cacaca",
+"ruido_fondo": 0.88,
+"fraccion_fondo": 0.426
+}

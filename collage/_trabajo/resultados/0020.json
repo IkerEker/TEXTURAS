@@ -1,0 +1,50 @@
+{
+"n": 20,
+"rel": "Gemini_Generated_Image_5hwphs5hwphs5hwp.jpg",
+"md5": "b967abc6317fc5a336bafd3c6cc6dcbf",
+"material": "seda",
+"piezas": [
+{
+"id": "tx:collage/papeles/seda/seda_0020_1",
+"archivo": "collage/papeles/seda/seda_0020_1.png",
+"familia": "papeles/seda",
+"material": "seda",
+"desc": "papel de seda / tisú / vegetal fibroso, translúcido",
+"optica": "translucido",
+"borde": "rasgado deshilachado",
+"w": 1746,
+"h": 1662,
+"alfa": true,
+"cobertura": 0.5184,
+"alfa_parcial": 0.9995,
+"opacidad_media": 0.799,
+"color_medio": [
+254,
+252,
+252
+],
+"color": "#fefcfc",
+"modo": "normal",
+"recorte": [
+137,
+222,
+1746,
+1662
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_5hwphs5hwphs5hwp.jpg",
+"md5": "b967abc6317fc5a336bafd3c6cc6dcbf",
+"w": 2048,
+"h": 2048,
+"n": 20,
+"fondo_medido": "#3a4857",
+"ruido_fondo": 1.36
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "ec0bf3c289a74b1f16c413bb497d999a"
+}
+],
+"fondo_medido": "#3a4857",
+"ruido_fondo": 1.36,
+"fraccion_fondo": 0.522
+}

@@ -1,0 +1,128 @@
+{
+"n": 208,
+"rel": "PEGATINAS/Tres tiras de cinta blanca texturizada.png",
+"md5": "c5efdcf945592f909fb164b237796cce",
+"material": "correctora",
+"piezas": [
+{
+"id": "tx:collage/cintas/correctora/correctora_0208_1",
+"archivo": "collage/cintas/correctora/correctora_0208_1.png",
+"familia": "cintas/correctora",
+"material": "correctora",
+"desc": "trazo de cinta correctora blanca (o tira blanca fina gastada)",
+"optica": "opaco",
+"borde": "transferencia con cortes",
+"w": 1027,
+"h": 95,
+"alfa": true,
+"cobertura": 0.6676,
+"alfa_parcial": 0.0347,
+"opacidad_media": 0.981,
+"color_medio": [
+226,
+226,
+230
+],
+"color": "#e2e2e6",
+"modo": "normal",
+"recorte": [
+110,
+344,
+1027,
+95
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres tiras de cinta blanca texturizada.png",
+"md5": "c5efdcf945592f909fb164b237796cce",
+"w": 1254,
+"h": 1254,
+"n": 208,
+"fondo_medido": "#7b7a7a",
+"ruido_fondo": 0.84
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "ff7ba03576b5b2d9b0c41958523b0763"
+},
+{
+"id": "tx:collage/cintas/correctora/correctora_0208_2",
+"archivo": "collage/cintas/correctora/correctora_0208_2.png",
+"familia": "cintas/correctora",
+"material": "correctora",
+"desc": "trazo de cinta correctora blanca (o tira blanca fina gastada)",
+"optica": "opaco",
+"borde": "transferencia con cortes",
+"w": 1019,
+"h": 111,
+"alfa": true,
+"cobertura": 0.5091,
+"alfa_parcial": 0.0406,
+"opacidad_media": 0.976,
+"color_medio": [
+228,
+228,
+231
+],
+"color": "#e4e4e7",
+"modo": "normal",
+"recorte": [
+117,
+571,
+1019,
+111
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres tiras de cinta blanca texturizada.png",
+"md5": "c5efdcf945592f909fb164b237796cce",
+"w": 1254,
+"h": 1254,
+"n": 208,
+"fondo_medido": "#7b7a7a",
+"ruido_fondo": 0.84
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "58ad914c4d2f2f08f782ad8471ff99d6"
+},
+{
+"id": "tx:collage/cintas/correctora/correctora_0208_3",
+"archivo": "collage/cintas/correctora/correctora_0208_3.png",
+"familia": "cintas/correctora",
+"material": "correctora",
+"desc": "trazo de cinta correctora blanca (o tira blanca fina gastada)",
+"optica": "opaco",
+"borde": "transferencia con cortes",
+"w": 889,
+"h": 109,
+"alfa": true,
+"cobertura": 0.5865,
+"alfa_parcial": 0.0372,
+"opacidad_media": 0.978,
+"color_medio": [
+225,
+225,
+228
+],
+"color": "#e1e1e4",
+"modo": "normal",
+"recorte": [
+182,
+813,
+889,
+109
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres tiras de cinta blanca texturizada.png",
+"md5": "c5efdcf945592f909fb164b237796cce",
+"w": 1254,
+"h": 1254,
+"n": 208,
+"fondo_medido": "#7b7a7a",
+"ruido_fondo": 0.84
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "c1cb39e58a83e084c8c4e79ccfe0405b"
+}
+],
+"fondo_medido": "#7b7a7a",
+"ruido_fondo": 0.84,
+"fraccion_fondo": 0.829
+}

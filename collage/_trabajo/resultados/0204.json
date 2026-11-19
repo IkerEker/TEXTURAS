@@ -1,0 +1,128 @@
+{
+"n": 204,
+"rel": "PEGATINAS/Tres manchas de pintura blanca texturizada.png",
+"md5": "e3ce746e2190e54f295b26eb29088e71",
+"material": "pintura",
+"piezas": [
+{
+"id": "tx:collage/pintura/blanca/pintura_0204_1",
+"archivo": "collage/pintura/blanca/pintura_0204_1.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 718,
+"h": 295,
+"alfa": true,
+"cobertura": 0.678,
+"alfa_parcial": 0.0142,
+"opacidad_media": 0.991,
+"color_medio": [
+210,
+212,
+217
+],
+"color": "#d2d4d9",
+"modo": "normal",
+"recorte": [
+257,
+88,
+718,
+295
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres manchas de pintura blanca texturizada.png",
+"md5": "e3ce746e2190e54f295b26eb29088e71",
+"w": 1254,
+"h": 1254,
+"n": 204,
+"fondo_medido": "#5d5d5d",
+"ruido_fondo": 0.62
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "3e985188459500292caa54fa115fe0bf"
+},
+{
+"id": "tx:collage/pintura/blanca/pintura_0204_2",
+"archivo": "collage/pintura/blanca/pintura_0204_2.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 927,
+"h": 460,
+"alfa": true,
+"cobertura": 0.7875,
+"alfa_parcial": 0.0097,
+"opacidad_media": 0.994,
+"color_medio": [
+213,
+214,
+219
+],
+"color": "#d5d6db",
+"modo": "normal",
+"recorte": [
+152,
+440,
+927,
+460
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres manchas de pintura blanca texturizada.png",
+"md5": "e3ce746e2190e54f295b26eb29088e71",
+"w": 1254,
+"h": 1254,
+"n": 204,
+"fondo_medido": "#5d5d5d",
+"ruido_fondo": 0.62
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "f0ffba380fa051e9879e2040d8f177e0"
+},
+{
+"id": "tx:collage/pintura/blanca/pintura_0204_3",
+"archivo": "collage/pintura/blanca/pintura_0204_3.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 239,
+"h": 203,
+"alfa": true,
+"cobertura": 0.4869,
+"alfa_parcial": 0.038,
+"opacidad_media": 0.978,
+"color_medio": [
+204,
+206,
+212
+],
+"color": "#ccced4",
+"modo": "normal",
+"recorte": [
+487,
+983,
+239,
+203
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres manchas de pintura blanca texturizada.png",
+"md5": "e3ce746e2190e54f295b26eb29088e71",
+"w": 1254,
+"h": 1254,
+"n": 204,
+"fondo_medido": "#5d5d5d",
+"ruido_fondo": 0.62
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "106ef6f733a6b1d18c7842481ebad2b2"
+}
+],
+"fondo_medido": "#5d5d5d",
+"ruido_fondo": 0.62,
+"fraccion_fondo": 0.634
+}

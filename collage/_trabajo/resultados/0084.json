@@ -1,0 +1,143 @@
+{
+"n": 84,
+"rel": "PEGATINAS/Gemini_Generated_Image_1kp35c1kp35c1kp3.jpg",
+"md5": "f5cae16eb323441ad3b340bb806ffc07",
+"material": "peg_kraft",
+"piezas": [
+{
+"id": "tx:collage/pegatinas/kraft/peg_kraft_0084_1",
+"archivo": "collage/pegatinas/kraft/peg_kraft_0084_1.png",
+"familia": "pegatinas/kraft",
+"material": "peg_kraft",
+"desc": "pegatina de papel kraft",
+"optica": "opaco",
+"borde": "troquelado",
+"w": 585,
+"h": 581,
+"alfa": true,
+"cobertura": 0.6952,
+"alfa_parcial": 0.0145,
+"opacidad_media": 0.995,
+"color_medio": [
+206,
+172,
+138
+],
+"color": "#ceac8a",
+"modo": "normal",
+"recorte": [
+190,
+188,
+585,
+581
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_1kp35c1kp35c1kp3.jpg",
+"md5": "f5cae16eb323441ad3b340bb806ffc07",
+"w": 2048,
+"h": 2048,
+"n": 84,
+"fondo_medido": "#c3c3c3",
+"ruido_fondo": 0.53
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "ee256f34c929a9001ecae31f76d0246b",
+"sombra": {
+"archivo": "collage/pegatinas/kraft/peg_kraft_0084_1_sombra.png",
+"max": 0.357,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/pegatinas/kraft/peg_kraft_0084_2",
+"archivo": "collage/pegatinas/kraft/peg_kraft_0084_2.png",
+"familia": "pegatinas/kraft",
+"material": "peg_kraft",
+"desc": "pegatina de papel kraft",
+"optica": "opaco",
+"borde": "troquelado",
+"w": 1047,
+"h": 810,
+"alfa": true,
+"cobertura": 0.5476,
+"alfa_parcial": 0.0156,
+"opacidad_media": 0.995,
+"color_medio": [
+200,
+164,
+130
+],
+"color": "#c8a482",
+"modo": "normal",
+"recorte": [
+501,
+628,
+1047,
+810
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_1kp35c1kp35c1kp3.jpg",
+"md5": "f5cae16eb323441ad3b340bb806ffc07",
+"w": 2048,
+"h": 2048,
+"n": 84,
+"fondo_medido": "#c3c3c3",
+"ruido_fondo": 0.53
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "2ac96d1e0d1d983589b2c03ac121cd2e",
+"sombra": {
+"archivo": "collage/pegatinas/kraft/peg_kraft_0084_2_sombra.png",
+"max": 0.628,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/pegatinas/kraft/peg_kraft_0084_3",
+"archivo": "collage/pegatinas/kraft/peg_kraft_0084_3.png",
+"familia": "pegatinas/kraft",
+"material": "peg_kraft",
+"desc": "pegatina de papel kraft",
+"optica": "opaco",
+"borde": "troquelado",
+"w": 747,
+"h": 517,
+"alfa": true,
+"cobertura": 0.6956,
+"alfa_parcial": 0.0142,
+"opacidad_media": 0.995,
+"color_medio": [
+196,
+160,
+127
+],
+"color": "#c4a07f",
+"modo": "normal",
+"recorte": [
+1111,
+1341,
+747,
+517
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_1kp35c1kp35c1kp3.jpg",
+"md5": "f5cae16eb323441ad3b340bb806ffc07",
+"w": 2048,
+"h": 2048,
+"n": 84,
+"fondo_medido": "#c3c3c3",
+"ruido_fondo": 0.53
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "a5ee50d2aa57d360bde23ac4c161189a",
+"sombra": {
+"archivo": "collage/pegatinas/kraft/peg_kraft_0084_3_sombra.png",
+"max": 0.324,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#c3c3c3",
+"ruido_fondo": 0.53,
+"fraccion_fondo": 0.727
+}

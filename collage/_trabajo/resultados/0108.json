@@ -1,0 +1,143 @@
+{
+"n": 108,
+"rel": "PEGATINAS/Gemini_Generated_Image_da2b1mda2b1mda2b.jpg",
+"md5": "d5dd42970c7789120b13d0cc2ea4ecbc",
+"material": "notas",
+"piezas": [
+{
+"id": "tx:collage/notas/colores/notas_0108_1",
+"archivo": "collage/notas/colores/notas_0108_1.png",
+"familia": "notas/colores",
+"material": "notas",
+"desc": "nota adhesiva de color (rosa, verde, azul)",
+"optica": "opaco",
+"borde": "cortado industrial",
+"w": 273,
+"h": 628,
+"alfa": true,
+"cobertura": 0.7727,
+"alfa_parcial": 0.0317,
+"opacidad_media": 0.984,
+"color_medio": [
+164,
+194,
+203
+],
+"color": "#a4c2cb",
+"modo": "normal",
+"recorte": [
+1639,
+686,
+273,
+628
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_da2b1mda2b1mda2b.jpg",
+"md5": "d5dd42970c7789120b13d0cc2ea4ecbc",
+"w": 2048,
+"h": 2048,
+"n": 108,
+"fondo_medido": "#908f8e",
+"ruido_fondo": 1.39
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "bbd0ca0036416c6550b4a3a55124dcfa",
+"sombra": {
+"archivo": "collage/notas/colores/notas_0108_1_sombra.png",
+"max": 0.663,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/notas/colores/notas_0108_2",
+"archivo": "collage/notas/colores/notas_0108_2.png",
+"familia": "notas/colores",
+"material": "notas",
+"desc": "nota adhesiva de color (rosa, verde, azul)",
+"optica": "opaco",
+"borde": "cortado industrial",
+"w": 684,
+"h": 516,
+"alfa": true,
+"cobertura": 0.8737,
+"alfa_parcial": 0.0142,
+"opacidad_media": 0.995,
+"color_medio": [
+235,
+189,
+191
+],
+"color": "#ebbdbf",
+"modo": "normal",
+"recorte": [
+113,
+734,
+684,
+516
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_da2b1mda2b1mda2b.jpg",
+"md5": "d5dd42970c7789120b13d0cc2ea4ecbc",
+"w": 2048,
+"h": 2048,
+"n": 108,
+"fondo_medido": "#908f8e",
+"ruido_fondo": 1.39
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "e8d1d9d7475b98d6d2196e9a23c88a71",
+"sombra": {
+"archivo": "collage/notas/colores/notas_0108_2_sombra.png",
+"max": 0.66,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/notas/colores/notas_0108_3",
+"archivo": "collage/notas/colores/notas_0108_3.png",
+"familia": "notas/colores",
+"material": "notas",
+"desc": "nota adhesiva de color (rosa, verde, azul)",
+"optica": "opaco",
+"borde": "cortado industrial",
+"w": 584,
+"h": 578,
+"alfa": true,
+"cobertura": 0.8515,
+"alfa_parcial": 0.0088,
+"opacidad_media": 0.996,
+"color_medio": [
+209,
+224,
+200
+],
+"color": "#d1e0c8",
+"modo": "normal",
+"recorte": [
+918,
+718,
+584,
+578
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_da2b1mda2b1mda2b.jpg",
+"md5": "d5dd42970c7789120b13d0cc2ea4ecbc",
+"w": 2048,
+"h": 2048,
+"n": 108,
+"fondo_medido": "#908f8e",
+"ruido_fondo": 1.39
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "6a400a11369f0a78d2a6dfa9d9b88f6b",
+"sombra": {
+"archivo": "collage/notas/colores/notas_0108_3_sombra.png",
+"max": 0.615,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#908f8e",
+"ruido_fondo": 1.39,
+"fraccion_fondo": 0.68
+}

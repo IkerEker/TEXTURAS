@@ -1,0 +1,55 @@
+{
+"n": 51,
+"rel": "Gemini_Generated_Image_ulwjx7ulwjx7ulwj.jpg",
+"md5": "1182a1d8bc375bc6a409151916a98dcb",
+"material": "papel_blanco",
+"piezas": [
+{
+"id": "tx:collage/papeles/blanco/papel_blanco_0051_1",
+"archivo": "collage/papeles/blanco/papel_blanco_0051_1.png",
+"familia": "papeles/blanco",
+"material": "papel_blanco",
+"desc": "papel blanco de oficina rasgado a mano",
+"optica": "opaco",
+"borde": "rasgado con fibras",
+"w": 1442,
+"h": 1418,
+"alfa": true,
+"cobertura": 0.7295,
+"alfa_parcial": 0.0096,
+"opacidad_media": 0.996,
+"color_medio": [
+235,
+234,
+239
+],
+"color": "#ebeaef",
+"modo": "normal",
+"recorte": [
+264,
+304,
+1442,
+1418
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_ulwjx7ulwjx7ulwj.jpg",
+"md5": "1182a1d8bc375bc6a409151916a98dcb",
+"w": 2048,
+"h": 2048,
+"n": 51,
+"fondo_medido": "#717070",
+"ruido_fondo": 0.69
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "dfeb1457e51782ec57b39c75e6db7502",
+"sombra": {
+"archivo": "collage/papeles/blanco/papel_blanco_0051_1_sombra.png",
+"max": 0.43,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#717070",
+"ruido_fondo": 0.69,
+"fraccion_fondo": 0.615
+}

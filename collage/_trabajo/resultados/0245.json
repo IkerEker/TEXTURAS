@@ -1,0 +1,38 @@
+{
+"n": 245,
+"rel": "TEXTURAS TRAZOS/Textura caótica de grafito y carboncillo.png",
+"md5": "660b53046e85dba64912b8adf08fae1c",
+"material": "grafito",
+"piezas": [
+{
+"id": "tx:collage/grafito/grafito_0245",
+"archivo": "collage/grafito/grafito_0245.png",
+"familia": "grafito",
+"material": "grafito",
+"desc": "garabatos de grafito / carboncillo sobre papel blanco (hoja entera)",
+"optica": "trazo (alfa = densidad del grafito)",
+"borde": "hoja entera",
+"w": 1254,
+"h": 1254,
+"alfa": true,
+"cobertura": 0.177,
+"color": "#474647",
+"color_medio": [
+71,
+70,
+71
+],
+"modo": "normal (RGBA) o multiplicar (_multiplicar.jpg, papel = blanco puro)",
+"version_multiplicar": "collage/grafito/grafito_0245_multiplicar.jpg",
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/TEXTURAS TRAZOS/Textura caótica de grafito y carboncillo.png",
+"md5": "660b53046e85dba64912b8adf08fae1c",
+"w": 1254,
+"h": 1254,
+"n": 245
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "804bde21a92d164ed5a13e709287e189"
+}
+]
+}

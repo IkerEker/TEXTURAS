@@ -28650,5 +28650,2477 @@
    "origen_biblioteca": "AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V_Texture.mov"
   }
  ],
- "gumroad_anadidos_nota": "Re-descarga completa del 19-11-2026: 187 de 319 archivos ya estaban (mismo md5); estos 132 son nuevos (21 mates, 24 ProRes originales de las transiciones, Cyanotype y SlitScanFx)."
+ "gumroad_anadidos_nota": "Re-descarga completa del 19-11-2026: 187 de 319 archivos ya estaban (mismo md5); estos 132 son nuevos (21 mates, 24 ProRes originales de las transiciones, Cyanotype y SlitScanFx).",
+ "collage": [
+  {
+   "id": "or:e87ebcee5a51220513619c4d2b9b2830",
+   "md5": "e87ebcee5a51220513619c4d2b9b2830",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Collage abstracto azul, rojo y crema.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Collage abstracto azul, rojo y crema.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:c2316752abe0909a14c8441eceab2e10",
+   "md5": "c2316752abe0909a14c8441eceab2e10",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Collage geométrico azul, crema y rojo.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Collage geométrico azul, crema y rojo.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:a722953d07b96e5365e7c954afebcf42",
+   "md5": "a722953d07b96e5365e7c954afebcf42",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Fragmento de cartón kraft rasgado.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Fragmento de cartón kraft rasgado.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:0a959e98bf42e128967f771ff7edbe7a",
+   "md5": "0a959e98bf42e128967f771ff7edbe7a",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Fragmento de collage geométrico tricolor.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Fragmento de collage geométrico tricolor.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:7d7e871da43018981b3120078ccb7cbb",
+   "md5": "7d7e871da43018981b3120078ccb7cbb",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Fragmento de papel blanco rasgado sobre gris-1.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Fragmento de papel blanco rasgado sobre gris-1.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:218b7425c7254a31cf90d0c35d4e57df",
+   "md5": "218b7425c7254a31cf90d0c35d4e57df",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Fragmento de papel blanco rasgado-2.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Fragmento de papel blanco rasgado-2.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:56406d0f242dd05cb3ff259d9c6c62aa",
+   "md5": "56406d0f242dd05cb3ff259d9c6c62aa",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Fragmento de papel blanco rasgado.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Fragmento de papel blanco rasgado.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:721883c87341df647f305fc1204f0160",
+   "md5": "721883c87341df647f305fc1204f0160",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Fragmento de papel envejecido.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Fragmento de papel envejecido.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:5154cd30d32f67ec9cc80c1898b50670",
+   "md5": "5154cd30d32f67ec9cc80c1898b50670",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Fragmento de papel fibroso sobre fondo azul pizarra.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Fragmento de papel fibroso sobre fondo azul pizarra.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:a2fea5697a0182e1194a69c45c94eafe",
+   "md5": "a2fea5697a0182e1194a69c45c94eafe",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Fragmento de papel kraft rasgado.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Fragmento de papel kraft rasgado.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:bcec48f03e5a507d0ac5a5ebb452f73f",
+   "md5": "bcec48f03e5a507d0ac5a5ebb452f73f",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Fragmento de papel rasgado en fondo azul pizarra.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Fragmento de papel rasgado en fondo azul pizarra.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:d781def8c3839d55f2912d6a203dc653",
+   "md5": "d781def8c3839d55f2912d6a203dc653",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Fragmento de papel tisú desgarrado.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Fragmento de papel tisú desgarrado.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:3817a21f8accb6818e65be8219114250",
+   "md5": "3817a21f8accb6818e65be8219114250",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Fragmento de papel translúcido rasgado.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Fragmento de papel translúcido rasgado.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:717d7451947aff7219d5ada98ca64b8c",
+   "md5": "717d7451947aff7219d5ada98ca64b8c",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Fragmento de periódico antiguo rasgado-1.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Fragmento de periódico antiguo rasgado-1.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:8d694069c44fcbea1dc68574a201ff26",
+   "md5": "8d694069c44fcbea1dc68574a201ff26",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Fragmento de periódico antiguo rasgado-2.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Fragmento de periódico antiguo rasgado-2.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:d2c1df983d89203d5688261a742e398b",
+   "md5": "d2c1df983d89203d5688261a742e398b",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Fragmento de periódico antiguo.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Fragmento de periódico antiguo.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:e0dc9962f90bb1a464c21a6d07ce294f",
+   "md5": "e0dc9962f90bb1a464c21a6d07ce294f",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_20hg9e20hg9e20hg.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_20hg9e20hg9e20hg.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:2aff67a5452bad300ce463dab5a08559",
+   "md5": "2aff67a5452bad300ce463dab5a08559",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_3efg6g3efg6g3efg.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_3efg6g3efg6g3efg.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:5c21b4c5ef734adedea018d3629982ee",
+   "md5": "5c21b4c5ef734adedea018d3629982ee",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_4fu54fu54fu54fu5.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_4fu54fu54fu54fu5.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:fd8e11b043e15971cedc7b9a5d03b4ad",
+   "md5": "fd8e11b043e15971cedc7b9a5d03b4ad",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_52wxnz52wxnz52wx.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_52wxnz52wxnz52wx.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:b967abc6317fc5a336bafd3c6cc6dcbf",
+   "md5": "b967abc6317fc5a336bafd3c6cc6dcbf",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_5hwphs5hwphs5hwp.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_5hwphs5hwphs5hwp.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:f0426b919f3933754a23546c5d3cbb18",
+   "md5": "f0426b919f3933754a23546c5d3cbb18",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_6vjlvn6vjlvn6vjl.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_6vjlvn6vjlvn6vjl.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:4aae165698edc16698f628b6c6a6309d",
+   "md5": "4aae165698edc16698f628b6c6a6309d",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_71tr1g71tr1g71tr.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_71tr1g71tr1g71tr.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:d3d46c5acabca101d31c8b3e2cce7aed",
+   "md5": "d3d46c5acabca101d31c8b3e2cce7aed",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_8hs8o8hs8o8hs8o8.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_8hs8o8hs8o8hs8o8.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:660d9f542bfc25ce6dc4e0371be3d7a5",
+   "md5": "660d9f542bfc25ce6dc4e0371be3d7a5",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_arify5arify5arif.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_arify5arify5arif.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:dfda236b9a72bbe3271010f395bb9ef9",
+   "md5": "dfda236b9a72bbe3271010f395bb9ef9",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_bk6otqbk6otqbk6o.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_bk6otqbk6otqbk6o.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:fc3db9d717ee323f89939c5a80d65ed7",
+   "md5": "fc3db9d717ee323f89939c5a80d65ed7",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_bvof5bbvof5bbvof.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_bvof5bbvof5bbvof.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:ca4ae9445130750f7e210717574cb580",
+   "md5": "ca4ae9445130750f7e210717574cb580",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_coankycoankycoan.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_coankycoankycoan.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:47803e607c2a7b49aa93ee780c633c07",
+   "md5": "47803e607c2a7b49aa93ee780c633c07",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_ctdcx0ctdcx0ctdc.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_ctdcx0ctdcx0ctdc.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:f592705e50e43b6e1e13794765635357",
+   "md5": "f592705e50e43b6e1e13794765635357",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_d1pl5zd1pl5zd1pl.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_d1pl5zd1pl5zd1pl.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:1041896d4a8f72d69fcca1f02a685e92",
+   "md5": "1041896d4a8f72d69fcca1f02a685e92",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_dk7f19dk7f19dk7f.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_dk7f19dk7f19dk7f.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:7aa058b2dd4e2053e24a3df06d0bd3ff",
+   "md5": "7aa058b2dd4e2053e24a3df06d0bd3ff",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_emwacjemwacjemwa.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_emwacjemwacjemwa.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:f66946cf3b1bc93e96f7091d3bcd93c8",
+   "md5": "f66946cf3b1bc93e96f7091d3bcd93c8",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_gf16kigf16kigf16.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_gf16kigf16kigf16.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:e67ec7410b491eb4a463abf0f4fe0588",
+   "md5": "e67ec7410b491eb4a463abf0f4fe0588",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_h7agxh7agxh7agxh.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_h7agxh7agxh7agxh.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:3cbeca2915496f4589124fe918121763",
+   "md5": "3cbeca2915496f4589124fe918121763",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_hem62hhem62hhem6.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_hem62hhem62hhem6.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:380164a7fa8fbdd590f3b7a7d817e4aa",
+   "md5": "380164a7fa8fbdd590f3b7a7d817e4aa",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_hsnb1hsnb1hsnb1h.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_hsnb1hsnb1hsnb1h.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:5add2f4e9464126a6409123c4e1c0d67",
+   "md5": "5add2f4e9464126a6409123c4e1c0d67",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_igs5pcigs5pcigs5.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_igs5pcigs5pcigs5.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:02ee5d1c076add0a1d2dd688be16a616",
+   "md5": "02ee5d1c076add0a1d2dd688be16a616",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_ituuy5ituuy5ituu.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_ituuy5ituuy5ituu.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:081bd782639dff840dd750ce49d000ab",
+   "md5": "081bd782639dff840dd750ce49d000ab",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_j5opijj5opijj5op.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_j5opijj5opijj5op.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:80403f4f022079dfc8b305f900675b94",
+   "md5": "80403f4f022079dfc8b305f900675b94",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_n79i87n79i87n79i.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_n79i87n79i87n79i.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:2eb3c7c3e0883d352ca1f813641bc63f",
+   "md5": "2eb3c7c3e0883d352ca1f813641bc63f",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_n7xg69n7xg69n7xg.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_n7xg69n7xg69n7xg.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:ee4910d930bcf7c1a72890ab2ea7929d",
+   "md5": "ee4910d930bcf7c1a72890ab2ea7929d",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_o97yaqo97yaqo97y.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_o97yaqo97yaqo97y.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:af2d4c308b91a60b97346b3bea53e4af",
+   "md5": "af2d4c308b91a60b97346b3bea53e4af",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_p94ctkp94ctkp94c.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_p94ctkp94ctkp94c.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:8a0f30adb18987a8fa38c4bd86b5ffb6",
+   "md5": "8a0f30adb18987a8fa38c4bd86b5ffb6",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_pl9vqspl9vqspl9v.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_pl9vqspl9vqspl9v.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:e7353d2e8f2fac91d9ba24a3312248a1",
+   "md5": "e7353d2e8f2fac91d9ba24a3312248a1",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_ppmlcgppmlcgppml.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_ppmlcgppmlcgppml.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:e5443f3c892c20f4f426eacbce63e354",
+   "md5": "e5443f3c892c20f4f426eacbce63e354",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_pyyf6zpyyf6zpyyf.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_pyyf6zpyyf6zpyyf.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:726c83a66a41e4bfd103479c872d694d",
+   "md5": "726c83a66a41e4bfd103479c872d694d",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_r25zijr25zijr25z.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_r25zijr25zijr25z.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:fe23004a3d4249cccecbcca6db4e5411",
+   "md5": "fe23004a3d4249cccecbcca6db4e5411",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_s25jbhs25jbhs25j.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_s25jbhs25jbhs25j.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:0d0493fbbb70c9af315c1cb8a07d648f",
+   "md5": "0d0493fbbb70c9af315c1cb8a07d648f",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_siy33osiy33osiy3.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_siy33osiy33osiy3.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:b30bd1dc9bfc8acd50dfb630bf61d09b",
+   "md5": "b30bd1dc9bfc8acd50dfb630bf61d09b",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_t37a6kt37a6kt37a.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_t37a6kt37a6kt37a.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:453120d51fc4a60ad878d811589c73a4",
+   "md5": "453120d51fc4a60ad878d811589c73a4",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_tqmligtqmligtqml.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_tqmligtqmligtqml.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:1182a1d8bc375bc6a409151916a98dcb",
+   "md5": "1182a1d8bc375bc6a409151916a98dcb",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_ulwjx7ulwjx7ulwj.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_ulwjx7ulwjx7ulwj.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:e7265e7e632005149b01349574d85f49",
+   "md5": "e7265e7e632005149b01349574d85f49",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_w3ug3uw3ug3uw3ug.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_w3ug3uw3ug3uw3ug.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:8e8e5b50ee49c38ec0e02145584c5aa7",
+   "md5": "8e8e5b50ee49c38ec0e02145584c5aa7",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_x7rks7x7rks7x7rk.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_x7rks7x7rks7x7rk.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:ae22b6f3ea093b9be418d0e4f6b3a9cd",
+   "md5": "ae22b6f3ea093b9be418d0e4f6b3a9cd",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_xktw9exktw9exktw.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_xktw9exktw9exktw.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:710dfeb2091900886ab579a86aa369c1",
+   "md5": "710dfeb2091900886ab579a86aa369c1",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/Gemini_Generated_Image_yjcu6uyjcu6uyjcu.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_yjcu6uyjcu6uyjcu.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:e8d517b0e23cbcc7cec1805d5b76d423",
+   "md5": "e8d517b0e23cbcc7cec1805d5b76d423",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Hoja blanca rasgada con perforaciones de espiral-2.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Hoja blanca rasgada con perforaciones de espiral-2.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:630b7aee8baacb249cfdb92f1f684590",
+   "md5": "630b7aee8baacb249cfdb92f1f684590",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Hoja de cuaderno arrancada sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Hoja de cuaderno arrancada sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:7c26cee40da46f70ad210c8dba9202d6",
+   "md5": "7c26cee40da46f70ad210c8dba9202d6",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Hoja de cuaderno rasgada sobre gris-1.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Hoja de cuaderno rasgada sobre gris-1.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:fd1538ca47b9f3951c322b06be7e85a2",
+   "md5": "fd1538ca47b9f3951c322b06be7e85a2",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Hoja de cuaderno rasgada sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Hoja de cuaderno rasgada sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:bdfcff5506b669cf1d3ecb616865bbec",
+   "md5": "bdfcff5506b669cf1d3ecb616865bbec",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Hoja de papel arrancada de cuaderno.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Hoja de papel arrancada de cuaderno.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:bb21d4ff761fefd6fc663260b8e2674c",
+   "md5": "bb21d4ff761fefd6fc663260b8e2674c",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Hoja translúcida desgarrada sobre pizarra.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Hoja translúcida desgarrada sobre pizarra.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:144fdc4d7019364c74ee35c8e37ec3a7",
+   "md5": "144fdc4d7019364c74ee35c8e37ec3a7",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Cinta adhesiva plateada rasgada y arrugada.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Cinta adhesiva plateada rasgada y arrugada.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:554b5d4c3ac6a3bff133ec2149fa4276",
+   "md5": "554b5d4c3ac6a3bff133ec2149fa4276",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Cinta adhesiva transparente sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Cinta adhesiva transparente sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:5a2d326859417915971e0f77a5c2333e",
+   "md5": "5a2d326859417915971e0f77a5c2333e",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Cinta adhesiva ámbar sobre gris-1.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Cinta adhesiva ámbar sobre gris-1.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:932f2aea300920545aed7e06644ef0e8",
+   "md5": "932f2aea300920545aed7e06644ef0e8",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Cintas adhesivas plateadas arrugadas.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Cintas adhesivas plateadas arrugadas.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:3ce24dcf6f9ca97791809e57f1e9990e",
+   "md5": "3ce24dcf6f9ca97791809e57f1e9990e",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Cintas adhesivas transparentes sobre fondo gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Cintas adhesivas transparentes sobre fondo gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:6f7185530f23b0f27b8c2c38e9786c48",
+   "md5": "6f7185530f23b0f27b8c2c38e9786c48",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Cintas adhesivas transparentes sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Cintas adhesivas transparentes sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:2c6fc03b075f805304cbdbca3d176d71",
+   "md5": "2c6fc03b075f805304cbdbca3d176d71",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Cintas adhesivas ámbar sobre gris claro.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Cintas adhesivas ámbar sobre gris claro.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:1ffa3039b5fb5e06ea6cdd988a5a5a8d",
+   "md5": "1ffa3039b5fb5e06ea6cdd988a5a5a8d",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Cintas de embalaje ámbar sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Cintas de embalaje ámbar sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:25a797924c460fd664c6765855d11abe",
+   "md5": "25a797924c460fd664c6765855d11abe",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Cintas transparentes sobre gris mate.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Cintas transparentes sobre gris mate.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:ae8d22ddec38df4eaca5db18c0d8d6aa",
+   "md5": "ae8d22ddec38df4eaca5db18c0d8d6aa",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Etiquetas Vintage de Papel Envejecido.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Etiquetas Vintage de Papel Envejecido.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:94ea4bf46fd34fc39fbe35d00c073886",
+   "md5": "94ea4bf46fd34fc39fbe35d00c073886",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Etiquetas blancas rasgadas sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Etiquetas blancas rasgadas sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:4988b724c192af16310ad9738f6d70e4",
+   "md5": "4988b724c192af16310ad9738f6d70e4",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Etiquetas blancas sobre fondo gris (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Etiquetas blancas sobre fondo gris (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:8f7d74d8c7b2db867af1fcb440a66d11",
+   "md5": "8f7d74d8c7b2db867af1fcb440a66d11",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Etiquetas blancas sobre fondo gris (2).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Etiquetas blancas sobre fondo gris (2).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:1f5b0b65b270256dad7722c79e3c0bde",
+   "md5": "1f5b0b65b270256dad7722c79e3c0bde",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Etiquetas blancas sobre fondo gris (3).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Etiquetas blancas sobre fondo gris (3).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:7c36f1da159bddfef1abca07259d991f",
+   "md5": "7c36f1da159bddfef1abca07259d991f",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Etiquetas blancas sobre fondo gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Etiquetas blancas sobre fondo gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:9acb63c70b86bc3c540a9bb1af12578c",
+   "md5": "9acb63c70b86bc3c540a9bb1af12578c",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Etiquetas de papel envejecido con esquina despegada (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Etiquetas de papel envejecido con esquina despegada (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:a8b8db565f0c5c51d74af2dec5733478",
+   "md5": "a8b8db565f0c5c51d74af2dec5733478",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Etiquetas de papel envejecido.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Etiquetas de papel envejecido.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:ac966afb0d9972b8b47c4eb33f34832f",
+   "md5": "ac966afb0d9972b8b47c4eb33f34832f",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Etiquetas de papel rasgadas sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Etiquetas de papel rasgadas sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:7d4e28dc720b2d11e88940aedfffe06a",
+   "md5": "7d4e28dc720b2d11e88940aedfffe06a",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Etiquetas vintage sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Etiquetas vintage sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:d17e17721f99da1c53ef1f25758c8bd6",
+   "md5": "d17e17721f99da1c53ef1f25758c8bd6",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Fragmentos de Gel Adhesivo Translúcido.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Fragmentos de Gel Adhesivo Translúcido.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:3023ceb7b71c5bfe844026067b1c2042",
+   "md5": "3023ceb7b71c5bfe844026067b1c2042",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_170kon170kon170k.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_170kon170kon170k.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:f5cae16eb323441ad3b340bb806ffc07",
+   "md5": "f5cae16eb323441ad3b340bb806ffc07",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_1kp35c1kp35c1kp3.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_1kp35c1kp35c1kp3.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:be6fa661c2e053837fba4a04a36ae31e",
+   "md5": "be6fa661c2e053837fba4a04a36ae31e",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_1rhyy1rhyy1rhyy1 (1).jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_1rhyy1rhyy1rhyy1 (1).jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:ba89b6974a7ad98dbbded0cb9cf32d3a",
+   "md5": "ba89b6974a7ad98dbbded0cb9cf32d3a",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_2nfoz42nfoz42nfo.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_2nfoz42nfoz42nfo.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:4c11f503ec91ca951a831bfb6cd5081e",
+   "md5": "4c11f503ec91ca951a831bfb6cd5081e",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_3krc2j3krc2j3krc.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_3krc2j3krc2j3krc.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:113a8bf580b7af5d6cce082ef9b9f744",
+   "md5": "113a8bf580b7af5d6cce082ef9b9f744",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_46gyq246gyq246gy.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_46gyq246gyq246gy.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:7a05b3de60c662ca7c0631945577fea5",
+   "md5": "7a05b3de60c662ca7c0631945577fea5",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_46qsp946qsp946qs.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_46qsp946qsp946qs.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:104ab47feea17940a905c58cbf268190",
+   "md5": "104ab47feea17940a905c58cbf268190",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_508gox508gox508g.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_508gox508gox508g.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:1c44676ad4d7324428265af95661cf56",
+   "md5": "1c44676ad4d7324428265af95661cf56",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_57jgfq57jgfq57jg.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_57jgfq57jgfq57jg.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:042e91e86d093eddbf7f97c1acc926fd",
+   "md5": "042e91e86d093eddbf7f97c1acc926fd",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_6axfdq6axfdq6axf.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_6axfdq6axfdq6axf.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:86e5035a981da372aaf07c3fc71f1d57",
+   "md5": "86e5035a981da372aaf07c3fc71f1d57",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_6edzih6edzih6edz.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_6edzih6edzih6edz.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:23a9f15ca0210386b9bb4288dbdd29d7",
+   "md5": "23a9f15ca0210386b9bb4288dbdd29d7",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_7eh6a57eh6a57eh6.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_7eh6a57eh6a57eh6.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:25b39c56b0e2499aeb27ac9bc92ecacc",
+   "md5": "25b39c56b0e2499aeb27ac9bc92ecacc",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_7gvxtb7gvxtb7gvx.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_7gvxtb7gvxtb7gvx.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:ec50a8c60436941872006c6e4ca88877",
+   "md5": "ec50a8c60436941872006c6e4ca88877",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_7k7v667k7v667k7v.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_7k7v667k7v667k7v.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:e87b729ef1794fa9d025c955b699fac9",
+   "md5": "e87b729ef1794fa9d025c955b699fac9",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_7wnxrc7wnxrc7wnx.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_7wnxrc7wnxrc7wnx.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:2ced07fe5073b38b5278de3099a45e2c",
+   "md5": "2ced07fe5073b38b5278de3099a45e2c",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_8i57q38i57q38i57.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_8i57q38i57q38i57.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:c53b5b3f52739638b24a8a95504b22ee",
+   "md5": "c53b5b3f52739638b24a8a95504b22ee",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_a4tq63a4tq63a4tq.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_a4tq63a4tq63a4tq.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:a966cdb93ae599281880d3aff5b97550",
+   "md5": "a966cdb93ae599281880d3aff5b97550",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_a9vz2ya9vz2ya9vz.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_a9vz2ya9vz2ya9vz.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:58ac2d06ca6adeb9abc37298f6902f84",
+   "md5": "58ac2d06ca6adeb9abc37298f6902f84",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_blpe6yblpe6yblpe.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_blpe6yblpe6yblpe.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:d971c738c60d664d1f637d3ccc3aa876",
+   "md5": "d971c738c60d664d1f637d3ccc3aa876",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_c0r6vnc0r6vnc0r6.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_c0r6vnc0r6vnc0r6.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:04a3d5382f6e01406376605202304f67",
+   "md5": "04a3d5382f6e01406376605202304f67",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_cc4mgicc4mgicc4m.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_cc4mgicc4mgicc4m.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:7140317b04ccf9dc34068cfa9d9748ac",
+   "md5": "7140317b04ccf9dc34068cfa9d9748ac",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_cf3rc7cf3rc7cf3r.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_cf3rc7cf3rc7cf3r.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:18e0780c4baeb48d3d9acdbceb713872",
+   "md5": "18e0780c4baeb48d3d9acdbceb713872",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_cf87m5cf87m5cf87.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_cf87m5cf87m5cf87.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:630fa96bae086a21e7535936e822d5eb",
+   "md5": "630fa96bae086a21e7535936e822d5eb",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_d6rw9od6rw9od6rw.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_d6rw9od6rw9od6rw.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:d5dd42970c7789120b13d0cc2ea4ecbc",
+   "md5": "d5dd42970c7789120b13d0cc2ea4ecbc",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_da2b1mda2b1mda2b.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_da2b1mda2b1mda2b.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:5ed64b58014ba77a46823f0455d54eb5",
+   "md5": "5ed64b58014ba77a46823f0455d54eb5",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_ebi5dtebi5dtebi5.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_ebi5dtebi5dtebi5.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:a9c98786cde9d28ced0460c8468aedd2",
+   "md5": "a9c98786cde9d28ced0460c8468aedd2",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_ezjqnfezjqnfezjq.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_ezjqnfezjqnfezjq.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:878f2f511293eb946e0a00b1f7b35565",
+   "md5": "878f2f511293eb946e0a00b1f7b35565",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_fjls79fjls79fjls.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_fjls79fjls79fjls.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:30db397f7d394a6a1ac247b844f3fc99",
+   "md5": "30db397f7d394a6a1ac247b844f3fc99",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_fk3wz6fk3wz6fk3w.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_fk3wz6fk3wz6fk3w.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:e551854a0f63712fa9e43d3812e1ec65",
+   "md5": "e551854a0f63712fa9e43d3812e1ec65",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_he0alyhe0alyhe0a.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_he0alyhe0alyhe0a.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:2953ade9432e8446c872b5ec3ea18599",
+   "md5": "2953ade9432e8446c872b5ec3ea18599",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_justzljustzljust.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_justzljustzljust.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:92a3e195dbb9e35b7150463a8a252536",
+   "md5": "92a3e195dbb9e35b7150463a8a252536",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_jv1e84jv1e84jv1e.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_jv1e84jv1e84jv1e.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:421f04e03987b42fb257252354761c9a",
+   "md5": "421f04e03987b42fb257252354761c9a",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_lor9mflor9mflor9.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_lor9mflor9mflor9.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:de1342e3231c60f2f591c8a4323caff5",
+   "md5": "de1342e3231c60f2f591c8a4323caff5",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_nb3794nb3794nb37.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_nb3794nb3794nb37.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:a7b2bdfa6fa5e981aa412d9d27ebe647",
+   "md5": "a7b2bdfa6fa5e981aa412d9d27ebe647",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_nf7xannf7xannf7x.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_nf7xannf7xannf7x.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:630eb6c82982e3e125467fddeb3d6091",
+   "md5": "630eb6c82982e3e125467fddeb3d6091",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_nzqgodnzqgodnzqg.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_nzqgodnzqgodnzqg.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:65f70916701348c07914d3d92b6ac589",
+   "md5": "65f70916701348c07914d3d92b6ac589",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_o22db2o22db2o22d.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_o22db2o22db2o22d.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:fdbb208355dcfa46d009d18e2db48cd2",
+   "md5": "fdbb208355dcfa46d009d18e2db48cd2",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_o2wfjuo2wfjuo2wf.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_o2wfjuo2wfjuo2wf.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:0db802fa72fffa85a12bd6b86863a93f",
+   "md5": "0db802fa72fffa85a12bd6b86863a93f",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_obzbypobzbypobzb.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_obzbypobzbypobzb.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:910cb92fa30591a7f42ac7da77942ce6",
+   "md5": "910cb92fa30591a7f42ac7da77942ce6",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_oo1xqgoo1xqgoo1x.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_oo1xqgoo1xqgoo1x.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:9689615bc92671c6e6775fe4368060d7",
+   "md5": "9689615bc92671c6e6775fe4368060d7",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_oqu3looqu3looqu3.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_oqu3looqu3looqu3.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:616c7fefeecc591dd8583b8ba2df420b",
+   "md5": "616c7fefeecc591dd8583b8ba2df420b",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_p9qn81p9qn81p9qn.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_p9qn81p9qn81p9qn.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:ef5403a16d95696d46321f0acb1fc803",
+   "md5": "ef5403a16d95696d46321f0acb1fc803",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_pwb1drpwb1drpwb1.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_pwb1drpwb1drpwb1.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:48c899c0e1d4e407428d6c5bcd055ee5",
+   "md5": "48c899c0e1d4e407428d6c5bcd055ee5",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_qswibqswibqswibq.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_qswibqswibqswibq.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:33f5455b59c1b241eb061fda6738ed9a",
+   "md5": "33f5455b59c1b241eb061fda6738ed9a",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_r2gzy9r2gzy9r2gz.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_r2gzy9r2gzy9r2gz.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:11e11fae09815e27ae8b17397e097c32",
+   "md5": "11e11fae09815e27ae8b17397e097c32",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_rmmd2wrmmd2wrmmd.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_rmmd2wrmmd2wrmmd.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:36d7d2c1541f08303e87f2564e562b20",
+   "md5": "36d7d2c1541f08303e87f2564e562b20",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_sgre8tsgre8tsgre.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_sgre8tsgre8tsgre.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:b29ce7714bafbf32a0a56ed546258636",
+   "md5": "b29ce7714bafbf32a0a56ed546258636",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_sts9y5sts9y5sts9.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_sts9y5sts9y5sts9.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:12f3f35f68f9afb2beb56e1ddd2aa823",
+   "md5": "12f3f35f68f9afb2beb56e1ddd2aa823",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_uw0fy7uw0fy7uw0f.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_uw0fy7uw0fy7uw0f.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:1709c578c1b7cc72ee69ff83098ab8c6",
+   "md5": "1709c578c1b7cc72ee69ff83098ab8c6",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_v6xg90v6xg90v6xg.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_v6xg90v6xg90v6xg.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:4c294e96c71404ac8c7975971cc0b3d0",
+   "md5": "4c294e96c71404ac8c7975971cc0b3d0",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_v8hhpjv8hhpjv8hh.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_v8hhpjv8hhpjv8hh.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:2aba44d26c03d93e51d7f8f0b10a3895",
+   "md5": "2aba44d26c03d93e51d7f8f0b10a3895",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_vg9mw4vg9mw4vg9m.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_vg9mw4vg9mw4vg9m.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:5ca316027c965724fe4af68b19de723b",
+   "md5": "5ca316027c965724fe4af68b19de723b",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_wm53p2wm53p2wm53.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_wm53p2wm53p2wm53.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:e8794759f8b4c3230e2ee3ce8ba2113a",
+   "md5": "e8794759f8b4c3230e2ee3ce8ba2113a",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_wwfjs3wwfjs3wwfj.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_wwfjs3wwfjs3wwfj.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:17a78229aa5171acbd82513db27319c2",
+   "md5": "17a78229aa5171acbd82513db27319c2",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_zb4wtvzb4wtvzb4w.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_zb4wtvzb4wtvzb4w.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:e799c49c02c990c1eb142c744de03aed",
+   "md5": "e799c49c02c990c1eb142c744de03aed",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/PEGATINAS/Gemini_Generated_Image_zc27zzzc27zzzc27.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_zc27zzzc27zzzc27.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:69a093aa06d09a3c89d63e970d1d8d18",
+   "md5": "69a093aa06d09a3c89d63e970d1d8d18",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Gotas de gel transparente sobre gris oscuro.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Gotas de gel transparente sobre gris oscuro.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:9e1ba8c7c4128e4b47f217abf79c562a",
+   "md5": "9e1ba8c7c4128e4b47f217abf79c562a",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Muestrario de pinceladas blancas.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Muestrario de pinceladas blancas.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:fa96c26a06d33dbdd137f2a66493068a",
+   "md5": "fa96c26a06d33dbdd137f2a66493068a",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Muestras de pintura blanca sobre gris-1.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Muestras de pintura blanca sobre gris-1.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:58021e43cbf50589a3158961da183076",
+   "md5": "58021e43cbf50589a3158961da183076",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Notas adhesivas amarillas minimalistas (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Notas adhesivas amarillas minimalistas (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:ade4924ef89f71e8102c810a6f2de9b3",
+   "md5": "ade4924ef89f71e8102c810a6f2de9b3",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Notas adhesivas amarillas minimalistas.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Notas adhesivas amarillas minimalistas.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:28205fd51854ca090d733885214b8e09",
+   "md5": "28205fd51854ca090d733885214b8e09",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Notas adhesivas amarillas sobre fondo gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Notas adhesivas amarillas sobre fondo gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:48663253800d0057b5462b43c93b0bfd",
+   "md5": "48663253800d0057b5462b43c93b0bfd",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Notas adhesivas pastel sobre gris (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Notas adhesivas pastel sobre gris (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:7bcb206a15e9e155cea159d35a32d657",
+   "md5": "7bcb206a15e9e155cea159d35a32d657",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Notas adhesivas pastel sobre gris (2).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Notas adhesivas pastel sobre gris (2).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:0f3b4308ddc7859eef932757f3ee15dd",
+   "md5": "0f3b4308ddc7859eef932757f3ee15dd",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Notas adhesivas pastel sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Notas adhesivas pastel sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:9aa4243d66f826799372ce8e08328b3f",
+   "md5": "9aa4243d66f826799372ce8e08328b3f",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Parches de Gel Transparente en Triángulo.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Parches de Gel Transparente en Triángulo.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:294959e762ea8b77e282a7191c37ffc9",
+   "md5": "294959e762ea8b77e282a7191c37ffc9",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Parches de gel translúcido sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Parches de gel translúcido sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:e69d486c4ff2d67c88a6a52f5d3bca34",
+   "md5": "e69d486c4ff2d67c88a6a52f5d3bca34",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Parches de gel transparente sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Parches de gel transparente sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:0f1ca5af11b814bc9dc3da76870bf663",
+   "md5": "0f1ca5af11b814bc9dc3da76870bf663",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Pegatinas blancas sobre fondo gris (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Pegatinas blancas sobre fondo gris (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:989311fcfa05bf23d8a25ca40406b8e8",
+   "md5": "989311fcfa05bf23d8a25ca40406b8e8",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Pegatinas blancas sobre fondo gris (2).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Pegatinas blancas sobre fondo gris (2).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:2201fc920848af35ae362b986876367b",
+   "md5": "2201fc920848af35ae362b986876367b",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Pegatinas blancas sobre fondo gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Pegatinas blancas sobre fondo gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:52f5e7ddf089d5eece32fbd15672df78",
+   "md5": "52f5e7ddf089d5eece32fbd15672df78",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Pegatinas brillantes de colores primarios.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Pegatinas brillantes de colores primarios.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:69c51ffdd83ed5816bde594b669a78d1",
+   "md5": "69c51ffdd83ed5816bde594b669a78d1",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Pegatinas brillantes de colores.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Pegatinas brillantes de colores.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:6ff12992a8836e9797e1db23ddd0fe92",
+   "md5": "6ff12992a8836e9797e1db23ddd0fe92",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Pegatinas brillantes en rojo, azul y verde.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Pegatinas brillantes en rojo, azul y verde.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:85c1304bf84b1dc50e8a9d22869e1adc",
+   "md5": "85c1304bf84b1dc50e8a9d22869e1adc",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Pegatinas brillantes sobre fondo gris (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Pegatinas brillantes sobre fondo gris (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:8826463cb123a8bbceba0cbdfe4278fd",
+   "md5": "8826463cb123a8bbceba0cbdfe4278fd",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Pegatinas brillantes sobre fondo gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Pegatinas brillantes sobre fondo gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:e56f4b042513c9f50ade1b728b90ee08",
+   "md5": "e56f4b042513c9f50ade1b728b90ee08",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Pinceladas blancas sobre gris-2.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Pinceladas blancas sobre gris-2.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:b1fc82f0837c5ef9b6e81629ce07a214",
+   "md5": "b1fc82f0837c5ef9b6e81629ce07a214",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Residuos Adhesivos Sutiles sobre Gris Mate.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Residuos Adhesivos Sutiles sobre Gris Mate.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:f6ccc719dcc126cdbd13e59f0c5168b5",
+   "md5": "f6ccc719dcc126cdbd13e59f0c5168b5",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Residuos de adhesivo sobre fondo gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Residuos de adhesivo sobre fondo gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:95d26cddff18d999933b6a849c72e1a4",
+   "md5": "95d26cddff18d999933b6a849c72e1a4",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Residuos de adhesivo sobre gris (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Residuos de adhesivo sobre gris (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:cad58595a914f677c02c22712b398e03",
+   "md5": "cad58595a914f677c02c22712b398e03",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Residuos de adhesivo sobre gris mate.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Residuos de adhesivo sobre gris mate.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:d0f93918f49558362cfd61cdc5deceb7",
+   "md5": "d0f93918f49558362cfd61cdc5deceb7",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Residuos de adhesivo sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Residuos de adhesivo sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:9d25f1b9e8428a67a8af59b279636939",
+   "md5": "9d25f1b9e8428a67a8af59b279636939",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Residuos de adhesivos sobre gris mate.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Residuos de adhesivos sobre gris mate.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:7264e41a8fef50e2de354fb4f3248003",
+   "md5": "7264e41a8fef50e2de354fb4f3248003",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Residuos de adhesivos sobre gris oscuro.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Residuos de adhesivos sobre gris oscuro.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:3779b4556b8e3baa2c11d76baa96bf1b",
+   "md5": "3779b4556b8e3baa2c11d76baa96bf1b",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Residuos fantasma sobre gris mate.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Residuos fantasma sobre gris mate.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:f13af550b5e38cc3ed13c3debf206120",
+   "md5": "f13af550b5e38cc3ed13c3debf206120",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Residuos sutiles de adhesivos sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Residuos sutiles de adhesivos sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:b190f4c9399acc9e0731d3ac51b5ea5f",
+   "md5": "b190f4c9399acc9e0731d3ac51b5ea5f",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Restos de adhesivo sobre fondo gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Restos de adhesivo sobre fondo gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:dd3590a2507944e9d6208850a6911b8b",
+   "md5": "dd3590a2507944e9d6208850a6911b8b",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Restos de adhesivos sobre gris mate.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Restos de adhesivos sobre gris mate.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:13f55f90e1b107ed34160474f4fb4838",
+   "md5": "13f55f90e1b107ed34160474f4fb4838",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Texturas de Cinta Desgastada en Gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Texturas de Cinta Desgastada en Gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:9e3eb0648ca482cea80653d020c0fe7f",
+   "md5": "9e3eb0648ca482cea80653d020c0fe7f",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Texturas de pintura blanca sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Texturas de pintura blanca sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:534a9a8e2b1209a08aaff411bf8ceb52",
+   "md5": "534a9a8e2b1209a08aaff411bf8ceb52",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras blancas desgastadas sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras blancas desgastadas sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:074e11ab5825d0d02fea22acb38e77ac",
+   "md5": "074e11ab5825d0d02fea22acb38e77ac",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta adhesiva transparente (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta adhesiva transparente (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:8bc2f7ae490cad1832933e519f882cd6",
+   "md5": "8bc2f7ae490cad1832933e519f882cd6",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta adhesiva transparente.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta adhesiva transparente.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:eb087d9198e909b2ce51a91bda7ef394",
+   "md5": "eb087d9198e909b2ce51a91bda7ef394",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta adhesiva ámbar sobre gris-2.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta adhesiva ámbar sobre gris-2.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:543dad82473a7425556e780ef309a3f9",
+   "md5": "543dad82473a7425556e780ef309a3f9",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta blanca sobre gris (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta blanca sobre gris (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:804105271cc85d3261f67cb4410e5c4e",
+   "md5": "804105271cc85d3261f67cb4410e5c4e",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta blanca sobre gris (2).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta blanca sobre gris (2).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:18fd6c063115ad0b822af6649d4e5250",
+   "md5": "18fd6c063115ad0b822af6649d4e5250",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta blanca sobre gris (3).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta blanca sobre gris (3).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:79fc992e0f10f33209c0feb62f7037b6",
+   "md5": "79fc992e0f10f33209c0feb62f7037b6",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta blanca sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta blanca sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:5e6ec73ac7fdb81128494979a8b5ba3b",
+   "md5": "5e6ec73ac7fdb81128494979a8b5ba3b",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta correctora sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta correctora sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:dabbf93a31dc7480e2930eaf5b54b61f",
+   "md5": "dabbf93a31dc7480e2930eaf5b54b61f",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta de papel rasgada.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta de papel rasgada.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:b500eb74a02f0b908e372018c5700ca5",
+   "md5": "b500eb74a02f0b908e372018c5700ca5",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta de papel sobre gris (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta de papel sobre gris (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:52072885a3dfac0f118e046de719d384",
+   "md5": "52072885a3dfac0f118e046de719d384",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta de papel sobre gris (2).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta de papel sobre gris (2).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:be00ed0ca12a9c5e93cd200ba524baa7",
+   "md5": "be00ed0ca12a9c5e93cd200ba524baa7",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta de papel sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta de papel sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:64e705100b2cf877f9fc8d319686af80",
+   "md5": "64e705100b2cf877f9fc8d319686af80",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta negra sobre gris (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta negra sobre gris (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:5d8cc27ffb328ea18f71d0565f0c3b67",
+   "md5": "5d8cc27ffb328ea18f71d0565f0c3b67",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta negra sobre gris (3).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta negra sobre gris (3).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:4ad605d2e8ab2dd7c7650e98970b76c5",
+   "md5": "4ad605d2e8ab2dd7c7650e98970b76c5",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta negra sobre gris (4).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta negra sobre gris (4).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:6ff6b1711c425e551a7afef6d49d1ab7",
+   "md5": "6ff6b1711c425e551a7afef6d49d1ab7",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta negra sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta negra sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:2d71cf23da9c36f182d3ccf765964865",
+   "md5": "2d71cf23da9c36f182d3ccf765964865",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta ámbar sobre gris (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta ámbar sobre gris (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:fb99a2ebe6571527e9362c397452e4e1",
+   "md5": "fb99a2ebe6571527e9362c397452e4e1",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de cinta ámbar sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta ámbar sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:40c3eb36cea8501c5c51ec1053c8eb04",
+   "md5": "40c3eb36cea8501c5c51ec1053c8eb04",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de papel desgarrado en tonos suaves.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de papel desgarrado en tonos suaves.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:ddb20d088c1ac7c77e0840273a4a2715",
+   "md5": "ddb20d088c1ac7c77e0840273a4a2715",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de papel en tonos pastel.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de papel en tonos pastel.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:fdbe09d88c1b2b76e2bd8839a3bb4912",
+   "md5": "fdbe09d88c1b2b76e2bd8839a3bb4912",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tiras de papel rasgado sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de papel rasgado sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:f79dc46995acff4c5e90ea0480fa832c",
+   "md5": "f79dc46995acff4c5e90ea0480fa832c",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tres gotas de adhesivo translúcido.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tres gotas de adhesivo translúcido.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:495ccb46a2bc8f845d4aabf1e6a11834",
+   "md5": "495ccb46a2bc8f845d4aabf1e6a11834",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tres gotas de gel transparente (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tres gotas de gel transparente (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:dc59b38caa45f1fa8e55f3f8404f4f56",
+   "md5": "dc59b38caa45f1fa8e55f3f8404f4f56",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tres gotas de gel transparente.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tres gotas de gel transparente.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:9e8ce9072786d2d7137e3c40c76c035f",
+   "md5": "9e8ce9072786d2d7137e3c40c76c035f",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tres manchas blancas texturizadas.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tres manchas blancas texturizadas.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:f86eb9db0baaf936bfaaefeb0212d17d",
+   "md5": "f86eb9db0baaf936bfaaefeb0212d17d",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tres manchas de pintura blanca (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tres manchas de pintura blanca (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:85a933ab691736434588635fb0f5720f",
+   "md5": "85a933ab691736434588635fb0f5720f",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tres manchas de pintura blanca sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tres manchas de pintura blanca sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:e3ce746e2190e54f295b26eb29088e71",
+   "md5": "e3ce746e2190e54f295b26eb29088e71",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tres manchas de pintura blanca texturizada.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tres manchas de pintura blanca texturizada.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:f8e0f735d4be2ecbe5820ad12a852888",
+   "md5": "f8e0f735d4be2ecbe5820ad12a852888",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tres manchas de pintura blanca.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tres manchas de pintura blanca.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:c507e2b59fa94baa2d6964900b88f69f",
+   "md5": "c507e2b59fa94baa2d6964900b88f69f",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tres parches adhesivos translúcidos.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tres parches adhesivos translúcidos.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:53038cd73e2b6a67fe1458fb553da624",
+   "md5": "53038cd73e2b6a67fe1458fb553da624",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tres tiras de cinta adhesiva sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tres tiras de cinta adhesiva sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:c5efdcf945592f909fb164b237796cce",
+   "md5": "c5efdcf945592f909fb164b237796cce",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tres tiras de cinta blanca texturizada.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tres tiras de cinta blanca texturizada.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:56553a8a304516a5cf6b47a24ba4d235",
+   "md5": "56553a8a304516a5cf6b47a24ba4d235",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tres tiras de cinta negra.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tres tiras de cinta negra.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:eaed81f3a4e8e89310d4350ca9c72622",
+   "md5": "eaed81f3a4e8e89310d4350ca9c72622",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Tres tiras de cinta transparente sobre gris texturizado.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Tres tiras de cinta transparente sobre gris texturizado.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:2159a613df8353ff9e1ba8c01caa3a96",
+   "md5": "2159a613df8353ff9e1ba8c01caa3a96",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Trozos de cinta adhesiva metálica.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Trozos de cinta adhesiva metálica.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:386c3261efde27c48e7316fdaeb56b57",
+   "md5": "386c3261efde27c48e7316fdaeb56b57",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/PEGATINAS/Trío de pegatinas brillantes de colores.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/PEGATINAS/Trío de pegatinas brillantes de colores.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:b0ac445a95a6e3c1f378a15922bc050c",
+   "md5": "b0ac445a95a6e3c1f378a15922bc050c",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Papel antiguo rasgado sobre fondo gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Papel antiguo rasgado sobre fondo gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:8ea67b0611d11c58543340807e68a063",
+   "md5": "8ea67b0611d11c58543340807e68a063",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Papel antiguo rasgado sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Papel antiguo rasgado sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:e45d2e967fbe0842b6c0aeb9e0a10d70",
+   "md5": "e45d2e967fbe0842b6c0aeb9e0a10d70",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Papel blanco perforado rasgado.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Papel blanco perforado rasgado.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:7568a570bcea7b4d689168f518ccd068",
+   "md5": "7568a570bcea7b4d689168f518ccd068",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Papel blanco rasgado sobre fondo gris (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Papel blanco rasgado sobre fondo gris (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:6212f090e5a3eee454e03a5c60a2aba0",
+   "md5": "6212f090e5a3eee454e03a5c60a2aba0",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Papel blanco rasgado sobre fondo gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Papel blanco rasgado sobre fondo gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:c2baf1217928f4f9b412446d8a831d11",
+   "md5": "c2baf1217928f4f9b412446d8a831d11",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Papel blanco rasgado sobre gris (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Papel blanco rasgado sobre gris (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:74641204139a174071f3cdec5942e7c4",
+   "md5": "74641204139a174071f3cdec5942e7c4",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Papel blanco rasgado sobre gris (2).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Papel blanco rasgado sobre gris (2).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:dbfdc7a4d5d50580d554c4d4e26682d8",
+   "md5": "dbfdc7a4d5d50580d554c4d4e26682d8",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Papel blanco rasgado sobre gris oscuro.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Papel blanco rasgado sobre gris oscuro.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:712b181e7b788f02b652e480d712cd50",
+   "md5": "712b181e7b788f02b652e480d712cd50",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Papel blanco rasgado sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Papel blanco rasgado sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:18ab4bfdac9f63d11b6d3d5af376cd88",
+   "md5": "18ab4bfdac9f63d11b6d3d5af376cd88",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Papel desgarrado sobre fondo azul pizarra.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Papel desgarrado sobre fondo azul pizarra.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:1d1723309383c750d221fc97db403efa",
+   "md5": "1d1723309383c750d221fc97db403efa",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Papel envejecido de bordes rasgados.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Papel envejecido de bordes rasgados.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:090329c4cd87bc430195b721a6be327d",
+   "md5": "090329c4cd87bc430195b721a6be327d",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Papel kraft rasgado sobre fondo gris (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Papel kraft rasgado sobre fondo gris (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:7ffaaad194d573e9dd3edb8a3ffb7100",
+   "md5": "7ffaaad194d573e9dd3edb8a3ffb7100",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Papel kraft rasgado sobre fondo gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Papel kraft rasgado sobre fondo gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:e7d94457a4c4be732ad23659f32a53af",
+   "md5": "e7d94457a4c4be732ad23659f32a53af",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Papel rasgado translúcido sobre fondo oscuro.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Papel rasgado translúcido sobre fondo oscuro.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:2683967e56a6b010b6a4a6674f167584",
+   "md5": "2683967e56a6b010b6a4a6674f167584",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Pentágono azul de papel recortado.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Pentágono azul de papel recortado.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:57cb8d911442dbd3ee03df77b7e21883",
+   "md5": "57cb8d911442dbd3ee03df77b7e21883",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Pentágono azul sobre fondo gris (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Pentágono azul sobre fondo gris (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:c812217f07ad697f8388133e8eb7df10",
+   "md5": "c812217f07ad697f8388133e8eb7df10",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Pentágono azul sobre fondo gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Pentágono azul sobre fondo gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:28f1ca7ff5c919844139bdbd31a562e7",
+   "md5": "28f1ca7ff5c919844139bdbd31a562e7",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Polígono azul sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Polígono azul sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:0a751d16f6622421f16d7ac9743f1bff",
+   "md5": "0a751d16f6622421f16d7ac9743f1bff",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Recorte abstracto de papel multicolor.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Recorte abstracto de papel multicolor.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:35042663bdf1c2e79f9e47af579fe956",
+   "md5": "35042663bdf1c2e79f9e47af579fe956",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Recorte de papel blanco rasgado.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Recorte de papel blanco rasgado.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:b8f95c69dd88d3cfe39479edf206dffb",
+   "md5": "b8f95c69dd88d3cfe39479edf206dffb",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Recorte de periódico antiguo en español.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Recorte de periódico antiguo en español.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:68c6875f37ec7813d4ba7952948954f1",
+   "md5": "68c6875f37ec7813d4ba7952948954f1",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Recorte de periódico desgastado.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Recorte de periódico desgastado.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:6dfcaca2192d5c989bd3a24a9d8e887d",
+   "md5": "6dfcaca2192d5c989bd3a24a9d8e887d",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/TEXTURAS TRAZOS/Garabato abstracto de grafito en blanco y negro.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/TEXTURAS TRAZOS/Garabato abstracto de grafito en blanco y negro.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:219709c2dcfb54fc526214fd4fad547a",
+   "md5": "219709c2dcfb54fc526214fd4fad547a",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/TEXTURAS TRAZOS/Garabatos abstractos de grafito.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/TEXTURAS TRAZOS/Garabatos abstractos de grafito.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:192660a18396a51b0f035c0f3104ec43",
+   "md5": "192660a18396a51b0f035c0f3104ec43",
+   "tipo": "imagen",
+   "w": 2048,
+   "h": 2048,
+   "archivo": "originales/collage/TEXTURAS TRAZOS/Gemini_Generated_Image_5oxk6f5oxk6f5oxk.jpg",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/TEXTURAS TRAZOS/Gemini_Generated_Image_5oxk6f5oxk6f5oxk.jpg",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:842f62ff9472ebe1b61c7ec2927e6fb1",
+   "md5": "842f62ff9472ebe1b61c7ec2927e6fb1",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/TEXTURAS TRAZOS/Textura abstracta de garabatos en grafito.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/TEXTURAS TRAZOS/Textura abstracta de garabatos en grafito.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:9104e70b1622252a498b84cf727ef8c4",
+   "md5": "9104e70b1622252a498b84cf727ef8c4",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/TEXTURAS TRAZOS/Textura abstracta de grafito en espiral.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/TEXTURAS TRAZOS/Textura abstracta de grafito en espiral.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:9281e72551ddc92863bdabacf5daa084",
+   "md5": "9281e72551ddc92863bdabacf5daa084",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/TEXTURAS TRAZOS/Textura abstracta de grafito entrecruzado.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/TEXTURAS TRAZOS/Textura abstracta de grafito entrecruzado.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:b5e06db9e0b368f2e6dff7e58b892750",
+   "md5": "b5e06db9e0b368f2e6dff7e58b892750",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/TEXTURAS TRAZOS/Textura abstracta de grafito entrelazado.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/TEXTURAS TRAZOS/Textura abstracta de grafito entrelazado.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:59a19d57b451f6da0a1c124c1a253fc4",
+   "md5": "59a19d57b451f6da0a1c124c1a253fc4",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/TEXTURAS TRAZOS/Textura abstracta de grafito y carboncillo.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/TEXTURAS TRAZOS/Textura abstracta de grafito y carboncillo.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:efad06e7dc304bb862f60f8dc2f1aa00",
+   "md5": "efad06e7dc304bb862f60f8dc2f1aa00",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/TEXTURAS TRAZOS/Textura abstracta de grafito y garabatos.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/TEXTURAS TRAZOS/Textura abstracta de grafito y garabatos.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:6da26ae481ec68100de6daf01e6bfb63",
+   "md5": "6da26ae481ec68100de6daf01e6bfb63",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/TEXTURAS TRAZOS/Textura caótica de grafito sobre papel blanco.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/TEXTURAS TRAZOS/Textura caótica de grafito sobre papel blanco.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:660b53046e85dba64912b8adf08fae1c",
+   "md5": "660b53046e85dba64912b8adf08fae1c",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/TEXTURAS TRAZOS/Textura caótica de grafito y carboncillo.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/TEXTURAS TRAZOS/Textura caótica de grafito y carboncillo.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:16d2540bf7062090f8df65c889cccac7",
+   "md5": "16d2540bf7062090f8df65c889cccac7",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/TEXTURAS TRAZOS/Textura de Garabatos de Grafito Abstractos.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/TEXTURAS TRAZOS/Textura de Garabatos de Grafito Abstractos.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:656641bb56957f38f57639f92a09b79d",
+   "md5": "656641bb56957f38f57639f92a09b79d",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Tira de papel blanco rasgado.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Tira de papel blanco rasgado.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:9a04d193a7131e3f45a7e63b98702e8a",
+   "md5": "9a04d193a7131e3f45a7e63b98702e8a",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Tira de papel rasgado sobre fondo gris (1).png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Tira de papel rasgado sobre fondo gris (1).png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:6ce91eba1a64030250c4c68a0639ab20",
+   "md5": "6ce91eba1a64030250c4c68a0639ab20",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Tira de papel rasgado sobre fondo gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Tira de papel rasgado sobre fondo gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  },
+  {
+   "id": "or:206bcb00b4e9252ced498a0c00f4abb3",
+   "md5": "206bcb00b4e9252ced498a0c00f4abb3",
+   "tipo": "imagen",
+   "w": 1254,
+   "h": 1254,
+   "archivo": "originales/collage/Tira de papel rasgado sobre gris.png",
+   "origen_biblioteca": "AÑADIDOS/COLLAGE/Tira de papel rasgado sobre gris.png",
+   "procedencia": "generada con IA (Gemini) por Iker"
+  }
+ ]
 }

@@ -1,0 +1,55 @@
+{
+"n": 234,
+"rel": "Recorte de periódico desgastado.png",
+"md5": "68c6875f37ec7813d4ba7952948954f1",
+"material": "periodico",
+"piezas": [
+{
+"id": "tx:collage/papeles/periodico/periodico_0234_1",
+"archivo": "collage/papeles/periodico/periodico_0234_1.png",
+"familia": "papeles/periodico",
+"material": "periodico",
+"desc": "recorte de periódico antiguo (texto en español)",
+"optica": "opaco",
+"borde": "rasgado",
+"w": 1132,
+"h": 850,
+"alfa": true,
+"cobertura": 0.8192,
+"alfa_parcial": 0.0075,
+"opacidad_media": 0.995,
+"color_medio": [
+182,
+169,
+151
+],
+"color": "#b6a997",
+"modo": "normal",
+"recorte": [
+62,
+204,
+1132,
+850
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Recorte de periódico desgastado.png",
+"md5": "68c6875f37ec7813d4ba7952948954f1",
+"w": 1254,
+"h": 1254,
+"n": 234,
+"fondo_medido": "#434a50",
+"ruido_fondo": 0.57
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "d7af0d7c9de7bc233a2c80c35ad8167c",
+"sombra": {
+"archivo": "collage/papeles/periodico/periodico_0234_1_sombra.png",
+"max": 0.101,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#434a50",
+"ruido_fondo": 0.57,
+"fraccion_fondo": 0.46
+}

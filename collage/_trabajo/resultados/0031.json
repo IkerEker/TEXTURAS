@@ -1,0 +1,55 @@
+{
+"n": 31,
+"rel": "Gemini_Generated_Image_emwacjemwacjemwa.jpg",
+"md5": "7aa058b2dd4e2053e24a3df06d0bd3ff",
+"material": "envejecido",
+"piezas": [
+{
+"id": "tx:collage/papeles/envejecido/envejecido_0031_1",
+"archivo": "collage/papeles/envejecido/envejecido_0031_1.png",
+"familia": "papeles/envejecido",
+"material": "envejecido",
+"desc": "papel antiguo amarillento con bordes gastados",
+"optica": "opaco",
+"borde": "gastado / rasgado",
+"w": 1409,
+"h": 1493,
+"alfa": true,
+"cobertura": 0.9008,
+"alfa_parcial": 0.0084,
+"opacidad_media": 0.997,
+"color_medio": [
+244,
+224,
+194
+],
+"color": "#f4e0c2",
+"modo": "normal",
+"recorte": [
+322,
+294,
+1409,
+1493
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_emwacjemwacjemwa.jpg",
+"md5": "7aa058b2dd4e2053e24a3df06d0bd3ff",
+"w": 2048,
+"h": 2048,
+"n": 31,
+"fondo_medido": "#515051",
+"ruido_fondo": 0.7
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "2279a0be132497d5b1da92b678c05cc5",
+"sombra": {
+"archivo": "collage/papeles/envejecido/envejecido_0031_1_sombra.png",
+"max": 0.376,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#515051",
+"ruido_fondo": 0.7,
+"fraccion_fondo": 0.517
+}

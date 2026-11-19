@@ -1,0 +1,50 @@
+{
+"n": 213,
+"rel": "Papel antiguo rasgado sobre fondo gris.png",
+"md5": "b0ac445a95a6e3c1f378a15922bc050c",
+"material": "envejecido",
+"piezas": [
+{
+"id": "tx:collage/papeles/envejecido/envejecido_0213_1",
+"archivo": "collage/papeles/envejecido/envejecido_0213_1.png",
+"familia": "papeles/envejecido",
+"material": "envejecido",
+"desc": "papel antiguo amarillento con bordes gastados",
+"optica": "opaco",
+"borde": "gastado / rasgado",
+"w": 1056,
+"h": 1134,
+"alfa": true,
+"cobertura": 0.8839,
+"alfa_parcial": 0.0059,
+"opacidad_media": 0.997,
+"color_medio": [
+221,
+196,
+144
+],
+"color": "#ddc490",
+"modo": "normal",
+"recorte": [
+93,
+65,
+1056,
+1134
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Papel antiguo rasgado sobre fondo gris.png",
+"md5": "b0ac445a95a6e3c1f378a15922bc050c",
+"w": 1254,
+"h": 1254,
+"n": 213,
+"fondo_medido": "#575756",
+"ruido_fondo": 0.55
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "48dd86e17f122262c409d3a102c5d16f"
+}
+],
+"fondo_medido": "#575756",
+"ruido_fondo": 0.55,
+"fraccion_fondo": 0.284
+}

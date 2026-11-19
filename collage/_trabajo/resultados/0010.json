@@ -1,0 +1,50 @@
+{
+"n": 10,
+"rel": "Fragmento de papel rasgado en fondo azul pizarra.png",
+"md5": "bcec48f03e5a507d0ac5a5ebb452f73f",
+"material": "seda",
+"piezas": [
+{
+"id": "tx:collage/papeles/seda/seda_0010_1",
+"archivo": "collage/papeles/seda/seda_0010_1.png",
+"familia": "papeles/seda",
+"material": "seda",
+"desc": "papel de seda / tisú / vegetal fibroso, translúcido",
+"optica": "translucido",
+"borde": "rasgado deshilachado",
+"w": 1107,
+"h": 1040,
+"alfa": true,
+"cobertura": 0.3192,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.477,
+"color_medio": [
+254,
+251,
+251
+],
+"color": "#fefbfb",
+"modo": "normal",
+"recorte": [
+60,
+112,
+1107,
+1040
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Fragmento de papel rasgado en fondo azul pizarra.png",
+"md5": "bcec48f03e5a507d0ac5a5ebb452f73f",
+"w": 1254,
+"h": 1254,
+"n": 10,
+"fondo_medido": "#364652",
+"ruido_fondo": 0.48
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "a45608c1bb4bef6d63b11b5c760436b7"
+}
+],
+"fondo_medido": "#364652",
+"ruido_fondo": 0.48,
+"fraccion_fondo": 0.473
+}

@@ -1,0 +1,50 @@
+{
+"n": 8,
+"rel": "Fragmento de papel fibroso sobre fondo azul pizarra.png",
+"md5": "5154cd30d32f67ec9cc80c1898b50670",
+"material": "seda",
+"piezas": [
+{
+"id": "tx:collage/papeles/seda/seda_0008_1",
+"archivo": "collage/papeles/seda/seda_0008_1.png",
+"familia": "papeles/seda",
+"material": "seda",
+"desc": "papel de seda / tisú / vegetal fibroso, translúcido",
+"optica": "translucido",
+"borde": "rasgado deshilachado",
+"w": 1124,
+"h": 945,
+"alfa": true,
+"cobertura": 0.2571,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.442,
+"color_medio": [
+254,
+250,
+250
+],
+"color": "#fefafa",
+"modo": "normal",
+"recorte": [
+72,
+165,
+1124,
+945
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Fragmento de papel fibroso sobre fondo azul pizarra.png",
+"md5": "5154cd30d32f67ec9cc80c1898b50670",
+"w": 1254,
+"h": 1254,
+"n": 8,
+"fondo_medido": "#384854",
+"ruido_fondo": 0.57
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "f1f6b227bd551188a1f31aaa9c128c8d"
+}
+],
+"fondo_medido": "#384854",
+"ruido_fondo": 0.57,
+"fraccion_fondo": 0.572
+}

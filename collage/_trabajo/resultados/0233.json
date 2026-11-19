@@ -1,0 +1,50 @@
+{
+"n": 233,
+"rel": "Recorte de periódico antiguo en español.png",
+"md5": "b8f95c69dd88d3cfe39479edf206dffb",
+"material": "periodico",
+"piezas": [
+{
+"id": "tx:collage/papeles/periodico/periodico_0233_1",
+"archivo": "collage/papeles/periodico/periodico_0233_1.png",
+"familia": "papeles/periodico",
+"material": "periodico",
+"desc": "recorte de periódico antiguo (texto en español)",
+"optica": "opaco",
+"borde": "rasgado",
+"w": 1145,
+"h": 790,
+"alfa": true,
+"cobertura": 0.7989,
+"alfa_parcial": 0.0091,
+"opacidad_media": 0.994,
+"color_medio": [
+183,
+173,
+153
+],
+"color": "#b7ad99",
+"modo": "normal",
+"recorte": [
+53,
+226,
+1145,
+790
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Recorte de periódico antiguo en español.png",
+"md5": "b8f95c69dd88d3cfe39479edf206dffb",
+"w": 1254,
+"h": 1254,
+"n": 233,
+"fondo_medido": "#4d4d4d",
+"ruido_fondo": 0.57
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "e134c42bda2140283ec77378c9f51b7a"
+}
+],
+"fondo_medido": "#4d4d4d",
+"ruido_fondo": 0.57,
+"fraccion_fondo": 0.501
+}

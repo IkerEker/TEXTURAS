@@ -1,0 +1,99 @@
+{
+"n": 132,
+"rel": "PEGATINAS/Gemini_Generated_Image_uw0fy7uw0fy7uw0f.jpg",
+"md5": "12f3f35f68f9afb2beb56e1ddd2aa823",
+"material": "cinta_plata",
+"piezas": [
+{
+"id": "tx:collage/cintas/americana/cinta_plata_0132_1",
+"archivo": "collage/cintas/americana/cinta_plata_0132_1.png",
+"familia": "cintas/americana",
+"material": "cinta_plata",
+"desc": "cinta americana gris plateada con trama",
+"optica": "opaco",
+"borde": "rasgado con hilos",
+"w": 1567,
+"h": 481,
+"alfa": true,
+"cobertura": 0.8061,
+"alfa_parcial": 0.014,
+"opacidad_media": 0.992,
+"color_medio": [
+173,
+174,
+175
+],
+"color": "#adaeaf",
+"modo": "normal",
+"recorte": [
+233,
+421,
+1567,
+481
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_uw0fy7uw0fy7uw0f.jpg",
+"md5": "12f3f35f68f9afb2beb56e1ddd2aa823",
+"w": 2048,
+"h": 2048,
+"n": 132,
+"fondo_medido": "#cececd",
+"ruido_fondo": 0.58
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "24e5728ee7be29d32b599c58f3f22549",
+"sombra": {
+"archivo": "collage/cintas/americana/cinta_plata_0132_1_sombra.png",
+"max": 0.185,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/cintas/americana/cinta_plata_0132_2",
+"archivo": "collage/cintas/americana/cinta_plata_0132_2.png",
+"familia": "cintas/americana",
+"material": "cinta_plata",
+"desc": "cinta americana gris plateada con trama",
+"optica": "opaco",
+"borde": "rasgado con hilos",
+"w": 1394,
+"h": 847,
+"alfa": true,
+"cobertura": 0.4395,
+"alfa_parcial": 0.0148,
+"opacidad_media": 0.99,
+"color_medio": [
+151,
+151,
+151
+],
+"color": "#979797",
+"modo": "normal",
+"recorte": [
+321,
+954,
+1394,
+847
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_uw0fy7uw0fy7uw0f.jpg",
+"md5": "12f3f35f68f9afb2beb56e1ddd2aa823",
+"w": 2048,
+"h": 2048,
+"n": 132,
+"fondo_medido": "#cececd",
+"ruido_fondo": 0.58
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "d58daa4386e273b2e83fa4f991a18722",
+"sombra": {
+"archivo": "collage/cintas/americana/cinta_plata_0132_2_sombra.png",
+"max": 0.111,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#cececd",
+"ruido_fondo": 0.58,
+"fraccion_fondo": 0.693
+}

@@ -1,0 +1,133 @@
+{
+"n": 190,
+"rel": "PEGATINAS/Tiras de cinta negra sobre gris (3).png",
+"md5": "5d8cc27ffb328ea18f71d0565f0c3b67",
+"material": "cinta_negra",
+"piezas": [
+{
+"id": "tx:collage/cintas/aislante_negra/cinta_negra_0190_1",
+"archivo": "collage/cintas/aislante_negra/cinta_negra_0190_1.png",
+"familia": "cintas/aislante_negra",
+"material": "cinta_negra",
+"desc": "cinta aislante de vinilo negra",
+"optica": "opaco",
+"borde": "cortado a tijera",
+"w": 925,
+"h": 366,
+"alfa": true,
+"cobertura": 0.476,
+"alfa_parcial": 0.0123,
+"opacidad_media": 0.99,
+"color_medio": [
+31,
+31,
+30
+],
+"color": "#1f1f1e",
+"modo": "normal",
+"recorte": [
+159,
+108,
+925,
+366
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta negra sobre gris (3).png",
+"md5": "5d8cc27ffb328ea18f71d0565f0c3b67",
+"w": 1254,
+"h": 1254,
+"n": 190,
+"fondo_medido": "#a7a7a7",
+"ruido_fondo": 0.6
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "3488b5d4525aeb142bd421f92f64d603"
+},
+{
+"id": "tx:collage/cintas/aislante_negra/cinta_negra_0190_2",
+"archivo": "collage/cintas/aislante_negra/cinta_negra_0190_2.png",
+"familia": "cintas/aislante_negra",
+"material": "cinta_negra",
+"desc": "cinta aislante de vinilo negra",
+"optica": "opaco",
+"borde": "cortado a tijera",
+"w": 843,
+"h": 280,
+"alfa": true,
+"cobertura": 0.5029,
+"alfa_parcial": 0.0159,
+"opacidad_media": 0.987,
+"color_medio": [
+37,
+36,
+36
+],
+"color": "#252424",
+"modo": "normal",
+"recorte": [
+192,
+516,
+843,
+280
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta negra sobre gris (3).png",
+"md5": "5d8cc27ffb328ea18f71d0565f0c3b67",
+"w": 1254,
+"h": 1254,
+"n": 190,
+"fondo_medido": "#a7a7a7",
+"ruido_fondo": 0.6
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "03d6038ff3810623db0fded40875a84f"
+},
+{
+"id": "tx:collage/cintas/aislante_negra/cinta_negra_0190_3",
+"archivo": "collage/cintas/aislante_negra/cinta_negra_0190_3.png",
+"familia": "cintas/aislante_negra",
+"material": "cinta_negra",
+"desc": "cinta aislante de vinilo negra",
+"optica": "opaco",
+"borde": "cortado a tijera",
+"w": 910,
+"h": 307,
+"alfa": true,
+"cobertura": 0.5818,
+"alfa_parcial": 0.014,
+"opacidad_media": 0.988,
+"color_medio": [
+33,
+33,
+32
+],
+"color": "#212120",
+"modo": "normal",
+"recorte": [
+200,
+847,
+910,
+307
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta negra sobre gris (3).png",
+"md5": "5d8cc27ffb328ea18f71d0565f0c3b67",
+"w": 1254,
+"h": 1254,
+"n": 190,
+"fondo_medido": "#a7a7a7",
+"ruido_fondo": 0.6
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "b40c682fbec87fc50dff494dd26f9a0f",
+"sombra": {
+"archivo": "collage/cintas/aislante_negra/cinta_negra_0190_3_sombra.png",
+"max": 0.175,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#a7a7a7",
+"ruido_fondo": 0.6,
+"fraccion_fondo": 0.666
+}

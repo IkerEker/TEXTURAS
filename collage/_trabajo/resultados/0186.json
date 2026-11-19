@@ -1,0 +1,128 @@
+{
+"n": 186,
+"rel": "PEGATINAS/Tiras de cinta de papel sobre gris (2).png",
+"md5": "52072885a3dfac0f118e046de719d384",
+"material": "carrocero",
+"piezas": [
+{
+"id": "tx:collage/cintas/carrocero/carrocero_0186_1",
+"archivo": "collage/cintas/carrocero/carrocero_0186_1.png",
+"familia": "cintas/carrocero",
+"material": "carrocero",
+"desc": "cinta de carrocero de papel crepé beige",
+"optica": "opaco",
+"borde": "rasgado a mano",
+"w": 1099,
+"h": 103,
+"alfa": true,
+"cobertura": 0.6394,
+"alfa_parcial": 0.0397,
+"opacidad_media": 0.979,
+"color_medio": [
+208,
+209,
+212
+],
+"color": "#d0d1d4",
+"modo": "normal",
+"recorte": [
+74,
+330,
+1099,
+103
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta de papel sobre gris (2).png",
+"md5": "52072885a3dfac0f118e046de719d384",
+"w": 1254,
+"h": 1254,
+"n": 186,
+"fondo_medido": "#7d7b7c",
+"ruido_fondo": 0.83
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "4e140fb0fc98f28be49137ae8f927dbc"
+},
+{
+"id": "tx:collage/cintas/carrocero/carrocero_0186_2",
+"archivo": "collage/cintas/carrocero/carrocero_0186_2.png",
+"familia": "cintas/carrocero",
+"material": "carrocero",
+"desc": "cinta de carrocero de papel crepé beige",
+"optica": "opaco",
+"borde": "rasgado a mano",
+"w": 1100,
+"h": 122,
+"alfa": true,
+"cobertura": 0.5162,
+"alfa_parcial": 0.0412,
+"opacidad_media": 0.976,
+"color_medio": [
+206,
+206,
+210
+],
+"color": "#ceced2",
+"modo": "normal",
+"recorte": [
+75,
+569,
+1100,
+122
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta de papel sobre gris (2).png",
+"md5": "52072885a3dfac0f118e046de719d384",
+"w": 1254,
+"h": 1254,
+"n": 186,
+"fondo_medido": "#7d7b7c",
+"ruido_fondo": 0.83
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "b332855abaa63ed145f19981fbcb4d4e"
+},
+{
+"id": "tx:collage/cintas/carrocero/carrocero_0186_3",
+"archivo": "collage/cintas/carrocero/carrocero_0186_3.png",
+"familia": "cintas/carrocero",
+"material": "carrocero",
+"desc": "cinta de carrocero de papel crepé beige",
+"optica": "opaco",
+"borde": "rasgado a mano",
+"w": 1007,
+"h": 116,
+"alfa": true,
+"cobertura": 0.6016,
+"alfa_parcial": 0.0401,
+"opacidad_media": 0.978,
+"color_medio": [
+206,
+206,
+209
+],
+"color": "#ceced1",
+"modo": "normal",
+"recorte": [
+121,
+842,
+1007,
+116
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta de papel sobre gris (2).png",
+"md5": "52072885a3dfac0f118e046de719d384",
+"w": 1254,
+"h": 1254,
+"n": 186,
+"fondo_medido": "#7d7b7c",
+"ruido_fondo": 0.83
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "5887564b3e1d5a74cb10f5f8496512b4"
+}
+],
+"fondo_medido": "#7d7b7c",
+"ruido_fondo": 0.83,
+"fraccion_fondo": 0.808
+}

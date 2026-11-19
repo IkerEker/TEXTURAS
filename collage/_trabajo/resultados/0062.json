@@ -1,0 +1,99 @@
+{
+"n": 62,
+"rel": "PEGATINAS/Cinta adhesiva plateada rasgada y arrugada.png",
+"md5": "144fdc4d7019364c74ee35c8e37ec3a7",
+"material": "cinta_plata",
+"piezas": [
+{
+"id": "tx:collage/cintas/americana/cinta_plata_0062_1",
+"archivo": "collage/cintas/americana/cinta_plata_0062_1.png",
+"familia": "cintas/americana",
+"material": "cinta_plata",
+"desc": "cinta americana gris plateada con trama",
+"optica": "opaco",
+"borde": "rasgado con hilos",
+"w": 997,
+"h": 427,
+"alfa": true,
+"cobertura": 0.7623,
+"alfa_parcial": 0.0117,
+"opacidad_media": 0.992,
+"color_medio": [
+136,
+139,
+143
+],
+"color": "#888b8f",
+"modo": "normal",
+"recorte": [
+74,
+111,
+997,
+427
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Cinta adhesiva plateada rasgada y arrugada.png",
+"md5": "144fdc4d7019364c74ee35c8e37ec3a7",
+"w": 1254,
+"h": 1254,
+"n": 62,
+"fondo_medido": "#c1c0c0",
+"ruido_fondo": 1.04
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "aa1232d81377da9c261b9712ba0c6674",
+"sombra": {
+"archivo": "collage/cintas/americana/cinta_plata_0062_1_sombra.png",
+"max": 0.132,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/cintas/americana/cinta_plata_0062_2",
+"archivo": "collage/cintas/americana/cinta_plata_0062_2.png",
+"familia": "cintas/americana",
+"material": "cinta_plata",
+"desc": "cinta americana gris plateada con trama",
+"optica": "opaco",
+"borde": "rasgado con hilos",
+"w": 1045,
+"h": 646,
+"alfa": true,
+"cobertura": 0.5215,
+"alfa_parcial": 0.0101,
+"opacidad_media": 0.992,
+"color_medio": [
+129,
+132,
+135
+],
+"color": "#818487",
+"modo": "normal",
+"recorte": [
+118,
+559,
+1045,
+646
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Cinta adhesiva plateada rasgada y arrugada.png",
+"md5": "144fdc4d7019364c74ee35c8e37ec3a7",
+"w": 1254,
+"h": 1254,
+"n": 62,
+"fondo_medido": "#c1c0c0",
+"ruido_fondo": 1.04
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "80836fd53fcd6b4c8aabc124bb2f33af",
+"sombra": {
+"archivo": "collage/cintas/americana/cinta_plata_0062_2_sombra.png",
+"max": 0.124,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#c1c0c0",
+"ruido_fondo": 1.04,
+"fraccion_fondo": 0.508
+}

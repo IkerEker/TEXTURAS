@@ -1,0 +1,143 @@
+{
+"n": 98,
+"rel": "PEGATINAS/Gemini_Generated_Image_7wnxrc7wnxrc7wnx.jpg",
+"md5": "e87b729ef1794fa9d025c955b699fac9",
+"material": "carrocero",
+"piezas": [
+{
+"id": "tx:collage/cintas/carrocero/carrocero_0098_1",
+"archivo": "collage/cintas/carrocero/carrocero_0098_1.png",
+"familia": "cintas/carrocero",
+"material": "carrocero",
+"desc": "cinta de carrocero de papel crepé beige",
+"optica": "opaco",
+"borde": "rasgado a mano",
+"w": 1497,
+"h": 383,
+"alfa": true,
+"cobertura": 0.7971,
+"alfa_parcial": 0.0167,
+"opacidad_media": 0.993,
+"color_medio": [
+202,
+186,
+164
+],
+"color": "#cabaa4",
+"modo": "normal",
+"recorte": [
+274,
+212,
+1497,
+383
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_7wnxrc7wnxrc7wnx.jpg",
+"md5": "e87b729ef1794fa9d025c955b699fac9",
+"w": 2048,
+"h": 2048,
+"n": 98,
+"fondo_medido": "#898a89",
+"ruido_fondo": 0.6
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "a1bcf4725cbb7b0eeb041bc69d89ab72",
+"sombra": {
+"archivo": "collage/cintas/carrocero/carrocero_0098_1_sombra.png",
+"max": 0.401,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/cintas/carrocero/carrocero_0098_2",
+"archivo": "collage/cintas/carrocero/carrocero_0098_2.png",
+"familia": "cintas/carrocero",
+"material": "carrocero",
+"desc": "cinta de carrocero de papel crepé beige",
+"optica": "opaco",
+"borde": "rasgado a mano",
+"w": 1042,
+"h": 504,
+"alfa": true,
+"cobertura": 0.5525,
+"alfa_parcial": 0.0173,
+"opacidad_media": 0.992,
+"color_medio": [
+199,
+184,
+161
+],
+"color": "#c7b8a1",
+"modo": "normal",
+"recorte": [
+498,
+691,
+1042,
+504
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_7wnxrc7wnxrc7wnx.jpg",
+"md5": "e87b729ef1794fa9d025c955b699fac9",
+"w": 2048,
+"h": 2048,
+"n": 98,
+"fondo_medido": "#898a89",
+"ruido_fondo": 0.6
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "cf64e131d08005cfaa58085d429f9324",
+"sombra": {
+"archivo": "collage/cintas/carrocero/carrocero_0098_2_sombra.png",
+"max": 0.459,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/cintas/carrocero/carrocero_0098_3",
+"archivo": "collage/cintas/carrocero/carrocero_0098_3.png",
+"familia": "cintas/carrocero",
+"material": "carrocero",
+"desc": "cinta de carrocero de papel crepé beige",
+"optica": "opaco",
+"borde": "rasgado a mano",
+"w": 391,
+"h": 740,
+"alfa": true,
+"cobertura": 0.687,
+"alfa_parcial": 0.0188,
+"opacidad_media": 0.992,
+"color_medio": [
+193,
+178,
+154
+],
+"color": "#c1b29a",
+"modo": "normal",
+"recorte": [
+836,
+1198,
+391,
+740
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_7wnxrc7wnxrc7wnx.jpg",
+"md5": "e87b729ef1794fa9d025c955b699fac9",
+"w": 2048,
+"h": 2048,
+"n": 98,
+"fondo_medido": "#898a89",
+"ruido_fondo": 0.6
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "5cc455d734f74e714af748598fe36506",
+"sombra": {
+"archivo": "collage/cintas/carrocero/carrocero_0098_3_sombra.png",
+"max": 0.364,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#898a89",
+"ruido_fondo": 0.6,
+"fraccion_fondo": 0.735
+}

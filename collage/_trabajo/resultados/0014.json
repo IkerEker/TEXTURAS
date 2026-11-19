@@ -1,0 +1,55 @@
+{
+"n": 14,
+"rel": "Fragmento de periódico antiguo rasgado-2.png",
+"md5": "8d694069c44fcbea1dc68574a201ff26",
+"material": "periodico",
+"piezas": [
+{
+"id": "tx:collage/papeles/periodico/periodico_0014_1",
+"archivo": "collage/papeles/periodico/periodico_0014_1.png",
+"familia": "papeles/periodico",
+"material": "periodico",
+"desc": "recorte de periódico antiguo (texto en español)",
+"optica": "opaco",
+"borde": "rasgado",
+"w": 1075,
+"h": 751,
+"alfa": true,
+"cobertura": 0.8282,
+"alfa_parcial": 0.0081,
+"opacidad_media": 0.995,
+"color_medio": [
+172,
+158,
+136
+],
+"color": "#ac9e88",
+"modo": "normal",
+"recorte": [
+89,
+251,
+1075,
+751
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Fragmento de periódico antiguo rasgado-2.png",
+"md5": "8d694069c44fcbea1dc68574a201ff26",
+"w": 1254,
+"h": 1254,
+"n": 14,
+"fondo_medido": "#42464c",
+"ruido_fondo": 0.58
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "949d54534bf3d5517992e003b4f9a662",
+"sombra": {
+"archivo": "collage/papeles/periodico/periodico_0014_1_sombra.png",
+"max": 0.11,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#42464c",
+"ruido_fondo": 0.58,
+"fraccion_fondo": 0.537
+}

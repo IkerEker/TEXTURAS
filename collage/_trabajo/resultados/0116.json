@@ -1,0 +1,94 @@
+{
+"n": 116,
+"rel": "PEGATINAS/Gemini_Generated_Image_lor9mflor9mflor9.jpg",
+"md5": "421f04e03987b42fb257252354761c9a",
+"material": "cinta_plata",
+"piezas": [
+{
+"id": "tx:collage/cintas/americana/cinta_plata_0116_1",
+"archivo": "collage/cintas/americana/cinta_plata_0116_1.png",
+"familia": "cintas/americana",
+"material": "cinta_plata",
+"desc": "cinta americana gris plateada con trama",
+"optica": "opaco",
+"borde": "rasgado con hilos",
+"w": 1598,
+"h": 469,
+"alfa": true,
+"cobertura": 0.798,
+"alfa_parcial": 0.016,
+"opacidad_media": 0.991,
+"color_medio": [
+172,
+172,
+172
+],
+"color": "#acacac",
+"modo": "normal",
+"recorte": [
+211,
+351,
+1598,
+469
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_lor9mflor9mflor9.jpg",
+"md5": "421f04e03987b42fb257252354761c9a",
+"w": 2048,
+"h": 2048,
+"n": 116,
+"fondo_medido": "#d0d0d0",
+"ruido_fondo": 0.65
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "8e99a297f6cd31c450a7b7dcec2963e6"
+},
+{
+"id": "tx:collage/cintas/americana/cinta_plata_0116_2",
+"archivo": "collage/cintas/americana/cinta_plata_0116_2.png",
+"familia": "cintas/americana",
+"material": "cinta_plata",
+"desc": "cinta americana gris plateada con trama",
+"optica": "opaco",
+"borde": "rasgado con hilos",
+"w": 1506,
+"h": 937,
+"alfa": true,
+"cobertura": 0.378,
+"alfa_parcial": 0.0176,
+"opacidad_media": 0.99,
+"color_medio": [
+149,
+148,
+149
+],
+"color": "#959495",
+"modo": "normal",
+"recorte": [
+251,
+906,
+1506,
+937
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_lor9mflor9mflor9.jpg",
+"md5": "421f04e03987b42fb257252354761c9a",
+"w": 2048,
+"h": 2048,
+"n": 116,
+"fondo_medido": "#d0d0d0",
+"ruido_fondo": 0.65
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "b3dfb6dde4dd75d0b8ab5979bae37a24",
+"sombra": {
+"archivo": "collage/cintas/americana/cinta_plata_0116_2_sombra.png",
+"max": 0.132,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#d0d0d0",
+"ruido_fondo": 0.65,
+"fraccion_fondo": 0.689
+}

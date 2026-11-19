@@ -1,0 +1,50 @@
+{
+"n": 50,
+"rel": "Gemini_Generated_Image_tqmligtqmligtqml.jpg",
+"md5": "453120d51fc4a60ad878d811589c73a4",
+"material": "estampado",
+"piezas": [
+{
+"id": "tx:collage/papeles/estampado/estampado_0050_1",
+"archivo": "collage/papeles/estampado/estampado_0050_1.png",
+"familia": "papeles/estampado",
+"material": "estampado",
+"desc": "polígono recortado de papel impreso (azul, rojo y crema)",
+"optica": "opaco",
+"borde": "cortado recto",
+"w": 1436,
+"h": 1514,
+"alfa": true,
+"cobertura": 0.7301,
+"alfa_parcial": 0.0037,
+"opacidad_media": 0.998,
+"color_medio": [
+159,
+136,
+141
+],
+"color": "#9f888d",
+"modo": "normal",
+"recorte": [
+299,
+247,
+1436,
+1514
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_tqmligtqmligtqml.jpg",
+"md5": "453120d51fc4a60ad878d811589c73a4",
+"w": 2048,
+"h": 2048,
+"n": 50,
+"fondo_medido": "#7e7f7e",
+"ruido_fondo": 0.62
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "6a798a9b49b153bd10c338418e537e7c"
+}
+],
+"fondo_medido": "#7e7f7e",
+"ruido_fondo": 0.62,
+"fraccion_fondo": 0.595
+}

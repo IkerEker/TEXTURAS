@@ -1,0 +1,50 @@
+{
+"n": 59,
+"rel": "Hoja de cuaderno rasgada sobre gris.png",
+"md5": "fd1538ca47b9f3951c322b06be7e85a2",
+"material": "cuaderno",
+"piezas": [
+{
+"id": "tx:collage/papeles/cuaderno/cuaderno_0059_1",
+"archivo": "collage/papeles/cuaderno/cuaderno_0059_1.png",
+"familia": "papeles/cuaderno",
+"material": "cuaderno",
+"desc": "hoja de cuaderno arrancada (perforaciones o espiral)",
+"optica": "opaco",
+"borde": "cortado + arrancado por la perforación",
+"w": 858,
+"h": 1112,
+"alfa": true,
+"cobertura": 0.8877,
+"alfa_parcial": 0.0076,
+"opacidad_media": 0.995,
+"color_medio": [
+238,
+238,
+239
+],
+"color": "#eeeeef",
+"modo": "normal",
+"recorte": [
+182,
+69,
+858,
+1112
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Hoja de cuaderno rasgada sobre gris.png",
+"md5": "fd1538ca47b9f3951c322b06be7e85a2",
+"w": 1254,
+"h": 1254,
+"n": 59,
+"fondo_medido": "#636262",
+"ruido_fondo": 0.51
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "239d66b2256ca4f2a67f7f5876d36ecd"
+}
+],
+"fondo_medido": "#636262",
+"ruido_fondo": 0.51,
+"fraccion_fondo": 0.413
+}

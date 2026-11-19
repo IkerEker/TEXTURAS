@@ -1,0 +1,143 @@
+{
+"n": 136,
+"rel": "PEGATINAS/Gemini_Generated_Image_wm53p2wm53p2wm53.jpg",
+"md5": "5ca316027c965724fe4af68b19de723b",
+"material": "cinta_tela",
+"piezas": [
+{
+"id": "tx:collage/cintas/tela_blanca/cinta_tela_0136_1",
+"archivo": "collage/cintas/tela_blanca/cinta_tela_0136_1.png",
+"familia": "cintas/tela_blanca",
+"material": "cinta_tela",
+"desc": "cinta blanca de tela / esparadrapo",
+"optica": "opaco",
+"borde": "cortado y rasgado",
+"w": 1525,
+"h": 282,
+"alfa": true,
+"cobertura": 0.8199,
+"alfa_parcial": 0.0203,
+"opacidad_media": 0.993,
+"color_medio": [
+222,
+222,
+222
+],
+"color": "#dedede",
+"modo": "normal",
+"recorte": [
+262,
+388,
+1525,
+282
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_wm53p2wm53p2wm53.jpg",
+"md5": "5ca316027c965724fe4af68b19de723b",
+"w": 2048,
+"h": 2048,
+"n": 136,
+"fondo_medido": "#858585",
+"ruido_fondo": 0.55
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "6b07d460bdc37d395785934f63be072e",
+"sombra": {
+"archivo": "collage/cintas/tela_blanca/cinta_tela_0136_1_sombra.png",
+"max": 0.213,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/cintas/tela_blanca/cinta_tela_0136_2",
+"archivo": "collage/cintas/tela_blanca/cinta_tela_0136_2.png",
+"familia": "cintas/tela_blanca",
+"material": "cinta_tela",
+"desc": "cinta blanca de tela / esparadrapo",
+"optica": "opaco",
+"borde": "cortado y rasgado",
+"w": 1542,
+"h": 315,
+"alfa": true,
+"cobertura": 0.7333,
+"alfa_parcial": 0.0181,
+"opacidad_media": 0.993,
+"color_medio": [
+220,
+220,
+220
+],
+"color": "#dcdcdc",
+"modo": "normal",
+"recorte": [
+248,
+850,
+1542,
+315
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_wm53p2wm53p2wm53.jpg",
+"md5": "5ca316027c965724fe4af68b19de723b",
+"w": 2048,
+"h": 2048,
+"n": 136,
+"fondo_medido": "#858585",
+"ruido_fondo": 0.55
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "b154e5d93c43eee7bab597f74c497a29",
+"sombra": {
+"archivo": "collage/cintas/tela_blanca/cinta_tela_0136_2_sombra.png",
+"max": 0.343,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/cintas/tela_blanca/cinta_tela_0136_3",
+"archivo": "collage/cintas/tela_blanca/cinta_tela_0136_3.png",
+"familia": "cintas/tela_blanca",
+"material": "cinta_tela",
+"desc": "cinta blanca de tela / esparadrapo",
+"optica": "opaco",
+"borde": "cortado y rasgado",
+"w": 1509,
+"h": 313,
+"alfa": true,
+"cobertura": 0.7483,
+"alfa_parcial": 0.0224,
+"opacidad_media": 0.993,
+"color_medio": [
+217,
+217,
+217
+],
+"color": "#d9d9d9",
+"modo": "normal",
+"recorte": [
+256,
+1338,
+1509,
+313
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_wm53p2wm53p2wm53.jpg",
+"md5": "5ca316027c965724fe4af68b19de723b",
+"w": 2048,
+"h": 2048,
+"n": 136,
+"fondo_medido": "#858585",
+"ruido_fondo": 0.55
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "0876e8b39ce1dbadfb4418199b0e82fb",
+"sombra": {
+"archivo": "collage/cintas/tela_blanca/cinta_tela_0136_3_sombra.png",
+"max": 0.406,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#858585",
+"ruido_fondo": 0.55,
+"fraccion_fondo": 0.706
+}

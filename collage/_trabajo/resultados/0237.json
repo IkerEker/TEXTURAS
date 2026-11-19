@@ -1,0 +1,38 @@
+{
+"n": 237,
+"rel": "TEXTURAS TRAZOS/Gemini_Generated_Image_5oxk6f5oxk6f5oxk.jpg",
+"md5": "192660a18396a51b0f035c0f3104ec43",
+"material": "grafito",
+"piezas": [
+{
+"id": "tx:collage/grafito/grafito_0237",
+"archivo": "collage/grafito/grafito_0237.png",
+"familia": "grafito",
+"material": "grafito",
+"desc": "garabatos de grafito / carboncillo sobre papel blanco (hoja entera)",
+"optica": "trazo (alfa = densidad del grafito)",
+"borde": "hoja entera",
+"w": 2048,
+"h": 2048,
+"alfa": true,
+"cobertura": 0.1359,
+"color": "#242323",
+"color_medio": [
+36,
+35,
+35
+],
+"modo": "normal (RGBA) o multiplicar (_multiplicar.jpg, papel = blanco puro)",
+"version_multiplicar": "collage/grafito/grafito_0237_multiplicar.jpg",
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/TEXTURAS TRAZOS/Gemini_Generated_Image_5oxk6f5oxk6f5oxk.jpg",
+"md5": "192660a18396a51b0f035c0f3104ec43",
+"w": 2048,
+"h": 2048,
+"n": 237
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "ef82a7eff715201527657a726cc77783"
+}
+]
+}

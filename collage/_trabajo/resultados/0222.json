@@ -1,0 +1,50 @@
+{
+"n": 222,
+"rel": "Papel desgarrado sobre fondo azul pizarra.png",
+"md5": "18ab4bfdac9f63d11b6d3d5af376cd88",
+"material": "seda",
+"piezas": [
+{
+"id": "tx:collage/papeles/seda/seda_0222_1",
+"archivo": "collage/papeles/seda/seda_0222_1.png",
+"familia": "papeles/seda",
+"material": "seda",
+"desc": "papel de seda / tisú / vegetal fibroso, translúcido",
+"optica": "translucido",
+"borde": "rasgado deshilachado",
+"w": 1100,
+"h": 1014,
+"alfa": true,
+"cobertura": 0.306,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.484,
+"color_medio": [
+254,
+252,
+254
+],
+"color": "#fefcfe",
+"modo": "normal",
+"recorte": [
+77,
+127,
+1100,
+1014
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Papel desgarrado sobre fondo azul pizarra.png",
+"md5": "18ab4bfdac9f63d11b6d3d5af376cd88",
+"w": 1254,
+"h": 1254,
+"n": 222,
+"fondo_medido": "#364752",
+"ruido_fondo": 0.59
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "5bc6ab09b5c3791c2c72ba93ba5765fb"
+}
+],
+"fondo_medido": "#364752",
+"ruido_fondo": 0.59,
+"fraccion_fondo": 0.515
+}

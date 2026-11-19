@@ -1,0 +1,138 @@
+{
+"n": 187,
+"rel": "PEGATINAS/Tiras de cinta de papel sobre gris.png",
+"md5": "be00ed0ca12a9c5e93cd200ba524baa7",
+"material": "carrocero",
+"piezas": [
+{
+"id": "tx:collage/cintas/carrocero/carrocero_0187_1",
+"archivo": "collage/cintas/carrocero/carrocero_0187_1.png",
+"familia": "cintas/carrocero",
+"material": "carrocero",
+"desc": "cinta de carrocero de papel crepé beige",
+"optica": "opaco",
+"borde": "rasgado a mano",
+"w": 231,
+"h": 912,
+"alfa": true,
+"cobertura": 0.7269,
+"alfa_parcial": 0.0181,
+"opacidad_media": 0.99,
+"color_medio": [
+216,
+207,
+177
+],
+"color": "#d8cfb1",
+"modo": "normal",
+"recorte": [
+956,
+126,
+231,
+912
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta de papel sobre gris.png",
+"md5": "be00ed0ca12a9c5e93cd200ba524baa7",
+"w": 1254,
+"h": 1254,
+"n": 187,
+"fondo_medido": "#787878",
+"ruido_fondo": 0.51
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "bf09c15c04632bd4d7054cbb9de4d511"
+},
+{
+"id": "tx:collage/cintas/carrocero/carrocero_0187_2",
+"archivo": "collage/cintas/carrocero/carrocero_0187_2.png",
+"familia": "cintas/carrocero",
+"material": "carrocero",
+"desc": "cinta de carrocero de papel crepé beige",
+"optica": "opaco",
+"borde": "rasgado a mano",
+"w": 807,
+"h": 236,
+"alfa": true,
+"cobertura": 0.8026,
+"alfa_parcial": 0.0127,
+"opacidad_media": 0.993,
+"color_medio": [
+212,
+202,
+169
+],
+"color": "#d4caa9",
+"modo": "normal",
+"recorte": [
+76,
+285,
+807,
+236
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta de papel sobre gris.png",
+"md5": "be00ed0ca12a9c5e93cd200ba524baa7",
+"w": 1254,
+"h": 1254,
+"n": 187,
+"fondo_medido": "#787878",
+"ruido_fondo": 0.51
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "330895fc95f4572f4d090555ed7875bd",
+"sombra": {
+"archivo": "collage/cintas/carrocero/carrocero_0187_2_sombra.png",
+"max": 0.204,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/cintas/carrocero/carrocero_0187_3",
+"archivo": "collage/cintas/carrocero/carrocero_0187_3.png",
+"familia": "cintas/carrocero",
+"material": "carrocero",
+"desc": "cinta de carrocero de papel crepé beige",
+"optica": "opaco",
+"borde": "rasgado a mano",
+"w": 814,
+"h": 386,
+"alfa": true,
+"cobertura": 0.4883,
+"alfa_parcial": 0.0131,
+"opacidad_media": 0.993,
+"color_medio": [
+208,
+199,
+169
+],
+"color": "#d0c7a9",
+"modo": "normal",
+"recorte": [
+70,
+603,
+814,
+386
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta de papel sobre gris.png",
+"md5": "be00ed0ca12a9c5e93cd200ba524baa7",
+"w": 1254,
+"h": 1254,
+"n": 187,
+"fondo_medido": "#787878",
+"ruido_fondo": 0.51
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "118dde9329399594712af6a174639f3d",
+"sombra": {
+"archivo": "collage/cintas/carrocero/carrocero_0187_3_sombra.png",
+"max": 0.135,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#787878",
+"ruido_fondo": 0.51,
+"fraccion_fondo": 0.659
+}

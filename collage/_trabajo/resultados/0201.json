@@ -1,0 +1,133 @@
+{
+"n": 201,
+"rel": "PEGATINAS/Tres manchas blancas texturizadas.png",
+"md5": "9e8ce9072786d2d7137e3c40c76c035f",
+"material": "pintura",
+"piezas": [
+{
+"id": "tx:collage/pintura/blanca/pintura_0201_1",
+"archivo": "collage/pintura/blanca/pintura_0201_1.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 256,
+"h": 272,
+"alfa": true,
+"cobertura": 0.5007,
+"alfa_parcial": 0.0283,
+"opacidad_media": 0.983,
+"color_medio": [
+212,
+214,
+220
+],
+"color": "#d4d6dc",
+"modo": "normal",
+"recorte": [
+874,
+237,
+256,
+272
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres manchas blancas texturizadas.png",
+"md5": "9e8ce9072786d2d7137e3c40c76c035f",
+"w": 1254,
+"h": 1254,
+"n": 201,
+"fondo_medido": "#5d5d5d",
+"ruido_fondo": 0.77
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "f228ab48e67bf2e9412d888d272a9aa7"
+},
+{
+"id": "tx:collage/pintura/blanca/pintura_0201_2",
+"archivo": "collage/pintura/blanca/pintura_0201_2.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 583,
+"h": 259,
+"alfa": true,
+"cobertura": 0.6559,
+"alfa_parcial": 0.0189,
+"opacidad_media": 0.988,
+"color_medio": [
+203,
+206,
+215
+],
+"color": "#cbced7",
+"modo": "normal",
+"recorte": [
+103,
+314,
+583,
+259
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres manchas blancas texturizadas.png",
+"md5": "9e8ce9072786d2d7137e3c40c76c035f",
+"w": 1254,
+"h": 1254,
+"n": 201,
+"fondo_medido": "#5d5d5d",
+"ruido_fondo": 0.77
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "7d9205fee616337614639a5c220720eb"
+},
+{
+"id": "tx:collage/pintura/blanca/pintura_0201_3",
+"archivo": "collage/pintura/blanca/pintura_0201_3.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 879,
+"h": 432,
+"alfa": true,
+"cobertura": 0.743,
+"alfa_parcial": 0.0128,
+"opacidad_media": 0.992,
+"color_medio": [
+207,
+209,
+216
+],
+"color": "#cfd1d8",
+"modo": "normal",
+"recorte": [
+181,
+669,
+879,
+432
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres manchas blancas texturizadas.png",
+"md5": "9e8ce9072786d2d7137e3c40c76c035f",
+"w": 1254,
+"h": 1254,
+"n": 201,
+"fondo_medido": "#5d5d5d",
+"ruido_fondo": 0.77
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "713e65885baa324f7b90f7f4b1313b5a",
+"sombra": {
+"archivo": "collage/pintura/blanca/pintura_0201_3_sombra.png",
+"max": 0.081,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#5d5d5d",
+"ruido_fondo": 0.77,
+"fraccion_fondo": 0.692
+}

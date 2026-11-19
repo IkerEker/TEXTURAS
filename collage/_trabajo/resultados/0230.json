@@ -1,0 +1,50 @@
+{
+"n": 230,
+"rel": "Polígono azul sobre gris.png",
+"md5": "28f1ca7ff5c919844139bdbd31a562e7",
+"material": "cartulina_azul",
+"piezas": [
+{
+"id": "tx:collage/papeles/cartulina_azul/cartulina_azul_0230_1",
+"archivo": "collage/papeles/cartulina_azul/cartulina_azul_0230_1.png",
+"familia": "papeles/cartulina_azul",
+"material": "cartulina_azul",
+"desc": "polígono de cartulina azul cobalto cortado a cúter",
+"optica": "opaco",
+"borde": "cortado recto",
+"w": 813,
+"h": 913,
+"alfa": true,
+"cobertura": 0.6358,
+"alfa_parcial": 0.0044,
+"opacidad_media": 0.997,
+"color_medio": [
+2,
+39,
+161
+],
+"color": "#0227a1",
+"modo": "normal",
+"recorte": [
+208,
+161,
+813,
+913
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Polígono azul sobre gris.png",
+"md5": "28f1ca7ff5c919844139bdbd31a562e7",
+"w": 1254,
+"h": 1254,
+"n": 230,
+"fondo_medido": "#b8b8b9",
+"ruido_fondo": 0.45
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "0fee75398e0b17414395dfba142239ad"
+}
+],
+"fondo_medido": "#b8b8b9",
+"ruido_fondo": 0.45,
+"fraccion_fondo": 0.668
+}

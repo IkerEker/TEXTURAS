@@ -1,0 +1,133 @@
+{
+"n": 99,
+"rel": "PEGATINAS/Gemini_Generated_Image_8i57q38i57q38i57.jpg",
+"md5": "2ced07fe5073b38b5278de3099a45e2c",
+"material": "peg_vinilo",
+"piezas": [
+{
+"id": "tx:collage/pegatinas/vinilo/peg_vinilo_0099_1",
+"archivo": "collage/pegatinas/vinilo/peg_vinilo_0099_1.png",
+"familia": "pegatinas/vinilo",
+"material": "peg_vinilo",
+"desc": "pegatina de vinilo brillante (rojo, azul, verde)",
+"optica": "opaco",
+"borde": "troquelado",
+"w": 541,
+"h": 744,
+"alfa": true,
+"cobertura": 0.6797,
+"alfa_parcial": 0.02,
+"opacidad_media": 0.988,
+"color_medio": [
+41,
+73,
+56
+],
+"color": "#294938",
+"modo": "normal",
+"recorte": [
+1339,
+671,
+541,
+744
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_8i57q38i57q38i57.jpg",
+"md5": "2ced07fe5073b38b5278de3099a45e2c",
+"w": 2048,
+"h": 2048,
+"n": 99,
+"fondo_medido": "#b8b9b9",
+"ruido_fondo": 0.92
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "1e2167d42be36edf68e5f49f847fa017",
+"sombra": {
+"archivo": "collage/pegatinas/vinilo/peg_vinilo_0099_1_sombra.png",
+"max": 0.232,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/pegatinas/vinilo/peg_vinilo_0099_2",
+"archivo": "collage/pegatinas/vinilo/peg_vinilo_0099_2.png",
+"familia": "pegatinas/vinilo",
+"material": "peg_vinilo",
+"desc": "pegatina de vinilo brillante (rojo, azul, verde)",
+"optica": "opaco",
+"borde": "troquelado",
+"w": 450,
+"h": 704,
+"alfa": true,
+"cobertura": 0.8434,
+"alfa_parcial": 0.0268,
+"opacidad_media": 0.98,
+"color_medio": [
+4,
+122,
+191
+],
+"color": "#047abf",
+"modo": "normal",
+"recorte": [
+834,
+675,
+450,
+704
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_8i57q38i57q38i57.jpg",
+"md5": "2ced07fe5073b38b5278de3099a45e2c",
+"w": 2048,
+"h": 2048,
+"n": 99,
+"fondo_medido": "#b8b9b9",
+"ruido_fondo": 0.92
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "77c078e045e20451812e79d7cf7cb91d"
+},
+{
+"id": "tx:collage/pegatinas/vinilo/peg_vinilo_0099_3",
+"archivo": "collage/pegatinas/vinilo/peg_vinilo_0099_3.png",
+"familia": "pegatinas/vinilo",
+"material": "peg_vinilo",
+"desc": "pegatina de vinilo brillante (rojo, azul, verde)",
+"optica": "opaco",
+"borde": "troquelado",
+"w": 632,
+"h": 638,
+"alfa": true,
+"cobertura": 0.6935,
+"alfa_parcial": 0.0209,
+"opacidad_media": 0.985,
+"color_medio": [
+141,
+35,
+37
+],
+"color": "#8d2325",
+"modo": "normal",
+"recorte": [
+147,
+708,
+632,
+638
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_8i57q38i57q38i57.jpg",
+"md5": "2ced07fe5073b38b5278de3099a45e2c",
+"w": 2048,
+"h": 2048,
+"n": 99,
+"fondo_medido": "#b8b9b9",
+"ruido_fondo": 0.92
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "0d3f380bf7f00bf1ed0c7624ad350b4e"
+}
+],
+"fondo_medido": "#b8b9b9",
+"ruido_fondo": 0.92,
+"fraccion_fondo": 0.76
+}

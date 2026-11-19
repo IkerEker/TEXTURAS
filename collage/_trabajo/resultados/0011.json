@@ -1,0 +1,50 @@
+{
+"n": 11,
+"rel": "Fragmento de papel tisú desgarrado.png",
+"md5": "d781def8c3839d55f2912d6a203dc653",
+"material": "seda",
+"piezas": [
+{
+"id": "tx:collage/papeles/seda/seda_0011_1",
+"archivo": "collage/papeles/seda/seda_0011_1.png",
+"familia": "papeles/seda",
+"material": "seda",
+"desc": "papel de seda / tisú / vegetal fibroso, translúcido",
+"optica": "translucido",
+"borde": "rasgado deshilachado",
+"w": 1180,
+"h": 982,
+"alfa": true,
+"cobertura": 0.3356,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.487,
+"color_medio": [
+254,
+251,
+251
+],
+"color": "#fefbfb",
+"modo": "normal",
+"recorte": [
+30,
+134,
+1180,
+982
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Fragmento de papel tisú desgarrado.png",
+"md5": "d781def8c3839d55f2912d6a203dc653",
+"w": 1254,
+"h": 1254,
+"n": 11,
+"fondo_medido": "#344552",
+"ruido_fondo": 0.61
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "3d1425e3136fdab77772d9a6956301e8"
+}
+],
+"fondo_medido": "#344552",
+"ruido_fondo": 0.61,
+"fraccion_fondo": 0.456
+}

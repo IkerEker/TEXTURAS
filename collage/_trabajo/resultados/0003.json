@@ -1,0 +1,50 @@
+{
+"n": 3,
+"rel": "Fragmento de collage geométrico tricolor.png",
+"md5": "0a959e98bf42e128967f771ff7edbe7a",
+"material": "estampado",
+"piezas": [
+{
+"id": "tx:collage/papeles/estampado/estampado_0003_1",
+"archivo": "collage/papeles/estampado/estampado_0003_1.png",
+"familia": "papeles/estampado",
+"material": "estampado",
+"desc": "polígono recortado de papel impreso (azul, rojo y crema)",
+"optica": "opaco",
+"borde": "cortado recto",
+"w": 854,
+"h": 966,
+"alfa": true,
+"cobertura": 0.6592,
+"alfa_parcial": 0.0047,
+"opacidad_media": 0.997,
+"color_medio": [
+128,
+95,
+108
+],
+"color": "#805f6c",
+"modo": "normal",
+"recorte": [
+208,
+144,
+854,
+966
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Fragmento de collage geométrico tricolor.png",
+"md5": "0a959e98bf42e128967f771ff7edbe7a",
+"w": 1254,
+"h": 1254,
+"n": 3,
+"fondo_medido": "#737272",
+"ruido_fondo": 0.55
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "1b9abc435ff1977aba3f9f2d56296278"
+}
+],
+"fondo_medido": "#737272",
+"ruido_fondo": 0.55,
+"fraccion_fondo": 0.622
+}

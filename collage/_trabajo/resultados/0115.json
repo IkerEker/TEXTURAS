@@ -1,0 +1,99 @@
+{
+"n": 115,
+"rel": "PEGATINAS/Gemini_Generated_Image_jv1e84jv1e84jv1e.jpg",
+"md5": "92a3e195dbb9e35b7150463a8a252536",
+"material": "postit",
+"piezas": [
+{
+"id": "tx:collage/notas/amarillas/postit_0115_1",
+"archivo": "collage/notas/amarillas/postit_0115_1.png",
+"familia": "notas/amarillas",
+"material": "postit",
+"desc": "nota adhesiva amarilla (Post-it)",
+"optica": "opaco",
+"borde": "cortado industrial",
+"w": 840,
+"h": 844,
+"alfa": true,
+"cobertura": 0.8801,
+"alfa_parcial": 0.0098,
+"opacidad_media": 0.995,
+"color_medio": [
+231,
+218,
+170
+],
+"color": "#e7daaa",
+"modo": "normal",
+"recorte": [
+140,
+596,
+840,
+844
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_jv1e84jv1e84jv1e.jpg",
+"md5": "92a3e195dbb9e35b7150463a8a252536",
+"w": 2048,
+"h": 2048,
+"n": 115,
+"fondo_medido": "#888889",
+"ruido_fondo": 1.65
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "ea58c0cbf827fbc27a7fa4bdace8929f",
+"sombra": {
+"archivo": "collage/notas/amarillas/postit_0115_1_sombra.png",
+"max": 0.666,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/notas/amarillas/postit_0115_2",
+"archivo": "collage/notas/amarillas/postit_0115_2.png",
+"familia": "notas/amarillas",
+"material": "postit",
+"desc": "nota adhesiva amarilla (Post-it)",
+"optica": "opaco",
+"borde": "cortado industrial",
+"w": 835,
+"h": 843,
+"alfa": true,
+"cobertura": 0.7929,
+"alfa_parcial": 0.0076,
+"opacidad_media": 0.996,
+"color_medio": [
+233,
+219,
+170
+],
+"color": "#e9dbaa",
+"modo": "normal",
+"recorte": [
+1065,
+596,
+835,
+843
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_jv1e84jv1e84jv1e.jpg",
+"md5": "92a3e195dbb9e35b7150463a8a252536",
+"w": 2048,
+"h": 2048,
+"n": 115,
+"fondo_medido": "#888889",
+"ruido_fondo": 1.65
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "a0b6589b5b5f01b232eb09aef1c33734",
+"sombra": {
+"archivo": "collage/notas/amarillas/postit_0115_2_sombra.png",
+"max": 0.552,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#888889",
+"ruido_fondo": 1.65,
+"fraccion_fondo": 0.571
+}

@@ -256,6 +256,24 @@ if P.exists():
                                         criterio='alfa del autor >= 99,5 % de la imagen', fuente='Matte_MOVs'),
                         hoja='TEXTURAS/productos/hojas/mates_tinta_4k.jpg'))
 
+# ---------------------------------------------------------------- collage (piezas recortadas)
+if Path('collage/catalogo.json').exists():
+    MODO = {'normal': 'normal', 'multiplicar': 'multiplicar'}
+    for c in json.load(open('collage/catalogo.json'))['items']:
+        a = dict(id=c['id'], coleccion='TEXTURAS', archivo='TEXTURAS/' + c['archivo'], tipo='imagen', clase='collage',
+                 sub=c['familia'], desc=c['desc'], material=c['material'], optica=c['optica'], borde=c['borde'],
+                 w=c['w'], h=c['h'], alfa=True, fondo='transparente', md5=c['md5'], color=c['color'],
+                 color_medio=c['color_medio'], cobertura=c['cobertura'], modo=MODO.get(c['modo'].split()[0], 'normal'),
+                 modo_texto=c['modo'], modo_fuente='TEXTURAS', origen='or:' + c['fuente']['md5'],
+                 recorte=c.get('recorte'), procedencia=c['procedencia'], metodo='tools/atlas/collage.py',
+                 hoja='TEXTURAS/collage/hojas/' + c['familia'].replace('/', '__') + '.jpg')
+        if 'sombra' in c: a['sombra'] = 'TEXTURAS/' + c['sombra']['archivo']
+        if 'version_multiplicar' in c: a['version_multiplicar'] = 'TEXTURAS/' + c['version_multiplicar']
+        idx.append(a)
+for g in man.get('collage', []):
+    idx.append(dict(id=g['id'], coleccion='originales', sub='collage', archivo=g['archivo'], tipo='imagen', md5=g['md5'],
+                    w=g['w'], h=g['h'], rutas_antiguas=[g['origen_biblioteca']], procedencia=g['procedencia']))
+
 os.makedirs('indice', exist_ok=True)
 out = dict(version='2026-11-19', raiz='Biblioteca/ (variable TEXTURAS_ROOT)', total=len(idx),
            por_coleccion=dict(collections.Counter(a['coleccion'] for a in idx)),

@@ -1,0 +1,99 @@
+{
+"n": 77,
+"rel": "PEGATINAS/Etiquetas de papel envejecido con esquina despegada (1).png",
+"md5": "9acb63c70b86bc3c540a9bb1af12578c",
+"material": "etiq_vieja",
+"piezas": [
+{
+"id": "tx:collage/etiquetas/envejecidas/etiq_vieja_0077_1",
+"archivo": "collage/etiquetas/envejecidas/etiq_vieja_0077_1.png",
+"familia": "etiquetas/envejecidas",
+"material": "etiq_vieja",
+"desc": "etiqueta de papel envejecida, manchas y esquina despegada",
+"optica": "opaco",
+"borde": "troquelado gastado",
+"w": 1036,
+"h": 582,
+"alfa": true,
+"cobertura": 0.9175,
+"alfa_parcial": 0.0075,
+"opacidad_media": 0.996,
+"color_medio": [
+204,
+196,
+170
+],
+"color": "#ccc4aa",
+"modo": "normal",
+"recorte": [
+106,
+71,
+1036,
+582
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Etiquetas de papel envejecido con esquina despegada (1).png",
+"md5": "9acb63c70b86bc3c540a9bb1af12578c",
+"w": 1254,
+"h": 1254,
+"n": 77,
+"fondo_medido": "#7d7c7b",
+"ruido_fondo": 0.9
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "db75bfb2df0ecdc75f6000d12b20ec41",
+"sombra": {
+"archivo": "collage/etiquetas/envejecidas/etiq_vieja_0077_1_sombra.png",
+"max": 0.271,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/etiquetas/envejecidas/etiq_vieja_0077_2",
+"archivo": "collage/etiquetas/envejecidas/etiq_vieja_0077_2.png",
+"familia": "etiquetas/envejecidas",
+"material": "etiq_vieja",
+"desc": "etiqueta de papel envejecida, manchas y esquina despegada",
+"optica": "opaco",
+"borde": "troquelado gastado",
+"w": 763,
+"h": 486,
+"alfa": true,
+"cobertura": 0.7185,
+"alfa_parcial": 0.01,
+"opacidad_media": 0.995,
+"color_medio": [
+212,
+203,
+176
+],
+"color": "#d4cbb0",
+"modo": "normal",
+"recorte": [
+233,
+730,
+763,
+486
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Etiquetas de papel envejecido con esquina despegada (1).png",
+"md5": "9acb63c70b86bc3c540a9bb1af12578c",
+"w": 1254,
+"h": 1254,
+"n": 77,
+"fondo_medido": "#7d7c7b",
+"ruido_fondo": 0.9
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "11b9a836e4d50189d2ab4b929dc0f78e",
+"sombra": {
+"archivo": "collage/etiquetas/envejecidas/etiq_vieja_0077_2_sombra.png",
+"max": 0.248,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#7d7c7b",
+"ruido_fondo": 0.9,
+"fraccion_fondo": 0.417
+}

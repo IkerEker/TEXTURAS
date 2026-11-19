@@ -1,0 +1,128 @@
+{
+"n": 172,
+"rel": "PEGATINAS/Texturas de Cinta Desgastada en Gris.png",
+"md5": "13f55f90e1b107ed34160474f4fb4838",
+"material": "residuo",
+"piezas": [
+{
+"id": "tx:collage/adhesivos/residuos/residuo_0172_1",
+"archivo": "collage/adhesivos/residuos/residuo_0172_1.png",
+"familia": "adhesivos/residuos",
+"material": "residuo",
+"desc": "restos de adhesivo y papel al despegar una pegatina",
+"optica": "transparente",
+"borde": "irregular",
+"w": 565,
+"h": 327,
+"alfa": true,
+"cobertura": 0.0152,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.145,
+"color_medio": [
+207,
+204,
+204
+],
+"color": "#cfcccc",
+"modo": "normal",
+"recorte": [
+88,
+169,
+565,
+327
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Texturas de Cinta Desgastada en Gris.png",
+"md5": "13f55f90e1b107ed34160474f4fb4838",
+"w": 1254,
+"h": 1254,
+"n": 172,
+"fondo_medido": "#676463",
+"ruido_fondo": 1.26
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "c774606bac44f8c24bf062ff21132cde"
+},
+{
+"id": "tx:collage/adhesivos/residuos/residuo_0172_2",
+"archivo": "collage/adhesivos/residuos/residuo_0172_2.png",
+"familia": "adhesivos/residuos",
+"material": "residuo",
+"desc": "restos de adhesivo y papel al despegar una pegatina",
+"optica": "transparente",
+"borde": "irregular",
+"w": 477,
+"h": 324,
+"alfa": true,
+"cobertura": 0.0112,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.156,
+"color_medio": [
+204,
+202,
+202
+],
+"color": "#cccaca",
+"modo": "normal",
+"recorte": [
+628,
+456,
+477,
+324
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Texturas de Cinta Desgastada en Gris.png",
+"md5": "13f55f90e1b107ed34160474f4fb4838",
+"w": 1254,
+"h": 1254,
+"n": 172,
+"fondo_medido": "#676463",
+"ruido_fondo": 1.26
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "0c01f61b73eb81b63fb623665d264873"
+},
+{
+"id": "tx:collage/adhesivos/residuos/residuo_0172_3",
+"archivo": "collage/adhesivos/residuos/residuo_0172_3.png",
+"familia": "adhesivos/residuos",
+"material": "residuo",
+"desc": "restos de adhesivo y papel al despegar una pegatina",
+"optica": "transparente",
+"borde": "irregular",
+"w": 441,
+"h": 156,
+"alfa": true,
+"cobertura": 0.0232,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.164,
+"color_medio": [
+205,
+203,
+201
+],
+"color": "#cdcbc9",
+"modo": "normal",
+"recorte": [
+202,
+858,
+441,
+156
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Texturas de Cinta Desgastada en Gris.png",
+"md5": "13f55f90e1b107ed34160474f4fb4838",
+"w": 1254,
+"h": 1254,
+"n": 172,
+"fondo_medido": "#676463",
+"ruido_fondo": 1.26
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "e02dee4fee3138b504230d5a0d02ba8c"
+}
+],
+"fondo_medido": "#676463",
+"ruido_fondo": 1.26,
+"fraccion_fondo": 0.939
+}

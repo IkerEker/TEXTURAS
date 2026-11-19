@@ -1,0 +1,128 @@
+{
+"n": 209,
+"rel": "PEGATINAS/Tres tiras de cinta negra.png",
+"md5": "56553a8a304516a5cf6b47a24ba4d235",
+"material": "cinta_negra",
+"piezas": [
+{
+"id": "tx:collage/cintas/aislante_negra/cinta_negra_0209_1",
+"archivo": "collage/cintas/aislante_negra/cinta_negra_0209_1.png",
+"familia": "cintas/aislante_negra",
+"material": "cinta_negra",
+"desc": "cinta aislante de vinilo negra",
+"optica": "opaco",
+"borde": "cortado a tijera",
+"w": 882,
+"h": 265,
+"alfa": true,
+"cobertura": 0.6766,
+"alfa_parcial": 0.0183,
+"opacidad_media": 0.984,
+"color_medio": [
+33,
+33,
+33
+],
+"color": "#212121",
+"modo": "normal",
+"recorte": [
+198,
+181,
+882,
+265
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres tiras de cinta negra.png",
+"md5": "56553a8a304516a5cf6b47a24ba4d235",
+"w": 1254,
+"h": 1254,
+"n": 209,
+"fondo_medido": "#b4b3b3",
+"ruido_fondo": 0.87
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "5a12013941ba9e24fe03b31751356a05"
+},
+{
+"id": "tx:collage/cintas/aislante_negra/cinta_negra_0209_2",
+"archivo": "collage/cintas/aislante_negra/cinta_negra_0209_2.png",
+"familia": "cintas/aislante_negra",
+"material": "cinta_negra",
+"desc": "cinta aislante de vinilo negra",
+"optica": "opaco",
+"borde": "cortado a tijera",
+"w": 896,
+"h": 218,
+"alfa": true,
+"cobertura": 0.6249,
+"alfa_parcial": 0.0195,
+"opacidad_media": 0.983,
+"color_medio": [
+39,
+39,
+39
+],
+"color": "#272727",
+"modo": "normal",
+"recorte": [
+173,
+555,
+896,
+218
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres tiras de cinta negra.png",
+"md5": "56553a8a304516a5cf6b47a24ba4d235",
+"w": 1254,
+"h": 1254,
+"n": 209,
+"fondo_medido": "#b4b3b3",
+"ruido_fondo": 0.87
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "8753e349b026830a0a3ce8eccb1e5f28"
+},
+{
+"id": "tx:collage/cintas/aislante_negra/cinta_negra_0209_3",
+"archivo": "collage/cintas/aislante_negra/cinta_negra_0209_3.png",
+"familia": "cintas/aislante_negra",
+"material": "cinta_negra",
+"desc": "cinta aislante de vinilo negra",
+"optica": "opaco",
+"borde": "cortado a tijera",
+"w": 808,
+"h": 252,
+"alfa": true,
+"cobertura": 0.6624,
+"alfa_parcial": 0.0163,
+"opacidad_media": 0.986,
+"color_medio": [
+30,
+30,
+30
+],
+"color": "#1e1e1e",
+"modo": "normal",
+"recorte": [
+220,
+902,
+808,
+252
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres tiras de cinta negra.png",
+"md5": "56553a8a304516a5cf6b47a24ba4d235",
+"w": 1254,
+"h": 1254,
+"n": 209,
+"fondo_medido": "#b4b3b3",
+"ruido_fondo": 0.87
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "0816599123d179d4c8e24e3bb4d30083"
+}
+],
+"fondo_medido": "#b4b3b3",
+"ruido_fondo": 0.87,
+"fraccion_fondo": 0.676
+}

@@ -1,0 +1,128 @@
+{
+"n": 163,
+"rel": "PEGATINAS/Residuos de adhesivo sobre gris (1).png",
+"md5": "95d26cddff18d999933b6a849c72e1a4",
+"material": "residuo",
+"piezas": [
+{
+"id": "tx:collage/adhesivos/residuos/residuo_0163_1",
+"archivo": "collage/adhesivos/residuos/residuo_0163_1.png",
+"familia": "adhesivos/residuos",
+"material": "residuo",
+"desc": "restos de adhesivo y papel al despegar una pegatina",
+"optica": "transparente",
+"borde": "irregular",
+"w": 745,
+"h": 239,
+"alfa": true,
+"cobertura": 0.0204,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.214,
+"color_medio": [
+206,
+202,
+200
+],
+"color": "#cecac8",
+"modo": "normal",
+"recorte": [
+251,
+158,
+745,
+239
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Residuos de adhesivo sobre gris (1).png",
+"md5": "95d26cddff18d999933b6a849c72e1a4",
+"w": 1254,
+"h": 1254,
+"n": 163,
+"fondo_medido": "#696767",
+"ruido_fondo": 1.4
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "87d89b81030ee4e46b7bc0cbf6f52034"
+},
+{
+"id": "tx:collage/adhesivos/residuos/residuo_0163_2",
+"archivo": "collage/adhesivos/residuos/residuo_0163_2.png",
+"familia": "adhesivos/residuos",
+"material": "residuo",
+"desc": "restos de adhesivo y papel al despegar una pegatina",
+"optica": "transparente",
+"borde": "irregular",
+"w": 696,
+"h": 280,
+"alfa": true,
+"cobertura": 0.0129,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.211,
+"color_medio": [
+204,
+200,
+200
+],
+"color": "#ccc8c8",
+"modo": "normal",
+"recorte": [
+275,
+508,
+696,
+280
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Residuos de adhesivo sobre gris (1).png",
+"md5": "95d26cddff18d999933b6a849c72e1a4",
+"w": 1254,
+"h": 1254,
+"n": 163,
+"fondo_medido": "#696767",
+"ruido_fondo": 1.4
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "ce6b85690a20251de50af7d5d11c5166"
+},
+{
+"id": "tx:collage/adhesivos/residuos/residuo_0163_3",
+"archivo": "collage/adhesivos/residuos/residuo_0163_3.png",
+"familia": "adhesivos/residuos",
+"material": "residuo",
+"desc": "restos de adhesivo y papel al despegar una pegatina",
+"optica": "transparente",
+"borde": "irregular",
+"w": 408,
+"h": 201,
+"alfa": true,
+"cobertura": 0.0136,
+"alfa_parcial": 1.0,
+"opacidad_media": 0.166,
+"color_medio": [
+203,
+200,
+202
+],
+"color": "#cbc8ca",
+"modo": "normal",
+"recorte": [
+403,
+850,
+408,
+201
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Residuos de adhesivo sobre gris (1).png",
+"md5": "95d26cddff18d999933b6a849c72e1a4",
+"w": 1254,
+"h": 1254,
+"n": 163,
+"fondo_medido": "#696767",
+"ruido_fondo": 1.4
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "9e94528ea6e6c2826866aac81a195b64"
+}
+],
+"fondo_medido": "#696767",
+"ruido_fondo": 1.4,
+"fraccion_fondo": 0.943
+}

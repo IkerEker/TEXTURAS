@@ -1,0 +1,128 @@
+{
+"n": 184,
+"rel": "PEGATINAS/Tiras de cinta de papel rasgada.png",
+"md5": "dabbf93a31dc7480e2930eaf5b54b61f",
+"material": "carrocero",
+"piezas": [
+{
+"id": "tx:collage/cintas/carrocero/carrocero_0184_1",
+"archivo": "collage/cintas/carrocero/carrocero_0184_1.png",
+"familia": "cintas/carrocero",
+"material": "carrocero",
+"desc": "cinta de carrocero de papel crepé beige",
+"optica": "opaco",
+"borde": "rasgado a mano",
+"w": 237,
+"h": 745,
+"alfa": true,
+"cobertura": 0.727,
+"alfa_parcial": 0.0198,
+"opacidad_media": 0.989,
+"color_medio": [
+220,
+209,
+175
+],
+"color": "#dcd1af",
+"modo": "normal",
+"recorte": [
+962,
+272,
+237,
+745
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta de papel rasgada.png",
+"md5": "dabbf93a31dc7480e2930eaf5b54b61f",
+"w": 1254,
+"h": 1254,
+"n": 184,
+"fondo_medido": "#7a7a7a",
+"ruido_fondo": 0.53
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "8d9a864db12199b35dee97246812f665"
+},
+{
+"id": "tx:collage/cintas/carrocero/carrocero_0184_2",
+"archivo": "collage/cintas/carrocero/carrocero_0184_2.png",
+"familia": "cintas/carrocero",
+"material": "carrocero",
+"desc": "cinta de carrocero de papel crepé beige",
+"optica": "opaco",
+"borde": "rasgado a mano",
+"w": 905,
+"h": 224,
+"alfa": true,
+"cobertura": 0.7687,
+"alfa_parcial": 0.0161,
+"opacidad_media": 0.991,
+"color_medio": [
+216,
+205,
+171
+],
+"color": "#d8cdab",
+"modo": "normal",
+"recorte": [
+29,
+277,
+905,
+224
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta de papel rasgada.png",
+"md5": "dabbf93a31dc7480e2930eaf5b54b61f",
+"w": 1254,
+"h": 1254,
+"n": 184,
+"fondo_medido": "#7a7a7a",
+"ruido_fondo": 0.53
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "298c86054d47278d325fa38d4dafffe7"
+},
+{
+"id": "tx:collage/cintas/carrocero/carrocero_0184_3",
+"archivo": "collage/cintas/carrocero/carrocero_0184_3.png",
+"familia": "cintas/carrocero",
+"material": "carrocero",
+"desc": "cinta de carrocero de papel crepé beige",
+"optica": "opaco",
+"borde": "rasgado a mano",
+"w": 782,
+"h": 381,
+"alfa": true,
+"cobertura": 0.4448,
+"alfa_parcial": 0.0177,
+"opacidad_media": 0.99,
+"color_medio": [
+214,
+203,
+170
+],
+"color": "#d6cbaa",
+"modo": "normal",
+"recorte": [
+58,
+615,
+782,
+381
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta de papel rasgada.png",
+"md5": "dabbf93a31dc7480e2930eaf5b54b61f",
+"w": 1254,
+"h": 1254,
+"n": 184,
+"fondo_medido": "#7a7a7a",
+"ruido_fondo": 0.53
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "46acef1a7798a4c8b5216d98827c31df"
+}
+],
+"fondo_medido": "#7a7a7a",
+"ruido_fondo": 0.53,
+"fraccion_fondo": 0.686
+}

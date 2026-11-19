@@ -1,0 +1,50 @@
+{
+"n": 231,
+"rel": "Recorte abstracto de papel multicolor.png",
+"md5": "0a751d16f6622421f16d7ac9743f1bff",
+"material": "estampado",
+"piezas": [
+{
+"id": "tx:collage/papeles/estampado/estampado_0231_1",
+"archivo": "collage/papeles/estampado/estampado_0231_1.png",
+"familia": "papeles/estampado",
+"material": "estampado",
+"desc": "polígono recortado de papel impreso (azul, rojo y crema)",
+"optica": "opaco",
+"borde": "cortado recto",
+"w": 943,
+"h": 783,
+"alfa": true,
+"cobertura": 0.7033,
+"alfa_parcial": 0.0051,
+"opacidad_media": 0.997,
+"color_medio": [
+133,
+107,
+110
+],
+"color": "#856b6e",
+"modo": "normal",
+"recorte": [
+154,
+235,
+943,
+783
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Recorte abstracto de papel multicolor.png",
+"md5": "0a751d16f6622421f16d7ac9743f1bff",
+"w": 1254,
+"h": 1254,
+"n": 231,
+"fondo_medido": "#757575",
+"ruido_fondo": 0.52
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "d06c119baf557a23968ff46f330ad16d"
+}
+],
+"fondo_medido": "#757575",
+"ruido_fondo": 0.52,
+"fraccion_fondo": 0.638
+}

@@ -1,0 +1,128 @@
+{
+"n": 149,
+"rel": "PEGATINAS/Parches de Gel Transparente en Triángulo.png",
+"md5": "9aa4243d66f826799372ce8e08328b3f",
+"material": "gel",
+"piezas": [
+{
+"id": "tx:collage/adhesivos/gel/gel_0149_1",
+"archivo": "collage/adhesivos/gel/gel_0149_1.png",
+"familia": "adhesivos/gel",
+"material": "gel",
+"desc": "gota o parche de gel / cola transparente",
+"optica": "transparente",
+"borde": "redondeado",
+"w": 371,
+"h": 373,
+"alfa": true,
+"cobertura": 0.1819,
+"alfa_parcial": 0.9946,
+"opacidad_media": 0.271,
+"color_medio": [
+203,
+200,
+192
+],
+"color": "#cbc8c0",
+"modo": "normal",
+"recorte": [
+134,
+247,
+371,
+373
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Parches de Gel Transparente en Triángulo.png",
+"md5": "9aa4243d66f826799372ce8e08328b3f",
+"w": 1254,
+"h": 1254,
+"n": 149,
+"fondo_medido": "#515050",
+"ruido_fondo": 0.5
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "950f072322792048eeaa23a0b8dc2673"
+},
+{
+"id": "tx:collage/adhesivos/gel/gel_0149_2",
+"archivo": "collage/adhesivos/gel/gel_0149_2.png",
+"familia": "adhesivos/gel",
+"material": "gel",
+"desc": "gota o parche de gel / cola transparente",
+"optica": "transparente",
+"borde": "redondeado",
+"w": 394,
+"h": 355,
+"alfa": true,
+"cobertura": 0.2115,
+"alfa_parcial": 0.9932,
+"opacidad_media": 0.324,
+"color_medio": [
+205,
+205,
+201
+],
+"color": "#cdcdc9",
+"modo": "normal",
+"recorte": [
+694,
+311,
+394,
+355
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Parches de Gel Transparente en Triángulo.png",
+"md5": "9aa4243d66f826799372ce8e08328b3f",
+"w": 1254,
+"h": 1254,
+"n": 149,
+"fondo_medido": "#515050",
+"ruido_fondo": 0.5
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "b8b853d60dbab7281ec24ad7ee6c3464"
+},
+{
+"id": "tx:collage/adhesivos/gel/gel_0149_3",
+"archivo": "collage/adhesivos/gel/gel_0149_3.png",
+"familia": "adhesivos/gel",
+"material": "gel",
+"desc": "gota o parche de gel / cola transparente",
+"optica": "transparente",
+"borde": "redondeado",
+"w": 395,
+"h": 361,
+"alfa": true,
+"cobertura": 0.1195,
+"alfa_parcial": 0.9947,
+"opacidad_media": 0.209,
+"color_medio": [
+207,
+205,
+200
+],
+"color": "#cfcdc8",
+"modo": "normal",
+"recorte": [
+310,
+725,
+395,
+361
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Parches de Gel Transparente en Triángulo.png",
+"md5": "9aa4243d66f826799372ce8e08328b3f",
+"w": 1254,
+"h": 1254,
+"n": 149,
+"fondo_medido": "#515050",
+"ruido_fondo": 0.5
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "f6217e7798456dd336e7864e63388288"
+}
+],
+"fondo_medido": "#515050",
+"ruido_fondo": 0.5,
+"fraccion_fondo": 0.801
+}

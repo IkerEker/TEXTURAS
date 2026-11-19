@@ -1,0 +1,55 @@
+{
+"n": 23,
+"rel": "Gemini_Generated_Image_8hs8o8hs8o8hs8o8.jpg",
+"md5": "d3d46c5acabca101d31c8b3e2cce7aed",
+"material": "tira_papel",
+"piezas": [
+{
+"id": "tx:collage/papeles/tiras/tira_papel_0023_1",
+"archivo": "collage/papeles/tiras/tira_papel_0023_1.png",
+"familia": "papeles/tiras",
+"material": "tira_papel",
+"desc": "tira de papel blanco rasgada",
+"optica": "opaco",
+"borde": "rasgado",
+"w": 1784,
+"h": 1822,
+"alfa": true,
+"cobertura": 0.2798,
+"alfa_parcial": 0.0187,
+"opacidad_media": 0.992,
+"color_medio": [
+231,
+230,
+234
+],
+"color": "#e7e6ea",
+"modo": "normal",
+"recorte": [
+128,
+117,
+1784,
+1822
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_8hs8o8hs8o8hs8o8.jpg",
+"md5": "d3d46c5acabca101d31c8b3e2cce7aed",
+"w": 2048,
+"h": 2048,
+"n": 23,
+"fondo_medido": "#535453",
+"ruido_fondo": 0.8
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "426e3b090ed1d53463def6ef1a28bfc1",
+"sombra": {
+"archivo": "collage/papeles/tiras/tira_papel_0023_1_sombra.png",
+"max": 0.128,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#535453",
+"ruido_fondo": 0.8,
+"fraccion_fondo": 0.754
+}

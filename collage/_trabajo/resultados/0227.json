@@ -1,0 +1,50 @@
+{
+"n": 227,
+"rel": "Pentágono azul de papel recortado.png",
+"md5": "2683967e56a6b010b6a4a6674f167584",
+"material": "cartulina_azul",
+"piezas": [
+{
+"id": "tx:collage/papeles/cartulina_azul/cartulina_azul_0227_1",
+"archivo": "collage/papeles/cartulina_azul/cartulina_azul_0227_1.png",
+"familia": "papeles/cartulina_azul",
+"material": "cartulina_azul",
+"desc": "polígono de cartulina azul cobalto cortado a cúter",
+"optica": "opaco",
+"borde": "cortado recto",
+"w": 891,
+"h": 800,
+"alfa": true,
+"cobertura": 0.723,
+"alfa_parcial": 0.0047,
+"opacidad_media": 0.997,
+"color_medio": [
+9,
+46,
+157
+],
+"color": "#092e9d",
+"modo": "normal",
+"recorte": [
+179,
+224,
+891,
+800
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Pentágono azul de papel recortado.png",
+"md5": "2683967e56a6b010b6a4a6674f167584",
+"w": 1254,
+"h": 1254,
+"n": 227,
+"fondo_medido": "#b8b7b7",
+"ruido_fondo": 0.46
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "15ba0407f0a3cb548ef4d7fbc7c2f0a8"
+}
+],
+"fondo_medido": "#b8b7b7",
+"ruido_fondo": 0.46,
+"fraccion_fondo": 0.64
+}

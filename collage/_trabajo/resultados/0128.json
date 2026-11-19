@@ -1,0 +1,99 @@
+{
+"n": 128,
+"rel": "PEGATINAS/Gemini_Generated_Image_r2gzy9r2gzy9r2gz.jpg",
+"md5": "33f5455b59c1b241eb061fda6738ed9a",
+"material": "etiq_blanca",
+"piezas": [
+{
+"id": "tx:collage/etiquetas/blancas/etiq_blanca_0128_1",
+"archivo": "collage/etiquetas/blancas/etiq_blanca_0128_1.png",
+"familia": "etiquetas/blancas",
+"material": "etiq_blanca",
+"desc": "etiqueta adhesiva blanca (papel o térmica), algunas con esquina levantada",
+"optica": "opaco",
+"borde": "troquelado",
+"w": 1026,
+"h": 708,
+"alfa": true,
+"cobertura": 0.9156,
+"alfa_parcial": 0.014,
+"opacidad_media": 0.997,
+"color_medio": [
+224,
+225,
+224
+],
+"color": "#e0e1e0",
+"modo": "normal",
+"recorte": [
+194,
+670,
+1026,
+708
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_r2gzy9r2gzy9r2gz.jpg",
+"md5": "33f5455b59c1b241eb061fda6738ed9a",
+"w": 2048,
+"h": 2048,
+"n": 128,
+"fondo_medido": "#888888",
+"ruido_fondo": 0.56
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "9695d871ccddad79c5477731c6a5d4dd",
+"sombra": {
+"archivo": "collage/etiquetas/blancas/etiq_blanca_0128_1_sombra.png",
+"max": 0.502,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/etiquetas/blancas/etiq_blanca_0128_2",
+"archivo": "collage/etiquetas/blancas/etiq_blanca_0128_2.png",
+"familia": "etiquetas/blancas",
+"material": "etiq_blanca",
+"desc": "etiqueta adhesiva blanca (papel o térmica), algunas con esquina levantada",
+"optica": "opaco",
+"borde": "troquelado",
+"w": 517,
+"h": 706,
+"alfa": true,
+"cobertura": 0.8172,
+"alfa_parcial": 0.0201,
+"opacidad_media": 0.994,
+"color_medio": [
+214,
+214,
+214
+],
+"color": "#d6d6d6",
+"modo": "normal",
+"recorte": [
+1338,
+670,
+517,
+706
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_r2gzy9r2gzy9r2gz.jpg",
+"md5": "33f5455b59c1b241eb061fda6738ed9a",
+"w": 2048,
+"h": 2048,
+"n": 128,
+"fondo_medido": "#888888",
+"ruido_fondo": 0.56
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "5eaf42921c88cdf3ff1ca14acfbeeb3b",
+"sombra": {
+"archivo": "collage/etiquetas/blancas/etiq_blanca_0128_2_sombra.png",
+"max": 0.306,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#888888",
+"ruido_fondo": 0.56,
+"fraccion_fondo": 0.731
+}

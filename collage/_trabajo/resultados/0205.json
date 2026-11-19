@@ -1,0 +1,128 @@
+{
+"n": 205,
+"rel": "PEGATINAS/Tres manchas de pintura blanca.png",
+"md5": "f8e0f735d4be2ecbe5820ad12a852888",
+"material": "pintura",
+"piezas": [
+{
+"id": "tx:collage/pintura/blanca/pintura_0205_1",
+"archivo": "collage/pintura/blanca/pintura_0205_1.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 581,
+"h": 345,
+"alfa": true,
+"cobertura": 0.6741,
+"alfa_parcial": 0.015,
+"opacidad_media": 0.99,
+"color_medio": [
+220,
+221,
+224
+],
+"color": "#dcdde0",
+"modo": "normal",
+"recorte": [
+47,
+86,
+581,
+345
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres manchas de pintura blanca.png",
+"md5": "f8e0f735d4be2ecbe5820ad12a852888",
+"w": 1254,
+"h": 1254,
+"n": 205,
+"fondo_medido": "#5d5d5c",
+"ruido_fondo": 0.54
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "28b5e1e0b6e29746bc6ec48bbb43022d"
+},
+{
+"id": "tx:collage/pintura/blanca/pintura_0205_2",
+"archivo": "collage/pintura/blanca/pintura_0205_2.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 911,
+"h": 454,
+"alfa": true,
+"cobertura": 0.8116,
+"alfa_parcial": 0.0099,
+"opacidad_media": 0.994,
+"color_medio": [
+214,
+215,
+219
+],
+"color": "#d6d7db",
+"modo": "normal",
+"recorte": [
+314,
+476,
+911,
+454
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres manchas de pintura blanca.png",
+"md5": "f8e0f735d4be2ecbe5820ad12a852888",
+"w": 1254,
+"h": 1254,
+"n": 205,
+"fondo_medido": "#5d5d5c",
+"ruido_fondo": 0.54
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "779cb70758d4edf379683ce49423cf8c"
+},
+{
+"id": "tx:collage/pintura/blanca/pintura_0205_3",
+"archivo": "collage/pintura/blanca/pintura_0205_3.png",
+"familia": "pintura/blanca",
+"material": "pintura",
+"desc": "mancha de pintura blanca / corrector líquido seco con relieve",
+"optica": "opaco",
+"borde": "pincelada",
+"w": 391,
+"h": 248,
+"alfa": true,
+"cobertura": 0.4975,
+"alfa_parcial": 0.0253,
+"opacidad_media": 0.984,
+"color_medio": [
+218,
+219,
+224
+],
+"color": "#dadbe0",
+"modo": "normal",
+"recorte": [
+96,
+949,
+391,
+248
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Tres manchas de pintura blanca.png",
+"md5": "f8e0f735d4be2ecbe5820ad12a852888",
+"w": 1254,
+"h": 1254,
+"n": 205,
+"fondo_medido": "#5d5d5c",
+"ruido_fondo": 0.54
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "3cd2761d3ed2f1959608cbef8dd4e419"
+}
+],
+"fondo_medido": "#5d5d5c",
+"ruido_fondo": 0.54,
+"fraccion_fondo": 0.624
+}

@@ -1,0 +1,55 @@
+{
+"n": 35,
+"rel": "Gemini_Generated_Image_hsnb1hsnb1hsnb1h.jpg",
+"md5": "380164a7fa8fbdd590f3b7a7d817e4aa",
+"material": "periodico",
+"piezas": [
+{
+"id": "tx:collage/papeles/periodico/periodico_0035_1",
+"archivo": "collage/papeles/periodico/periodico_0035_1.png",
+"familia": "papeles/periodico",
+"material": "periodico",
+"desc": "recorte de periódico antiguo (texto en español)",
+"optica": "opaco",
+"borde": "rasgado",
+"w": 1419,
+"h": 1047,
+"alfa": true,
+"cobertura": 0.7747,
+"alfa_parcial": 0.0091,
+"opacidad_media": 0.995,
+"color_medio": [
+191,
+183,
+166
+],
+"color": "#bfb7a6",
+"modo": "normal",
+"recorte": [
+330,
+516,
+1419,
+1047
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Gemini_Generated_Image_hsnb1hsnb1hsnb1h.jpg",
+"md5": "380164a7fa8fbdd590f3b7a7d817e4aa",
+"w": 2048,
+"h": 2048,
+"n": 35,
+"fondo_medido": "#434950",
+"ruido_fondo": 0.64
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "d390a06d908dba3c162efe9c1b4385b1",
+"sombra": {
+"archivo": "collage/papeles/periodico/periodico_0035_1_sombra.png",
+"max": 0.228,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#434950",
+"ruido_fondo": 0.64,
+"fraccion_fondo": 0.694
+}

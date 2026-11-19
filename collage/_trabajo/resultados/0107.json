@@ -1,0 +1,143 @@
+{
+"n": 107,
+"rel": "PEGATINAS/Gemini_Generated_Image_d6rw9od6rw9od6rw.jpg",
+"md5": "630fa96bae086a21e7535936e822d5eb",
+"material": "peg_blanca",
+"piezas": [
+{
+"id": "tx:collage/pegatinas/blancas/peg_blanca_0107_1",
+"archivo": "collage/pegatinas/blancas/peg_blanca_0107_1.png",
+"familia": "pegatinas/blancas",
+"material": "peg_blanca",
+"desc": "pegatina blanca mate (círculo, óvalo, rectángulo)",
+"optica": "opaco",
+"borde": "troquelado",
+"w": 673,
+"h": 678,
+"alfa": true,
+"cobertura": 0.671,
+"alfa_parcial": 0.0123,
+"opacidad_media": 0.994,
+"color_medio": [
+227,
+227,
+226
+],
+"color": "#e3e3e2",
+"modo": "normal",
+"recorte": [
+250,
+444,
+673,
+678
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_d6rw9od6rw9od6rw.jpg",
+"md5": "630fa96bae086a21e7535936e822d5eb",
+"w": 2048,
+"h": 2048,
+"n": 107,
+"fondo_medido": "#848484",
+"ruido_fondo": 0.51
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "df6d01669c492cabdea9dbef5be1337e",
+"sombra": {
+"archivo": "collage/pegatinas/blancas/peg_blanca_0107_1_sombra.png",
+"max": 0.476,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/pegatinas/blancas/peg_blanca_0107_2",
+"archivo": "collage/pegatinas/blancas/peg_blanca_0107_2.png",
+"familia": "pegatinas/blancas",
+"material": "peg_blanca",
+"desc": "pegatina blanca mate (círculo, óvalo, rectángulo)",
+"optica": "opaco",
+"borde": "troquelado",
+"w": 816,
+"h": 487,
+"alfa": true,
+"cobertura": 0.8799,
+"alfa_parcial": 0.0128,
+"opacidad_media": 0.997,
+"color_medio": [
+225,
+225,
+225
+],
+"color": "#e1e1e1",
+"modo": "normal",
+"recorte": [
+982,
+481,
+816,
+487
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_d6rw9od6rw9od6rw.jpg",
+"md5": "630fa96bae086a21e7535936e822d5eb",
+"w": 2048,
+"h": 2048,
+"n": 107,
+"fondo_medido": "#848484",
+"ruido_fondo": 0.51
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "6c550d93a13e2897c03839585fe114cd",
+"sombra": {
+"archivo": "collage/pegatinas/blancas/peg_blanca_0107_2_sombra.png",
+"max": 0.32,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+},
+{
+"id": "tx:collage/pegatinas/blancas/peg_blanca_0107_3",
+"archivo": "collage/pegatinas/blancas/peg_blanca_0107_3.png",
+"familia": "pegatinas/blancas",
+"material": "peg_blanca",
+"desc": "pegatina blanca mate (círculo, óvalo, rectángulo)",
+"optica": "opaco",
+"borde": "troquelado",
+"w": 745,
+"h": 519,
+"alfa": true,
+"cobertura": 0.7056,
+"alfa_parcial": 0.0135,
+"opacidad_media": 0.996,
+"color_medio": [
+221,
+222,
+221
+],
+"color": "#dddedd",
+"modo": "normal",
+"recorte": [
+723,
+1148,
+745,
+519
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Gemini_Generated_Image_d6rw9od6rw9od6rw.jpg",
+"md5": "630fa96bae086a21e7535936e822d5eb",
+"w": 2048,
+"h": 2048,
+"n": 107,
+"fondo_medido": "#848484",
+"ruido_fondo": 0.51
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "b62db7f489df21a3e07ff2e0727554f6",
+"sombra": {
+"archivo": "collage/pegatinas/blancas/peg_blanca_0107_3_sombra.png",
+"max": 0.379,
+"modo": "multiplicar o normal, misma posición que la pieza"
+}
+}
+],
+"fondo_medido": "#848484",
+"ruido_fondo": 0.51,
+"fraccion_fondo": 0.732
+}

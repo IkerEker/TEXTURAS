@@ -1,0 +1,50 @@
+{
+"n": 0,
+"rel": "Collage abstracto azul, rojo y crema.png",
+"md5": "e87ebcee5a51220513619c4d2b9b2830",
+"material": "estampado",
+"piezas": [
+{
+"id": "tx:collage/papeles/estampado/estampado_0000_1",
+"archivo": "collage/papeles/estampado/estampado_0000_1.png",
+"familia": "papeles/estampado",
+"material": "estampado",
+"desc": "polígono recortado de papel impreso (azul, rojo y crema)",
+"optica": "opaco",
+"borde": "cortado recto",
+"w": 873,
+"h": 756,
+"alfa": true,
+"cobertura": 0.7048,
+"alfa_parcial": 0.0049,
+"opacidad_media": 0.997,
+"color_medio": [
+153,
+115,
+130
+],
+"color": "#997382",
+"modo": "normal",
+"recorte": [
+183,
+246,
+873,
+756
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/Collage abstracto azul, rojo y crema.png",
+"md5": "e87ebcee5a51220513619c4d2b9b2830",
+"w": 1254,
+"h": 1254,
+"n": 0,
+"fondo_medido": "#767676",
+"ruido_fondo": 0.49
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "dae68a1d8dc086f95ea5b1b888bea5bd"
+}
+],
+"fondo_medido": "#767676",
+"ruido_fondo": 0.49,
+"fraccion_fondo": 0.673
+}

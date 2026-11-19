@@ -1,0 +1,128 @@
+{
+"n": 150,
+"rel": "PEGATINAS/Parches de gel translúcido sobre gris.png",
+"md5": "294959e762ea8b77e282a7191c37ffc9",
+"material": "gel",
+"piezas": [
+{
+"id": "tx:collage/adhesivos/gel/gel_0150_1",
+"archivo": "collage/adhesivos/gel/gel_0150_1.png",
+"familia": "adhesivos/gel",
+"material": "gel",
+"desc": "gota o parche de gel / cola transparente",
+"optica": "transparente",
+"borde": "redondeado",
+"w": 405,
+"h": 408,
+"alfa": true,
+"cobertura": 0.1196,
+"alfa_parcial": 0.9995,
+"opacidad_media": 0.19,
+"color_medio": [
+209,
+199,
+166
+],
+"color": "#d1c7a6",
+"modo": "normal",
+"recorte": [
+138,
+208,
+405,
+408
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Parches de gel translúcido sobre gris.png",
+"md5": "294959e762ea8b77e282a7191c37ffc9",
+"w": 1254,
+"h": 1254,
+"n": 150,
+"fondo_medido": "#666260",
+"ruido_fondo": 1.41
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "9b38760cbae528188b7e0a1d874dee92"
+},
+{
+"id": "tx:collage/adhesivos/gel/gel_0150_2",
+"archivo": "collage/adhesivos/gel/gel_0150_2.png",
+"familia": "adhesivos/gel",
+"material": "gel",
+"desc": "gota o parche de gel / cola transparente",
+"optica": "transparente",
+"borde": "redondeado",
+"w": 459,
+"h": 402,
+"alfa": true,
+"cobertura": 0.1032,
+"alfa_parcial": 0.9995,
+"opacidad_media": 0.229,
+"color_medio": [
+209,
+196,
+155
+],
+"color": "#d1c49b",
+"modo": "normal",
+"recorte": [
+656,
+266,
+459,
+402
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Parches de gel translúcido sobre gris.png",
+"md5": "294959e762ea8b77e282a7191c37ffc9",
+"w": 1254,
+"h": 1254,
+"n": 150,
+"fondo_medido": "#666260",
+"ruido_fondo": 1.41
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "b4b9baf12ffb8dd8415d4b8d330e4aab"
+},
+{
+"id": "tx:collage/adhesivos/gel/gel_0150_3",
+"archivo": "collage/adhesivos/gel/gel_0150_3.png",
+"familia": "adhesivos/gel",
+"material": "gel",
+"desc": "gota o parche de gel / cola transparente",
+"optica": "transparente",
+"borde": "redondeado",
+"w": 468,
+"h": 384,
+"alfa": true,
+"cobertura": 0.1044,
+"alfa_parcial": 0.9988,
+"opacidad_media": 0.19,
+"color_medio": [
+211,
+202,
+176
+],
+"color": "#d3cab0",
+"modo": "normal",
+"recorte": [
+331,
+663,
+468,
+384
+],
+"fuente": {
+"ruta": "AÑADIDOS/COLLAGE/PEGATINAS/Parches de gel translúcido sobre gris.png",
+"md5": "294959e762ea8b77e282a7191c37ffc9",
+"w": 1254,
+"h": 1254,
+"n": 150,
+"fondo_medido": "#666260",
+"ruido_fondo": 1.41
+},
+"procedencia": "generada con IA (Gemini) por Iker",
+"md5": "4864db9ab5ce6aa2f58d1ff35d70de86"
+}
+],
+"fondo_medido": "#666260",
+"ruido_fondo": 1.41,
+"fraccion_fondo": 0.797
+}
