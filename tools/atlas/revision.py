@@ -162,13 +162,13 @@ def hoja(lote_id):
     L = next(l for l in est['lotes'] if l['lote'] == lote_id)
     byid = {a['id']: a for a in indice()}
     items = [byid[i] for i in L['ids']]
-    es_video = items[0]['tipo'] in ('video', 'tutorial') or lote_id.startswith('ab_tutoriales')
+    es_video = items[0].get('tipo', 'imagen') in ('video', 'tutorial') or lote_id.startswith('ab_tutoriales')
     cells = []
     for n, a in enumerate(items, 1):
         p = local(a)
         lab = '%d  %s' % (n, Path(a['archivo']).name[:58])
         info = '%sx%s %s %s' % (a.get('w', '?'), a.get('h', '?'), a.get('modo') or '', ('fondo ' + a['fondo']) if a.get('fondo') else '')
-        if a['coleccion'] == 'TEXTURAS' and a['tipo'] == 'video':
+        if a['coleccion'] == 'TEXTURAS' and a.get('tipo') == 'video':
             t, dur = video_tira(p)
             info += ' · %.2f s' % dur
             cells.append((lab, info, t.resize((900, int(900 * t.height / t.width))), None))
