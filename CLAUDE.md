@@ -5,6 +5,10 @@ sacados de sus plugins de Photoshop (NEONIZADOR, Analog FX, PAPELATOR, A mano, T
 **Regla de oro:** antes de dibujar, generar o pedir una textura en cualquier proyecto, búscala aquí.
 Si no está, se añade aquí (ver «Añadir material») y luego se usa; no se crean bancos sueltos dentro de cada plugin.
 
+> **Estado del proyecto (19-11-2026):** la biblioteca común se está unificando con el pack AcidBite. Antes de cambiar
+> nada en la estructura, lee `TRASPASO.md`, `plugins/README.md` y `plugins/CONCILIACION.md` (cómo usa cada plugin las
+> texturas y qué necesita para no cambiar ni un píxel).
+
 ## Cómo encontrar algo
 
 1. `catalogo.json` → `items[]`: una ficha por archivo (1.678). Campos principales:

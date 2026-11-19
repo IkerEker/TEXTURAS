@@ -1,0 +1,642 @@
+{
+"polvo1": {
+"original": "neonizador/TEXTURAS_03/Polvo y arañazos en película negra.png",
+"ids": [
+"superposiciones/pelicula_polvo_y_rayas/polvo_aranazos_pelicula_negra_0405",
+"superposiciones/pelicula_polvo_y_rayas/polvo_aranazos_pelicula_negra_0405_trama"
+]
+},
+"polvo2": {
+"original": "neonizador/TEXTURAS_03/Textura de película antigua con polvo y rayas.png",
+"ids": [
+"superposiciones/pelicula_polvo_y_rayas/textura_pelicula_antigua_polvo_rayas_0409",
+"superposiciones/pelicula_polvo_y_rayas/textura_pelicula_antigua_polvo_rayas_0409_trama"
+]
+},
+"polvo3": {
+"original": "neonizador/TEXTURAS_03/Textura de película negra con polvo y arañazos (1).png",
+"ids": [
+"superposiciones/pelicula_polvo_y_rayas/textura_pelicula_negra_polvo_aranazos_0410",
+"superposiciones/pelicula_polvo_y_rayas/textura_pelicula_negra_polvo_aranazos_0410_trama"
+]
+},
+"vhs1": {
+"original": "neonizador/TEXTURAS_03/Interferencia VHS en blanco y negro-1.png",
+"ids": [
+"superposiciones/vhs/interferencia_vhs_blanco_negro_0396",
+"superposiciones/vhs/interferencia_vhs_blanco_negro_0396_trama"
+]
+},
+"vhs2": {
+"original": "neonizador/TEXTURAS_03/Interferencias VHS en blanco y negro.png",
+"ids": [
+"superposiciones/vhs/interferencias_vhs_blanco_negro_0398",
+"superposiciones/vhs/interferencias_vhs_blanco_negro_0398_trama"
+]
+},
+"plastico1": {
+"original": "neonizador/TEXTURAS_03/Pliegues Brillantes sobre Negro.png",
+"ids": [
+"tileables/vidrios_y_plasticos/pliegues_brillantes_0815"
+]
+},
+"plastico2": {
+"original": "neonizador/TEXTURAS_04/Plástico negro arrugado y brillante.png",
+"ids": [
+"tileables/vidrios_y_plasticos/plastico_negro_arrugado_brillante_0818"
+]
+},
+"plastico3": {
+"original": "neonizador/TEXTURAS_04/Textura abstracta de plástico negro brillante.png",
+"ids": [
+"tileables/vidrios_y_plasticos/textura_abstracta_plastico_negro_brillante_0823"
+]
+},
+"papel_rugoso": {
+"original": "neonizador/TEXTURAS_02/texturas_tileables/Textura de papel acuarela blanco rugoso.png",
+"ids": [
+"tileables/papel/textura_papel_acuarela_blanco_rugoso_1019"
+]
+},
+"papel_fibra": {
+"original": "neonizador/TEXTURAS_02/texturas_tileables/Textura de papel artesanal fibroso.png",
+"ids": [
+"tileables/papel/textura_papel_artesanal_fibroso_1024"
+]
+},
+"papel_periodico": {
+"original": "neonizador/TEXTURAS_02/texturas_tileables/Textura uniforme de papel de periódico (1).png",
+"ids": [
+"tileables/papel/textura_uniforme_papel_periodico_1068"
+]
+},
+"pliegue_cruz": {
+"original": "neonizador/TEXTURAS_02/PLIEGUES/PLIEGUES/Textura de papel arrugado en cruz.png",
+"ids": [
+"pliegues/2_pliegues/textura_papel_arrugado_cruz_0700"
+]
+},
+"pliegue_cuad": {
+"original": "neonizador/TEXTURAS_02/PLIEGUES/PLIEGUES/Nueva carpeta/Papel arrugado con pliegues en cuadrícula.png",
+"ids": [
+"pliegues/4_pliegues/papel_arrugado_pliegues_cuadricula_0678"
+]
+},
+"arrugado": {
+"original": "neonizador/TEXTURAS_02/PLIEGUES/Textura de papel arrugado (4).png",
+"ids": [
+"pliegues/arrugado/textura_papel_arrugado_0729"
+]
+},
+"toner1": {
+"original": "neonizador/TEXTURAS_03/Textura de fotocopia sucia en blanco y negro.png",
+"ids": [
+"superposiciones/fotocopia/textura_fotocopia_sucia_blanco_negro_0406",
+"tileables/grunge/textura_fotocopia_sucia_blanco_negro_0406"
+]
+},
+"toner2": {
+"original": "analog-fx-plugin/textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_2kqay92kqay92kqa.jpg",
+"ids": [
+"superposiciones/9x16/grunge/grunge_1140",
+"tileables/grunge/grunge_gris_1140"
+]
+},
+"toner3": {
+"original": "analog-fx-plugin/textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_gjquzfgjquzfgjqu.jpg",
+"ids": [
+"superposiciones/9x16/grunge/grunge_1178",
+"tileables/grunge/grunge_gris_claro_1178"
+]
+},
+"moteado": {
+"original": "analog-fx-plugin/textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_idpfooidpfooidpf.jpg",
+"ids": [
+"superposiciones/9x16/grunge/grunge_1181",
+"tileables/grunge/grunge_gris_claro_1181"
+]
+},
+"grano_pel": {
+"original": "analog-fx-plugin/textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_rafudarafudarafu.jpg",
+"ids": [
+"superposiciones/9x16/ruido/ruido_1201",
+"tileables/grunge/ruido_gris_1201"
+]
+},
+"fuga1": {
+"original": "neonizador/TEXTURAS_03/Fuga de luz analógica naranja en negro-1.png",
+"ids": [
+"luz_y_elementos/fugas_de_luz/fuga_luz_analogica_naranja_0390",
+"luz_y_elementos/fugas_de_luz/fuga_luz_analogica_naranja_0390_trama"
+]
+},
+"fuga2": {
+"original": "neonizador/TEXTURAS_03/Fuga de luz roja sobre negro-2.png",
+"ids": [
+"luz_y_elementos/fugas_de_luz/fuga_luz_roja_0394",
+"luz_y_elementos/fugas_de_luz/fuga_luz_roja_0394_trama"
+]
+},
+"fuga3": {
+"original": "neonizador/TEXTURAS_03/Fuga de luz dorada vintage-3.png",
+"ids": [
+"luz_y_elementos/fugas_de_luz/fuga_luz_dorada_vintage_0392",
+"luz_y_elementos/fugas_de_luz/fuga_luz_dorada_vintage_0392_trama"
+]
+},
+"reflejo": {
+"original": "neonizador/TEXTURAS_02/Horizonte abstracto en tonos grisáceos.png",
+"ids": [
+"superposiciones/degradados/horizonte_abstracto_tonos_grisaceos_0367"
+]
+},
+"llamas1": {
+"original": "neonizador/TEXTURAS_03/Llamas Naranjas Ascendentes en la Oscuridad-2.png",
+"ids": [
+"luz_y_elementos/fuego/llamas_naranjas_ascendentes_0399",
+"luz_y_elementos/fuego/llamas_naranjas_ascendentes_0399_trama"
+]
+},
+"llamas2": {
+"original": "neonizador/TEXTURAS_03/Llamas anaranjadas sobre fondo negro-1.png",
+"ids": [
+"luz_y_elementos/fuego/llamas_anaranjadas_0401",
+"luz_y_elementos/fuego/llamas_anaranjadas_0401_trama"
+]
+},
+"llamas3": {
+"original": "neonizador/TEXTURAS_03/Llamas danzantes sobre negro-3.png",
+"ids": [
+"luz_y_elementos/fuego/llamas_danzantes_0403",
+"luz_y_elementos/fuego/llamas_danzantes_0403_trama"
+]
+},
+"llamas4": {
+"original": "neonizador/TEXTURAS_03/Llamas doradas en la oscuridad-2.png",
+"ids": [
+"luz_y_elementos/fuego/llamas_doradas_0404",
+"luz_y_elementos/fuego/llamas_doradas_0404_trama"
+]
+},
+"chispas1": {
+"original": "neonizador/TEXTURAS_03/Chispas ardientes sobre fondo oscuro.png",
+"ids": [
+"luz_y_elementos/chispas/chispas_ardientes_0384",
+"luz_y_elementos/chispas/chispas_ardientes_0384_trama"
+]
+},
+"chispas2": {
+"original": "neonizador/TEXTURAS_03/Chispas incandescentes sobre fondo negro.png",
+"ids": [
+"luz_y_elementos/chispas/chispas_incandescentes_0385",
+"luz_y_elementos/chispas/chispas_incandescentes_0385_trama"
+]
+},
+"humo1": {
+"original": "neonizador/TEXTURAS_03/Espiral de humo sobre negro-2.png",
+"ids": [
+"luz_y_elementos/humo/espiral_humo_0386",
+"luz_y_elementos/humo/espiral_humo_0386_trama"
+]
+},
+"humo2": {
+"original": "neonizador/TEXTURAS_03/Espirales de humo etéreo-1.png",
+"ids": [
+"luz_y_elementos/humo/espirales_humo_etereo_0387",
+"luz_y_elementos/humo/espirales_humo_etereo_0387_trama"
+]
+},
+"humo3": {
+"original": "neonizador/TEXTURAS_03/Espirales de humo sobre negro-3.png",
+"ids": [
+"luz_y_elementos/humo/espirales_humo_0388",
+"luz_y_elementos/humo/espirales_humo_0388_trama"
+]
+},
+"vapor": {
+"original": "neonizador/TEXTURAS_03/Espirales de vapor sobre fondo negro.png",
+"ids": [
+"luz_y_elementos/humo/espirales_vapor_0389",
+"luz_y_elementos/humo/espirales_vapor_0389_trama"
+]
+},
+"causticas1": {
+"original": "neonizador/TEXTURAS_02/Reflejos de agua en escala de grises.png",
+"ids": [
+"tileables/liquidos/reflejos_agua_escala_grises_0379"
+]
+},
+"causticas2": {
+"original": "neonizador/TEXTURAS_02/Caústicas de luz sobre agua.png",
+"ids": [
+"tileables/liquidos/causticas_luz_agua_0362"
+]
+},
+"agua_sup": {
+"original": "neonizador/TEXTURAS_02/Textura monocroma de agua ondulante.png",
+"ids": [
+"tileables/liquidos/textura_monocroma_agua_ondulante_0382"
+]
+},
+"espuma1": {
+"original": "neonizador/TEXTURAS_02/Espuma de jabón sobre negro.png",
+"ids": [
+"tileables/liquidos/espuma_jabon_0363"
+]
+},
+"espuma2": {
+"original": "neonizador/TEXTURAS_02/Macro espuma de jabón en blanco y negro.png",
+"ids": [
+"tileables/liquidos/macro_espuma_jabon_blanco_negro_0368"
+]
+},
+"espuma3": {
+"original": "neonizador/TEXTURAS/Espuma marina sobre aguas oscuras.png",
+"ids": [
+"tileables/liquidos/espuma_marina_aguas_oscuras_0188"
+]
+},
+"gotas_cristal": {
+"original": "neonizador/TEXTURAS_02/Gotas de lluvia sobre cristal negro (1).png",
+"ids": [
+"tileables/vidrios_y_plasticos/gotas_lluvia_cristal_negro_0808"
+]
+},
+"pompas": {
+"original": "neonizador/TEXTURAS_02/Burbujas de jabón iridiscentes sobre negro.png",
+"ids": [
+"luz_y_elementos/burbujas_y_espuma/burbujas_jabon_iridiscentes_0359",
+"luz_y_elementos/burbujas_y_espuma/burbujas_jabon_iridiscentes_0359_trama"
+]
+},
+"acanalado": {
+"original": "neonizador/TEXTURAS_04/Cristal acanalado negro brillante.png",
+"ids": [
+"tileables/vidrios_y_plasticos/cristal_acanalado_negro_brillante_0805"
+]
+},
+"ondulado1": {
+"original": "neonizador/TEXTURAS_04/Ondas de vidrio líquido en blanco y negro.png",
+"ids": [
+"tileables/vidrios_y_plasticos/ondas_vidrio_liquido_blanco_negro_0812"
+]
+},
+"ondulado2": {
+"original": "neonizador/TEXTURAS_04/Textura de vidrio ondulado en blanco y negro.png",
+"ids": [
+"tileables/vidrios_y_plasticos/textura_vidrio_ondulado_blanco_negro_0840"
+]
+},
+"martillado": {
+"original": "neonizador/TEXTURAS_04/Textura abstracta de vidrio rugoso-2.png",
+"ids": [
+"tileables/vidrios_y_plasticos/textura_abstracta_vidrio_rugoso_0827"
+]
+},
+"esmerilado": {
+"original": "neonizador/TEXTURAS_04/Textura de vidrio esmerilado oscuro (1).png",
+"ids": [
+"tileables/vidrios_y_plasticos/textura_vidrio_esmerilado_oscuro_0835"
+]
+},
+"marmol1": {
+"original": "neonizador/TEXTURAS_02/Mármol fluido en blanco y negro.png",
+"ids": [
+"tileables/liquidos/marmol_fluido_blanco_negro_0373"
+]
+},
+"marmol2": {
+"original": "neonizador/TEXTURAS_02/Remolino de mármol líquido en blanco y negro.png",
+"ids": [
+"tileables/liquidos/remolino_marmol_liquido_blanco_negro_0380"
+]
+},
+"tinta_nubes": {
+"original": "analog-fx-plugin/textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_7w8c4f7w8c4f7w8c.jpg",
+"ids": [
+"superposiciones/9x16/aguada/aguada_1223"
+]
+},
+"tinta_negra": {
+"original": "analog-fx-plugin/textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_4tiwp4tiwp4tiwp4.jpg",
+"ids": [
+"superposiciones/9x16/grunge/grunge_1196"
+]
+},
+"floracion1": {
+"original": "analog-fx-plugin/textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_9bueey9bueey9bue (1).jpg",
+"ids": [
+"superposiciones/9x16/aguada/aguada_1164",
+"tileables/pintura/aguada_gris_1164"
+]
+},
+"floracion2": {
+"original": "analog-fx-plugin/textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_dkn2wudkn2wudkn2.jpg",
+"ids": [
+"superposiciones/9x16/aguada/aguada_1173"
+]
+},
+"sangrado1": {
+"original": "neonizador/TEXTURAS_02/Mancha de tinta negra sobre papel texturizado.png",
+"ids": [
+"manchas/tinta/mancha_tinta_negra_papel_texturizado_0369"
+]
+},
+"sangrado2": {
+"original": "analog-fx-plugin/textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_7k4e7x7k4e7x7k4e.jpg",
+"ids": [
+"superposiciones/9x16/grunge/grunge_1157",
+"tileables/grunge/grunge_gris_1157"
+]
+},
+"acuarela_grano": {
+"original": "analog-fx-plugin/plugin/textures/thumbs/grano_1.jpg"
+},
+"acuarela_aguada": {
+"original": "analog-fx-plugin/textures-src/OTRAS TEXTURAS/Acuarela_Base_1_Basecolor.png",
+"ids": [
+"tileables/pintura/acuarela_base_1_basecolor_1072"
+]
+},
+"pincel_relieve": {
+"original": "analog-fx-plugin/textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Grises_6_Basecolor.png",
+"ids": [
+"tileables/pintura/guache_pinceladas_grises_8_basecolor_1124"
+]
+},
+"pincel_toques": {
+"original": "analog-fx-plugin/textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_phyczxphyczxphyc.jpg",
+"ids": [
+"superposiciones/9x16/pintura_gris/pintura_gris_1195",
+"tileables/pintura/gris_gris_1195"
+]
+},
+"pincel_vert": {
+"original": "analog-fx-plugin/textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_269een269een269e.jpg",
+"ids": [
+"superposiciones/9x16/pintura_color/pintura_color_1147"
+]
+},
+"chorreones": {
+"original": "analog-fx-plugin/textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_2nzviv2nzviv2nzv.jpg",
+"ids": [
+"superposiciones/9x16/goteos/goteos_1199",
+"tileables/goteos/goteos_gris_1199"
+]
+},
+"quemado_tex": {
+"original": "neonizador/TEXTURAS_02/Textura de papel quemado sobre blanco.png",
+"ids": [
+"imperfecciones/quemadura_grande/textura_papel_quemado_0381"
+]
+},
+"lapiz": {
+"original": "analog-fx-plugin/textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_614ens614ens614e.jpg",
+"ids": [
+"superposiciones/9x16/grafito/grafito_1154",
+"tileables/grafito_y_carbon/grafito_gris_1154"
+]
+},
+"borde_goteo1": {
+"original": "neonizador/TEXTURAS_02/Goteos de pintura blanca sobre negro (1).png",
+"ids": [
+"manchas/goteos_pintura_blanca/goteos_pintura_blanca_0365"
+]
+},
+"borde_goteo2": {
+"original": "neonizador/TEXTURAS_02/Goteos de pintura blanca sobre negro.png",
+"ids": [
+"manchas/goteos_pintura_blanca/goteos_pintura_blanca_0366"
+]
+},
+"gt_gruesa1": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_001.png"
+},
+"gt_gruesa2": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_003.png"
+},
+"gt_gruesa3": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_005.png"
+},
+"gt_gruesa4": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_007.png"
+},
+"gt_gruesa6": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_014.png"
+},
+"gt_gruesa7": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_016.png"
+},
+"gt_gruesa8": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_018.png"
+},
+"gt_gruesa9": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_020.png"
+},
+"gt_gruesa10": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_022.png"
+},
+"gt_gruesa11": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_024.png"
+},
+"gt_gruesa12": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_026.png"
+},
+"gt_gruesa13": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_033.png"
+},
+"gt_gruesa14": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_035.png"
+},
+"gt_gruesa15": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_041.png"
+},
+"gt_gruesa16": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_043.png"
+},
+"gt_gruesa17": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_057.png"
+},
+"gt_gruesa18": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_059.png"
+},
+"gt_gruesa19": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_062.png"
+},
+"gt_gruesa20": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_065.png"
+},
+"gt_gruesa21": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_072.png"
+},
+"gt_gruesa22": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_074.png"
+},
+"gt_gruesa23": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_076.png"
+},
+"gt_gruesa24": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_078.png"
+},
+"gt_fina3": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/fina/goteo_054.png"
+},
+"gt_fina4": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/fina/goteo_056.png"
+},
+"gt_fina5": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_113.png"
+},
+"gt_fina7": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_125.png"
+},
+"gt_fina8": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/fina/goteo_142.png"
+},
+"gt_fina9": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/fina/goteo_144.png"
+},
+"gt_fina10": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_171.png"
+},
+"gt_fina11": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/fina/goteo_175.png"
+},
+"gt_fina12": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/fina/goteo_177.png"
+},
+"gt_fina13": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/fina/goteo_192.png"
+},
+"gt_fina14": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/fina/goteo_194.png"
+},
+"gt_fina15": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_211.png"
+},
+"gt_fina16": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/fina/goteo_218.png"
+},
+"gt_ondulada1": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_063.png"
+},
+"gt_ondulada2": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_096.png"
+},
+"gt_ondulada3": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_098.png"
+},
+"gt_ondulada4": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_102.png"
+},
+"gt_ondulada5": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_116.png"
+},
+"gt_ondulada6": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_152.png"
+},
+"gt_ondulada7": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_178.png"
+},
+"gt_ondulada8": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_180.png"
+},
+"gt_ondulada9": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_181.png"
+},
+"gt_ondulada10": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_183.png"
+},
+"gt_ondulada11": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_184.png"
+},
+"gt_ondulada12": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_186.png"
+},
+"gt_ondulada13": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_187.png"
+},
+"gt_ondulada14": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_208.png"
+},
+"gt_ondulada15": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_209.png"
+},
+"gt_agrietada1": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/seca/goteo_009.png"
+},
+"gt_agrietada2": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/seca/goteo_037.png"
+},
+"gt_agrietada3": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/seca/goteo_038.png"
+},
+"gt_agrietada4": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/seca/goteo_040.png"
+},
+"gt_agrietada5": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_046.png"
+},
+"gt_agrietada6": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/seca/goteo_047.png"
+},
+"gt_agrietada7": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_088.png"
+},
+"gt_agrietada8": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_092.png"
+},
+"gt_agrietada9": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_094.png"
+},
+"gt_agrietada10": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/seca/goteo_137.png"
+},
+"gt_agrietada11": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/seca/goteo_139.png"
+},
+"gt_agrietada12": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/fina/goteo_174.png"
+},
+"gt_agrietada13": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/lagrima/goteo_200.png"
+},
+"gt_agrietada14": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/serpenteante/goteo_206.png"
+},
+"gt_gota1": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/suelta/goteo_030.png"
+},
+"gt_gota2": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/suelta/goteo_031.png"
+},
+"gt_gota4": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/suelta/goteo_069.png"
+},
+"gt_gota5": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/suelta/goteo_070.png"
+},
+"gt_mancha3": {
+"original": "analog-fx-plugin/BIBLIOTECA/goteos/impacto/goteo_147.png"
+},
+"fg_lengua2": {
+"original": "neonizador/FUEGO/Llama Curvada sobre Fondo Negro (1).png",
+"ids": [
+"luz_y_elementos/fuego/llama_curvada_0092",
+"luz_y_elementos/fuego/llama_curvada_0092_trama"
+]
+},
+"fg_lengua12": {
+"original": "neonizador/FUEGO/Llama Curvada sobre Fondo Negro (1).png",
+"ids": [
+"luz_y_elementos/fuego/llama_curvada_0092",
+"luz_y_elementos/fuego/llama_curvada_0092_trama"
+]
+},
+"mo_colonia4": {
+"original": "neonizador/Nuevos recursos/Colonia de moho multicolor sobre negro (4).png",
+"ids": [
+"luz_y_elementos/moho/colonia_moho_multicolor_0174"
+]
+}
+}
