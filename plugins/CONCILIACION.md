@@ -58,3 +58,19 @@ Antes de adoptarlos: revisar calidad con hoja de contactos frente a lo nuestro, 
 - Le faltan: bordes quemados reales, cartón en planta, moho real (→ las colonias de NEONIZADOR), más orejas, pliegues
   7-8 y enrollados, perforadora/chincheta/cinta entera, papeles nuevos (calco, carbón, térmico, couché, seda, sobres),
   corcho, pizarra, lienzo, plástico mate, polvo de escáner.
+
+## Trazo
+
+- Sus 319 archivos de `TEXTURES/` (commit 83aed67) son idénticos (hash de git) a los que ya procesó TEXTURAS.
+- Productos: 9 librerías de pinceladas enderezadas (`pin_*`, cabeza/cuerpo/cola + relieve), tiles de pintura y
+  acuarela, 22 manchas con forma, 5 superposiciones 9:16, 19 tiras de grano de grafito, 3 soportes de papel/lienzo
+  sintetizados por fase aleatoria (512², ~10 px/mm supuesto).
+- Peso muerto (~3,7 MB): `pin_cera`, `pin_pastel`, `ov_carbon`, `ov_goteos` (sin verificar), `ov_grafito`.
+- Pide del índice: medio, tipo, tileable, color/temperatura, `q` (1-3), tags de forma, `px_por_mm`, md5.
+  Quiere recibir trazos sueltos limpios con máscara, tiles sin costura a resolución completa y fondos de papel limpios;
+  el enderezado y la codificación TRZ1 los sigue haciendo él.
+- Nombres: `pin_gouache` (para óleo) ≠ `pin_guache` (gouache). Evitar «trazos» como nombre de familia genérica.
+- Le falta: papeles reales escaneados sin trazos con escala, más óleo (empaste, espátula), pastel real, grafito por
+  durezas, bordes/floraciones/granulación de acuarela reales, más madera de grabado, tinta y rotulador limpios
+  (las fuentes ya existen sin usar).
+- Antes de migrar: comprobar que su build actual reproduce sus `.bin` (no está verificado).
