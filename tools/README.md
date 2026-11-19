@@ -24,3 +24,18 @@ python3 construir_catalogo.py $W/res $W/videos_cat.json $W/inv2.json $T
   pliegues de `build_folds.py`, bordes de `bordes_sets.json`, técnicas de `A mano/tools/extract_textures.py` y de Trazo.
   Las 99 texturas 9:16 de Trazo se clasificaron a ojo (tabla `V916`).
 - Para material nuevo: añade su regla en `regla()` de `clasificar.py`, vuelve a procesar solo esa categoría y revisa su hoja.
+
+## tools/atlas · el atlas unificado (TEXTURAS + AcidBite + originales)
+
+```bash
+python3 tools/atlas/originales.py          # originales/MANIFIESTO.json (md5, rutas antiguas, heredados de NEONIZADOR)
+python3 tools/atlas/construir_indice.py    # indice/indice.json (tx:, ab:, or:, productos)
+python3 tools/atlas/tablas_plugins.py      # plugins/<p>/uso_id.json
+python3 tools/atlas/nombres.py             # indice/nombres.json
+python3 tools/atlas/productos_amano.py <clon a-mano>   # productos/cintas_trazo y sellos_relieve
+python3 tools/atlas/producto_papel_gris.py             # productos/papel_gris
+python3 tools/atlas/hoja.py <carpeta> <salida.jpg>     # hoja de contactos
+python3 tools/atlas/buscar.py <palabras> [--clase …]   # buscar
+python tools/atlas/montar_biblioteca.py --raiz <Biblioteca> [--acidbite <pack>]   # en el ordenador de Iker
+```
+AcidBite tiene sus propios scripts en `acidbite/scripts/` (ver `acidbite/ESTADO.md`).

@@ -72,7 +72,7 @@ Tiras de fotogramas de cada vídeo: `video/_tiras/`.
   número entero de periodos para que las líneas casen. `tile_mm` = tamaño real del tile cuando se conoce.
 - **Relieves y pliegues**: escala de grises con 50 % = sin efecto.
 - Nombres: `<descripción>_<nnnn>[_<pieza>].<ext>` (nnnn = nº de fuente, estable entre regeneraciones).
-- Los originales **no** están aquí: siguen en su repo (`origen.repo` / `origen.ruta`). Este repo guarda solo lo procesado.
+- Los originales **no** están en git: van a `Biblioteca/originales/` (ver `originales/MANIFIESTO.json`, id `or:<md5>`). Este repo guarda lo procesado, los productos comunes y el índice.
 
 ## Usarlo desde un plugin
 
