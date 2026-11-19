@@ -1,0 +1,4246 @@
+{
+ "plugin": "neonizador",
+ "nota": "id = archivo heredado exacto (lo que lee hoy build_texpack.py) → .bin idéntico. original_real/productos_comunes = la foto original y su versión procesada en TEXTURAS (cambiarían el resultado).",
+ "total": 287,
+ "sin_id": 0,
+ "filas": [
+  {
+   "orden": 0,
+   "nombre_interno": "acanalado",
+   "familia": "acanalado",
+   "uso": [
+    "cristal"
+   ],
+   "id": "or:f6246885e04ebd2151f7d5056bbc911d",
+   "fuente_ruta": "BIBLIOTECA/texturas/vidrio/acanalado/vidrio_acanalado_01.jpg",
+   "original_real": "or:76f0ff8f413e038a0a7b60f783a74bf2",
+   "productos_comunes": [
+    "tileables/vidrios_y_plasticos/cristal_acanalado_negro_brillante_0805"
+   ],
+   "formato": "plugin/tex/acanalado.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 1,
+   "nombre_interno": "acuarela_aguada",
+   "familia": "acuarela_aguada",
+   "uso": [
+    "acuarela"
+   ],
+   "id": "or:b03d7deda6348899824cb95517798e44",
+   "fuente_ruta": "BIBLIOTECA/texturas/pintura/acuarela/aguada_de_acuarela_gris_tileable_01.jpg",
+   "original_real": "or:94305a6dc84a64e3dd70f03afca4ebaf",
+   "productos_comunes": [
+    "tileables/pintura/acuarela_base_1_basecolor_1072"
+   ],
+   "formato": "plugin/tex/acuarela_aguada.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 2,
+   "nombre_interno": "acuarela_grano",
+   "familia": "acuarela_grano",
+   "uso": [
+    "abanico",
+    "acuarela",
+    "desvanecido",
+    "disuelto"
+   ],
+   "id": "or:bbe8c489e452651e16e7e0adce2e3ac1",
+   "fuente_ruta": "BIBLIOTECA/texturas/grano/granulado_de_acuarela_tileable_01.jpg",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/acuarela_grano.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 3,
+   "nombre_interno": "agua_sup",
+   "familia": "agua_sup",
+   "uso": [
+    "ondas"
+   ],
+   "id": "or:37adede9761abfb2e87ebcf8595ab2da",
+   "fuente_ruta": "BIBLIOTECA/texturas/agua/superficie/superficie_de_agua_ondulada_en_gris_01.jpg",
+   "original_real": "or:b755b42a21763da146a84e73e4f3a0ec",
+   "productos_comunes": [
+    "tileables/liquidos/textura_monocroma_agua_ondulante_0382"
+   ],
+   "formato": "plugin/tex/agua_sup.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 4,
+   "nombre_interno": "arrugado",
+   "familia": "arrugado",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:9b451680a773ba018ccb48728bd9ba50",
+   "fuente_ruta": "BIBLIOTECA/texturas/papel/arrugado/arrugado_medio_01.jpg",
+   "original_real": "or:266b233a9527a9376534a0ab06e39379",
+   "productos_comunes": [
+    "pliegues/arrugado/textura_papel_arrugado_0729"
+   ],
+   "formato": "plugin/tex/arrugado.bin · 725×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 742400 bytes"
+  },
+  {
+   "orden": 5,
+   "nombre_interno": "bf_mancha1",
+   "familia": "bf_mancha",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:b50356ee4053ced94e061b4d964723f5",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/manchas/mancha_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_mancha1.bin · 768×743 · 2 canal(es) LA · 8 bits crudo sin cabecera · 1141248 bytes"
+  },
+  {
+   "orden": 6,
+   "nombre_interno": "bf_mancha10",
+   "familia": "bf_mancha",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:df0ffd35bab426ae02ccfdf154bb9737",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/manchas/mancha_10.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_mancha10.bin · 754×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 1158144 bytes"
+  },
+  {
+   "orden": 7,
+   "nombre_interno": "bf_mancha2",
+   "familia": "bf_mancha",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:126099354c0adb0461bb3289d1f1a04a",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/manchas/mancha_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_mancha2.bin · 768×752 · 2 canal(es) LA · 8 bits crudo sin cabecera · 1155072 bytes"
+  },
+  {
+   "orden": 8,
+   "nombre_interno": "bf_mancha3",
+   "familia": "bf_mancha",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:ac94318b4670daabaa2d4b2677a5b040",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/manchas/mancha_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_mancha3.bin · 768×743 · 2 canal(es) LA · 8 bits crudo sin cabecera · 1141248 bytes"
+  },
+  {
+   "orden": 9,
+   "nombre_interno": "bf_mancha4",
+   "familia": "bf_mancha",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:8917820840979b1b19d56aad51d4379b",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/manchas/mancha_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_mancha4.bin · 768×751 · 2 canal(es) LA · 8 bits crudo sin cabecera · 1153536 bytes"
+  },
+  {
+   "orden": 10,
+   "nombre_interno": "bf_mancha5",
+   "familia": "bf_mancha",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:5bd918691b146df38dc66986970c97bc",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/manchas/mancha_05.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_mancha5.bin · 768×754 · 2 canal(es) LA · 8 bits crudo sin cabecera · 1158144 bytes"
+  },
+  {
+   "orden": 11,
+   "nombre_interno": "bf_mancha6",
+   "familia": "bf_mancha",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:10c0ea18a87cc11d76c33f59e7c4ace0",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/manchas/mancha_06.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_mancha6.bin · 693×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 1064448 bytes"
+  },
+  {
+   "orden": 12,
+   "nombre_interno": "bf_mancha7",
+   "familia": "bf_mancha",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:7b4c75f65524e56de52a22a35081302d",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/manchas/mancha_07.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_mancha7.bin · 621×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 953856 bytes"
+  },
+  {
+   "orden": 13,
+   "nombre_interno": "bf_mancha8",
+   "familia": "bf_mancha",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:44c3272feb3777592d9d5e21c6a65480",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/manchas/mancha_08.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_mancha8.bin · 716×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 1099776 bytes"
+  },
+  {
+   "orden": 14,
+   "nombre_interno": "bf_mancha9",
+   "familia": "bf_mancha",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:1e963c7fbd093bd2be38bc2e433d8ba6",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/manchas/mancha_09.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_mancha9.bin · 620×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 952320 bytes"
+  },
+  {
+   "orden": 15,
+   "nombre_interno": "bf_suelta1",
+   "familia": "bf_suelta",
+   "uso": [
+    "humedad"
+   ],
+   "id": "or:f8e86b073239b189777edcad21e7536c",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/sueltas/suelta_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_suelta1.bin · 383×384 · 2 canal(es) LA · 8 bits crudo sin cabecera · 294144 bytes"
+  },
+  {
+   "orden": 16,
+   "nombre_interno": "bf_suelta2",
+   "familia": "bf_suelta",
+   "uso": [
+    "humedad"
+   ],
+   "id": "or:cf5df213ea977a7049d4d99a80070750",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/sueltas/suelta_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_suelta2.bin · 384×382 · 2 canal(es) LA · 8 bits crudo sin cabecera · 293376 bytes"
+  },
+  {
+   "orden": 17,
+   "nombre_interno": "bf_suelta3",
+   "familia": "bf_suelta",
+   "uso": [
+    "humedad"
+   ],
+   "id": "or:2225ba7d2ec1536ab36e3d2b3a39b2f4",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/sueltas/suelta_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_suelta3.bin · 379×384 · 2 canal(es) LA · 8 bits crudo sin cabecera · 291072 bytes"
+  },
+  {
+   "orden": 18,
+   "nombre_interno": "bf_suelta4",
+   "familia": "bf_suelta",
+   "uso": [
+    "humedad"
+   ],
+   "id": "or:cc38515aa4a964048071c638bbd1b308",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/sueltas/suelta_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_suelta4.bin · 384×378 · 2 canal(es) LA · 8 bits crudo sin cabecera · 290304 bytes"
+  },
+  {
+   "orden": 19,
+   "nombre_interno": "bf_suelta5",
+   "familia": "bf_suelta",
+   "uso": [
+    "humedad"
+   ],
+   "id": "or:631056f515981911c4b9ea51948fc876",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/sueltas/suelta_05.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_suelta5.bin · 377×384 · 2 canal(es) LA · 8 bits crudo sin cabecera · 289536 bytes"
+  },
+  {
+   "orden": 20,
+   "nombre_interno": "bf_suelta6",
+   "familia": "bf_suelta",
+   "uso": [
+    "humedad"
+   ],
+   "id": "or:21d02b0c384e63b8070e13a8c2789c83",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/sueltas/suelta_06.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_suelta6.bin · 373×384 · 2 canal(es) LA · 8 bits crudo sin cabecera · 286464 bytes"
+  },
+  {
+   "orden": 21,
+   "nombre_interno": "bf_tile1",
+   "familia": "bf_tile",
+   "uso": [
+    "espumado"
+   ],
+   "id": "or:6c0a2c1382b4ec17d82ef301055d7bde",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_tile1.bin · 512×512 · 1 canal(es) L · 8 bits crudo sin cabecera · 262144 bytes"
+  },
+  {
+   "orden": 22,
+   "nombre_interno": "bf_tile10",
+   "familia": "bf_tile",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:f5f98f33709dbad11f517fb290da20c3",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_10.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_tile10.bin · 474×474 · 1 canal(es) L · 8 bits crudo sin cabecera · 224676 bytes"
+  },
+  {
+   "orden": 23,
+   "nombre_interno": "bf_tile2",
+   "familia": "bf_tile",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:63269afb2b7a27941e5fd901dd1360cd",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_tile2.bin · 442×442 · 1 canal(es) L · 8 bits crudo sin cabecera · 195364 bytes"
+  },
+  {
+   "orden": 24,
+   "nombre_interno": "bf_tile3",
+   "familia": "bf_tile",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:1945ce833563b1beda48a5dd7e11c60e",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_tile3.bin · 466×466 · 1 canal(es) L · 8 bits crudo sin cabecera · 217156 bytes"
+  },
+  {
+   "orden": 25,
+   "nombre_interno": "bf_tile4",
+   "familia": "bf_tile",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:523cb20d5b75b554bac69dd5a907f7b8",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_tile4.bin · 512×512 · 1 canal(es) L · 8 bits crudo sin cabecera · 262144 bytes"
+  },
+  {
+   "orden": 26,
+   "nombre_interno": "bf_tile5",
+   "familia": "bf_tile",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:946d046a44263502e5002091680aca2d",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_05.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_tile5.bin · 436×436 · 1 canal(es) L · 8 bits crudo sin cabecera · 190096 bytes"
+  },
+  {
+   "orden": 27,
+   "nombre_interno": "bf_tile6",
+   "familia": "bf_tile",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:acee9f3c670f2b6fe88121c072ed1ac5",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_06.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_tile6.bin · 512×512 · 1 canal(es) L · 8 bits crudo sin cabecera · 262144 bytes"
+  },
+  {
+   "orden": 28,
+   "nombre_interno": "bf_tile7",
+   "familia": "bf_tile",
+   "uso": [
+    "espumado"
+   ],
+   "id": "or:85bdcf82c85b2401d11718c6c5bcb6e8",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_07.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_tile7.bin · 464×464 · 1 canal(es) L · 8 bits crudo sin cabecera · 215296 bytes"
+  },
+  {
+   "orden": 29,
+   "nombre_interno": "bf_tile8",
+   "familia": "bf_tile",
+   "uso": [
+    "espumado",
+    "humedad"
+   ],
+   "id": "or:805cdefea17da8c87ecbb2e48bba5ee1",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_08.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_tile8.bin · 512×512 · 1 canal(es) L · 8 bits crudo sin cabecera · 262144 bytes"
+  },
+  {
+   "orden": 30,
+   "nombre_interno": "bf_tile9",
+   "familia": "bf_tile",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:0a63a6d9e5a88a90644b47559c90f447",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_09.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/bf_tile9.bin · 504×504 · 1 canal(es) L · 8 bits crudo sin cabecera · 254016 bytes"
+  },
+  {
+   "orden": 31,
+   "nombre_interno": "borde_goteo1",
+   "familia": "borde_goteo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:08355f824226d1195a03c966390eb232",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/borde/goteo_238_borde_01.png",
+   "original_real": "or:28432ee2c2fbd0b7f2104e83347218fd",
+   "productos_comunes": [
+    "manchas/goteos_pintura_blanca/goteos_pintura_blanca_0365"
+   ],
+   "formato": "plugin/tex/borde_goteo1.bin · 1024×1022 · 2 canal(es) LA · 8 bits crudo sin cabecera · 2093056 bytes"
+  },
+  {
+   "orden": 32,
+   "nombre_interno": "borde_goteo2",
+   "familia": "borde_goteo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:3de14c5b5af0b3c59999ceaf41fb7bd8",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/borde/goteo_239_borde_01.png",
+   "original_real": "or:8a13e1f3b65fa429b53562c3bf8e3100",
+   "productos_comunes": [
+    "manchas/goteos_pintura_blanca/goteos_pintura_blanca_0366"
+   ],
+   "formato": "plugin/tex/borde_goteo2.bin · 1024×1020 · 2 canal(es) LA · 8 bits crudo sin cabecera · 2088960 bytes"
+  },
+  {
+   "orden": 33,
+   "nombre_interno": "burbuja1",
+   "familia": "burbuja",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:f4f9d400fb48f4b4b8cf8088459d8023",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas/burbujas_228_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/burbuja1.bin · 375×384 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 576000 bytes"
+  },
+  {
+   "orden": 34,
+   "nombre_interno": "burbuja10",
+   "familia": "burbuja",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:155250c6bc336406757ae7f3bffd5ca8",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas/burbujas_230_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/burbuja10.bin · 384×341 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 523776 bytes"
+  },
+  {
+   "orden": 35,
+   "nombre_interno": "burbuja11",
+   "familia": "burbuja",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:36a46b047ae2495a21bb9e043d5dfb7e",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas/burbujas_230_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/burbuja11.bin · 331×365 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 483260 bytes"
+  },
+  {
+   "orden": 36,
+   "nombre_interno": "burbuja12",
+   "familia": "burbuja",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:06d4c955da077ca3ef698b1ab3f4c83e",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas/burbujas_230_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/burbuja12.bin · 384×380 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 583680 bytes"
+  },
+  {
+   "orden": 37,
+   "nombre_interno": "burbuja2",
+   "familia": "burbuja",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:748e17720cf0a91308c6da3831af3b3d",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas/burbujas_228_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/burbuja2.bin · 384×344 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 528384 bytes"
+  },
+  {
+   "orden": 38,
+   "nombre_interno": "burbuja3",
+   "familia": "burbuja",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:26fa7191418cf515e51931f0bcfab182",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas/burbujas_228_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/burbuja3.bin · 241×384 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 370176 bytes"
+  },
+  {
+   "orden": 39,
+   "nombre_interno": "burbuja4",
+   "familia": "burbuja",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:345b24f872ff9f7066aef94c0e6b01c2",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas/burbujas_228_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/burbuja4.bin · 267×257 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 274476 bytes"
+  },
+  {
+   "orden": 40,
+   "nombre_interno": "burbuja5",
+   "familia": "burbuja",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:8e0a458567717fc36ed0cd00abe2f935",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas/burbujas_228_06.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/burbuja5.bin · 239×239 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 228484 bytes"
+  },
+  {
+   "orden": 41,
+   "nombre_interno": "burbuja6",
+   "familia": "burbuja",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:b8271332ccdd35cb595cedbce0450332",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas/burbujas_229_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/burbuja6.bin · 384×371 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 569856 bytes"
+  },
+  {
+   "orden": 42,
+   "nombre_interno": "burbuja7",
+   "familia": "burbuja",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:ca58f55ab69e8d3e254588ad5bbf13bb",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas/burbujas_229_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/burbuja7.bin · 384×326 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 500736 bytes"
+  },
+  {
+   "orden": 43,
+   "nombre_interno": "burbuja8",
+   "familia": "burbuja",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:40714db0b76322432e0c37bd5e3f4aab",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas/burbujas_229_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/burbuja8.bin · 226×280 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 253120 bytes"
+  },
+  {
+   "orden": 44,
+   "nombre_interno": "burbuja9",
+   "familia": "burbuja",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:147081f48f789496f3f056bfb1992dc9",
+   "fuente_ruta": "BIBLIOTECA/elementos/burbujas/burbujas_230_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/burbuja9.bin · 382×384 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 586752 bytes"
+  },
+  {
+   "orden": 45,
+   "nombre_interno": "causticas1",
+   "familia": "causticas",
+   "uso": [
+    "ondas"
+   ],
+   "id": "or:dc21b822df12bdbcb2a3d6baa8d951dc",
+   "fuente_ruta": "BIBLIOTECA/texturas/agua/causticas/red_de_causticas_brillantes_sobre_negro_01.jpg",
+   "original_real": "or:2fc1aa3499c6846f8e69d72a04a3bdce",
+   "productos_comunes": [
+    "tileables/liquidos/reflejos_agua_escala_grises_0379"
+   ],
+   "formato": "plugin/tex/causticas1.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 46,
+   "nombre_interno": "causticas2",
+   "familia": "causticas",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:9da3800788bb04c3c1aa7d1899694c30",
+   "fuente_ruta": "BIBLIOTECA/texturas/agua/causticas/causticas_de_luz_sobre_agua_en_gris_sobr_01.jpg",
+   "original_real": "or:8f198c650c866bfd82e31ad7aedf7ceb",
+   "productos_comunes": [
+    "tileables/liquidos/causticas_luz_agua_0362"
+   ],
+   "formato": "plugin/tex/causticas2.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 47,
+   "nombre_interno": "chispas1",
+   "familia": "chispas",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:1a3eb48e131dab46a0a9dbf01d2553e1",
+   "fuente_ruta": "BIBLIOTECA/texturas/fuego/chispas/chispas_brasas_02.jpg",
+   "original_real": "or:45b7d53510d231d987e99c008ae60c0e",
+   "productos_comunes": [
+    "luz_y_elementos/chispas/chispas_ardientes_0384",
+    "luz_y_elementos/chispas/chispas_ardientes_0384_trama"
+   ],
+   "formato": "plugin/tex/chispas1.bin · 1024×1024 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 3145728 bytes"
+  },
+  {
+   "orden": 48,
+   "nombre_interno": "chispas2",
+   "familia": "chispas",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:77d91c6d6e958c544d7c520190b06742",
+   "fuente_ruta": "BIBLIOTECA/texturas/fuego/chispas/chispas_brasas_03.jpg",
+   "original_real": "or:88fe8d2d8cb8d903bb02ac7975b7f82d",
+   "productos_comunes": [
+    "luz_y_elementos/chispas/chispas_incandescentes_0385",
+    "luz_y_elementos/chispas/chispas_incandescentes_0385_trama"
+   ],
+   "formato": "plugin/tex/chispas2.bin · 1024×1024 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 3145728 bytes"
+  },
+  {
+   "orden": 49,
+   "nombre_interno": "chorreones",
+   "familia": "chorreones",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:31183e862ede35019dfc27c70080c5df",
+   "fuente_ruta": "BIBLIOTECA/texturas/pintura/arrastre/rayas_verticales_de_pintura_que_gotean_n_01.jpg",
+   "original_real": "or:0b9ea6d511dc941d958d0c8289349e58",
+   "productos_comunes": [
+    "superposiciones/9x16/goteos/goteos_1199",
+    "tileables/goteos/goteos_gris_1199"
+   ],
+   "formato": "plugin/tex/chorreones.bin · 572×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 585728 bytes"
+  },
+  {
+   "orden": 50,
+   "nombre_interno": "esmerilado",
+   "familia": "esmerilado",
+   "uso": [
+    "fuera_foco"
+   ],
+   "id": "or:5c7129c5025d9f0a62931ee74ca324c7",
+   "fuente_ruta": "BIBLIOTECA/texturas/vidrio/esmerilado/vidrio_esmerilado_01.jpg",
+   "original_real": "or:5eca154f148471edf2fbd3b41eb77803",
+   "productos_comunes": [
+    "tileables/vidrios_y_plasticos/textura_vidrio_esmerilado_oscuro_0835"
+   ],
+   "formato": "plugin/tex/esmerilado.bin · 768×768 · 1 canal(es) L · 8 bits crudo sin cabecera · 589824 bytes"
+  },
+  {
+   "orden": 51,
+   "nombre_interno": "espuma1",
+   "familia": "espuma",
+   "uso": [
+    "espuma"
+   ],
+   "id": "or:62edc4fc53a6fe2a1e071577b562d8c9",
+   "fuente_ruta": "BIBLIOTECA/texturas/agua/espuma/exactamente_la_textura_de_la_muestra_01.jpg",
+   "original_real": "or:5d31258b9b9de216f3955f2747b31bce",
+   "productos_comunes": [
+    "tileables/liquidos/espuma_jabon_0363"
+   ],
+   "formato": "plugin/tex/espuma1.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 52,
+   "nombre_interno": "espuma2",
+   "familia": "espuma",
+   "uso": [
+    "espuma"
+   ],
+   "id": "or:e74bc21499505dee7f45040353d3591c",
+   "fuente_ruta": "BIBLIOTECA/texturas/agua/espuma/espuma_de_jabon_macro_en_blanco_y_negro__01.jpg",
+   "original_real": "or:07ec2952b92d0b646b231e7835690681",
+   "productos_comunes": [
+    "tileables/liquidos/macro_espuma_jabon_blanco_negro_0368"
+   ],
+   "formato": "plugin/tex/espuma2.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 53,
+   "nombre_interno": "espuma3",
+   "familia": "espuma",
+   "uso": [
+    "espuma"
+   ],
+   "id": "or:04478e69280e9151516aad9d8a7f6eec",
+   "fuente_ruta": "BIBLIOTECA/texturas/agua/espuma/espuma_marina_blanca_sobre_agua_oscura_01.jpg",
+   "original_real": "or:0317e013d419d877fb35eef20ba53a6f",
+   "productos_comunes": [
+    "tileables/liquidos/espuma_marina_aguas_oscuras_0188"
+   ],
+   "formato": "plugin/tex/espuma3.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 54,
+   "nombre_interno": "fg_base1",
+   "familia": "fg_base",
+   "uso": [
+    "fuego (se carga pero no se dibuja)"
+   ],
+   "id": "or:0ed73c0c023e4f7798f97e3d341820e5",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/base_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_base1.bin · 640×383 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 980480 bytes"
+  },
+  {
+   "orden": 55,
+   "nombre_interno": "fg_base2",
+   "familia": "fg_base",
+   "uso": [
+    "fuego (se carga pero no se dibuja)"
+   ],
+   "id": "or:d85c4ab33ce49f81089258081828ac32",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/base_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_base2.bin · 640×399 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1021440 bytes"
+  },
+  {
+   "orden": 56,
+   "nombre_interno": "fg_base3",
+   "familia": "fg_base",
+   "uso": [
+    "fuego (se carga pero no se dibuja)"
+   ],
+   "id": "or:f30214a954ef2e7943d6765283f96fb1",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/base_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_base3.bin · 640×408 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1044480 bytes"
+  },
+  {
+   "orden": 57,
+   "nombre_interno": "fg_chispas",
+   "familia": "fg_chispas",
+   "uso": [
+    "fuego"
+   ],
+   "id": [
+    "or:1f29964927281312fb38801a80b39f3e",
+    "or:a2666da6905b540f193e1670d74ed34f",
+    "or:f7a43658620918e5f40a8737cc979244",
+    "or:463b2c4c742cf5b6a1db6e9a01e8bb9c",
+    "or:4a31c4f055334062a5951c0aa7a3eee6",
+    "or:c6146c68db1cdfe188701279617f0903",
+    "or:9029e2d067736a7f521f9e7cab4b6a2b",
+    "or:27636bce301a3103211b59b4de1c22e6",
+    "or:b8edc4162a2076e419cc2a5fb0030e15",
+    "or:4e49f1024945fa1e7cf40a9133420657",
+    "or:2a459be5cdc56929708cfc7c53aba9ea",
+    "or:7e2734325975a8fe01f29c816498d606",
+    "or:9e82a32028cd7c916158a4634a8991e3",
+    "or:3c98ba9b8b4fd0c38e2f056c00d3e003",
+    "or:e0bebca39b85e2fe81ece7c59a81eecf",
+    "or:c88560f7cd2f13dce0f22baa9a192d5a",
+    "or:386e096f416b9c0af8280d3e5e3050c1",
+    "or:305dea5bfa534cab830cb8b99157d2e7",
+    "or:129819aa60e60b9719fe4ac270fbda1a",
+    "or:a29a3bb5ce3c98762e5f7d114606ba55",
+    "or:f2aae7e3c166bee9ff9549826f050cd1",
+    "or:47624294ef8b3007da3dbcc0e8018e59",
+    "or:2125c20ead1c63a4c93eb92f66e12c56",
+    "or:aa21067fe06c7d4ea4c3b6c0dcd7d17c",
+    "or:b1346e5e8053eabf834be4303365d7f3",
+    "or:26699d8263e0870d418732ef22653017",
+    "or:31cd44ceef2c681e7ea03550da458abb",
+    "or:dfbec377224ee82b1801fcd7fd255006",
+    "or:6cd5eb6890f6bec971080e5141b5da54",
+    "or:79727d538bfb2f20fa1410f8e8d5345f",
+    "or:43b4dc68459c14dcb07cde46f524bc79",
+    "or:5f59daa32f42599e9a7aadcd48878ba7",
+    "or:1814a619fc5edd77c0ea03484d39da7b",
+    "or:6277fdcd0d9ec1ffc330b4af43dd331a",
+    "or:820f40a92730573bf5baa46cae0d4344",
+    "or:27c9600362779b47871dd8244431080e",
+    "or:5c8746758840a14c9a42da1516300c94",
+    "or:26b90ca27b848eca11794cb1f54b13c4",
+    "or:ac74f83eb9c17599284f442c07052a53",
+    "or:82249c28cd1053cb3e4542f4bec7ba82",
+    "or:c22d3f8df60d169fdb377cb1038b814b",
+    "or:3772b296472855cfceafc8b111215fdc",
+    "or:524c910e999d311cf23c89a1a80ac7a8",
+    "or:30a6a7f03e131c2fba2d25f14b7e3bc9",
+    "or:08d46909cfb213fb95e1a016515c7704",
+    "or:8bbe54f12dab595d61d73ee4e6aa8e03",
+    "or:f3640ebc3ad32e829ae7f45f86cac4aa",
+    "or:c0d1065100311e5204a31c7b73e78baf",
+    "or:8576e2db5b7c6643f34f9c124fe8cf1b",
+    "or:68803553441ca8364f5b169f55a77c12",
+    "or:472b59bcf9deee677b6d3baed42cd0e6",
+    "or:0600fb834c2d1b1fb0a7b56eca1b71f0",
+    "or:3079c7982ecdc3d62406823361bc0bf2",
+    "or:1f8e8471636fae1736e5a12503aa0361",
+    "or:b64d8bf6c6508730f0e9842e5e94a4cc",
+    "or:fa78bfc42646e83adaff6a96c8dd2b0e",
+    "or:c0cd983744d3dced258e9fa0dad8ec51",
+    "or:e4e9ec478620188adb67edda7a55d48e",
+    "or:65144245afaf05d1f8a455f3f63511f0",
+    "or:1d4631e5a44d382c895a9a20863798ba",
+    "or:5112432fe280b04ac5b156f9875d153d",
+    "or:469072f6d0e2d9c33df5b21bf28ddee7",
+    "or:4d4002da12f6b952d389d417a82d7da7",
+    "or:e2563e58351f8c3b62dab1f830fefa0f",
+    "or:cd742b1ac2b9167a7e264d24272f0ab1",
+    "or:4bf4276529958374b68aa6a800240787",
+    "or:8762b57e68c4ca1a481ca7e0a5e0d67a",
+    "or:feadc5f09b8982795e585f4c3ff76dbd",
+    "or:b124fe47c6dff6dc452561221c27afd0",
+    "or:ec52333a593381ce052d1b23f7e9dcfd",
+    "or:612c3ba1b6a93f358949b47880282882",
+    "or:4643491c438b5f9cb92892509ebe3325",
+    "or:c56f2b4f085204ffe399af9e777f9ec3",
+    "or:60b07b4f818a34174a12577451d5ee19",
+    "or:d853e6aad94005ecbca6596af26beca8",
+    "or:c8ca80dc41489096a3df6205377dc91d",
+    "or:1660d67843ded97f6486d53bf5966fcd",
+    "or:c411381449989fea8224a39267632e27",
+    "or:0caf97ab56d6ef8169c4d5108ca6bfa9",
+    "or:0d7febc62e1f23676729bcfcc3f200d3",
+    "or:841f6171dd2c9d4f43e8648cb535f605",
+    "or:d74b41ed5cab8455bb02c2c2233cf700",
+    "or:8befb60931b5a99b68a28c5a0a38f04c",
+    "or:177773d8f073030eaff0de51f415f3c7",
+    "or:6d510d9922854ed1a886ba3ed9be87ae",
+    "or:24297bf0229ba6734417d77901a68b5f",
+    "or:7e7497545bbc55122904276b799dfec6",
+    "or:bf03b58db4598410bd172cc90d32bda8",
+    "or:46372d8433615e9951ccb93a581b0f08",
+    "or:05b7e406731ad13e3b8995bbd3b03e93",
+    "or:b780c4adf4c37abaa9490c7d916cf414",
+    "or:56fd566e18dfd6d0c649770e1ec334d6",
+    "or:2ee9774f366eec9feca725c890b73445",
+    "or:8da30a03cbd85fb0a06152c78c892cc1",
+    "or:c0413b1f9cfa997434f7df454dce1322",
+    "or:a21ee7a43f04ea7df8b637db038c3b5e",
+    "or:0bd63332cb1697f1af5bec2e693ff2b4",
+    "or:33e988486185482bd289c1dc1c722d94",
+    "or:7007949bd6ddf2efd4eb090707a9d336",
+    "or:9bfaaaaf1033b589c1ef1cbc56069872",
+    "or:2abc6e2f0a32a740826916c6cc4ca28c",
+    "or:9d96bd19933bf64c6e16600ba63aac6b",
+    "or:acd7262f48aba791cdb0cdcbf7b2747e",
+    "or:8db5238ecc26df90d02aaa9a07e196f3",
+    "or:82e5eee70e5c89647aa5f0e2046488db",
+    "or:62636e0d2ac09dde9bbd0a313ccefd4a",
+    "or:c2bc2cc927fd0c6596e64e75c7364142",
+    "or:61fee47a914a660094738546be9d8437",
+    "or:97cfd34dc50e4cdf740f174247389e55",
+    "or:38d62c4639c65adbfdeeaf8ef5ff71c1",
+    "or:91fff77181fc40c0a06dc8fec8288c62",
+    "or:182b55076f57075668f7ae13991e4e2a",
+    "or:9c09b51f9123c676028fce60e754fce0",
+    "or:2faec25a8fc211df3fcd7fd1804f84b8",
+    "or:ea66d411573aed5d81d9a86bb3d7bf37",
+    "or:ec105c0abf86b0c7500cb8c4b78ad16c",
+    "or:504c24477d27f2302ca88c0af3db237b",
+    "or:d532fd40a9db524d01d5752dc789a0c4",
+    "or:ceaacea7a37e844316f192ed16bd0528",
+    "or:1950eb362cd80d6204ab7ead229a6664",
+    "or:5c06ff41a83da5664a406c086fcc8192",
+    "or:e9c6ab2925698c1597dd8f850be4f5e1",
+    "or:438d127ee74130dfc3073a72d39d1d26",
+    "or:208975f001a82f72f19d9bacb5ebb3f9",
+    "or:aee2c931b70b584d602d24f24e7d9bcc",
+    "or:46351eb7caa2ac27e92138ab6a77c31a",
+    "or:ccc2168f7c0bc3a38d7e73f679ca6fef",
+    "or:6d172c24f0ff7b4945d280b30d6d0634"
+   ],
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/chispas/*.png (75 piezas con elong ≥3, giradas a horizontal)",
+   "formato": "plugin/tex/fg_chispas.bin · 1024×32 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 131072 bytes",
+   "nota": "atlas: piezas en orden alfabético"
+  },
+  {
+   "orden": 58,
+   "nombre_interno": "fg_humo1",
+   "familia": "fg_humo",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:782441fb1a018d8645484f97dcbe119a",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/humo/humo_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_humo1.bin · 640×488 · 2 canal(es) LA · 8 bits crudo sin cabecera · 624640 bytes"
+  },
+  {
+   "orden": 59,
+   "nombre_interno": "fg_humo2",
+   "familia": "fg_humo",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:730a86eb5825b82d0a68297b7df03a92",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/humo/humo_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_humo2.bin · 640×415 · 2 canal(es) LA · 8 bits crudo sin cabecera · 531200 bytes"
+  },
+  {
+   "orden": 60,
+   "nombre_interno": "fg_humo3",
+   "familia": "fg_humo",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:ee2af7660cdbde7447adc3165fb98d4e",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/humo/humo_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_humo3.bin · 640×551 · 2 canal(es) LA · 8 bits crudo sin cabecera · 705280 bytes"
+  },
+  {
+   "orden": 61,
+   "nombre_interno": "fg_humo4",
+   "familia": "fg_humo",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:7a9e5ce4d2ca7acc87402cf0bcb4f53d",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/humo/humo_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_humo4.bin · 640×446 · 2 canal(es) LA · 8 bits crudo sin cabecera · 570880 bytes"
+  },
+  {
+   "orden": 62,
+   "nombre_interno": "fg_lengua1",
+   "familia": "fg_lengua",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:95c3a3659c71ce218bd8f42940591e6d",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/lengua_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_lengua1.bin · 540×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1382400 bytes"
+  },
+  {
+   "orden": 63,
+   "nombre_interno": "fg_lengua10",
+   "familia": "fg_lengua",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:692fe7d19de1c72d2a3852376265d451",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/lengua_10.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_lengua10.bin · 575×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1472000 bytes"
+  },
+  {
+   "orden": 64,
+   "nombre_interno": "fg_lengua11",
+   "familia": "fg_lengua",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:76d48e9b3f93d01810eba2c455875a12",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/lengua_11.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_lengua11.bin · 541×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1384960 bytes"
+  },
+  {
+   "orden": 65,
+   "nombre_interno": "fg_lengua12",
+   "familia": "fg_lengua",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:b5f225c2a51550cb1a7a4cdd4d08f948",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/lengua_12.png",
+   "original_real": "or:6ab5a917bccf3e929a0ece1371cdcaef",
+   "productos_comunes": [
+    "luz_y_elementos/fuego/llama_curvada_0092",
+    "luz_y_elementos/fuego/llama_curvada_0092_trama"
+   ],
+   "formato": "plugin/tex/fg_lengua12.bin · 492×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1259520 bytes"
+  },
+  {
+   "orden": 66,
+   "nombre_interno": "fg_lengua13",
+   "familia": "fg_lengua",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:bff6e61967a6cc64331224197a15a31e",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/lengua_13.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_lengua13.bin · 136×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 348160 bytes"
+  },
+  {
+   "orden": 67,
+   "nombre_interno": "fg_lengua14",
+   "familia": "fg_lengua",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:86452dfc91bbfa078adce43feac47a07",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/lengua_14.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_lengua14.bin · 585×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1497600 bytes"
+  },
+  {
+   "orden": 68,
+   "nombre_interno": "fg_lengua2",
+   "familia": "fg_lengua",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:eb7d64e588c21bfe178f26c976b176ce",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/lengua_02.png",
+   "original_real": "or:6ab5a917bccf3e929a0ece1371cdcaef",
+   "productos_comunes": [
+    "luz_y_elementos/fuego/llama_curvada_0092",
+    "luz_y_elementos/fuego/llama_curvada_0092_trama"
+   ],
+   "formato": "plugin/tex/fg_lengua2.bin · 570×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1459200 bytes"
+  },
+  {
+   "orden": 69,
+   "nombre_interno": "fg_lengua3",
+   "familia": "fg_lengua",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:c8039cea20e3fc820a31c4ae2d860b10",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/lengua_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_lengua3.bin · 543×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1390080 bytes"
+  },
+  {
+   "orden": 70,
+   "nombre_interno": "fg_lengua4",
+   "familia": "fg_lengua",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:5c3943db0510007f74fac6acfa5e4512",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/lengua_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_lengua4.bin · 371×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 949760 bytes"
+  },
+  {
+   "orden": 71,
+   "nombre_interno": "fg_lengua5",
+   "familia": "fg_lengua",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:b00fbe69eb15a85fccfc63445d6523cf",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/lengua_05.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_lengua5.bin · 595×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1523200 bytes"
+  },
+  {
+   "orden": 72,
+   "nombre_interno": "fg_lengua6",
+   "familia": "fg_lengua",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:2b0d3528b0666728d4d0c1067f4860dc",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/lengua_06.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_lengua6.bin · 114×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 291840 bytes"
+  },
+  {
+   "orden": 73,
+   "nombre_interno": "fg_lengua7",
+   "familia": "fg_lengua",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:d3a4be0b560f024b444800ba9704c2b4",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/lengua_07.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_lengua7.bin · 362×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 926720 bytes"
+  },
+  {
+   "orden": 74,
+   "nombre_interno": "fg_lengua8",
+   "familia": "fg_lengua",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:3ec0ea57a8b6ac7dc85da874bc970cc1",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/lengua_08.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_lengua8.bin · 582×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1489920 bytes"
+  },
+  {
+   "orden": 75,
+   "nombre_interno": "fg_lengua9",
+   "familia": "fg_lengua",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:ed1ffdc9527d269c7b5ab92719c507ce",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/lengua_09.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_lengua9.bin · 528×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1351680 bytes"
+  },
+  {
+   "orden": 76,
+   "nombre_interno": "fg_masa1",
+   "familia": "fg_masa",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:8114b16cd0c70c84ec43dae419e51ad4",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/masa_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_masa1.bin · 460×512 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 942080 bytes"
+  },
+  {
+   "orden": 77,
+   "nombre_interno": "fg_masa2",
+   "familia": "fg_masa",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:bc0c0b25d0f7e3158b46f2f70516b77f",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/masa_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_masa2.bin · 393×512 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 804864 bytes"
+  },
+  {
+   "orden": 78,
+   "nombre_interno": "fg_masa3",
+   "familia": "fg_masa",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:887f824552a6c996647efbde01055089",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/masa_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_masa3.bin · 461×512 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 944128 bytes"
+  },
+  {
+   "orden": 79,
+   "nombre_interno": "fg_masa4",
+   "familia": "fg_masa",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:cf8e4572ab56692c3381959358692847",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/masa_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_masa4.bin · 502×512 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1028096 bytes"
+  },
+  {
+   "orden": 80,
+   "nombre_interno": "fg_masa5",
+   "familia": "fg_masa",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:8d6f549a35075854f51ba52587c88a3e",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/masa_05.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_masa5.bin · 433×512 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 886784 bytes"
+  },
+  {
+   "orden": 81,
+   "nombre_interno": "fg_masa6",
+   "familia": "fg_masa",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:f5bcfbe51f9961ebfcfd80aaf904783f",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/masa_06.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_masa6.bin · 403×512 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 825344 bytes"
+  },
+  {
+   "orden": 82,
+   "nombre_interno": "fg_masa7",
+   "familia": "fg_masa",
+   "uso": [
+    "fuego"
+   ],
+   "id": "or:8485e9fb0828e1f3b6263ac2108b8a28",
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/llamas/masa_07.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/fg_masa7.bin · 400×512 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 819200 bytes"
+  },
+  {
+   "orden": 83,
+   "nombre_interno": "fg_pavesas",
+   "familia": "fg_pavesas",
+   "uso": [
+    "fuego"
+   ],
+   "id": [
+    "or:4197d782b11eef79c5dc715a96a79085",
+    "or:28c414b104ed11300ff8412d669504db",
+    "or:332613a41f3ecf11ace85fbdc438fed4",
+    "or:0696c99da0e73f7a4bda2837da7356d5",
+    "or:fc232cc8fe8cbce2ae76555be7e2a894",
+    "or:9ad7592c93bb76905c18af3fa64ebf14",
+    "or:702b7c3d60a9fd9ac7cb4038d76e6575",
+    "or:48d938b682b3e814451465ef2ea1e0cd",
+    "or:382ace8a9e0561d3d55c83a7ce7abc1d",
+    "or:a1ccb58d6f49ff798c1df67cd2c08479",
+    "or:d12268e0fc5a6b33aa783e96e49f5621",
+    "or:c5893fa121041bf4ad77a300163fb3ba",
+    "or:29504e8789ff38e1f8fdc1e5e3d0d160",
+    "or:5b7fe6753c70b589a93e235bad7787ed",
+    "or:616678d8ad1dc5531c0fc8594170d7b5",
+    "or:c16a484d999a9eb67a6c8e05230ba29a",
+    "or:dac3ad8c380333d9484329afff342154",
+    "or:e580b53875347b8774a7b45dcef4491f",
+    "or:78c8c28fba9948cb980828c1e3cc7598",
+    "or:f2af489b1461b8654c3a8090b5fc9dc9",
+    "or:b21b9a7a80c85849abeacc0013c185d1",
+    "or:2c4970d7f53f5b3f8c4ba7c4ce2e3990",
+    "or:322c0a2514deb3b777dc23950ffc92c7",
+    "or:0b3a86edd41c134f3bcd514a5ab3b671",
+    "or:e7e4870591f95eca6c6d31cd71eff366",
+    "or:ac7a36afac9f68c6571cd5a0247b7c89",
+    "or:6dd32e61bfe44ca173839bb21d7e67da",
+    "or:4155accb595f0e3ea9987d2d4cd34a83",
+    "or:34ef8760cac71410f41e88822f69816c",
+    "or:8f68da41a16573b742da15b8f2460304",
+    "or:284b49246e9a73716876f6c05fdc0e51",
+    "or:2fa8b2c427d468ef4dabe26f82d6d598",
+    "or:5e0e0eb0ddfd4cbdd85bdccc7ab6439f",
+    "or:036ea822061c5f50108618243f1f7b89",
+    "or:cd08575331e3aa113b9f764870d61003",
+    "or:a9e0c7b0ab0d78ca0e69439273fbf7ac",
+    "or:c8bab0a9c552c6f99d4e6d59bc035c83",
+    "or:f8474b98653ac8424a4d48495e661776",
+    "or:160e02ca67878ab12fe0449755fd1ed8",
+    "or:0aae7884625771bc391f25f2a94dc816",
+    "or:37c2422895363933c4d1ca91ad5cc192",
+    "or:317ed8a52f62f0caf0ee43d426263d86",
+    "or:e36627349b1d197317b7397a2ebd1773",
+    "or:fdc1dbf0d332ec72e90705757ac793fa",
+    "or:b0cd195c3537a46689431ce69eb4260a",
+    "or:3149ed36b55eb5c23c8cd68f3b50c033",
+    "or:6579325b8a8de2ca726b6250c2a42ef1",
+    "or:0c1b64856a57e6d3d88c3d6f44e25dfa",
+    "or:1cab33c2328615f3e8c006c6291fff77",
+    "or:0edd057acebafdd3ce9cca3df4d48914",
+    "or:af92b9b84e24293d3404adf81244ea93",
+    "or:637c55c408b9fcb22d9b6882a8dcd59a",
+    "or:cc37d2af419171431fbe86bc82cbb893",
+    "or:d5c9ca14c15a30f566095ec25580592f",
+    "or:12fb3e1e9b6b11d73f62c8207ad4cf44",
+    "or:55f7a6b2856a58fe250ebe617a3fe641",
+    "or:b26700ae390ba47d190a1c380f83a2a5",
+    "or:b776eef60eebe18f2a8cbb8fd4520184",
+    "or:3771e89bd35195e7012f39637526f473",
+    "or:5b3bb7ccd846098e7f3080c99f580599",
+    "or:00fd52c4fbd58f434154dfa9034b78f8",
+    "or:0c591771a954c2af20d96470fe68018a",
+    "or:157c225859b83f8ae17b7aa4016fde11",
+    "or:886b93e4d31b63e03c4b6a92c5a5e481",
+    "or:f1ac8bd18c7647c95d9ae16fda9d242c",
+    "or:a33740d318fc3e49f173ff494ce3cf81",
+    "or:b31a2dd083eb866d90748e9e5e661c52",
+    "or:0e2e72575b141291c3156ddf8b368142",
+    "or:dddbceb0160b592e92fdbafa99f63a7f",
+    "or:23416a0438a344d7507f5163f68b3e75",
+    "or:1db0da3fc8ceb1a033d222ad2b705cfd",
+    "or:2275ad9d27b19ec639d2032589531748",
+    "or:1384914731b899a8283d608e3f0f7f6d",
+    "or:25f6df0a564f60b7f97eb9370330b118",
+    "or:af8a72e86834df903ab17f427b56502e",
+    "or:57929d03870ebb55054cafd4f8460afd",
+    "or:6004d70962b080b2f89f9a3f5ea6b70c",
+    "or:37b051b0419d67e568b6945f02f05e7c",
+    "or:0b6b5ba765377146c21c7d6bd586393d",
+    "or:7635b08ed7032fb1a7a8ad3477859d98",
+    "or:a2527d9d73fe513cf79e4f0dc7d53314",
+    "or:6d62eaa39d8ce5805549d5996adb0e63",
+    "or:947be2084d0fd1fa5a5110a9a23fe933",
+    "or:a8ad009bfa3599109f634ec984b5c31c",
+    "or:0e473af1a661df69ea0d646206f11a4b",
+    "or:c7fc7e15668953624a6d420f6a96a589",
+    "or:006ce9af918a1aef57df2b3a020ade0f",
+    "or:71174076dbbb88d96b4a4d0536767af9",
+    "or:ea417b0a05981efa7d72eca7dcbafdc7",
+    "or:18a7a5a874041a45c35200ecaf633fed",
+    "or:b8cd2ddd1bf0108bd3f368f3573d46ca",
+    "or:99dc4b2fd568105b2a7e3db32b54a5f3",
+    "or:8014d8bc44be0842e322b25add148ccf",
+    "or:fa2b102e86e90132f0d15e471baf2d7e",
+    "or:7b17295ead0f640af033b13e0dbdfa96",
+    "or:d88b0b5454c3c3a8e85380607392be77",
+    "or:090224fb8528b558af75d6b82dcab7b6",
+    "or:22ec2b8b4b2433a7d8bd858f0b290676",
+    "or:cac38ff20367baf170704690416b85a1",
+    "or:93c7ac083dcf98324b425b1320964782",
+    "or:cfc22bbc2c204747a25074b246b6e085",
+    "or:5eeaa1cc1e51c9c8ec4c61e5e69e3cd1",
+    "or:51b1d7917e654832ef204bc9ca152488",
+    "or:ff4b09f249b3cea29aecf028a939cd4c",
+    "or:9ff440b5b5ec1477d2b8969fe54c04ed",
+    "or:a9fea9e3faf66a4bc2b3145d37fad0bd",
+    "or:4c01dd28438b58d7c44aee99bb752197",
+    "or:9fee3387ec3b2619e317a713f6284589",
+    "or:3a3ab247958e92c707b9838daa366a2e",
+    "or:35ede303c8090517e077ec1635e70116",
+    "or:63de58d1ecbd929e262f70b14eb8844e",
+    "or:dc76eb130493a03f5b3cc337d23bb7e7",
+    "or:4e807dce800f0f3f8478af7327169ecf",
+    "or:b4d5f1a1145c8ca430633df0df6356ca",
+    "or:bf0e3b3d80b69cde642ab714e729a5bb",
+    "or:b5aed9a22387ffac4f8c379386afb470",
+    "or:82e10696ff19568f1a9541cace16a3ce",
+    "or:30b480f4c68402d9a1a7e7b42596a434",
+    "or:1993e63612bed491cc461eea790ef4a9",
+    "or:73c68b3c89004e2b2b1a3f8d6f56c73d",
+    "or:7e973d2ff3f080fac302daefd421affc",
+    "or:0ae31d74b3f51e72519f531b0b68204e",
+    "or:eb47f9bdf02f96bbcb67debd986b22cd",
+    "or:542a488a039ab9251033dd468131bfd5",
+    "or:67cdb2b82b475ea9234a608417c8eb2d",
+    "or:7e551023132a503b511e119147aa5545",
+    "or:e8b28fef9ec2026822d815c7863557e0",
+    "or:6875f0bc0dd85d4a8bca0ef681a5b7a0",
+    "or:0694b93a3a1ee718120ae00eeeb8457e",
+    "or:fbc47cfa42956c7d36e4744b8bb53f0a",
+    "or:ed8b237513e4aebd4aa85f591832fea4",
+    "or:623e9da0450ae425136405edc3b1019b",
+    "or:dce7bc97f3fb877dced38f3f7a8a7d85",
+    "or:78ef99ccc60a175561d82419fc68916c",
+    "or:1b0c0f5f3aa79299ecd79f52deb9a441",
+    "or:e3fb3b9010f5df7ac779e1254d8938ae",
+    "or:1715d5412ced69d7e816343456bc18c2",
+    "or:ee661ddd37bb9a1f9731f48c01b53bdb",
+    "or:c8924e9ae9bd0481e2e92b15be36b846",
+    "or:a2edd83d24a5945907ea6a5ec1c34171",
+    "or:3d0efcb884837b8d6f2fceda8acd8d23",
+    "or:3cb2c4cc0f9fef0e722441e3677f06b0",
+    "or:3f69743caa0996a9a9b25c3fed2dd862",
+    "or:a3f5fd02a254e4015aa508b849fe384e",
+    "or:31a0e78220ce5e3ff536cae281b17f78",
+    "or:555a962cb58149ae5eefd5a87ab2e9d4",
+    "or:fb54e82a93e60d23c74d3a363328fd66",
+    "or:374864b7a978791649d71c0c5f601852",
+    "or:153f9640cbec5ad5214f9ce0d924b63c",
+    "or:6520f2ea8fbddabb774753497020bbaa",
+    "or:0457900b815dd1943f72d462577f660d",
+    "or:6999239a783ac6378531b762b022701d",
+    "or:a3dd50c7a3da51605091b87d5da036e8",
+    "or:ab7a7e20bd0032ba9a837afe07d1ccaa",
+    "or:396163b65e8bace96aa853c9d352b8b4",
+    "or:497f3ce988e604f267b63e1e0ceb48ba",
+    "or:bdeac4aa267d7f24ddbb0733cde4fc92",
+    "or:0c8ddfee4f5ec4373ecabb228f011688",
+    "or:9c07a36458d1fd395ac1a96d5425468e",
+    "or:26e337d4f470fe7dde204d524c05e682",
+    "or:713855f80ae9d188af039e8f476740f4",
+    "or:d521e1c7d4ee194be2742ade0a57cf2a",
+    "or:8aa8ce0ea0da08c07d7a74b06f68f137",
+    "or:667097e3270cf71fb4fd3493e0861c8a",
+    "or:e43a7b68a52c08a5a724cdb074365df1",
+    "or:b06345b29ee42a3f7bc0006a0193fb33",
+    "or:e31c416288986b671caa39f844a08e43",
+    "or:147ae100dc9daa5680ea561b3e0fe18a",
+    "or:d15fc63060153ffe51472f486b14c076",
+    "or:da8d69ab285378cf72e29a00af099ffc",
+    "or:726fdd430f5b395d1b1c2355d507ddb0",
+    "or:29785fc3e25839c4f1ba7f1a4f1565b5",
+    "or:8b903ec8bca97678b313d580f8083715",
+    "or:a25f8225d5f35df7becc8d9affe66a93",
+    "or:f487eebaa8135bf87cff498a7247ac9e",
+    "or:ac7a323af3fce8ece0536694e31f2adc",
+    "or:6dc68851c8b19d44ae3c86cef01330d3",
+    "or:abc39f8aa87479d67ae9ad7e022077c8",
+    "or:a01f985e40118ee08bd3bf691a4f738a",
+    "or:f7908651db61868971e6e90e5553dae1",
+    "or:92bf5e984e3aa1b15550da701e8b9242",
+    "or:56a912df61af68857602e9790e4c534d",
+    "or:36d0e4909a4425674c546697dcee894f",
+    "or:46da7f3cb4b6f8acb13420fe7cdafbb9",
+    "or:9d2908ce6a3189d96d5e889309f0d5cf",
+    "or:8fbce12fc570f987bceb7f6c028fc0b5",
+    "or:d2557b5774df7edb52acacb6b61967a4",
+    "or:5f878394a206e2467ff686687df5e616",
+    "or:89f92146eb989b183b079a16f44afc42",
+    "or:2a4960b90a3f38c14c97be954c8148ac",
+    "or:7686cbc67da0c4257d6d2499c94924c6",
+    "or:86ae03d3f5130e090599251a78f226b0",
+    "or:cfa231f0975969d4afec8a3f09183632",
+    "or:16474591d94a585b83d5681ddbe1aa7f",
+    "or:15d7791b78d10e99192894f49b039e7d",
+    "or:ccc3eda3497e1f1985726532554c4f86",
+    "or:91b0536cd6196cc41ab9e2f2f4e7656e",
+    "or:ca7c91962576f9ff1bc9315e49d0ca58",
+    "or:68b7e6264268f2430b5b3a72ba381380",
+    "or:af56e2d5dac68fb9578d072bbfaed936",
+    "or:feeedd3e9ee3abf83a67fee92fec056a",
+    "or:9e0ecab7149f31b328de9e84721209b0",
+    "or:7b3098ac4bebe64880f9adea9cc230ab",
+    "or:6d2653436fdfe817128b23656359c3d0",
+    "or:ee21f968de7068fbc316648095840591",
+    "or:a63efdb4ceb96f987c2562fe44718d40",
+    "or:0404afe5c931972d751f82734008def6",
+    "or:d678119d61cf2f1841e5ec06ea9014ad",
+    "or:3226841560315c0b7fe58bbedb6c7376",
+    "or:cf4883c1b2d3085e6651775e62844743",
+    "or:03f21f29201740849995a83c50208b15",
+    "or:d96959699dd18e0435bb468a3bd57435",
+    "or:41f81cae3d6c79bcbe43ebda9e10e491",
+    "or:46217904aa7c0f00bb15b4079bb37589",
+    "or:8a6cdad40af9b7c4d1ff2cc0a605719f",
+    "or:c2aa07d8ad3a3559744be666df4a5389",
+    "or:29d9e3662a3031e26026227e40c10880",
+    "or:731f4ed8b7155b657e6455b9655e5df2",
+    "or:35eade99396a6d8082388ab22fb71956",
+    "or:d19f9335c832a56a0f65dc6e0be4fdbd",
+    "or:670359ec7525e4b09e590458a7931090",
+    "or:69fd4d4b723adc5dfd9c2261306b05db",
+    "or:34c3d9f3c4f380a5538ebaaea8b8cb76",
+    "or:4a6ebefba64e92290c89447659a2e6c9",
+    "or:c0af5d9eff3009aeaf9af5c9a7337779",
+    "or:3c381e2cc9e830c565afe35b8e6539d4",
+    "or:64d387aeb1e8eb201b4f05eb01cb6bcd",
+    "or:891608b22605dca85cb84c4eb163b6f5",
+    "or:ed9fd5a6643b307eba5c3281e9293dad",
+    "or:5b5f46c0a3fb7e39a80c5ce2f11cc48f",
+    "or:307f79ec033c95e07a5d0a75a4b4884a",
+    "or:7867627d71147a56841a14b43fd01ed3",
+    "or:fc483b55717700b4b197bab451414ea3",
+    "or:d4592186cf8b5975bc8784a54e901b89",
+    "or:e2eec306b5637ac402e586f294ad99da",
+    "or:ca5f2b165352f95dae4bb8aabee43e01",
+    "or:aa8b46565c7cd565e297b2db2bb1c43b",
+    "or:436ca115f7dbb81fc96f59a5672cd0ea",
+    "or:713daa3fecb0a40ce8fbc8a338de82b1",
+    "or:f02349196645db1513c7a39820376be1",
+    "or:b818ee384feed31da818fe179b7150d8",
+    "or:3c231107ce1a2fce8acd2081749393b1",
+    "or:06431eb7558f6336d8f1e77eb340eda3",
+    "or:d52caed600d474344039b4511f181a44",
+    "or:fecf31502008234c7d54cd1a0f099253",
+    "or:6aec28fcc84cea6bfe20ed1ab1025711",
+    "or:0ba43f019beffd31d09af659cfce639c",
+    "or:ed2221dbed5bea391d8c551286b5728e",
+    "or:8e8fb989fefb3a22ff3388c673d83a6d",
+    "or:b749e2f262ee3e0f1e50a79b9b47a80d",
+    "or:b26e229368a57e468ac4a25c7b35bded",
+    "or:eef826cb4a7068be1e73ef1767c14907",
+    "or:1733945f5ed05815831871b9253d676a",
+    "or:9a0dbed2a25467a58ac52ae9a056a05c",
+    "or:ee99a4b1ace0db2af8687d431e1a4da8",
+    "or:a5ae1f59a3a40721422b79538766e420",
+    "or:2bc2d9f5893d191b94a1254ce1c4c52d",
+    "or:62c493ee046c5a9ec2d07da9d4e332e9",
+    "or:ce43765af317fbdc150563da28b87059",
+    "or:3f54555bf0aba066d5b6eef8a9c51ada",
+    "or:550b33e07e6ce30857cfe0c010c65680",
+    "or:b0b36a2e6121ccc4cfeadeb5e2f6d179",
+    "or:e99273789cb66ea49442979f2f722637",
+    "or:4e061ba3bcd8ac0d5247e78371b8f0a9",
+    "or:d1945c43d1a92d4a4dc63851bc04d404",
+    "or:7d122d8e709d188daf6a9ae9926c82bb",
+    "or:5b4b4a48b3623424313896a57e98ffb2"
+   ],
+   "fuente_ruta": "BIBLIOTECA/elementos/fuego/pavesas/*.png (267 piezas ≥7 px)",
+   "formato": "plugin/tex/fg_pavesas.bin · 1024×324 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1327104 bytes",
+   "nota": "atlas: piezas en orden alfabético"
+  },
+  {
+   "orden": 84,
+   "nombre_interno": "floracion1",
+   "familia": "floracion",
+   "uso": [
+    "acuarela",
+    "desvanecido",
+    "humedad"
+   ],
+   "id": "or:f54c8a87da92540087885c6cc5c7f82c",
+   "fuente_ruta": "BIBLIOTECA/texturas/tinta/floraciones/floraciones_de_acuarela_gris_con_bordes__01.jpg",
+   "original_real": "or:24c92fe2954ae88c87ca258a31ab95a5",
+   "productos_comunes": [
+    "superposiciones/9x16/aguada/aguada_1164",
+    "tileables/pintura/aguada_gris_1164"
+   ],
+   "formato": "plugin/tex/floracion1.bin · 572×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 585728 bytes"
+  },
+  {
+   "orden": 85,
+   "nombre_interno": "floracion2",
+   "familia": "floracion",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:ba2fe2c6e163a8c6b0cae9c8cfa165c8",
+   "fuente_ruta": "BIBLIOTECA/texturas/tinta/floraciones/manchas_de_tinta_que_se_expanden_en_agua_01.jpg",
+   "original_real": "or:99c1d2d7fb2b56552bc08ae48129e743",
+   "productos_comunes": [
+    "superposiciones/9x16/aguada/aguada_1173"
+   ],
+   "formato": "plugin/tex/floracion2.bin · 572×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 585728 bytes"
+  },
+  {
+   "orden": 86,
+   "nombre_interno": "fuga1",
+   "familia": "fuga",
+   "uso": [
+    "halacion (acabado)",
+    "zoom (acabado)"
+   ],
+   "id": "or:876d36316f16696479c0fbd4393dccb2",
+   "fuente_ruta": "BIBLIOTECA/texturas/luz/fugas/fuga_naranja_01.jpg",
+   "original_real": "or:99f75b5dd2f493dd35165182f37b8edd",
+   "productos_comunes": [
+    "luz_y_elementos/fugas_de_luz/fuga_luz_analogica_naranja_0390",
+    "luz_y_elementos/fugas_de_luz/fuga_luz_analogica_naranja_0390_trama"
+   ],
+   "formato": "plugin/tex/fuga1.bin · 768×768 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 1769472 bytes"
+  },
+  {
+   "orden": 87,
+   "nombre_interno": "fuga2",
+   "familia": "fuga",
+   "uso": [
+    "halacion (acabado)",
+    "zoom (acabado)"
+   ],
+   "id": "or:02e82131ca8b98cbe4a2328411b922a7",
+   "fuente_ruta": "BIBLIOTECA/texturas/luz/fugas/fuga_roja_02.jpg",
+   "original_real": "or:5e77df4975fc7271bfa45a1dbaf3e25b",
+   "productos_comunes": [
+    "luz_y_elementos/fugas_de_luz/fuga_luz_roja_0394",
+    "luz_y_elementos/fugas_de_luz/fuga_luz_roja_0394_trama"
+   ],
+   "formato": "plugin/tex/fuga2.bin · 768×768 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 1769472 bytes"
+  },
+  {
+   "orden": 88,
+   "nombre_interno": "fuga3",
+   "familia": "fuga",
+   "uso": [
+    "halacion (acabado)",
+    "zoom (acabado)"
+   ],
+   "id": "or:d9a19a93c5dd39d45f56140b8aef550c",
+   "fuente_ruta": "BIBLIOTECA/texturas/luz/fugas/fuga_dorada_02.jpg",
+   "original_real": "or:df2123f4e092d52044ecd97d20e4789a",
+   "productos_comunes": [
+    "luz_y_elementos/fugas_de_luz/fuga_luz_dorada_vintage_0392",
+    "luz_y_elementos/fugas_de_luz/fuga_luz_dorada_vintage_0392_trama"
+   ],
+   "formato": "plugin/tex/fuga3.bin · 768×768 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 1769472 bytes"
+  },
+  {
+   "orden": 89,
+   "nombre_interno": "gotas_cristal",
+   "familia": "gotas_cristal",
+   "uso": [
+    "gotas"
+   ],
+   "id": "or:12dff0dad29aa500044a0e58507956e0",
+   "fuente_ruta": "BIBLIOTECA/texturas/agua/gotas/gotas_de_lluvia_sobre_cristal__01.jpg",
+   "original_real": "or:a023cf2e0074638a2df0803bc0f9b4bf",
+   "productos_comunes": [
+    "tileables/vidrios_y_plasticos/gotas_lluvia_cristal_negro_0808"
+   ],
+   "formato": "plugin/tex/gotas_cristal.bin · 1254×1254 · 1 canal(es) L · 8 bits crudo sin cabecera · 1572516 bytes"
+  },
+  {
+   "orden": 90,
+   "nombre_interno": "goteo1",
+   "familia": "goteo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:15d87cdfee372b790068ecb66d232fc2",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/sueltos/goteo_237_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/goteo1.bin · 83×512 · 2 canal(es) LA · 8 bits crudo sin cabecera · 84992 bytes"
+  },
+  {
+   "orden": 91,
+   "nombre_interno": "goteo10",
+   "familia": "goteo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:9a0400b941d7efb682e489d402f20eaa",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/sueltos/goteo_239_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/goteo10.bin · 37×512 · 2 canal(es) LA · 8 bits crudo sin cabecera · 37888 bytes"
+  },
+  {
+   "orden": 92,
+   "nombre_interno": "goteo11",
+   "familia": "goteo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:bdba7892c89e07c90ae9c677e65b1844",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/sueltos/goteo_239_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/goteo11.bin · 58×301 · 2 canal(es) LA · 8 bits crudo sin cabecera · 34916 bytes"
+  },
+  {
+   "orden": 93,
+   "nombre_interno": "goteo12",
+   "familia": "goteo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:fa68c011a7fc84ffe8f7311f6123949b",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/sueltos/goteo_239_05.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/goteo12.bin · 74×133 · 2 canal(es) LA · 8 bits crudo sin cabecera · 19684 bytes"
+  },
+  {
+   "orden": 94,
+   "nombre_interno": "goteo2",
+   "familia": "goteo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:eb8538bdddb100e1b1490b8fd1268af1",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/sueltos/goteo_237_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/goteo2.bin · 70×465 · 2 canal(es) LA · 8 bits crudo sin cabecera · 65100 bytes"
+  },
+  {
+   "orden": 95,
+   "nombre_interno": "goteo3",
+   "familia": "goteo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:7359520d992350760c7f79dbd81ee8ad",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/sueltos/goteo_238_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/goteo3.bin · 65×512 · 2 canal(es) LA · 8 bits crudo sin cabecera · 66560 bytes"
+  },
+  {
+   "orden": 96,
+   "nombre_interno": "goteo4",
+   "familia": "goteo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:617d87f043fee4042a01e0b9f6653579",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/sueltos/goteo_238_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/goteo4.bin · 55×512 · 2 canal(es) LA · 8 bits crudo sin cabecera · 56320 bytes"
+  },
+  {
+   "orden": 97,
+   "nombre_interno": "goteo5",
+   "familia": "goteo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:22834317d7c6c38f464f57249ab22382",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/sueltos/goteo_238_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/goteo5.bin · 118×512 · 2 canal(es) LA · 8 bits crudo sin cabecera · 120832 bytes"
+  },
+  {
+   "orden": 98,
+   "nombre_interno": "goteo6",
+   "familia": "goteo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:6f981903ebda2ca17ee56c4aa3ebc0f6",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/sueltos/goteo_238_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/goteo6.bin · 55×385 · 2 canal(es) LA · 8 bits crudo sin cabecera · 42350 bytes"
+  },
+  {
+   "orden": 99,
+   "nombre_interno": "goteo7",
+   "familia": "goteo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:3639e9237060b9c67fd8989d6757b287",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/sueltos/goteo_238_06.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/goteo7.bin · 60×208 · 2 canal(es) LA · 8 bits crudo sin cabecera · 24960 bytes"
+  },
+  {
+   "orden": 100,
+   "nombre_interno": "goteo8",
+   "familia": "goteo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:f6035ae3ad896cc89062c3cfae6c6a0b",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/sueltos/goteo_239_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/goteo8.bin · 79×512 · 2 canal(es) LA · 8 bits crudo sin cabecera · 80896 bytes"
+  },
+  {
+   "orden": 101,
+   "nombre_interno": "goteo9",
+   "familia": "goteo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:4194db31fec5cc9029fc9d615a0c293f",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/sueltos/goteo_239_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/goteo9.bin · 60×512 · 2 canal(es) LA · 8 bits crudo sin cabecera · 61440 bytes"
+  },
+  {
+   "orden": 102,
+   "nombre_interno": "grano_pel",
+   "familia": "grano_pel",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:495246c5271aa3b13c7fd26fff5bb3dc",
+   "fuente_ruta": "BIBLIOTECA/texturas/grano/pelicula/ruido_de_grano_fino_uniforme_01.jpg",
+   "original_real": "or:8ab651b71da7fa4d18d3f438d3db7670",
+   "productos_comunes": [
+    "superposiciones/9x16/ruido/ruido_1201",
+    "tileables/grunge/ruido_gris_1201"
+   ],
+   "formato": "plugin/tex/grano_pel.bin · 429×768 · 1 canal(es) L · 8 bits crudo sin cabecera · 329472 bytes"
+  },
+  {
+   "orden": 103,
+   "nombre_interno": "gt_agrietada1",
+   "familia": "gt_agrietada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:6aabfdc5404efb8b7305e70ef54d688c",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/agrietada/goteo_agrietada_001.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_agrietada1.bin · 82×659 · 2 canal(es) LA · 8 bits crudo sin cabecera · 108076 bytes"
+  },
+  {
+   "orden": 104,
+   "nombre_interno": "gt_agrietada10",
+   "familia": "gt_agrietada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:11c79df957b6c17ce406df17fc3ed163",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/agrietada/goteo_agrietada_017.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_agrietada10.bin · 74×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 133200 bytes"
+  },
+  {
+   "orden": 105,
+   "nombre_interno": "gt_agrietada11",
+   "familia": "gt_agrietada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:0f250fb8298fb3f0bb56a34152afe6f2",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/agrietada/goteo_agrietada_019.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_agrietada11.bin · 62×634 · 2 canal(es) LA · 8 bits crudo sin cabecera · 78616 bytes"
+  },
+  {
+   "orden": 106,
+   "nombre_interno": "gt_agrietada12",
+   "familia": "gt_agrietada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:64591184b44279f0f2ef3a254916b4fe",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/agrietada/goteo_agrietada_021.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_agrietada12.bin · 49×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 88200 bytes"
+  },
+  {
+   "orden": 107,
+   "nombre_interno": "gt_agrietada13",
+   "familia": "gt_agrietada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:0a326dcd5bec4bef2fc3b08e521b2105",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/agrietada/goteo_agrietada_022.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_agrietada13.bin · 47×776 · 2 canal(es) LA · 8 bits crudo sin cabecera · 72944 bytes"
+  },
+  {
+   "orden": 108,
+   "nombre_interno": "gt_agrietada14",
+   "familia": "gt_agrietada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:1fd52f5e3b07d647b3b41c9135957e79",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/agrietada/goteo_agrietada_024.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_agrietada14.bin · 108×859 · 2 canal(es) LA · 8 bits crudo sin cabecera · 185544 bytes"
+  },
+  {
+   "orden": 109,
+   "nombre_interno": "gt_agrietada2",
+   "familia": "gt_agrietada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:0e7506d33035f37e5d6309deac119fc7",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/agrietada/goteo_agrietada_004.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_agrietada2.bin · 120×857 · 2 canal(es) LA · 8 bits crudo sin cabecera · 205680 bytes"
+  },
+  {
+   "orden": 110,
+   "nombre_interno": "gt_agrietada3",
+   "familia": "gt_agrietada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:c0a407fae8ed813b9ea095796c37fb19",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/agrietada/goteo_agrietada_005.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_agrietada3.bin · 79×695 · 2 canal(es) LA · 8 bits crudo sin cabecera · 109810 bytes"
+  },
+  {
+   "orden": 111,
+   "nombre_interno": "gt_agrietada4",
+   "familia": "gt_agrietada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:149dc340c9a09ade7f095b4d8703f5b0",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/agrietada/goteo_agrietada_007.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_agrietada4.bin · 68×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 122400 bytes"
+  },
+  {
+   "orden": 112,
+   "nombre_interno": "gt_agrietada5",
+   "familia": "gt_agrietada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:d1c606f2374b9188ead9e6dfd44b396e",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/agrietada/goteo_agrietada_009.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_agrietada5.bin · 67×620 · 2 canal(es) LA · 8 bits crudo sin cabecera · 83080 bytes"
+  },
+  {
+   "orden": 113,
+   "nombre_interno": "gt_agrietada6",
+   "familia": "gt_agrietada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:3c7f01b11670aae2ff5e49ab741fea5c",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/agrietada/goteo_agrietada_010.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_agrietada6.bin · 81×817 · 2 canal(es) LA · 8 bits crudo sin cabecera · 132354 bytes"
+  },
+  {
+   "orden": 114,
+   "nombre_interno": "gt_agrietada7",
+   "familia": "gt_agrietada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:4ead300c63026318da326977c6cff2ce",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/agrietada/goteo_agrietada_012.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_agrietada7.bin · 128×574 · 2 canal(es) LA · 8 bits crudo sin cabecera · 146944 bytes"
+  },
+  {
+   "orden": 115,
+   "nombre_interno": "gt_agrietada8",
+   "familia": "gt_agrietada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:fca18962efe6e2027fc2eba7cf89ea91",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/agrietada/goteo_agrietada_014.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_agrietada8.bin · 61×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 109800 bytes"
+  },
+  {
+   "orden": 116,
+   "nombre_interno": "gt_agrietada9",
+   "familia": "gt_agrietada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:2e7973654968582072a3c25810cc9999",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/agrietada/goteo_agrietada_016.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_agrietada9.bin · 83×881 · 2 canal(es) LA · 8 bits crudo sin cabecera · 146246 bytes"
+  },
+  {
+   "orden": 117,
+   "nombre_interno": "gt_fina1",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:0dc7f585f1142d38cbeaba6f5531b7c8",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_001.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina1.bin · 43×595 · 2 canal(es) LA · 8 bits crudo sin cabecera · 51170 bytes"
+  },
+  {
+   "orden": 118,
+   "nombre_interno": "gt_fina10",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:b873c383a7a507ba8ab0cc833abf515d",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_026.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina10.bin · 57×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 102600 bytes"
+  },
+  {
+   "orden": 119,
+   "nombre_interno": "gt_fina11",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:11483c3b8598689bcdb3fdf99dda804d",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_029.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina11.bin · 41×626 · 2 canal(es) LA · 8 bits crudo sin cabecera · 51332 bytes"
+  },
+  {
+   "orden": 120,
+   "nombre_interno": "gt_fina12",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:fc3c3b21e5e83dd9fac62bcabf332da5",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_031.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina12.bin · 43×862 · 2 canal(es) LA · 8 bits crudo sin cabecera · 74132 bytes"
+  },
+  {
+   "orden": 121,
+   "nombre_interno": "gt_fina13",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:0c967ca496738dc29771fa0d3f411eb2",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_033.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina13.bin · 27×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 48600 bytes"
+  },
+  {
+   "orden": 122,
+   "nombre_interno": "gt_fina14",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:df23277e476e3858595d0bef99c6b179",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_035.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina14.bin · 37×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 66600 bytes"
+  },
+  {
+   "orden": 123,
+   "nombre_interno": "gt_fina15",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:3a0b49548e10e434027e22aaed7efb2e",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_039.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina15.bin · 52×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 93600 bytes"
+  },
+  {
+   "orden": 124,
+   "nombre_interno": "gt_fina16",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:b6ed9243b519cadd1f52b2889bf39f87",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_042.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina16.bin · 40×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 72000 bytes"
+  },
+  {
+   "orden": 125,
+   "nombre_interno": "gt_fina2",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:7e78699905f20ec3eb314b1da2b470b4",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_003.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina2.bin · 47×497 · 2 canal(es) LA · 8 bits crudo sin cabecera · 46718 bytes"
+  },
+  {
+   "orden": 126,
+   "nombre_interno": "gt_fina3",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:a8b50f2e4947c56b16fc4c3db4c26b6d",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_005.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina3.bin · 55×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 99000 bytes"
+  },
+  {
+   "orden": 127,
+   "nombre_interno": "gt_fina4",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:d2393f6fcfa7928643f09e77f615c8a2",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_007.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina4.bin · 52×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 93600 bytes"
+  },
+  {
+   "orden": 128,
+   "nombre_interno": "gt_fina5",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:7cd812f7035d2a9cdca727d5419585ce",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_011.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina5.bin · 52×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 93600 bytes"
+  },
+  {
+   "orden": 129,
+   "nombre_interno": "gt_fina6",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:4dcb430443dfe4de2d42b2b41aaa5f8c",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_013.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina6.bin · 38×537 · 2 canal(es) LA · 8 bits crudo sin cabecera · 40812 bytes"
+  },
+  {
+   "orden": 130,
+   "nombre_interno": "gt_fina7",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:abe57c8e6b70384a8364929785ed7473",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_016.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina7.bin · 32×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 57600 bytes"
+  },
+  {
+   "orden": 131,
+   "nombre_interno": "gt_fina8",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:90791acffa0cd58905769fe5392faeda",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_020.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina8.bin · 36×629 · 2 canal(es) LA · 8 bits crudo sin cabecera · 45288 bytes"
+  },
+  {
+   "orden": 132,
+   "nombre_interno": "gt_fina9",
+   "familia": "gt_fina",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:545cb0ae803840194bd5342803a18162",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/fina/goteo_fina_022.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_fina9.bin · 36×543 · 2 canal(es) LA · 8 bits crudo sin cabecera · 39096 bytes"
+  },
+  {
+   "orden": 133,
+   "nombre_interno": "gt_gota1",
+   "familia": "gt_gota",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:80ca8f4998acbabca518ca8137a8418e",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gota/goteo_gota_001.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gota1.bin · 72×213 · 2 canal(es) LA · 8 bits crudo sin cabecera · 30672 bytes"
+  },
+  {
+   "orden": 134,
+   "nombre_interno": "gt_gota2",
+   "familia": "gt_gota",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:0942f2f8eaaef33434dea897803dddd5",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gota/goteo_gota_002.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gota2.bin · 80×224 · 2 canal(es) LA · 8 bits crudo sin cabecera · 35840 bytes"
+  },
+  {
+   "orden": 135,
+   "nombre_interno": "gt_gota3",
+   "familia": "gt_gota",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:daaaeef5e1e7d395fa843220cb80735e",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gota/goteo_gota_003.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gota3.bin · 102×297 · 2 canal(es) LA · 8 bits crudo sin cabecera · 60588 bytes"
+  },
+  {
+   "orden": 136,
+   "nombre_interno": "gt_gota4",
+   "familia": "gt_gota",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:27ec33348a8607f72b314057f8a79cec",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gota/goteo_gota_004.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gota4.bin · 100×333 · 2 canal(es) LA · 8 bits crudo sin cabecera · 66600 bytes"
+  },
+  {
+   "orden": 137,
+   "nombre_interno": "gt_gota5",
+   "familia": "gt_gota",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:4290b51396726a0b219952af0d548d68",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gota/goteo_gota_005.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gota5.bin · 133×373 · 2 canal(es) LA · 8 bits crudo sin cabecera · 99218 bytes"
+  },
+  {
+   "orden": 138,
+   "nombre_interno": "gt_gruesa1",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:87b53b6098d0e144f73538b3cc012c1f",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_001.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa1.bin · 77×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 138600 bytes"
+  },
+  {
+   "orden": 139,
+   "nombre_interno": "gt_gruesa10",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:55de30dce45f3414a9ec6a213a01ef7e",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_019.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa10.bin · 62×846 · 2 canal(es) LA · 8 bits crudo sin cabecera · 104904 bytes"
+  },
+  {
+   "orden": 140,
+   "nombre_interno": "gt_gruesa11",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:5dd74feb967405ab77db295fef3c2831",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_021.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa11.bin · 63×489 · 2 canal(es) LA · 8 bits crudo sin cabecera · 61614 bytes"
+  },
+  {
+   "orden": 141,
+   "nombre_interno": "gt_gruesa12",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:f21b560c01bb4a6871e3072723fce0fc",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_023.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa12.bin · 61×545 · 2 canal(es) LA · 8 bits crudo sin cabecera · 66490 bytes"
+  },
+  {
+   "orden": 142,
+   "nombre_interno": "gt_gruesa13",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:f3a92c5c3b3cee1f8f39c548bad2a895",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_028.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa13.bin · 142×754 · 2 canal(es) LA · 8 bits crudo sin cabecera · 214136 bytes"
+  },
+  {
+   "orden": 143,
+   "nombre_interno": "gt_gruesa14",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:9571f34122393c62ccbcd75ef70e0003",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_030.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa14.bin · 122×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 219600 bytes"
+  },
+  {
+   "orden": 144,
+   "nombre_interno": "gt_gruesa15",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:dc15b62b6adf0432dca25e79b95cbe0d",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_032.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa15.bin · 96×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 172800 bytes"
+  },
+  {
+   "orden": 145,
+   "nombre_interno": "gt_gruesa16",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:6d70a79ccc6f5406253c4d4e47c66768",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_034.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa16.bin · 78×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 140400 bytes"
+  },
+  {
+   "orden": 146,
+   "nombre_interno": "gt_gruesa17",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:bdb8354ec8b3c9401ceb1b539eb5464b",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_036.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa17.bin · 97×764 · 2 canal(es) LA · 8 bits crudo sin cabecera · 148216 bytes"
+  },
+  {
+   "orden": 147,
+   "nombre_interno": "gt_gruesa18",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:14e5d063de05c75df37eec9e820108f5",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_038.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa18.bin · 83×505 · 2 canal(es) LA · 8 bits crudo sin cabecera · 83830 bytes"
+  },
+  {
+   "orden": 148,
+   "nombre_interno": "gt_gruesa19",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:9307e0938c1f2a67cabc428d162ceb52",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_041.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa19.bin · 68×508 · 2 canal(es) LA · 8 bits crudo sin cabecera · 69088 bytes"
+  },
+  {
+   "orden": 149,
+   "nombre_interno": "gt_gruesa2",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:5333ea810cf8ab01adb207850c78bf85",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_003.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa2.bin · 77×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 138600 bytes"
+  },
+  {
+   "orden": 150,
+   "nombre_interno": "gt_gruesa20",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:2808ca68b6d8a3f9f4ec0da961c250f6",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_043.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa20.bin · 105×513 · 2 canal(es) LA · 8 bits crudo sin cabecera · 107730 bytes"
+  },
+  {
+   "orden": 151,
+   "nombre_interno": "gt_gruesa21",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:54886bab63b8cc09653fb7adfdf7611e",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_045.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa21.bin · 85×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 153000 bytes"
+  },
+  {
+   "orden": 152,
+   "nombre_interno": "gt_gruesa22",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:da247f3337c3d104c4dd4de1e4a07bae",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_047.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa22.bin · 64×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 115200 bytes"
+  },
+  {
+   "orden": 153,
+   "nombre_interno": "gt_gruesa23",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:f07ad7ba8620abd95eaf829557e6e52e",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_049.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa23.bin · 62×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 111600 bytes"
+  },
+  {
+   "orden": 154,
+   "nombre_interno": "gt_gruesa24",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:81d83679bcaed4e69459522ce1d1a8d2",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_051.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa24.bin · 54×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 97200 bytes"
+  },
+  {
+   "orden": 155,
+   "nombre_interno": "gt_gruesa3",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:af02c53bd9b0e3ff81e4daf95c5b0e6c",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_005.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa3.bin · 82×675 · 2 canal(es) LA · 8 bits crudo sin cabecera · 110700 bytes"
+  },
+  {
+   "orden": 156,
+   "nombre_interno": "gt_gruesa4",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:5e88e3dd45acfffc904ea3902f6cca03",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_007.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa4.bin · 67×818 · 2 canal(es) LA · 8 bits crudo sin cabecera · 109612 bytes"
+  },
+  {
+   "orden": 157,
+   "nombre_interno": "gt_gruesa5",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:62d9495f7e02ed8960616a7016107ad2",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_009.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa5.bin · 69×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 124200 bytes"
+  },
+  {
+   "orden": 158,
+   "nombre_interno": "gt_gruesa6",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:804c2b9a01b7ac6bfd731e32e5412717",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_011.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa6.bin · 101×576 · 2 canal(es) LA · 8 bits crudo sin cabecera · 116352 bytes"
+  },
+  {
+   "orden": 159,
+   "nombre_interno": "gt_gruesa7",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:3860a59bd6d8f5194ba0302c0add568f",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_013.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa7.bin · 101×711 · 2 canal(es) LA · 8 bits crudo sin cabecera · 143622 bytes"
+  },
+  {
+   "orden": 160,
+   "nombre_interno": "gt_gruesa8",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:9e6ffd6023f1479e62be56d531e87c9c",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_015.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa8.bin · 130×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 234000 bytes"
+  },
+  {
+   "orden": 161,
+   "nombre_interno": "gt_gruesa9",
+   "familia": "gt_gruesa",
+   "uso": [
+    "chorreo"
+   ],
+   "id": "or:ad4c885315b25492bebdb9774afed217",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/gruesa/goteo_gruesa_017.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_gruesa9.bin · 114×867 · 2 canal(es) LA · 8 bits crudo sin cabecera · 197676 bytes"
+  },
+  {
+   "orden": 162,
+   "nombre_interno": "gt_mancha1",
+   "familia": "gt_mancha",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:15c9d48060528dda33c65b055087e769",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/mancha/goteo_mancha_001.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_mancha1.bin · 174×521 · 2 canal(es) LA · 8 bits crudo sin cabecera · 181308 bytes"
+  },
+  {
+   "orden": 163,
+   "nombre_interno": "gt_mancha2",
+   "familia": "gt_mancha",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:590be7c7badbb2a55812ac07e3d7abc2",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/mancha/goteo_mancha_002.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_mancha2.bin · 175×566 · 2 canal(es) LA · 8 bits crudo sin cabecera · 198100 bytes"
+  },
+  {
+   "orden": 164,
+   "nombre_interno": "gt_mancha3",
+   "familia": "gt_mancha",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:3ebec488a50d46fd15f16e98dcf115ed",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/mancha/goteo_mancha_003.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_mancha3.bin · 160×718 · 2 canal(es) LA · 8 bits crudo sin cabecera · 229760 bytes"
+  },
+  {
+   "orden": 165,
+   "nombre_interno": "gt_mancha4",
+   "familia": "gt_mancha",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:865102e618d0b3ad8d73fa131b16686b",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/mancha/goteo_mancha_004.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_mancha4.bin · 148×696 · 2 canal(es) LA · 8 bits crudo sin cabecera · 206016 bytes"
+  },
+  {
+   "orden": 166,
+   "nombre_interno": "gt_ondulada1",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:d0c4f05ebd811364457fe2503bf1c5b4",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_002.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada1.bin · 121×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 217800 bytes"
+  },
+  {
+   "orden": 167,
+   "nombre_interno": "gt_ondulada10",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:1bd32f8f9c0cd09f3fe05f5d90941659",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_038.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada10.bin · 87×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 156600 bytes"
+  },
+  {
+   "orden": 168,
+   "nombre_interno": "gt_ondulada11",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:83431a9055942442e03587adb6cb3681",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_039.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada11.bin · 114×838 · 2 canal(es) LA · 8 bits crudo sin cabecera · 191064 bytes"
+  },
+  {
+   "orden": 169,
+   "nombre_interno": "gt_ondulada12",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:c8643cd165abf18a446cf71ee7458d0f",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_041.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada12.bin · 61×896 · 2 canal(es) LA · 8 bits crudo sin cabecera · 109312 bytes"
+  },
+  {
+   "orden": 170,
+   "nombre_interno": "gt_ondulada13",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:6569298023f23786cea5ed4c120e3fdf",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_042.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada13.bin · 68×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 122400 bytes"
+  },
+  {
+   "orden": 171,
+   "nombre_interno": "gt_ondulada14",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:0726714ed005b38de19d1cfdda2e7396",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_049.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada14.bin · 121×751 · 2 canal(es) LA · 8 bits crudo sin cabecera · 181742 bytes"
+  },
+  {
+   "orden": 172,
+   "nombre_interno": "gt_ondulada15",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:65f0af11b310febf2f7d70df43840b2d",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_050.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada15.bin · 68×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 122400 bytes"
+  },
+  {
+   "orden": 173,
+   "nombre_interno": "gt_ondulada16",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:b811411a497b5078fc7f3c89d6d96736",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_054.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada16.bin · 93×659 · 2 canal(es) LA · 8 bits crudo sin cabecera · 122574 bytes"
+  },
+  {
+   "orden": 174,
+   "nombre_interno": "gt_ondulada2",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:2c570b1aa8fc804ebe206b985373dcfd",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_011.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada2.bin · 74×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 133200 bytes"
+  },
+  {
+   "orden": 175,
+   "nombre_interno": "gt_ondulada3",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:77d6da2585554265ce82e986d778e801",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_013.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada3.bin · 101×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 181800 bytes"
+  },
+  {
+   "orden": 176,
+   "nombre_interno": "gt_ondulada4",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:ccec87ed03add94455c1e83c5cc5a33b",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_017.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada4.bin · 77×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 138600 bytes"
+  },
+  {
+   "orden": 177,
+   "nombre_interno": "gt_ondulada5",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:ee30d9cd65238e250303c00a263d850f",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_020.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada5.bin · 60×788 · 2 canal(es) LA · 8 bits crudo sin cabecera · 94560 bytes"
+  },
+  {
+   "orden": 178,
+   "nombre_interno": "gt_ondulada6",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:64880923ceb65753d9f358282e16760f",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_030.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada6.bin · 75×900 · 2 canal(es) LA · 8 bits crudo sin cabecera · 135000 bytes"
+  },
+  {
+   "orden": 179,
+   "nombre_interno": "gt_ondulada7",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:4ce28e684af208debee9a93f0608169a",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_033.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada7.bin · 138×740 · 2 canal(es) LA · 8 bits crudo sin cabecera · 204240 bytes"
+  },
+  {
+   "orden": 180,
+   "nombre_interno": "gt_ondulada8",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:92f7c8fb3b6958059d5c2106818e84c6",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_035.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada8.bin · 119×893 · 2 canal(es) LA · 8 bits crudo sin cabecera · 212534 bytes"
+  },
+  {
+   "orden": 181,
+   "nombre_interno": "gt_ondulada9",
+   "familia": "gt_ondulada",
+   "uso": [
+    "chorreo",
+    "gotas"
+   ],
+   "id": "or:b9c5be7444c407d44a8dce9a22b041b2",
+   "fuente_ruta": "BIBLIOTECA/elementos/goteos/ondulada/goteo_ondulada_036.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/gt_ondulada9.bin · 77×703 · 2 canal(es) LA · 8 bits crudo sin cabecera · 108262 bytes"
+  },
+  {
+   "orden": 182,
+   "nombre_interno": "humo1",
+   "familia": "humo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:f3a426d35c54ff6f42d918ff14323d31",
+   "fuente_ruta": "BIBLIOTECA/texturas/humo/humo_espiral_01.jpg",
+   "original_real": "or:ea7c29fe05d4da41248c5d3703f21aee",
+   "productos_comunes": [
+    "luz_y_elementos/humo/espiral_humo_0386",
+    "luz_y_elementos/humo/espiral_humo_0386_trama"
+   ],
+   "formato": "plugin/tex/humo1.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 183,
+   "nombre_interno": "humo2",
+   "familia": "humo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:90ca30ad6357f543934482263aa8260e",
+   "fuente_ruta": "BIBLIOTECA/texturas/humo/humo_espiral_02.jpg",
+   "original_real": "or:00f21f27be7e1c10f620a36574f822dd",
+   "productos_comunes": [
+    "luz_y_elementos/humo/espirales_humo_etereo_0387",
+    "luz_y_elementos/humo/espirales_humo_etereo_0387_trama"
+   ],
+   "formato": "plugin/tex/humo2.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 184,
+   "nombre_interno": "humo3",
+   "familia": "humo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:e3edee3a57b67e9cc0712bdf6e0de540",
+   "fuente_ruta": "BIBLIOTECA/texturas/humo/humo_espiral_03.jpg",
+   "original_real": "or:23c5aa0b4da64b79f2d6791c52941e9f",
+   "productos_comunes": [
+    "luz_y_elementos/humo/espirales_humo_0388",
+    "luz_y_elementos/humo/espirales_humo_0388_trama"
+   ],
+   "formato": "plugin/tex/humo3.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 185,
+   "nombre_interno": "humo_v1",
+   "familia": "humo_v",
+   "uso": [
+    "aura",
+    "humo"
+   ],
+   "id": "or:c619621ca98345da2215a43385ad4498",
+   "fuente_ruta": "BIBLIOTECA/video/humo/humo_incienso_varios_hilos.mp4 (fotograma en t=5.0s)",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/humo_v1.bin · 576×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 589824 bytes"
+  },
+  {
+   "orden": 186,
+   "nombre_interno": "humo_v2",
+   "familia": "humo_v",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:ca608e84f6645839f5ff2d3b21579d5f",
+   "fuente_ruta": "BIBLIOTECA/video/humo/humo_columna_densa_remolinos.mp4 (fotograma en t=4.0s)",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/humo_v2.bin · 576×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 589824 bytes"
+  },
+  {
+   "orden": 187,
+   "nombre_interno": "humo_v3",
+   "familia": "humo_v",
+   "uso": [
+    "aura",
+    "humo"
+   ],
+   "id": "or:9fac33d56870c26d250702899c647efc",
+   "fuente_ruta": "BIBLIOTECA/video/humo/humo_columna_fina.mp4 (fotograma en t=4.0s)",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/humo_v3.bin · 576×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 589824 bytes"
+  },
+  {
+   "orden": 188,
+   "nombre_interno": "lapiz",
+   "familia": "lapiz",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:7b350591c950474f9728efda849dd202",
+   "fuente_ruta": "BIBLIOTECA/texturas/trazos/lapiz/rayado_de_lapiz_cruzado_01.jpg",
+   "original_real": "or:fcf1f0840dd5f0796fda671ed29c93f2",
+   "productos_comunes": [
+    "superposiciones/9x16/grafito/grafito_1154",
+    "tileables/grafito_y_carbon/grafito_gris_1154"
+   ],
+   "formato": "plugin/tex/lapiz.bin · 572×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 585728 bytes"
+  },
+  {
+   "orden": 189,
+   "nombre_interno": "llamas1",
+   "familia": "llamas",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:08ee60bd5053f2df57bb2bff4047fb89",
+   "fuente_ruta": "BIBLIOTECA/texturas/fuego/llamas/llamas_01.jpg",
+   "original_real": "or:42df6e1cc27bee9c6e3067fbf7cc0bb8",
+   "productos_comunes": [
+    "luz_y_elementos/fuego/llamas_naranjas_ascendentes_0399",
+    "luz_y_elementos/fuego/llamas_naranjas_ascendentes_0399_trama"
+   ],
+   "formato": "plugin/tex/llamas1.bin · 1024×1024 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 3145728 bytes"
+  },
+  {
+   "orden": 190,
+   "nombre_interno": "llamas2",
+   "familia": "llamas",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:99463f1c7a63c666e8bd4dc3d6deb1fe",
+   "fuente_ruta": "BIBLIOTECA/texturas/fuego/llamas/llamas_03.jpg",
+   "original_real": "or:fcae523e79d796bb67df79fdc28294e8",
+   "productos_comunes": [
+    "luz_y_elementos/fuego/llamas_anaranjadas_0401",
+    "luz_y_elementos/fuego/llamas_anaranjadas_0401_trama"
+   ],
+   "formato": "plugin/tex/llamas2.bin · 1024×1024 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 3145728 bytes"
+  },
+  {
+   "orden": 191,
+   "nombre_interno": "llamas3",
+   "familia": "llamas",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:d7f19e0c456eca497abeddc8ac5e4d06",
+   "fuente_ruta": "BIBLIOTECA/texturas/fuego/llamas/llamas_05.jpg",
+   "original_real": "or:4555198aba7497e611699f17efe6a1e0",
+   "productos_comunes": [
+    "luz_y_elementos/fuego/llamas_danzantes_0403",
+    "luz_y_elementos/fuego/llamas_danzantes_0403_trama"
+   ],
+   "formato": "plugin/tex/llamas3.bin · 1024×1024 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 3145728 bytes"
+  },
+  {
+   "orden": 192,
+   "nombre_interno": "llamas4",
+   "familia": "llamas",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:dbb246e4b42ada336cde959da0f44139",
+   "fuente_ruta": "BIBLIOTECA/texturas/fuego/llamas/llamas_06.jpg",
+   "original_real": "or:faff4f3969cb175a58308c771851587f",
+   "productos_comunes": [
+    "luz_y_elementos/fuego/llamas_doradas_0404",
+    "luz_y_elementos/fuego/llamas_doradas_0404_trama"
+   ],
+   "formato": "plugin/tex/llamas4.bin · 1024×1024 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 3145728 bytes"
+  },
+  {
+   "orden": 193,
+   "nombre_interno": "marmol1",
+   "familia": "marmol",
+   "uso": [
+    "humedad"
+   ],
+   "id": "or:fa32bbe0b56c1df7bc127d4aa5e72142",
+   "fuente_ruta": "BIBLIOTECA/texturas/liquido/marmol/marmol_liquido_en_blanco_y_negro_01.jpg",
+   "original_real": "or:267605188931df502686309bcbd0d3fe",
+   "productos_comunes": [
+    "tileables/liquidos/marmol_fluido_blanco_negro_0373"
+   ],
+   "formato": "plugin/tex/marmol1.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 194,
+   "nombre_interno": "marmol2",
+   "familia": "marmol",
+   "uso": [
+    "humedad"
+   ],
+   "id": "or:59264a959a505fac429ba9a617751700",
+   "fuente_ruta": "BIBLIOTECA/texturas/liquido/marmol/remolino_de_marmol_liquido_01.jpg",
+   "original_real": "or:bd0976f9a59d6c7f217236b589299354",
+   "productos_comunes": [
+    "tileables/liquidos/remolino_marmol_liquido_blanco_negro_0380"
+   ],
+   "formato": "plugin/tex/marmol2.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 195,
+   "nombre_interno": "martillado",
+   "familia": "martillado",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:def50e7542d65691ecdadf1701c86146",
+   "fuente_ruta": "BIBLIOTECA/texturas/vidrio/martillado/vidrio_martillado_02.jpg",
+   "original_real": "or:ac9003e1da33fdd2df9dfb9fcc1eaa97",
+   "productos_comunes": [
+    "tileables/vidrios_y_plasticos/textura_abstracta_vidrio_rugoso_0827"
+   ],
+   "formato": "plugin/tex/martillado.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 196,
+   "nombre_interno": "mo_colonia1",
+   "familia": "mo_colonia",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:ac63d38693715636aedf7f9d3ca1432e",
+   "fuente_ruta": "BIBLIOTECA/elementos/moho/colonias/colonia_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/mo_colonia1.bin · 640×620 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1587200 bytes"
+  },
+  {
+   "orden": 197,
+   "nombre_interno": "mo_colonia2",
+   "familia": "mo_colonia",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:a76a4c74e2f2ba6445a214cdc6d063f5",
+   "fuente_ruta": "BIBLIOTECA/elementos/moho/colonias/colonia_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/mo_colonia2.bin · 607×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1553920 bytes"
+  },
+  {
+   "orden": 198,
+   "nombre_interno": "mo_colonia3",
+   "familia": "mo_colonia",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:e80e03b0449f1301ae2e30d59b68f84d",
+   "fuente_ruta": "BIBLIOTECA/elementos/moho/colonias/colonia_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/mo_colonia3.bin · 633×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1620480 bytes"
+  },
+  {
+   "orden": 199,
+   "nombre_interno": "mo_colonia4",
+   "familia": "mo_colonia",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:eac5d844c118964d7ff088d6d3b10dec",
+   "fuente_ruta": "BIBLIOTECA/elementos/moho/colonias/colonia_04.png",
+   "original_real": "or:6dd6557f4f70277188ef977f9fa77205",
+   "productos_comunes": [
+    "luz_y_elementos/moho/colonia_moho_multicolor_0174"
+   ],
+   "formato": "plugin/tex/mo_colonia4.bin · 627×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1605120 bytes"
+  },
+  {
+   "orden": 200,
+   "nombre_interno": "mo_colonia5",
+   "familia": "mo_colonia",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:75abd587db2b4e5680cb1295b673ca27",
+   "fuente_ruta": "BIBLIOTECA/elementos/moho/colonias/colonia_05.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/mo_colonia5.bin · 613×640 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1569280 bytes"
+  },
+  {
+   "orden": 201,
+   "nombre_interno": "mo_colonia6",
+   "familia": "mo_colonia",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:30685a03c6e7478e85a5c97f0e4ec2f9",
+   "fuente_ruta": "BIBLIOTECA/elementos/moho/colonias/colonia_06.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/mo_colonia6.bin · 640×621 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1589760 bytes"
+  },
+  {
+   "orden": 202,
+   "nombre_interno": "mo_manchitas",
+   "familia": "mo_manchitas",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": [
+    "or:fbefc537b2fac9c06ecaf199c4515124",
+    "or:a2ad1fe35789600cd173f87a328bd04b",
+    "or:8e40d17f2f190b2b6be2a6a0be17d74d",
+    "or:ff416b3ab4792976cb4963d6ca92b6cd",
+    "or:4b31f768e3c21297c190cf27347d23f1",
+    "or:11c28ba728a12c7d352bd8abc33a8b47",
+    "or:5218d139cd231bad211a1879f8a2edff",
+    "or:0e6a17196bbe16e233adbd21ca1d0606",
+    "or:a48b9b03d7e57cf8e9fa060349464689",
+    "or:3bf09909036f25ba6b6ed81ee0359f78",
+    "or:77b40e837a17a8a843aa84d1c8903473",
+    "or:397bce548c9e013660791b7f23bf7812",
+    "or:ff84cfbb0311d56792caaf07219c6bfb",
+    "or:738ea8809e04e724b5f3f8029819ca6f",
+    "or:4546965f5388dad29837101f9cf17fef",
+    "or:afae5e1516efc2633c78602d1caf6181",
+    "or:3a6acbb150474ee4113618a25ce52604",
+    "or:b616e97acfe18cd00e17c24836ea8fba",
+    "or:8d043ecd93330541510f855249d56865",
+    "or:01eec3770be7a9fc25e9288df2f0ee87",
+    "or:a13db1753231fa9ae680b0b30b7d775c",
+    "or:8f61be25b21b6c1587db285f3865a156",
+    "or:a38068551e255930b22c9c12db236fed",
+    "or:98dba166f6c647fb1e2ee122aaff7dea",
+    "or:8c095af3b4417cfd5e204a36d36dd6ef",
+    "or:deffea41dfb21c27d0d545b56e77de80",
+    "or:375001a2d2c627d249029ff1afe26a94",
+    "or:f26b081ac95e149bab8a5d2e402b8c13",
+    "or:00b85ccd9e8aa40fce7e5f08da9fc52b",
+    "or:78b21e96ef689c75ba7cd8b301fcbfcc",
+    "or:b2f0c84384456dce1b4f96a9f5f299c2",
+    "or:46cb4ccd084f131a15c2e0c82dde79d3",
+    "or:1892b3f90b8178f2948e19d1b07155dd",
+    "or:60efda7ebb53a367f92ac983954205ec",
+    "or:4f0771f82a925a4e5d18fdd982804dbf",
+    "or:c45a2eb417597e189874a424e4017544"
+   ],
+   "fuente_ruta": "BIBLIOTECA/elementos/moho/manchitas/*.png (36 piezas)",
+   "formato": "plugin/tex/mo_manchitas.bin · 1024×444 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1818624 bytes",
+   "nota": "atlas: piezas en orden alfabético"
+  },
+  {
+   "orden": 203,
+   "nombre_interno": "mo_tile1",
+   "familia": "mo_tile",
+   "uso": [
+    "desvanecido",
+    "humedad"
+   ],
+   "id": "or:b2ede1402b582a8d896bbb437a897589",
+   "fuente_ruta": "BIBLIOTECA/elementos/moho/texturas/moho_tile_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/mo_tile1.bin · 768×768 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 1769472 bytes"
+  },
+  {
+   "orden": 204,
+   "nombre_interno": "mo_tile2",
+   "familia": "mo_tile",
+   "uso": [
+    "desvanecido",
+    "humedad"
+   ],
+   "id": "or:4c52c04c4313c9a4aedffb7b5a7f2d88",
+   "fuente_ruta": "BIBLIOTECA/elementos/moho/texturas/moho_tile_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/mo_tile2.bin · 768×768 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 1769472 bytes"
+  },
+  {
+   "orden": 205,
+   "nombre_interno": "mo_tile3",
+   "familia": "mo_tile",
+   "uso": [
+    "desvanecido",
+    "humedad"
+   ],
+   "id": "or:ff533029b70bbf78bec4df1bf0c6510a",
+   "fuente_ruta": "BIBLIOTECA/elementos/moho/texturas/moho_tile_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/mo_tile3.bin · 768×768 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 1769472 bytes"
+  },
+  {
+   "orden": 206,
+   "nombre_interno": "mo_tile4",
+   "familia": "mo_tile",
+   "uso": [
+    "desvanecido",
+    "humedad"
+   ],
+   "id": "or:9262d3ae9d12ebe67b1bf6e1b23e7a37",
+   "fuente_ruta": "BIBLIOTECA/elementos/moho/texturas/moho_tile_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/mo_tile4.bin · 768×768 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 1769472 bytes"
+  },
+  {
+   "orden": 207,
+   "nombre_interno": "moteado",
+   "familia": "moteado",
+   "uso": [
+    "aerosol",
+    "ondas"
+   ],
+   "id": "or:cee8b2ba52c315db087d25f57a3ada1f",
+   "fuente_ruta": "BIBLIOTECA/texturas/grano/moteado/moteado_tipo_granito_espray_fino_01.jpg",
+   "original_real": "or:341c0f0c276c2ad874c9021dd6b48afe",
+   "productos_comunes": [
+    "superposiciones/9x16/grunge/grunge_1181",
+    "tileables/grunge/grunge_gris_claro_1181"
+   ],
+   "formato": "plugin/tex/moteado.bin · 572×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 585728 bytes"
+  },
+  {
+   "orden": 208,
+   "nombre_interno": "ondulado1",
+   "familia": "ondulado",
+   "uso": [
+    "onda"
+   ],
+   "id": "or:8d9de9d45dad52a1229e5f0f4501d324",
+   "fuente_ruta": "BIBLIOTECA/texturas/vidrio/ondulado/vidrio_ondulado_01.jpg",
+   "original_real": "or:0cfc6fe9f9b49fc6c40d0f03affd7748",
+   "productos_comunes": [
+    "tileables/vidrios_y_plasticos/ondas_vidrio_liquido_blanco_negro_0812"
+   ],
+   "formato": "plugin/tex/ondulado1.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 209,
+   "nombre_interno": "ondulado2",
+   "familia": "ondulado",
+   "uso": [
+    "onda"
+   ],
+   "id": "or:ac57cb0e42ae2ef650aa654d71004172",
+   "fuente_ruta": "BIBLIOTECA/texturas/vidrio/ondulado/vidrio_ondulado_03.jpg",
+   "original_real": "or:cc79ec2daf1591c4074982ae82b7f8cb",
+   "productos_comunes": [
+    "tileables/vidrios_y_plasticos/textura_vidrio_ondulado_blanco_negro_0840"
+   ],
+   "formato": "plugin/tex/ondulado2.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 210,
+   "nombre_interno": "papel_acuarela",
+   "familia": "papel_acuarela",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:35a328de1f5a522b95bf581819957158",
+   "fuente_ruta": "BIBLIOTECA/texturas/papel/base/acuarela_marfil_01.jpg",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/papel_acuarela.bin · 1024×683 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 2098176 bytes"
+  },
+  {
+   "orden": 211,
+   "nombre_interno": "papel_fibra",
+   "familia": "papel_fibra",
+   "uso": [
+    "abanico",
+    "borde_electrico",
+    "chamuscado",
+    "collage",
+    "deformar",
+    "desvanecido",
+    "disuelto",
+    "estela_curva",
+    "halo_termico",
+    "humedad",
+    "plastico",
+    "quemado",
+    "tubo",
+    "vídeo AE (gpu_fx/gpu_df/df_otros)"
+   ],
+   "id": "or:88f48c8e03741efeb8769355adc6d0d9",
+   "fuente_ruta": "BIBLIOTECA/texturas/papel/base/artesanal_fibroso_01.jpg",
+   "original_real": "or:16d4ed9dfae8f885473f27b56559bbfc",
+   "productos_comunes": [
+    "tileables/papel/textura_papel_artesanal_fibroso_1024"
+   ],
+   "formato": "plugin/tex/papel_fibra.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 212,
+   "nombre_interno": "papel_periodico",
+   "familia": "papel_periodico",
+   "uso": [
+    "barrido",
+    "collage",
+    "fotocopia",
+    "semitono",
+    "vídeo AE (gpu_fx/gpu_df/df_otros)"
+   ],
+   "id": "or:996beaeafc3e9cf43ccee303b30f2760",
+   "fuente_ruta": "BIBLIOTECA/texturas/papel/base/papel_de_periodico_01.jpg",
+   "original_real": "or:60007e80445ad651d5817d5e38be6ffc",
+   "productos_comunes": [
+    "tileables/papel/textura_uniforme_papel_periodico_1068"
+   ],
+   "formato": "plugin/tex/papel_periodico.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 213,
+   "nombre_interno": "papel_rugoso",
+   "familia": "papel_rugoso",
+   "uso": [
+    "acuarela",
+    "collage",
+    "fuera_foco",
+    "vídeo AE (gpu_fx/gpu_df/df_otros)"
+   ],
+   "id": "or:4e52a4557babfd33759b48f22afe4a3c",
+   "fuente_ruta": "BIBLIOTECA/texturas/papel/base/acuarela_rugoso_01.jpg",
+   "original_real": "or:ea353c3f47b6d4d77d98adca9d3b6db3",
+   "productos_comunes": [
+    "tileables/papel/textura_papel_acuarela_blanco_rugoso_1019"
+   ],
+   "formato": "plugin/tex/papel_rugoso.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 214,
+   "nombre_interno": "pincel_relieve",
+   "familia": "pincel_relieve",
+   "uso": [
+    "chorreo",
+    "sello"
+   ],
+   "id": "or:48b8f89e08094e65da81b1ccc275a307",
+   "fuente_ruta": "BIBLIOTECA/texturas/pintura/guache/relieve_de_pintura_sin_color_01.jpg",
+   "original_real": "or:0629ba88252b9443d408ff19420eee85",
+   "productos_comunes": [
+    "tileables/pintura/guache_pinceladas_grises_8_basecolor_1124"
+   ],
+   "formato": "plugin/tex/pincel_relieve.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 215,
+   "nombre_interno": "pincel_toques",
+   "familia": "pincel_toques",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:9c89a2a16a22cfe2e3cc28a9e99b3af9",
+   "fuente_ruta": "BIBLIOTECA/texturas/pintura/toques/toques_de_pincel_blanco_y_negro_con_reli_01.jpg",
+   "original_real": "or:01134dd9b169cdaf52cdc8ec45abb210",
+   "productos_comunes": [
+    "superposiciones/9x16/pintura_gris/pintura_gris_1195",
+    "tileables/pintura/gris_gris_1195"
+   ],
+   "formato": "plugin/tex/pincel_toques.bin · 572×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 585728 bytes"
+  },
+  {
+   "orden": 216,
+   "nombre_interno": "pincel_vert",
+   "familia": "pincel_vert",
+   "uso": [
+    "sello"
+   ],
+   "id": "or:541fa46738fffc888174af71c281dab3",
+   "fuente_ruta": "BIBLIOTECA/texturas/pintura/arrastre/pincelada_arrastrada_en_vertical_gris_cl_01.jpg",
+   "original_real": "or:0b225bff83e3bc81de65aaf93e3bcd62",
+   "productos_comunes": [
+    "superposiciones/9x16/pintura_color/pintura_color_1147"
+   ],
+   "formato": "plugin/tex/pincel_vert.bin · 572×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 585728 bytes"
+  },
+  {
+   "orden": 217,
+   "nombre_interno": "plastico1",
+   "familia": "plastico",
+   "uso": [
+    "plastico",
+    "plastico (acabado)"
+   ],
+   "id": "or:82c868c781a7dc6c58c89d23206e43bb",
+   "fuente_ruta": "BIBLIOTECA/texturas/acabado/plastico/plastico_arrugado_01.jpg",
+   "original_real": "or:36f84ad06db98c753d8d41539c770ec5",
+   "productos_comunes": [
+    "tileables/vidrios_y_plasticos/pliegues_brillantes_0815"
+   ],
+   "formato": "plugin/tex/plastico1.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 218,
+   "nombre_interno": "plastico2",
+   "familia": "plastico",
+   "uso": [
+    "plastico",
+    "plastico (acabado)"
+   ],
+   "id": "or:92837ee6771c97950fb3a6999853634f",
+   "fuente_ruta": "BIBLIOTECA/texturas/acabado/plastico/plastico_arrugado_medio_02.jpg",
+   "original_real": "or:947b51e18db3cb65767efc0dd1532a11",
+   "productos_comunes": [
+    "tileables/vidrios_y_plasticos/plastico_negro_arrugado_brillante_0818"
+   ],
+   "formato": "plugin/tex/plastico2.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 219,
+   "nombre_interno": "plastico3",
+   "familia": "plastico",
+   "uso": [
+    "plastico",
+    "plastico (acabado)"
+   ],
+   "id": "or:ad615f8bcd67eec9d9c0487730ad11a1",
+   "fuente_ruta": "BIBLIOTECA/texturas/acabado/plastico/plastico_arrugado_suave_02.jpg",
+   "original_real": "or:68a6500770af0dfdef02bbdb57aa80ca",
+   "productos_comunes": [
+    "tileables/vidrios_y_plasticos/textura_abstracta_plastico_negro_brillante_0823"
+   ],
+   "formato": "plugin/tex/plastico3.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 220,
+   "nombre_interno": "pliegue_cruz",
+   "familia": "pliegue_cruz",
+   "uso": [
+    "abanico (acabado)"
+   ],
+   "id": "or:127e10e28d0a6f72ca12a913c4c86f31",
+   "fuente_ruta": "BIBLIOTECA/texturas/papel/pliegues/cruz_2x2_muy_marcada_papel_arrugado_01.jpg",
+   "original_real": "or:1dbf08ef825e937082296d0f3367c10d",
+   "productos_comunes": [
+    "pliegues/2_pliegues/textura_papel_arrugado_cruz_0700"
+   ],
+   "formato": "plugin/tex/pliegue_cruz.bin · 725×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 742400 bytes"
+  },
+  {
+   "orden": 221,
+   "nombre_interno": "pliegue_cuad",
+   "familia": "pliegue_cuad",
+   "uso": [
+    "abanico (acabado)"
+   ],
+   "id": "or:d7648848cc8d9f5187bbc185344e624f",
+   "fuente_ruta": "BIBLIOTECA/texturas/papel/pliegues/cuadricula_3x3_marcada_01.jpg",
+   "original_real": "or:3c681b8bf097cbfa550b18d36d6e85b0",
+   "productos_comunes": [
+    "pliegues/4_pliegues/papel_arrugado_pliegues_cuadricula_0678"
+   ],
+   "formato": "plugin/tex/pliegue_cuad.bin · 725×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 742400 bytes"
+  },
+  {
+   "orden": 222,
+   "nombre_interno": "polvo1",
+   "familia": "polvo",
+   "uso": [
+    "abanico (acabado)",
+    "aerosol (acabado)",
+    "arrastre (acabado)",
+    "aura (acabado)",
+    "barrido (acabado)",
+    "chamuscado (acabado)",
+    "chorreo (acabado)",
+    "collage (acabado)",
+    "cristal (acabado)",
+    "crt (acabado)",
+    "deformar",
+    "desvanecido",
+    "desvanecido (acabado)",
+    "disuelto (acabado)",
+    "eco_apilado (acabado)",
+    "estela_curva (acabado)",
+    "fosforo (acabado)",
+    "fotocopia (acabado)",
+    "fuego (acabado)",
+    "fuera_foco (acabado)",
+    "halacion (acabado)",
+    "halo_termico (acabado)",
+    "humedad (acabado)",
+    "humo (acabado)",
+    "humo_rgb (acabado)",
+    "llama_abstracta (acabado)",
+    "moire (acabado)",
+    "onda (acabado)",
+    "parches (acabado)",
+    "quemado (acabado)",
+    "rgb_split (acabado)",
+    "sello (acabado)",
+    "termico_mov (acabado)",
+    "tubo (acabado)",
+    "vapor (acabado)",
+    "vhs (acabado)",
+    "vision (acabado)",
+    "zoom (acabado)"
+   ],
+   "id": "or:51f89d12fb069bb5d6ca2a74f3cd2679",
+   "fuente_ruta": "BIBLIOTECA/texturas/acabado/polvo_aranazos/polvo_aranazos_01.jpg",
+   "original_real": "or:6ae5cca5242c1f607fc957c41b84e2b4",
+   "productos_comunes": [
+    "superposiciones/pelicula_polvo_y_rayas/polvo_aranazos_pelicula_negra_0405",
+    "superposiciones/pelicula_polvo_y_rayas/polvo_aranazos_pelicula_negra_0405_trama"
+   ],
+   "formato": "plugin/tex/polvo1.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 223,
+   "nombre_interno": "polvo2",
+   "familia": "polvo",
+   "uso": [
+    "abanico (acabado)",
+    "aerosol (acabado)",
+    "arrastre (acabado)",
+    "aura (acabado)",
+    "barrido (acabado)",
+    "chamuscado (acabado)",
+    "chorreo (acabado)",
+    "collage (acabado)",
+    "cristal (acabado)",
+    "crt (acabado)",
+    "deformar",
+    "desvanecido (acabado)",
+    "disuelto (acabado)",
+    "eco_apilado (acabado)",
+    "estela_curva (acabado)",
+    "fosforo (acabado)",
+    "fotocopia (acabado)",
+    "fuego (acabado)",
+    "fuera_foco (acabado)",
+    "halacion (acabado)",
+    "halo_termico (acabado)",
+    "humedad (acabado)",
+    "humo (acabado)",
+    "humo_rgb (acabado)",
+    "llama_abstracta (acabado)",
+    "moire (acabado)",
+    "onda (acabado)",
+    "parches (acabado)",
+    "quemado (acabado)",
+    "rgb_split (acabado)",
+    "sello (acabado)",
+    "termico_mov (acabado)",
+    "tubo (acabado)",
+    "vapor (acabado)",
+    "vhs (acabado)",
+    "vision (acabado)",
+    "zoom (acabado)"
+   ],
+   "id": "or:3098df8b2803423440da60fc644dabfd",
+   "fuente_ruta": "BIBLIOTECA/texturas/acabado/polvo_aranazos/polvo_aranazos_02.jpg",
+   "original_real": "or:766f44b682e7d4d628bfd7935ce554a5",
+   "productos_comunes": [
+    "superposiciones/pelicula_polvo_y_rayas/textura_pelicula_antigua_polvo_rayas_0409",
+    "superposiciones/pelicula_polvo_y_rayas/textura_pelicula_antigua_polvo_rayas_0409_trama"
+   ],
+   "formato": "plugin/tex/polvo2.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 224,
+   "nombre_interno": "polvo3",
+   "familia": "polvo",
+   "uso": [
+    "abanico (acabado)",
+    "aerosol (acabado)",
+    "arrastre (acabado)",
+    "aura (acabado)",
+    "barrido (acabado)",
+    "chamuscado (acabado)",
+    "chorreo (acabado)",
+    "collage (acabado)",
+    "cristal (acabado)",
+    "crt (acabado)",
+    "desvanecido",
+    "desvanecido (acabado)",
+    "disuelto (acabado)",
+    "eco_apilado (acabado)",
+    "estela_curva (acabado)",
+    "fosforo (acabado)",
+    "fotocopia (acabado)",
+    "fuego (acabado)",
+    "fuera_foco (acabado)",
+    "halacion (acabado)",
+    "halo_termico (acabado)",
+    "humedad (acabado)",
+    "humo (acabado)",
+    "humo_rgb (acabado)",
+    "llama_abstracta (acabado)",
+    "moire (acabado)",
+    "onda (acabado)",
+    "parches (acabado)",
+    "quemado (acabado)",
+    "rgb_split (acabado)",
+    "sello (acabado)",
+    "termico_mov (acabado)",
+    "tubo (acabado)",
+    "vapor (acabado)",
+    "vhs (acabado)",
+    "vision (acabado)",
+    "zoom (acabado)"
+   ],
+   "id": "or:ea8f232fbfb4f4717b1ed63ff09fceab",
+   "fuente_ruta": "BIBLIOTECA/texturas/acabado/polvo_aranazos/polvo_aranazos_03.jpg",
+   "original_real": "or:d88fe83a4004a1d4c7f19cb51d6466fe",
+   "productos_comunes": [
+    "superposiciones/pelicula_polvo_y_rayas/textura_pelicula_negra_polvo_aranazos_0410",
+    "superposiciones/pelicula_polvo_y_rayas/textura_pelicula_negra_polvo_aranazos_0410_trama"
+   ],
+   "formato": "plugin/tex/polvo3.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 225,
+   "nombre_interno": "pompas",
+   "familia": "pompas",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:e9b861e079149fd05803d22e715faf36",
+   "fuente_ruta": "BIBLIOTECA/texturas/agua/burbujas/pompas_de_jabon_iridiscentes_s_01.jpg",
+   "original_real": "or:ebf440e359fecc70856bd3c172abb39f",
+   "productos_comunes": [
+    "luz_y_elementos/burbujas_y_espuma/burbujas_jabon_iridiscentes_0359",
+    "luz_y_elementos/burbujas_y_espuma/burbujas_jabon_iridiscentes_0359_trama"
+   ],
+   "formato": "plugin/tex/pompas.bin · 1024×1024 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 3145728 bytes"
+  },
+  {
+   "orden": 226,
+   "nombre_interno": "quemado_tex",
+   "familia": "quemado_tex",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:3b4265ce2c1d34ad987ce25aafe72054",
+   "fuente_ruta": "BIBLIOTECA/texturas/quemado/quemadura_grande_en_papel_con_borde_cham_01.jpg",
+   "original_real": "or:74c5bb60f72a78e0ba150dc494b79be0",
+   "productos_comunes": [
+    "imperfecciones/quemadura_grande/textura_papel_quemado_0381"
+   ],
+   "formato": "plugin/tex/quemado_tex.bin · 1024×1024 · 3 canal(es) RGB · 8 bits crudo sin cabecera · 3145728 bytes"
+  },
+  {
+   "orden": 227,
+   "nombre_interno": "quemadura1",
+   "familia": "quemadura",
+   "uso": [
+    "quemado"
+   ],
+   "id": "or:ee585a55314cdb93d7d48a952eaa3eab",
+   "fuente_ruta": "BIBLIOTECA/elementos/quemado/mancha_circular_de_quemadura_c_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/quemadura1.bin · 512×477 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 976896 bytes"
+  },
+  {
+   "orden": 228,
+   "nombre_interno": "quemadura2",
+   "familia": "quemadura",
+   "uso": [
+    "quemado"
+   ],
+   "id": "or:a29b3c3343f47ca73bb1477d0ccf88ea",
+   "fuente_ruta": "BIBLIOTECA/elementos/quemado/mancha_circular_de_quemadura_c_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/quemadura2.bin · 493×512 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1009664 bytes"
+  },
+  {
+   "orden": 229,
+   "nombre_interno": "quemadura3",
+   "familia": "quemadura",
+   "uso": [
+    "quemado"
+   ],
+   "id": "or:f2693cd897d0c3ad06f88b8ee89fef95",
+   "fuente_ruta": "BIBLIOTECA/elementos/quemado/mancha_circular_de_quemadura_c_06.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/quemadura3.bin · 512×497 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 1017856 bytes"
+  },
+  {
+   "orden": 230,
+   "nombre_interno": "quemadura4",
+   "familia": "quemadura",
+   "uso": [
+    "quemado"
+   ],
+   "id": "or:00b53563d4f5cb80d9414da529ebea0a",
+   "fuente_ruta": "BIBLIOTECA/elementos/quemado/mancha_circular_de_quemadura_c_07.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/quemadura4.bin · 487×512 · 4 canal(es) RGBA · 8 bits crudo sin cabecera · 997376 bytes"
+  },
+  {
+   "orden": 231,
+   "nombre_interno": "reflejo",
+   "familia": "reflejo",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:45d1d1eda422696fcee3169f802ef66a",
+   "fuente_ruta": "BIBLIOTECA/texturas/luz/degradado_de_horizonte_gris_metalico_01.jpg",
+   "original_real": "or:ba9f997e86e15c450f83db5234011bb1",
+   "productos_comunes": [
+    "superposiciones/degradados/horizonte_abstracto_tonos_grisaceos_0367"
+   ],
+   "formato": "plugin/tex/reflejo.bin · 512×512 · 1 canal(es) L · 8 bits crudo sin cabecera · 262144 bytes"
+  },
+  {
+   "orden": 232,
+   "nombre_interno": "salpicadura1",
+   "familia": "salpicadura",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:fd528fe546ee1320ee448da289410add",
+   "fuente_ruta": "BIBLIOTECA/elementos/salpicaduras/tinta/salpicaduras_001.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/salpicadura1.bin · 308×256 · 2 canal(es) LA · 8 bits crudo sin cabecera · 157696 bytes"
+  },
+  {
+   "orden": 233,
+   "nombre_interno": "salpicadura10",
+   "familia": "salpicadura",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:a98171540b6dfa703524cc022771746a",
+   "fuente_ruta": "BIBLIOTECA/elementos/salpicaduras/tinta/salpicaduras_079.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/salpicadura10.bin · 384×313 · 2 canal(es) LA · 8 bits crudo sin cabecera · 240384 bytes"
+  },
+  {
+   "orden": 234,
+   "nombre_interno": "salpicadura11",
+   "familia": "salpicadura",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:18c31ca2a4799e8bdd137e3be9a23699",
+   "fuente_ruta": "BIBLIOTECA/elementos/salpicaduras/tinta/salpicaduras_080.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/salpicadura11.bin · 214×300 · 2 canal(es) LA · 8 bits crudo sin cabecera · 128400 bytes"
+  },
+  {
+   "orden": 235,
+   "nombre_interno": "salpicadura12",
+   "familia": "salpicadura",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:e882356d68f5fbf739618801e465992c",
+   "fuente_ruta": "BIBLIOTECA/elementos/salpicaduras/tinta/salpicaduras_081.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/salpicadura12.bin · 232×252 · 2 canal(es) LA · 8 bits crudo sin cabecera · 116928 bytes"
+  },
+  {
+   "orden": 236,
+   "nombre_interno": "salpicadura2",
+   "familia": "salpicadura",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:a351989f6cceebb52ecb0f791fed2273",
+   "fuente_ruta": "BIBLIOTECA/elementos/salpicaduras/tinta/salpicaduras_002.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/salpicadura2.bin · 244×205 · 2 canal(es) LA · 8 bits crudo sin cabecera · 100040 bytes"
+  },
+  {
+   "orden": 237,
+   "nombre_interno": "salpicadura3",
+   "familia": "salpicadura",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:cf890bbdbe16577182bb2c602920469d",
+   "fuente_ruta": "BIBLIOTECA/elementos/salpicaduras/tinta/salpicaduras_019.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/salpicadura3.bin · 308×219 · 2 canal(es) LA · 8 bits crudo sin cabecera · 134904 bytes"
+  },
+  {
+   "orden": 238,
+   "nombre_interno": "salpicadura4",
+   "familia": "salpicadura",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:b929c98b511a34e3fd27785de8ddef93",
+   "fuente_ruta": "BIBLIOTECA/elementos/salpicaduras/tinta/salpicaduras_020.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/salpicadura4.bin · 289×274 · 2 canal(es) LA · 8 bits crudo sin cabecera · 158372 bytes"
+  },
+  {
+   "orden": 239,
+   "nombre_interno": "salpicadura5",
+   "familia": "salpicadura",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:d8d0e887ae54f14472c38995597c38ad",
+   "fuente_ruta": "BIBLIOTECA/elementos/salpicaduras/tinta/salpicaduras_021.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/salpicadura5.bin · 293×256 · 2 canal(es) LA · 8 bits crudo sin cabecera · 150016 bytes"
+  },
+  {
+   "orden": 240,
+   "nombre_interno": "salpicadura6",
+   "familia": "salpicadura",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:85ef0be75f931a40320a223a2d8f509a",
+   "fuente_ruta": "BIBLIOTECA/elementos/salpicaduras/tinta/salpicaduras_022.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/salpicadura6.bin · 278×261 · 2 canal(es) LA · 8 bits crudo sin cabecera · 145116 bytes"
+  },
+  {
+   "orden": 241,
+   "nombre_interno": "salpicadura7",
+   "familia": "salpicadura",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:d96e3d409d8f60e6382eae3b1cf8e659",
+   "fuente_ruta": "BIBLIOTECA/elementos/salpicaduras/tinta/salpicaduras_023.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/salpicadura7.bin · 273×223 · 2 canal(es) LA · 8 bits crudo sin cabecera · 121758 bytes"
+  },
+  {
+   "orden": 242,
+   "nombre_interno": "salpicadura8",
+   "familia": "salpicadura",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:bf5246cf795e82e657839d66f8716b9a",
+   "fuente_ruta": "BIBLIOTECA/elementos/salpicaduras/tinta/salpicaduras_054.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/salpicadura8.bin · 306×252 · 2 canal(es) LA · 8 bits crudo sin cabecera · 154224 bytes"
+  },
+  {
+   "orden": 243,
+   "nombre_interno": "salpicadura9",
+   "familia": "salpicadura",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:53a513f56f902a4bcb54e5199a814bdc",
+   "fuente_ruta": "BIBLIOTECA/elementos/salpicaduras/tinta/salpicaduras_055.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/salpicadura9.bin · 211×209 · 2 canal(es) LA · 8 bits crudo sin cabecera · 88198 bytes"
+  },
+  {
+   "orden": 244,
+   "nombre_interno": "sangrado1",
+   "familia": "sangrado",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:4840f09a81096180c05e592c2c7ce20b",
+   "fuente_ruta": "BIBLIOTECA/texturas/tinta/sangrado/mancha_de_tinta_negra_que_se_expande_por_01.jpg",
+   "original_real": "or:16fe123623ebb7c579f27238f7748d80",
+   "productos_comunes": [
+    "manchas/tinta/mancha_tinta_negra_papel_texturizado_0369"
+   ],
+   "formato": "plugin/tex/sangrado1.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 245,
+   "nombre_interno": "sangrado2",
+   "familia": "sangrado",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:ae1a5bc836f6838ac3d84d27c0a5f4a3",
+   "fuente_ruta": "BIBLIOTECA/texturas/tinta/sangrado/mancha_de_tinta_con_granulado_01.jpg",
+   "original_real": "or:dd14d0d075594a6624dd16f3c2e884a4",
+   "productos_comunes": [
+    "superposiciones/9x16/grunge/grunge_1157",
+    "tileables/grunge/grunge_gris_1157"
+   ],
+   "formato": "plugin/tex/sangrado2.bin · 572×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 585728 bytes"
+  },
+  {
+   "orden": 246,
+   "nombre_interno": "tinta_negra",
+   "familia": "tinta_negra",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:064511206a47dd185e0ada5384e0184c",
+   "fuente_ruta": "BIBLIOTECA/texturas/tinta/nubes/nubes_de_tinta_negra_con_salpicaduras_01.jpg",
+   "original_real": "or:6f49a6fd054c61bbf49fbb3a557b258c",
+   "productos_comunes": [
+    "superposiciones/9x16/grunge/grunge_1196"
+   ],
+   "formato": "plugin/tex/tinta_negra.bin · 572×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 585728 bytes"
+  },
+  {
+   "orden": 247,
+   "nombre_interno": "tinta_nubes",
+   "familia": "tinta_nubes",
+   "uso": [
+    "chamuscado",
+    "deformar",
+    "humedad"
+   ],
+   "id": "or:0dc6d857caa9128b2600b209aafd8d1c",
+   "fuente_ruta": "BIBLIOTECA/texturas/tinta/nubes/aguada_de_tinta_en_nubes_grises_01.jpg",
+   "original_real": "or:8b948487c89219e04d1f196a79b33d7c",
+   "productos_comunes": [
+    "superposiciones/9x16/aguada/aguada_1223"
+   ],
+   "formato": "plugin/tex/tinta_nubes.bin · 572×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 585728 bytes"
+  },
+  {
+   "orden": 248,
+   "nombre_interno": "tinta_v1",
+   "familia": "tinta_v",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:080b9643beb82bc6d1cf9fb44ee2a4da",
+   "fuente_ruta": "BIBLIOTECA/video/tinta/tinta_blanca_remolinos.mp4 (fotograma en t=2.0s)",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/tinta_v1.bin · 576×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 589824 bytes"
+  },
+  {
+   "orden": 249,
+   "nombre_interno": "toner1",
+   "familia": "toner",
+   "uso": [
+    "chamuscado",
+    "desvanecido",
+    "fotocopia",
+    "fuera_foco",
+    "humedad",
+    "plastico",
+    "sello",
+    "termico_mov"
+   ],
+   "id": "or:3dfc21c9368389d7bbd0c57baf64ba96",
+   "fuente_ruta": "BIBLIOTECA/texturas/grano/toner/fotocopia_sucia_01.jpg",
+   "original_real": "or:03233e568be636487a56f15b0dc644f5",
+   "productos_comunes": [
+    "superposiciones/fotocopia/textura_fotocopia_sucia_blanco_negro_0406",
+    "tileables/grunge/textura_fotocopia_sucia_blanco_negro_0406"
+   ],
+   "formato": "plugin/tex/toner1.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 250,
+   "nombre_interno": "toner2",
+   "familia": "toner",
+   "uso": [
+    "borde_electrico",
+    "deformar",
+    "disuelto",
+    "fotocopia",
+    "fuera_foco",
+    "quemado"
+   ],
+   "id": "or:574d0bcd63644a442a2fbae900071d96",
+   "fuente_ruta": "BIBLIOTECA/texturas/grano/toner/grano_grumoso_de_toner_espray_vertical_01.jpg",
+   "original_real": "or:05fab291bb36241dd4535eb7377ecd08",
+   "productos_comunes": [
+    "superposiciones/9x16/grunge/grunge_1140",
+    "tileables/grunge/grunge_gris_1140"
+   ],
+   "formato": "plugin/tex/toner2.bin · 572×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 585728 bytes"
+  },
+  {
+   "orden": 251,
+   "nombre_interno": "toner3",
+   "familia": "toner",
+   "uso": [
+    "desvanecido",
+    "fotocopia (acabado)",
+    "sello (acabado)"
+   ],
+   "id": "or:463e1c89cc42defd95af0e274fa8cef5",
+   "fuente_ruta": "BIBLIOTECA/texturas/grano/toner/motas_y_grano_de_toner_01.jpg",
+   "original_real": "or:3ada132da348a6f7648f2231cc99c6e5",
+   "productos_comunes": [
+    "superposiciones/9x16/grunge/grunge_1178",
+    "tileables/grunge/grunge_gris_claro_1178"
+   ],
+   "formato": "plugin/tex/toner3.bin · 572×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 585728 bytes"
+  },
+  {
+   "orden": 252,
+   "nombre_interno": "trazo_aguada1",
+   "familia": "trazo_aguada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:8dff8a5597a583d750007301eba23f75",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/aguada/aguada_575_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_aguada1.bin · 109×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 167424 bytes"
+  },
+  {
+   "orden": 253,
+   "nombre_interno": "trazo_aguada10",
+   "familia": "trazo_aguada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:7e06ca276a5222336bfc76c55709e4a7",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/aguada/aguada_580_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_aguada10.bin · 138×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 211968 bytes"
+  },
+  {
+   "orden": 254,
+   "nombre_interno": "trazo_aguada2",
+   "familia": "trazo_aguada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:075e212b36144a506be6dfedc7304e15",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/aguada/aguada_575_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_aguada2.bin · 95×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 145920 bytes"
+  },
+  {
+   "orden": 255,
+   "nombre_interno": "trazo_aguada3",
+   "familia": "trazo_aguada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:f2fc029689e725d863620c0b434bd40a",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/aguada/aguada_575_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_aguada3.bin · 108×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 165888 bytes"
+  },
+  {
+   "orden": 256,
+   "nombre_interno": "trazo_aguada4",
+   "familia": "trazo_aguada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:920a33db6edda01381714264bfc202c5",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/aguada/aguada_577_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_aguada4.bin · 117×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 179712 bytes"
+  },
+  {
+   "orden": 257,
+   "nombre_interno": "trazo_aguada5",
+   "familia": "trazo_aguada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:53401b69e39ec15966620046cb5eb864",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/aguada/aguada_578_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_aguada5.bin · 106×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 162816 bytes"
+  },
+  {
+   "orden": 258,
+   "nombre_interno": "trazo_aguada6",
+   "familia": "trazo_aguada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:503b163857ba9c03c769fde39f667f02",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/aguada/aguada_578_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_aguada6.bin · 102×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 156672 bytes"
+  },
+  {
+   "orden": 259,
+   "nombre_interno": "trazo_aguada7",
+   "familia": "trazo_aguada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:f649408cbec558c3e146509ea236cb16",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/aguada/aguada_579_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_aguada7.bin · 117×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 179712 bytes"
+  },
+  {
+   "orden": 260,
+   "nombre_interno": "trazo_aguada8",
+   "familia": "trazo_aguada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:16c76b492e9eae9f2379faf3ec57b936",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/aguada/aguada_579_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_aguada8.bin · 123×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 188928 bytes"
+  },
+  {
+   "orden": 261,
+   "nombre_interno": "trazo_aguada9",
+   "familia": "trazo_aguada",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:f4785a57858b2b3918b8d7080e6efe5b",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/aguada/aguada_580_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_aguada9.bin · 138×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 211968 bytes"
+  },
+  {
+   "orden": 262,
+   "nombre_interno": "trazo_guache1",
+   "familia": "trazo_guache",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:db28e45e5c69ac2dd7805d95ffb739b3",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/guache/guache_598_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_guache1.bin · 116×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 178176 bytes"
+  },
+  {
+   "orden": 263,
+   "nombre_interno": "trazo_guache10",
+   "familia": "trazo_guache",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:21950b29b7798307f1ce8d0f0991893b",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/guache/mancha_circular_de_guache_gris_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_guache10.bin · 637×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 978432 bytes"
+  },
+  {
+   "orden": 264,
+   "nombre_interno": "trazo_guache11",
+   "familia": "trazo_guache",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:99879e72a326a75a2586a5c1c3337ca4",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/guache/pincelada_de_guache_gris_aisla_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_guache11.bin · 768×549 · 2 canal(es) LA · 8 bits crudo sin cabecera · 843264 bytes"
+  },
+  {
+   "orden": 265,
+   "nombre_interno": "trazo_guache12",
+   "familia": "trazo_guache",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:a082e575d999611fe700eb243024f88e",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/guache/pincelada_de_guache_gris_aisla_05.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_guache12.bin · 768×549 · 2 canal(es) LA · 8 bits crudo sin cabecera · 843264 bytes"
+  },
+  {
+   "orden": 266,
+   "nombre_interno": "trazo_guache13",
+   "familia": "trazo_guache",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:3d1e03e48cfec88b10ded17e2cd5924c",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/guache/pincelada_vertical_ancha_de_gu_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_guache13.bin · 266×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 408576 bytes"
+  },
+  {
+   "orden": 267,
+   "nombre_interno": "trazo_guache14",
+   "familia": "trazo_guache",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:f448c8e2bc9ec5c697d9018d8249b156",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/guache/pincelada_vertical_de_guache_g_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_guache14.bin · 279×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 428544 bytes"
+  },
+  {
+   "orden": 268,
+   "nombre_interno": "trazo_guache2",
+   "familia": "trazo_guache",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:89cc04265274fce9ff195e04a8f46958",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/guache/guache_598_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_guache2.bin · 118×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 181248 bytes"
+  },
+  {
+   "orden": 269,
+   "nombre_interno": "trazo_guache3",
+   "familia": "trazo_guache",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:42af76fc222b08491db6d807b7f7a1fe",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/guache/guache_599_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_guache3.bin · 114×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 175104 bytes"
+  },
+  {
+   "orden": 270,
+   "nombre_interno": "trazo_guache4",
+   "familia": "trazo_guache",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:61ea5ff56f30bb55cca40984832a9f68",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/guache/guache_601_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_guache4.bin · 110×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 168960 bytes"
+  },
+  {
+   "orden": 271,
+   "nombre_interno": "trazo_guache5",
+   "familia": "trazo_guache",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:df02d98014bdb1a79b797dbb457691b3",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/guache/guache_602_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_guache5.bin · 127×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 195072 bytes"
+  },
+  {
+   "orden": 272,
+   "nombre_interno": "trazo_guache6",
+   "familia": "trazo_guache",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:730fac094953afbf6dcb7a2b2d8fe4ef",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/guache/guache_602_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_guache6.bin · 118×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 181248 bytes"
+  },
+  {
+   "orden": 273,
+   "nombre_interno": "trazo_guache7",
+   "familia": "trazo_guache",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:850517c2a625c35c510d7392167f7d8d",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/guache/guache_602_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_guache7.bin · 121×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 185856 bytes"
+  },
+  {
+   "orden": 274,
+   "nombre_interno": "trazo_guache8",
+   "familia": "trazo_guache",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:9ec53ce5e7202728ae52a4401f999e94",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/guache/guache_605_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_guache8.bin · 110×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 168960 bytes"
+  },
+  {
+   "orden": 275,
+   "nombre_interno": "trazo_guache9",
+   "familia": "trazo_guache",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:6bbec6df01cf148f8c4ead5b590ec34f",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/guache/guache_605_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_guache9.bin · 105×768 · 2 canal(es) LA · 8 bits crudo sin cabecera · 161280 bytes"
+  },
+  {
+   "orden": 276,
+   "nombre_interno": "trazo_seco1",
+   "familia": "trazo_seco",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:feb68e1de00bd78e9dd213e631335c0e",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/pincel_seco/pincel_seco_637_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_seco1.bin · 768×176 · 2 canal(es) LA · 8 bits crudo sin cabecera · 270336 bytes"
+  },
+  {
+   "orden": 277,
+   "nombre_interno": "trazo_seco2",
+   "familia": "trazo_seco",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:04d7e1872e2cff29837c00396836296a",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/pincel_seco/pincel_seco_637_02.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_seco2.bin · 718×216 · 2 canal(es) LA · 8 bits crudo sin cabecera · 310176 bytes"
+  },
+  {
+   "orden": 278,
+   "nombre_interno": "trazo_seco3",
+   "familia": "trazo_seco",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:af6a7947ad237d863d49ff7d583fd959",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/pincel_seco/pincel_seco_637_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_seco3.bin · 768×152 · 2 canal(es) LA · 8 bits crudo sin cabecera · 233472 bytes"
+  },
+  {
+   "orden": 279,
+   "nombre_interno": "trazo_seco4",
+   "familia": "trazo_seco",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:6f55b75da68419a71b3003fa379c93d5",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/pincel_seco/pincel_seco_637_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_seco4.bin · 768×191 · 2 canal(es) LA · 8 bits crudo sin cabecera · 293376 bytes"
+  },
+  {
+   "orden": 280,
+   "nombre_interno": "trazo_seco5",
+   "familia": "trazo_seco",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:4191d30d6f7b774b5e1565be7f753594",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/pincel_seco/pincel_seco_647_01.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_seco5.bin · 560×325 · 2 canal(es) LA · 8 bits crudo sin cabecera · 364000 bytes"
+  },
+  {
+   "orden": 281,
+   "nombre_interno": "trazo_seco6",
+   "familia": "trazo_seco",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:bfb086aa43e7108e7a987dd55216b19e",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/pincel_seco/pincel_seco_647_03.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_seco6.bin · 768×207 · 2 canal(es) LA · 8 bits crudo sin cabecera · 317952 bytes"
+  },
+  {
+   "orden": 282,
+   "nombre_interno": "trazo_seco7",
+   "familia": "trazo_seco",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:77fa87336886e5f8a254fb7a1c3e368b",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/pincel_seco/pincel_seco_647_04.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_seco7.bin · 760×263 · 2 canal(es) LA · 8 bits crudo sin cabecera · 399760 bytes"
+  },
+  {
+   "orden": 283,
+   "nombre_interno": "trazo_seco8",
+   "familia": "trazo_seco",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:d5ad3cadb03022d3ccb0c62fbb5037e2",
+   "fuente_ruta": "BIBLIOTECA/elementos/trazos/pincel_seco/pincel_seco_647_05.png",
+   "original_real": null,
+   "productos_comunes": [],
+   "formato": "plugin/tex/trazo_seco8.bin · 596×234 · 2 canal(es) LA · 8 bits crudo sin cabecera · 278928 bytes"
+  },
+  {
+   "orden": 284,
+   "nombre_interno": "vapor",
+   "familia": "vapor",
+   "uso": "NO SE USA (empaquetada pero ningún efecto la lee)",
+   "id": "or:71dfd9c8d7449861e1962ac71a7e1981",
+   "fuente_ruta": "BIBLIOTECA/texturas/humo/vapor_01.jpg",
+   "original_real": "or:524dc770d59c653ae2ba9517e11fbf00",
+   "productos_comunes": [
+    "luz_y_elementos/humo/espirales_vapor_0389",
+    "luz_y_elementos/humo/espirales_vapor_0389_trama"
+   ],
+   "formato": "plugin/tex/vapor.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 285,
+   "nombre_interno": "vhs1",
+   "familia": "vhs",
+   "uso": [
+    "rgb_split (acabado)",
+    "senal_rota (acabado)",
+    "vhs (acabado)"
+   ],
+   "id": "or:088b68ae4e004bdeac3c54b5d98d1219",
+   "fuente_ruta": "BIBLIOTECA/texturas/acabado/escaner_vhs/rayas_vhs_01.jpg",
+   "original_real": "or:0b21362c54adc347bde6bcfa6deaa333",
+   "productos_comunes": [
+    "superposiciones/vhs/interferencia_vhs_blanco_negro_0396",
+    "superposiciones/vhs/interferencia_vhs_blanco_negro_0396_trama"
+   ],
+   "formato": "plugin/tex/vhs1.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  },
+  {
+   "orden": 286,
+   "nombre_interno": "vhs2",
+   "familia": "vhs",
+   "uso": [
+    "rgb_split (acabado)",
+    "senal_rota (acabado)",
+    "vhs (acabado)"
+   ],
+   "id": "or:69c4d08544794231fd3dc3a320ed0a5c",
+   "fuente_ruta": "BIBLIOTECA/texturas/acabado/escaner_vhs/rayas_vhs_03.jpg",
+   "original_real": "or:6f9d00200cfa9df30024b5db92e8bcc3",
+   "productos_comunes": [
+    "superposiciones/vhs/interferencias_vhs_blanco_negro_0398",
+    "superposiciones/vhs/interferencias_vhs_blanco_negro_0398_trama"
+   ],
+   "formato": "plugin/tex/vhs2.bin · 1024×1024 · 1 canal(es) L · 8 bits crudo sin cabecera · 1048576 bytes"
+  }
+ ]
+}

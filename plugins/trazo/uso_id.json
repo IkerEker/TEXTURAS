@@ -1,0 +1,1052 @@
+{
+ "plugin": "trazo",
+ "nota": "Patrones de build_assets.py resueltos contra TEXTURES/ (orden alfabético, como glob ordenado). Verificar primero que el build actual se reproduce (ficha §6.1).",
+ "total": 116,
+ "sin_id": 0,
+ "filas": [
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_1m2vhi1m2vhi1m2v.jpg",
+   "id": "or:1fab4c773c1595efc5c71fa8ba5d003b",
+   "orden": 0
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_6mtp7n6mtp7n6mtp.jpg",
+   "id": "or:165142b8c6de0e7d4a53487f9987b383",
+   "orden": 1
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_dd9o77dd9o77dd9o.jpg",
+   "id": "or:93b2c592d0844bb90bdb735019f8632f",
+   "orden": 2
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_du29s5du29s5du29.jpg",
+   "id": "or:522fb77f3d814e14147dc6251ecc3505",
+   "orden": 3
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_fooa8gfooa8gfooa.jpg",
+   "id": "or:8f83c88e63387f8ea7ef103928e1ed63",
+   "orden": 4
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_fr6bplfr6bplfr6b.jpg",
+   "id": "or:fb09863dfc7055b5ac325f3aa046d09f",
+   "orden": 5
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_gtyi67gtyi67gtyi.jpg",
+   "id": "or:f2a1c7dbb7402bd7f31a4c3631b1ce49",
+   "orden": 6
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_i9od48i9od48i9od.jpg",
+   "id": "or:ea43656231d6b863d67eb6c169032e5b",
+   "orden": 7
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_ogccn5ogccn5ogcc.jpg",
+   "id": "or:039431753bcad30873ec83cfd64ee744",
+   "orden": 8
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_p29j97p29j97p29j.jpg",
+   "id": "or:5e850040e1d836b9458e6e2d95c9d2cd",
+   "orden": 9
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_uoqx5fuoqx5fuoqx.jpg",
+   "id": "or:160a8c8a106c89a1bde10f3990e915d2",
+   "orden": 10
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_xw72ktxw72ktxw72.jpg",
+   "id": "or:7b13ec84a1c7508de63bb6cf144d9b9e",
+   "orden": 11
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Mancha vertical*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Mancha vertical gris de gouache texturizada.png",
+   "id": "or:e81f9b1414256e7b30cce84e5dad3f34",
+   "orden": 12
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Pincelada*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Pincelada gouache gris texturizada.png",
+   "id": "or:38c016b43d482c4fdbb43314dbb248a6",
+   "orden": 13
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Pincelada*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Pincelada gris sobre blanco.png",
+   "id": "or:0e36d27811e2498679e00e8a3bb3a6f9",
+   "orden": 14
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Pincelada*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Pincelada vertical gris sobre blanco.png",
+   "id": "or:9af81d46749352e1f8119c5bc9358f0b",
+   "orden": 15
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Pincelada*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Pincelada vertical gris texturizada.png",
+   "id": "or:6680f7e67083a741f8cad31da3c83051",
+   "orden": 16
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Trazo de gouache*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/Trazo de gouache gris carbón.png",
+   "id": "or:45c4e981d5a249a7d7cdb731b109453e",
+   "orden": 17
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/005.png",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/005.png",
+   "id": "or:7be857525cd4018b14fa5af19bc20ce2",
+   "orden": 18
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/006.png",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/006.png",
+   "id": "or:13a68d8f5c07badc1637d1071b767703",
+   "orden": 19
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/007.png",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/007.png",
+   "id": "or:2d0d8424fcad56324911bb077f37b56c",
+   "orden": 20
+  },
+  {
+   "familia": "pin_gouache",
+   "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+   "patron": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/014.png",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/014.png",
+   "id": "or:e8b6a349462670e2f947733b2a5630b8",
+   "orden": 21
+  },
+  {
+   "familia": "pin_oleo",
+   "uso": "Óleo: trazos",
+   "patron": "TEXTURES/TRAZOS/Cuatro pinceladas rojas*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Cuatro pinceladas rojas sobre blanco.png",
+   "id": "or:99193ea91cf681edc1b1b5946c6cabb3",
+   "orden": 22
+  },
+  {
+   "familia": "pin_oleo",
+   "uso": "Óleo: trazos",
+   "patron": "TEXTURES/TRAZOS/Franjas de pintura roja*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Franjas de pintura roja sobre blanco.png",
+   "id": "or:69c2c2243bb9c323d644d2ad0eab2969",
+   "orden": 23
+  },
+  {
+   "familia": "pin_oleo",
+   "uso": "Óleo: trazos",
+   "patron": "TEXTURES/TRAZOS/Muestras de pinceladas azules*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Muestras de pinceladas azules en blanco.png",
+   "id": "or:9f80ec4e19ffa2713ad247331ebb036f",
+   "orden": 24
+  },
+  {
+   "familia": "pin_oleo",
+   "uso": "Óleo: trazos",
+   "patron": "TEXTURES/TRAZOS/Ocho pinceladas azules*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Ocho pinceladas azules sobre blanco.png",
+   "id": "or:2b56822cc2af4b0551e9091d4cd41f2b",
+   "orden": 25
+  },
+  {
+   "familia": "pin_oleo",
+   "uso": "Óleo: trazos",
+   "patron": "TEXTURES/TRAZOS/Pinceladas azules sobre*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Pinceladas azules sobre blanco.png",
+   "id": "or:0636e9a1be6f0583886c3571a0ea61af",
+   "orden": 26
+  },
+  {
+   "familia": "pin_oleo",
+   "uso": "Óleo: trazos",
+   "patron": "TEXTURES/TRAZOS/Pinceladas rojas sobre*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Pinceladas rojas sobre blanco.png",
+   "id": "or:aca488fbc8295f59772ed252ea43b671",
+   "orden": 27
+  },
+  {
+   "familia": "pin_oleo",
+   "uso": "Óleo: trazos",
+   "patron": "TEXTURES/TRAZOS/Trazos azules sobre fondo blanco.png",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Trazos azules sobre fondo blanco.png",
+   "id": "or:6b53b3ad9f34be43bd013cb4f2c5aba3",
+   "orden": 28
+  },
+  {
+   "familia": "pin_oleo",
+   "uso": "Óleo: trazos",
+   "patron": "TEXTURES/TRAZOS/OLEO/*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/OLEO/Gemini_Generated_Image_9d31iy9d31iy9d31.jpg",
+   "id": "or:26c06c0b920161b7a6f75ac8bc51aec7",
+   "orden": 29
+  },
+  {
+   "familia": "pin_oleo",
+   "uso": "Óleo: trazos",
+   "patron": "TEXTURES/TRAZOS/OLEO/*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/OLEO/Gemini_Generated_Image_br79m9br79m9br79.jpg",
+   "id": "or:fa7773c2e2908f4fe146ab0dffa43844",
+   "orden": 30
+  },
+  {
+   "familia": "pin_oleo",
+   "uso": "Óleo: trazos",
+   "patron": "TEXTURES/TRAZOS/OLEO/*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/OLEO/Gemini_Generated_Image_gscen4gscen4gsce.jpg",
+   "id": "or:f0e4f581040ef0f237b0d8879d7c2e53",
+   "orden": 31
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/GUACHE/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/GUACHE/Gemini_Generated_Image_6l56yc6l56yc6l56.jpg",
+   "id": "or:44adc9c64138f6cd1a55bed4cb5abd05",
+   "orden": 32
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/GUACHE/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/GUACHE/Gemini_Generated_Image_8ypgc28ypgc28ypg.jpg",
+   "id": "or:187140f5d0f9d9f90dbe3d6d4f41b521",
+   "orden": 33
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/GUACHE/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/GUACHE/Gemini_Generated_Image_gz01rcgz01rcgz01.jpg",
+   "id": "or:a5baef658ef09e772c1402b130c62c8a",
+   "orden": 34
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/GUACHE/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/GUACHE/Gemini_Generated_Image_jfrkuyjfrkuyjfrk.jpg",
+   "id": "or:0f00cb3e6dbeb43243962b2aad7ebc1f",
+   "orden": 35
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/GUACHE/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/GUACHE/Gemini_Generated_Image_ksbdqzksbdqzksbd.jpg",
+   "id": "or:a8622af802d9a3c83c25bd60e891586d",
+   "orden": 36
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/GUACHE/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/GUACHE/Gemini_Generated_Image_omhgriomhgriomhg.jpg",
+   "id": "or:fb33f7dda84a14d3434758806b5b5cfa",
+   "orden": 37
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/GUACHE/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/GUACHE/Gemini_Generated_Image_scmr90scmr90scmr.jpg",
+   "id": "or:430ed44e661c68c0a1d7a4c760c61c12",
+   "orden": 38
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/GUACHE/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/GUACHE/Gemini_Generated_Image_t7kg8st7kg8st7kg (1).jpg",
+   "id": "or:0877b4440f565bc67c81c2c19fa64d44",
+   "orden": 39
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/GUACHE/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/GUACHE/Gemini_Generated_Image_t7kg8st7kg8st7kg.jpg",
+   "id": "or:0877b4440f565bc67c81c2c19fa64d44",
+   "orden": 40
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/Gemini_Generated_Image_1m2v*.jpg",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/Gemini_Generated_Image_1m2vhi1m2vhi1m2v.jpg",
+   "id": "or:1fab4c773c1595efc5c71fa8ba5d003b",
+   "orden": 41
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/Gemini_Generated_Image_xw72*.jpg",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/Gemini_Generated_Image_xw72ktxw72ktxw72.jpg",
+   "id": "or:7b13ec84a1c7508de63bb6cf144d9b9e",
+   "orden": 42
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/Gemini_Generated_Image_i9od*.jpg",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/Gemini_Generated_Image_i9od48i9od48i9od.jpg",
+   "id": "or:ea43656231d6b863d67eb6c169032e5b",
+   "orden": 43
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/Gemini_Generated_Image_uoqx*.jpg",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/Gemini_Generated_Image_uoqx5fuoqx5fuoqx.jpg",
+   "id": "or:160a8c8a106c89a1bde10f3990e915d2",
+   "orden": 44
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/Gemini_Generated_Image_gtyi*.jpg",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/Gemini_Generated_Image_gtyi67gtyi67gtyi.jpg",
+   "id": "or:f2a1c7dbb7402bd7f31a4c3631b1ce49",
+   "orden": 45
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/Gemini_Generated_Image_fooa*.jpg",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/Gemini_Generated_Image_fooa8gfooa8gfooa.jpg",
+   "id": "or:8f83c88e63387f8ea7ef103928e1ed63",
+   "orden": 46
+  },
+  {
+   "familia": "pin_guache",
+   "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+   "patron": "TEXTURES/TRAZOS/Pincelada gris sobre blanco.png",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Pincelada gris sobre blanco.png",
+   "id": "or:0e36d27811e2498679e00e8a3bb3a6f9",
+   "orden": 47
+  },
+  {
+   "familia": "pin_barra",
+   "uso": "Ceras (barra y Manley): trazos",
+   "patron": "TEXTURES/TRAZOS/CERAS/*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/CERAS/Gemini_Generated_Image_2an7ri2an7ri2an7.jpg",
+   "id": "or:b39356083123b118262bc35200d62d4d",
+   "orden": 48
+  },
+  {
+   "familia": "pin_barra",
+   "uso": "Ceras (barra y Manley): trazos",
+   "patron": "TEXTURES/TRAZOS/CERAS/*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/CERAS/Gemini_Generated_Image_56fr4h56fr4h56fr.jpg",
+   "id": "or:53d0437a073d998a7895372b37008a97",
+   "orden": 49
+  },
+  {
+   "familia": "pin_barra",
+   "uso": "Ceras (barra y Manley): trazos",
+   "patron": "TEXTURES/TRAZOS/CERAS/*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/CERAS/Gemini_Generated_Image_uh9z0xuh9z0xuh9z (1).jpg",
+   "id": "or:f8bd0d98d712eee34c871a556b86192d",
+   "orden": 50
+  },
+  {
+   "familia": "pin_barra",
+   "uso": "Ceras (barra y Manley): trazos",
+   "patron": "TEXTURES/TRAZOS/CERAS/*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/CERAS/Gemini_Generated_Image_uh9z0xuh9z0xuh9z.jpg",
+   "id": "or:f8bd0d98d712eee34c871a556b86192d",
+   "orden": 51
+  },
+  {
+   "familia": "pin_barra",
+   "uso": "Ceras (barra y Manley): trazos",
+   "patron": "TEXTURES/TRAZOS/CERAS/*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/CERAS/Gemini_Generated_Image_y7qljdy7qljdy7ql.jpg",
+   "id": "or:e144d33708b20cfa07cdb172e936acce",
+   "orden": 52
+  },
+  {
+   "familia": "pin_manley",
+   "uso": "Ceras variante Manley: trazos (alterna con pin_barra)",
+   "patron": "TEXTURES/TRAZOS/Cinco trazos rojos*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Cinco trazos rojos sobre blanco.png",
+   "id": "or:783353d66f31e70cc44e7231723dd965",
+   "orden": 53
+  },
+  {
+   "familia": "pin_manley",
+   "uso": "Ceras variante Manley: trazos (alterna con pin_barra)",
+   "patron": "TEXTURES/TRAZOS/Cuatro trazos rojos texturizados*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Cuatro trazos rojos texturizados.png",
+   "id": "or:e50cdc4bb37912262f92e93de71dbb50",
+   "orden": 54
+  },
+  {
+   "familia": "pin_manley",
+   "uso": "Ceras variante Manley: trazos (alterna con pin_barra)",
+   "patron": "TEXTURES/TRAZOS/Cinco trazos azules sobre*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Cinco trazos azules sobre blanco.png",
+   "id": "or:2bcd77b876fd57f6580a35b2bc1f6585",
+   "orden": 55
+  },
+  {
+   "familia": "pin_manley",
+   "uso": "Ceras variante Manley: trazos (alterna con pin_barra)",
+   "patron": "TEXTURES/TRAZOS/Tres trazos azules texturizados*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Tres trazos azules texturizados.png",
+   "id": "or:618c499ea623d529c21ef45e511d478e",
+   "orden": 56
+  },
+  {
+   "familia": "pin_cera",
+   "uso": "SIN USO EFECTIVO (cargado para Lápiz; solo sketch.js carboncillo, inalcanzable)",
+   "patron": "TEXTURES/TRAZOS/Cinco trazos azules sobre*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Cinco trazos azules sobre blanco.png",
+   "id": "or:2bcd77b876fd57f6580a35b2bc1f6585",
+   "orden": 57
+  },
+  {
+   "familia": "pin_cera",
+   "uso": "SIN USO EFECTIVO (cargado para Lápiz; solo sketch.js carboncillo, inalcanzable)",
+   "patron": "TEXTURES/TRAZOS/Cinco trazos rojos*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Cinco trazos rojos sobre blanco.png",
+   "id": "or:783353d66f31e70cc44e7231723dd965",
+   "orden": 58
+  },
+  {
+   "familia": "pin_cera",
+   "uso": "SIN USO EFECTIVO (cargado para Lápiz; solo sketch.js carboncillo, inalcanzable)",
+   "patron": "TEXTURES/TRAZOS/Cuatro trazos rojos texturizados*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Cuatro trazos rojos texturizados.png",
+   "id": "or:e50cdc4bb37912262f92e93de71dbb50",
+   "orden": 59
+  },
+  {
+   "familia": "pin_cera",
+   "uso": "SIN USO EFECTIVO (cargado para Lápiz; solo sketch.js carboncillo, inalcanzable)",
+   "patron": "TEXTURES/TRAZOS/Tres trazos azules texturizados*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Tres trazos azules texturizados.png",
+   "id": "or:618c499ea623d529c21ef45e511d478e",
+   "orden": 60
+  },
+  {
+   "familia": "pin_cera",
+   "uso": "SIN USO EFECTIVO (cargado para Lápiz; solo sketch.js carboncillo, inalcanzable)",
+   "patron": "TEXTURES/TRAZOS/Garabato de carb*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Garabato de carbón en curva.png",
+   "id": "or:4577ab799bee7c1b12bb895a8a8d61c2",
+   "orden": 61
+  },
+  {
+   "familia": "pin_cera",
+   "uso": "SIN USO EFECTIVO (cargado para Lápiz; solo sketch.js carboncillo, inalcanzable)",
+   "patron": "TEXTURES/TRAZOS/Trazo serpenteante*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Trazo serpenteante de carbón.png",
+   "id": "or:c3fe876be3dc01ae739045ae74704df7",
+   "orden": 62
+  },
+  {
+   "familia": "pin_cera",
+   "uso": "SIN USO EFECTIVO (cargado para Lápiz; solo sketch.js carboncillo, inalcanzable)",
+   "patron": "TEXTURES/TRAZOS/CERAS/*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/CERAS/Gemini_Generated_Image_2an7ri2an7ri2an7.jpg",
+   "id": "or:b39356083123b118262bc35200d62d4d",
+   "orden": 63
+  },
+  {
+   "familia": "pin_cera",
+   "uso": "SIN USO EFECTIVO (cargado para Lápiz; solo sketch.js carboncillo, inalcanzable)",
+   "patron": "TEXTURES/TRAZOS/CERAS/*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/CERAS/Gemini_Generated_Image_56fr4h56fr4h56fr.jpg",
+   "id": "or:53d0437a073d998a7895372b37008a97",
+   "orden": 64
+  },
+  {
+   "familia": "pin_cera",
+   "uso": "SIN USO EFECTIVO (cargado para Lápiz; solo sketch.js carboncillo, inalcanzable)",
+   "patron": "TEXTURES/TRAZOS/CERAS/*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/CERAS/Gemini_Generated_Image_uh9z0xuh9z0xuh9z (1).jpg",
+   "id": "or:f8bd0d98d712eee34c871a556b86192d",
+   "orden": 65
+  },
+  {
+   "familia": "pin_cera",
+   "uso": "SIN USO EFECTIVO (cargado para Lápiz; solo sketch.js carboncillo, inalcanzable)",
+   "patron": "TEXTURES/TRAZOS/CERAS/*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/CERAS/Gemini_Generated_Image_uh9z0xuh9z0xuh9z.jpg",
+   "id": "or:f8bd0d98d712eee34c871a556b86192d",
+   "orden": 66
+  },
+  {
+   "familia": "pin_cera",
+   "uso": "SIN USO EFECTIVO (cargado para Lápiz; solo sketch.js carboncillo, inalcanzable)",
+   "patron": "TEXTURES/TRAZOS/CERAS/*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/CERAS/Gemini_Generated_Image_y7qljdy7qljdy7ql.jpg",
+   "id": "or:e144d33708b20cfa07cdb172e936acce",
+   "orden": 67
+  },
+  {
+   "familia": "pin_pastel",
+   "uso": "SIN USO EFECTIVO (cargado para Ceras; solo sketch.js carboncillo)",
+   "patron": "TEXTURES/TRAZOS/Garabato de carb*",
+   "q": "q2",
+   "fuente_ruta": "TEXTURES/TRAZOS/Garabato de carbón en curva.png",
+   "id": "or:4577ab799bee7c1b12bb895a8a8d61c2",
+   "orden": 68
+  },
+  {
+   "familia": "pin_lapiz",
+   "uso": "sketch.js (Técnica mixta y Acuarela con dibujo): tile de rayado",
+   "patron": "TEXTURES/TRAZOS/LAPIZ/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/LAPIZ/Gemini_Generated_Image_4vfeh34vfeh34vfe.jpg",
+   "id": "or:46afa9de8ecce9fc9ba79d3e9e6721b3",
+   "orden": 69
+  },
+  {
+   "familia": "pin_lapiz",
+   "uso": "sketch.js (Técnica mixta y Acuarela con dibujo): tile de rayado",
+   "patron": "TEXTURES/TRAZOS/LAPIZ/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/LAPIZ/Gemini_Generated_Image_dgy3xxdgy3xxdgy3.jpg",
+   "id": "or:80dad666f8311d6edb1754c362d75a5d",
+   "orden": 70
+  },
+  {
+   "familia": "pin_lapiz",
+   "uso": "sketch.js (Técnica mixta y Acuarela con dibujo): tile de rayado",
+   "patron": "TEXTURES/TRAZOS/LAPIZ/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/LAPIZ/Gemini_Generated_Image_fd6so0fd6so0fd6s.jpg",
+   "id": "or:d3a26863bf136a2b427559a680ae92bc",
+   "orden": 71
+  },
+  {
+   "familia": "pin_lapiz",
+   "uso": "sketch.js (Técnica mixta y Acuarela con dibujo): tile de rayado",
+   "patron": "TEXTURES/TRAZOS/LAPIZ/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/LAPIZ/Gemini_Generated_Image_i1m1v9i1m1v9i1m1.jpg",
+   "id": "or:16105ce5cc4b1d2b200909510e32b70f",
+   "orden": 72
+  },
+  {
+   "familia": "pin_lapiz",
+   "uso": "sketch.js (Técnica mixta y Acuarela con dibujo): tile de rayado",
+   "patron": "TEXTURES/TRAZOS/LAPIZ/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/LAPIZ/Gemini_Generated_Image_so6zmwso6zmwso6z.jpg",
+   "id": "or:8b1330c2a986ae301ae99c56608fc9fe",
+   "orden": 73
+  },
+  {
+   "familia": "pin_lapiz",
+   "uso": "sketch.js (Técnica mixta y Acuarela con dibujo): tile de rayado",
+   "patron": "TEXTURES/TRAZOS/LAPIZ/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/LAPIZ/Gemini_Generated_Image_u2c2txu2c2txu2c2.jpg",
+   "id": "or:d3641f94f2fd796c41a4756940e836fb",
+   "orden": 74
+  },
+  {
+   "familia": "pin_lapiz",
+   "uso": "sketch.js (Técnica mixta y Acuarela con dibujo): tile de rayado",
+   "patron": "TEXTURES/TRAZOS/LAPIZ/*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TRAZOS/LAPIZ/Gemini_Generated_Image_uvge2nuvge2nuvge.jpg",
+   "id": "or:8b1caba32d3287fa9a08c5de574690c6",
+   "orden": 75
+  },
+  {
+   "familia": "pin_lapiz",
+   "uso": "sketch.js (Técnica mixta y Acuarela con dibujo): tile de rayado",
+   "patron": "TEXTURES/TRAZOS/Hoja de garabatos de grafito*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/Hoja de garabatos de grafito texturizado.png",
+   "id": "or:4292e9785e8e8864442e2cf5218c600c",
+   "orden": 76
+  },
+  {
+   "familia": "pin_lapiz",
+   "uso": "sketch.js (Técnica mixta y Acuarela con dibujo): tile de rayado",
+   "patron": "TEXTURES/TRAZOS/Garabatos abstractos de grafito*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/Garabatos abstractos de grafito.png",
+   "id": "or:09dff1bc625eed40d42070332e58982f",
+   "orden": 77
+  },
+  {
+   "familia": "pin_lapiz",
+   "uso": "sketch.js (Técnica mixta y Acuarela con dibujo): tile de rayado",
+   "patron": "TEXTURES/TRAZOS/Doodles de grafito*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/Doodles de grafito sobre blanco (1).png",
+   "id": "or:0ef89bdf930e7280939d0a5629de709f",
+   "orden": 78
+  },
+  {
+   "familia": "pin_lapiz",
+   "uso": "sketch.js (Técnica mixta y Acuarela con dibujo): tile de rayado",
+   "patron": "TEXTURES/TRAZOS/Doodles de grafito*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/Doodles de grafito sobre blanco.png",
+   "id": "or:a3c23305d2bd31814148a888a1d9bd2e",
+   "orden": 79
+  },
+  {
+   "familia": "pin_acuarela",
+   "uso": "Acuarela (brushMarks) y Gouache diluido (capa Water2)",
+   "patron": "TEXTURES/TRAZOS/AGUADAS/*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/AGUADAS/Gemini_Generated_Image_6lti5j6lti5j6lti.jpg",
+   "id": "or:20ddea7c0fb3b440354ee377a7c7e34c",
+   "orden": 80
+  },
+  {
+   "familia": "pin_acuarela",
+   "uso": "Acuarela (brushMarks) y Gouache diluido (capa Water2)",
+   "patron": "TEXTURES/TRAZOS/AGUADAS/*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/AGUADAS/Gemini_Generated_Image_6p6u0m6p6u0m6p6u.jpg",
+   "id": "or:ac6b1c0c21c3685ebafd50b783f0b0b3",
+   "orden": 81
+  },
+  {
+   "familia": "pin_acuarela",
+   "uso": "Acuarela (brushMarks) y Gouache diluido (capa Water2)",
+   "patron": "TEXTURES/TRAZOS/AGUADAS/*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/AGUADAS/Gemini_Generated_Image_bygjtubygjtubygj.jpg",
+   "id": "or:2ebff079250c732bac3996e9cd79b633",
+   "orden": 82
+  },
+  {
+   "familia": "pin_acuarela",
+   "uso": "Acuarela (brushMarks) y Gouache diluido (capa Water2)",
+   "patron": "TEXTURES/TRAZOS/AGUADAS/*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/AGUADAS/Gemini_Generated_Image_hbkpvbhbkpvbhbkp.jpg",
+   "id": "or:ff9fd5a027b2672038d83ebb42259fd1",
+   "orden": 83
+  },
+  {
+   "familia": "pin_acuarela",
+   "uso": "Acuarela (brushMarks) y Gouache diluido (capa Water2)",
+   "patron": "TEXTURES/TRAZOS/AGUADAS/*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/AGUADAS/Gemini_Generated_Image_nft1n4nft1n4nft1.jpg",
+   "id": "or:4a0a9e9765717d23a03bf7bee0b529c6",
+   "orden": 84
+  },
+  {
+   "familia": "pin_acuarela",
+   "uso": "Acuarela (brushMarks) y Gouache diluido (capa Water2)",
+   "patron": "TEXTURES/TRAZOS/AGUADAS/*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/AGUADAS/Gemini_Generated_Image_umv2e3umv2e3umv2.jpg",
+   "id": "or:0c7d294c3416f7b24c426a5b7573a2e7",
+   "orden": 85
+  },
+  {
+   "familia": "pin_acuarela",
+   "uso": "Acuarela (brushMarks) y Gouache diluido (capa Water2)",
+   "patron": "TEXTURES/TRAZOS/AGUADAS/*",
+   "q": "q1",
+   "fuente_ruta": "TEXTURES/TRAZOS/AGUADAS/Gemini_Generated_Image_z82hx1z82hx1z82h.jpg",
+   "id": "or:4d7017da88104ffd2d20291e4fb0148f",
+   "orden": 86
+  },
+  {
+   "familia": "tiles_pintura",
+   "uso": "Óleo y Gouache: textura de pincelada en la capa base por región (painter3 tileFor)",
+   "patron": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_2_Basecolor.png",
+   "id": "or:35f2dbeb9b9e7347f56d22dbb1763f78",
+   "orden": 87
+  },
+  {
+   "familia": "tiles_pintura",
+   "uso": "Óleo y Gouache: textura de pincelada en la capa base por región (painter3 tileFor)",
+   "patron": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_3_Basecolor.png",
+   "id": "or:956f1b57b3b8305091bae3477b008e24",
+   "orden": 88
+  },
+  {
+   "familia": "tiles_pintura",
+   "uso": "Óleo y Gouache: textura de pincelada en la capa base por región (painter3 tileFor)",
+   "patron": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_5_Basecolor.png",
+   "id": "or:2e010066c74933360dc581ee50b75da1",
+   "orden": 89
+  },
+  {
+   "familia": "tiles_pintura",
+   "uso": "Óleo y Gouache: textura de pincelada en la capa base por región (painter3 tileFor)",
+   "patron": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_6_Basecolor.png",
+   "id": "or:6784744a13870dae50e5efde6950f13d",
+   "orden": 90
+  },
+  {
+   "familia": "tiles_pintura",
+   "uso": "Óleo y Gouache: textura de pincelada en la capa base por región (painter3 tileFor)",
+   "patron": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_7_Basecolor.png",
+   "id": "or:e4236d280f2d9497c94791cf8105ded7",
+   "orden": 91
+  },
+  {
+   "familia": "tiles_pintura",
+   "uso": "Óleo y Gouache: textura de pincelada en la capa base por región (painter3 tileFor)",
+   "patron": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_8_Basecolor.png",
+   "id": "or:9030980d9ee93b4075e4c029bfec8cb2",
+   "orden": 92
+  },
+  {
+   "familia": "tiles_pintura",
+   "uso": "Óleo y Gouache: textura de pincelada en la capa base por región (painter3 tileFor)",
+   "patron": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_9_Basecolor.png",
+   "id": "or:6c279ea14b8231ce3aa36fc0f1cd5db3",
+   "orden": 93
+  },
+  {
+   "familia": "tiles_pintura",
+   "uso": "Óleo y Gouache: textura de pincelada en la capa base por región (painter3 tileFor)",
+   "patron": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_Basecolor.png",
+   "id": "or:4e3c2bd5adc302aa81a9373b1398e7c2",
+   "orden": 94
+  },
+  {
+   "familia": "tiles_pintura",
+   "uso": "Óleo y Gouache: textura de pincelada en la capa base por región (painter3 tileFor)",
+   "patron": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_Puntos_Basecolor.png",
+   "id": "or:638a6b72c7dbf625de6144137e942b42",
+   "orden": 95
+  },
+  {
+   "familia": "tiles_acuarela",
+   "uso": "Acuarela: modulación de pigmento por capa de lavado (watercolor2)",
+   "patron": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_01_Basecolor.png",
+   "id": "or:a2ed4fa447024fe1115ea7a0a15997b7",
+   "orden": 96
+  },
+  {
+   "familia": "tiles_acuarela",
+   "uso": "Acuarela: modulación de pigmento por capa de lavado (watercolor2)",
+   "patron": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_2_Basecolor.png",
+   "id": "or:d368ec9fa411765ec965cf40b7bf3329",
+   "orden": 97
+  },
+  {
+   "familia": "tiles_acuarela",
+   "uso": "Acuarela: modulación de pigmento por capa de lavado (watercolor2)",
+   "patron": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_3_Basecolor.png",
+   "id": "or:76fde6a2429a5a7e65d83e1fca1fe986",
+   "orden": 98
+  },
+  {
+   "familia": "tiles_acuarela",
+   "uso": "Acuarela: modulación de pigmento por capa de lavado (watercolor2)",
+   "patron": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_4_Basecolor.png",
+   "id": "or:0f4577e2bbf183ed344a1e3c9b77e2a9",
+   "orden": 99
+  },
+  {
+   "familia": "tiles_acuarela",
+   "uso": "Acuarela: modulación de pigmento por capa de lavado (watercolor2)",
+   "patron": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_6_Basecolor.png",
+   "id": "or:f8dea6cb6081595fd6969e0c90ab8f0a",
+   "orden": 100
+  },
+  {
+   "familia": "tiles_acuarela",
+   "uso": "Acuarela: modulación de pigmento por capa de lavado (watercolor2)",
+   "patron": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_*",
+   "q": "q3",
+   "fuente_ruta": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_7_Basecolor.png",
+   "id": "or:3331c4ddd218350095bbaedc86a03785",
+   "orden": 101
+  },
+  {
+   "familia": "ov_impresion",
+   "uso": "Xilografía: motas y fallos de entintado",
+   "patron": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*1f8a*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_1f8a291f8a291f8a.jpg",
+   "id": "or:0c086508e9fe2ef5fbe5b7d0aefddf49",
+   "orden": 102
+  },
+  {
+   "familia": "ov_impresion",
+   "uso": "Xilografía: motas y fallos de entintado",
+   "patron": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*flvu*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_flvuhvflvuhvflvu.jpg",
+   "id": "or:3c5047e22b05cd038c830f8bb3176eeb",
+   "orden": 103
+  },
+  {
+   "familia": "ov_impresion",
+   "uso": "Xilografía: motas y fallos de entintado",
+   "patron": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*gjqu*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_gjquzfgjquzfgjqu.jpg",
+   "id": "or:3ada132da348a6f7648f2231cc99c6e5",
+   "orden": 104
+  },
+  {
+   "familia": "ov_impresion",
+   "uso": "Xilografía: motas y fallos de entintado",
+   "patron": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*v3eb*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_v3ebosv3ebosv3eb.jpg",
+   "id": "or:5056e1d11d4150019039dd258385e104",
+   "orden": 105
+  },
+  {
+   "familia": "ov_madera",
+   "uso": "Xilografía: veta de madera en negro y en tintas de color",
+   "patron": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*2a6p*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_2a6p6v2a6p6v2a6p.jpg",
+   "id": "or:5b2a2d31d9ab0f3cc95e9998b9d79478",
+   "orden": 106
+  },
+  {
+   "familia": "ov_madera",
+   "uso": "Xilografía: veta de madera en negro y en tintas de color",
+   "patron": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*2uid*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_2uidw32uidw32uid.jpg",
+   "id": "or:b40f92afb03ed0c2982b3a3cb8411040",
+   "orden": 107
+  },
+  {
+   "familia": "ov_goteos",
+   "uso": "Cargado en Acuarela; uso no encontrado (sin verificar)",
+   "patron": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*2nzv*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_2nzviv2nzviv2nzv.jpg",
+   "id": "or:0b9ea6d511dc941d958d0c8289349e58",
+   "orden": 108
+  },
+  {
+   "familia": "ov_goteos",
+   "uso": "Cargado en Acuarela; uso no encontrado (sin verificar)",
+   "patron": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*bmol*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_bmolwabmolwabmol.jpg",
+   "id": "or:f6113d4965cf7756a2dae1adfe8be9ee",
+   "orden": 109
+  },
+  {
+   "familia": "ov_goteos",
+   "uso": "Cargado en Acuarela; uso no encontrado (sin verificar)",
+   "patron": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*v9cx*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_v9cxn1v9cxn1v9cx.jpg",
+   "id": "or:d1a88f23d8d8c1ee70abaa71f896e989",
+   "orden": 110
+  },
+  {
+   "familia": "ov_carbon",
+   "uso": "SIN USO EFECTIVO (sketch.js carboncillo)",
+   "patron": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*e6zo*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_e6zoese6zoese6zo.jpg",
+   "id": "or:6f6fa57bfdd6d79c1ca1a7bf55cc82ed",
+   "orden": 111
+  },
+  {
+   "familia": "ov_carbon",
+   "uso": "SIN USO EFECTIVO (sketch.js carboncillo)",
+   "patron": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*uwxt*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_uwxt3ouwxt3ouwxt.jpg",
+   "id": "or:35a6eeee20a7c482011b5f611dc3f2c6",
+   "orden": 112
+  },
+  {
+   "familia": "ov_grafito",
+   "uso": "NO SE CARGA (no está en ASSETS_FOR)",
+   "patron": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*614e*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_614ens614ens614e.jpg",
+   "id": "or:fcf1f0840dd5f0796fda671ed29c93f2",
+   "orden": 113
+  },
+  {
+   "familia": "ov_grafito",
+   "uso": "NO SE CARGA (no está en ASSETS_FOR)",
+   "patron": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*h24g*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_h24geuh24geuh24g.jpg",
+   "id": "or:55f3043c7a01ba10b08f0fd369c6ab52",
+   "orden": 114
+  },
+  {
+   "familia": "ov_grafito",
+   "uso": "NO SE CARGA (no está en ASSETS_FOR)",
+   "patron": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*o4l9*",
+   "q": null,
+   "fuente_ruta": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_o4l9nio4l9nio4l9.jpg",
+   "id": "or:46e7a6b8d25e5d0e2f9bc012426b1627",
+   "orden": 115
+  }
+ ]
+}

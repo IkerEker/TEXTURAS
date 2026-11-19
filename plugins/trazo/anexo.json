@@ -1,0 +1,289 @@
+[
+ {
+  "fuente": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/{Gemini*, Mancha vertical*, Pincelada*, Trazo de gouache*, 005.png, 006.png, 007.png, 014.png} (q3); TEXTURES/TRAZOS/GUACHE/*, TEXTURES/TRAZOS/Muestras abstractas de pincel seco* (q1)",
+  "familia": "pin_gouache",
+  "uso": "Óleo: trazos (painter3, mainLib oleo junto a pin_oleo)",
+  "formato_final": "TRZ1 trazos v1, uint8, 2 planos (A alfa + S relieve 128±127)",
+  "parametros": {
+   "script": "tools/build_assets.py --only pin --fam gouache",
+   "WIDTH": 96,
+   "HMAXF": 720,
+   "CAP": 30,
+   "opaca": true,
+   "load_max_px": 2752,
+   "BODY_FRAC": 0.7,
+   "h_min": 40,
+   "A": "smoothstep(0.1*Db,0.62*Db)",
+   "S": "sigma 0.11, clamp ±0.75"
+  }
+ },
+ {
+  "fuente": "TEXTURES/TRAZOS/{Cuatro pinceladas rojas*, Franjas de pintura roja*, Muestras de pinceladas azules*, Ocho pinceladas azules*, Pinceladas azules sobre*, Pinceladas rojas sobre*, Trazos azules sobre fondo blanco.png} (q2); TEXTURES/TRAZOS/OLEO/* (q1)",
+  "familia": "pin_oleo",
+  "uso": "Óleo: trazos",
+  "formato_final": "TRZ1 trazos v1, uint8, A+S",
+  "parametros": {
+   "WIDTH": 112,
+   "HMAXF": 720,
+   "CAP": 30,
+   "opaca": true
+  }
+ },
+ {
+  "fuente": "TEXTURES/TRAZOS/GUACHE/*; TEXTURES/TRAZOS/Gemini_Generated_Image_{1m2v,xw72,i9od,uoqx,gtyi,fooa}*.jpg; TEXTURES/TRAZOS/Pincelada gris sobre blanco.png (q2)",
+  "familia": "pin_guache",
+  "uso": "Gouache (opaco y diluido) y Técnica mixta: trazos",
+  "formato_final": "TRZ1 trazos v1, uint8, A+S",
+  "parametros": {
+   "WIDTH": 96,
+   "HMAXF": 720,
+   "CAP": 40,
+   "opaca": true
+  }
+ },
+ {
+  "fuente": "TEXTURES/TRAZOS/CERAS/* (q2)",
+  "familia": "pin_barra",
+  "uso": "Ceras (barra y Manley): trazos",
+  "formato_final": "TRZ1 trazos v1, uint8, A+S",
+  "parametros": {
+   "WIDTH": 96,
+   "HMAXF": 720,
+   "CAP": 30,
+   "opaca": true
+  }
+ },
+ {
+  "fuente": "TEXTURES/TRAZOS/{Cinco trazos rojos*, Cuatro trazos rojos texturizados*, Cinco trazos azules sobre*, Tres trazos azules texturizados*} (q2)",
+  "familia": "pin_manley",
+  "uso": "Ceras variante Manley: trazos (alterna con pin_barra)",
+  "formato_final": "TRZ1 trazos v1, uint8, A+S",
+  "parametros": {
+   "WIDTH": 72,
+   "HMAXF": 720,
+   "CAP": 30,
+   "opaca": true
+  }
+ },
+ {
+  "fuente": "TEXTURES/TRAZOS/{Cinco trazos azules sobre*, Cinco trazos rojos*, Cuatro trazos rojos texturizados*, Tres trazos azules texturizados*, Gemini_4k0x*, Garabato de carb*, Trazo serpenteante*} (q2); TEXTURES/TRAZOS/CERAS/* (q1)",
+  "familia": "pin_cera",
+  "uso": "SIN USO EFECTIVO (cargado para Lápiz; solo sketch.js carboncillo, inalcanzable)",
+  "formato_final": "TRZ1 trazos v1, uint8, A+S",
+  "parametros": {
+   "WIDTH": 80,
+   "HMAXF": 640,
+   "CAP": 26,
+   "opaca": true
+  }
+ },
+ {
+  "fuente": "TEXTURES/TRAZOS/{Gemini_4k0x*, Garabato de carb*} (q2)",
+  "familia": "pin_pastel",
+  "uso": "SIN USO EFECTIVO (cargado para Ceras; solo sketch.js carboncillo)",
+  "formato_final": "TRZ1 trazos v1, uint8, A+S",
+  "parametros": {
+   "WIDTH": 96,
+   "HMAXF": 640,
+   "CAP": 30,
+   "opaca": true
+  }
+ },
+ {
+  "fuente": "TEXTURES/TRAZOS/LAPIZ/*; TEXTURES/TRAZOS/{Gemini_uy13*, Gemini_2tepo*, Hoja de garabatos de grafito*, Garabatos abstractos de grafito*, Doodles de grafito*} (q1)",
+  "familia": "pin_lapiz",
+  "uso": "sketch.js (Técnica mixta y Acuarela con dibujo): tile de rayado",
+  "formato_final": "TRZ1 trazos v1, uint8, 1 plano A",
+  "parametros": {
+   "WIDTH": 56,
+   "HMAXF": 640,
+   "CAP": 30,
+   "opaca": false,
+   "A": "R/p99.3"
+  }
+ },
+ {
+  "fuente": "TEXTURES/TRAZOS/AGUADAS/* (q1)",
+  "familia": "pin_acuarela",
+  "uso": "Acuarela (brushMarks) y Gouache diluido (capa Water2)",
+  "formato_final": "TRZ1 trazos v1, uint8, 1 plano A",
+  "parametros": {
+   "WIDTH": 96,
+   "HMAXF": 640,
+   "CAP": 21,
+   "opaca": false
+  }
+ },
+ {
+  "fuente": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache* (q3); TEXTURES/MATERIALE_TILEABLES/Guache_Pinceladas_{Calidas(8),Frias(8),Grises(4)}_*_Basecolor.png (q1)",
+  "familia": "tiles_pintura",
+  "uso": "Óleo y Gouache: textura de pincelada en la capa base por región (painter3 tileFor)",
+  "formato_final": "TRZ1 items v2 kind tiles, uint8; realistas 1 plano L; MAT 3 planos [L, cr, cb] (cr/cb a N/4, 128+400·dev)",
+  "parametros": {
+   "script": "build_assets.py --only tiles",
+   "lado_real": 384,
+   "lado_mat": 320,
+   "resize": "BOX",
+   "tags": [
+    "brochazo|puntos,real,gris",
+    "pincelada,calida|fria|gris"
+   ],
+   "aplicacion": "lum*(1+0.11*tileAmt*l), tileScale=1.5*N/ladoLargo*(0.8+0.5r), rot=orientación región - ang + pi/2",
+   "peso_temperatura": "x3 coincide / x0.4 no"
+  }
+ },
+ {
+  "fuente": "TEXTURES/REALISTAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_* (q3); TEXTURES/MATERIALE_TILEABLES/Acuarela_Base_1-5, Acuarela_Grano_1-6, Acuarela_manchas_1,2,3,5 (q1)",
+  "familia": "tiles_acuarela",
+  "uso": "Acuarela: modulación de pigmento por capa de lavado (watercolor2)",
+  "formato_final": "TRZ1 items v2 kind tiles, uint8, 1 plano L",
+  "parametros": {
+   "lado": "384 (real, grano) / 320 (base, manchas)",
+   "resize": "BOX",
+   "tags": [
+    "aguada,real",
+    "aguada",
+    "grano",
+    "manchas"
+   ],
+   "tileK": "0.12+0.18*granulado(+0.08 húmeda)",
+   "escala": "tileScale*(0.8+0.6r)",
+   "rotacion": "aleatoria"
+  }
+ },
+ {
+  "fuente": "TEXTURES/REALISTAS/MANCHA CON  FORMA CONCRETA/001-016.png excepto 005,006,007,014; TEXTURES/REALISTAS/MANCHAS GRANDES DE VARIOS TRAZOS_TEXTURA COMPLEJA/* (10)",
+  "familia": "manchas",
+  "uso": "Óleo/Gouache: FORMAS (parche|relleno|remolino) en zonas grandes; Técnica mixta: máscara (relleno|remolino|parche|toques)",
+  "formato_final": "TRZ1 items v2 kind stamps, uint8, 2 planos (A densidad/p98, S detalle 128±127); 22 stamps",
+  "parametros": {
+   "script": "build_assets.py --only manchas",
+   "load_max_px": 1500,
+   "margen_recorte": 0.03,
+   "lado": "320 (parche 384)",
+   "meta": [
+    "ang",
+    "coh",
+    "fill"
+   ],
+   "tamaño": "clamp(lado*exp(-0.25+0.55g), 2.2*R0, 1.5*lado)",
+   "opacidad": "shapeOp*(0.6+0.4r)",
+   "alfa": "smoothstep(0.08,0.75,A)*op"
+  }
+ },
+ {
+  "fuente": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*{1f8a,flvu,gjqu,v3eb}*",
+  "familia": "ov_impresion",
+  "uso": "Xilografía: motas y fallos de entintado",
+  "formato_final": "TRZ1 items v2 kind overlays, uint8, 1 plano L",
+  "parametros": {
+   "script": "build_assets.py --only ov",
+   "lado_min": 288,
+   "resize": "LANCZOS",
+   "fondo": "/gauss(60)*mediana",
+   "estirado": "p1-p99.5",
+   "ajuste": "cover + espejado"
+  }
+ },
+ {
+  "fuente": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*{2a6p,2uid,xydf}*",
+  "familia": "ov_madera",
+  "uso": "Xilografía: veta de madera en negro y en tintas de color",
+  "formato_final": "TRZ1 items v2 kind overlays, uint8, 1 plano L",
+  "parametros": {
+   "lado_min": 288,
+   "zoom": 0.8,
+   "ajuste": "cover + espejado"
+  }
+ },
+ {
+  "fuente": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*{2nzv,bmol,v9cx}*",
+  "familia": "ov_goteos",
+  "uso": "Cargado en Acuarela; uso no encontrado (sin verificar)",
+  "formato_final": "TRZ1 items v2 kind overlays, uint8, 1 plano L",
+  "parametros": {
+   "lado_min": 288
+  }
+ },
+ {
+  "fuente": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*{e6zo,uwxt}*",
+  "familia": "ov_carbon",
+  "uso": "SIN USO EFECTIVO (sketch.js carboncillo)",
+  "formato_final": "TRZ1 items v2 kind overlays, uint8, 1 plano L",
+  "parametros": {
+   "lado_min": 288
+  }
+ },
+ {
+  "fuente": "TEXTURES/TEXTURAS EN 9-16 NO TILEABLES/*{614e,h24g,o4l9}*",
+  "familia": "ov_grafito",
+  "uso": "NO SE CARGA (no está en ASSETS_FOR)",
+  "formato_final": "TRZ1 items v2 kind overlays, uint8, 1 plano L",
+  "parametros": {
+   "lado_min": 288
+  }
+ },
+ {
+  "fuente": "TEXTURES/TRAZOS/LAPIZ/* (barras verticales)",
+  "familia": "grano_grafito",
+  "uso": "Lápiz (todas las variantes): grano a lo largo de cada línea, tag lapiz o carbon",
+  "formato_final": "TRZ1 items v2 kind tiles, uint8, 1 plano; 19 tiras (6 lapiz, 13 carbon)",
+  "parametros": {
+   "script": "build_assets.py --only grano",
+   "ancho_barra_min": 50,
+   "columnas_centrales": 0.6,
+   "filas_min": 400,
+   "recorte_filas": 20,
+   "normalizacion": "S/gauss(22) + ecualización por rangos",
+   "h_max": 1400,
+   "tag": "carbon si media>0.5",
+   "pxmm": "ancho/12",
+   "escala": "clamp(17/grosor,0.45,4)"
+  }
+ },
+ {
+  "fuente": "TEXTURES/TRAZOS/OLEO/*.jp*g (fondo entre trazos)",
+  "familia": "soporte-lienzo",
+  "uso": "Óleo: paperTooth lienzo 0.55, trama en painter.finish, capa Papel (amp 30)",
+  "formato_final": "TRZ1 papel v1, 512x512, 1 canal uint8, tileable",
+  "parametros": {
+   "script": "tools/extract_papers.py",
+   "bloques": 256,
+   "dilatacion_trazos": 45,
+   "pasaaltos": "gauss(24)",
+   "sintesis": "periodic_from_block(rng 3)+make_tileable",
+   "codificacion": "128+t/(4σ)*127",
+   "escala": "paperScale(ladoLargo, 600mm), 10 px/mm"
+  }
+ },
+ {
+  "fuente": "TEXTURES/TRAZOS/AGUADAS/*.jp*g + TEXTURES/TRAZOS/GUACHE/*.jp*g (fondo)",
+  "familia": "soporte-acuarela",
+  "uso": "Acuarela (valles 0.55, granulación, bordes) y Gouache (lienzo 0.4); capa Papel amp 22",
+  "formato_final": "TRZ1 papel v1, 512x512, 1 canal uint8, tileable",
+  "parametros": {
+   "sintesis": "random_phase seed 11",
+   "codificacion": "128+t/(4σ)*127",
+   "PHYS_MM": {
+    "acuarela": 380,
+    "gouache": 320
+   }
+  }
+ },
+ {
+  "fuente": "TEXTURES/TRAZOS/LAPIZ/*.jp*g + TEXTURES/TRAZOS/CERAS/*.jp*g (fondo)",
+  "familia": "soporte-dibujo",
+  "uso": "Lápiz (picos 0.8), Ceras (picos 0.45), Mixta (picos 0.5), Xilografía (picos 0.55); capa Papel amp 18",
+  "formato_final": "TRZ1 papel v1, 512x512, 1 canal uint8, tileable",
+  "parametros": {
+   "sintesis": "random_phase seed 11",
+   "PHYS_MM": {
+    "lapiz": 300,
+    "ceras": 420,
+    "mixtalg": 300,
+    "xilografia": 340
+   },
+   "nota": "bin del 3-nov; reproducibilidad sin verificar"
+  }
+ }
+]

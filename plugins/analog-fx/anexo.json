@@ -1,0 +1,5422 @@
+[
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_Base_1_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 6631837
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_Base_2_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 5468909
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_Base_3_Basecolor.png",
+  "id_plugin": "aguada_1",
+  "familia": "aguada",
+  "uso": "Lavados de acuarela: tinta corrida y acuarela (módulo 7c). Uso bajo.",
+  "formato_final": "plugin/textures/aguada_1.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/aguada_1.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L2951 sampler('b', tileMul zs * 0.9, stretch 0)",
+    "L2988 sampler('b', tileMul 1.4, stretch 0)",
+    "L3693 sampler('b', tileMul 1.6, stretch 0)",
+    "L3693 sampler('d', tileMul 1.2, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_Base_4_Basecolor.png",
+  "id_plugin": "aguada_2",
+  "familia": "aguada",
+  "uso": "Lavados de acuarela: tinta corrida y acuarela (módulo 7c). Uso bajo.",
+  "formato_final": "plugin/textures/aguada_2.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/aguada_2.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L2951 sampler('b', tileMul zs * 0.9, stretch 0)",
+    "L2988 sampler('b', tileMul 1.4, stretch 0)",
+    "L3693 sampler('b', tileMul 1.6, stretch 0)",
+    "L3693 sampler('d', tileMul 1.2, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_Base_5_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 6272904
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_Grano_10_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 6153613
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_Grano_1_Basecolor.png",
+  "id_plugin": "grano_1",
+  "familia": "grano",
+  "uso": "Grano/diente de papel de acuarela: papel, sello de goma (poros), pincel seco, spray, rayado, serigrafía, prensa, litografía, salida.",
+  "formato_final": "plugin/textures/grano_1.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/grano_1.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1378 physSampler('d', 180 px@300ppp)",
+    "L1589 physSampler('b', 420 px@300ppp)",
+    "L1716 physSampler('b', 300 px@300ppp)",
+    "L1716 physSampler('d', 140 px@300ppp)",
+    "L2355 physSampler('d', 120 px@300ppp)",
+    "L3141 sampler('d', tileMul 0.5, stretch 0)",
+    "L3141 sampler('b', tileMul 0.9, stretch 0)",
+    "L3179 sampler('b', tileMul 0.8, stretch 0)",
+    "L3204 physSampler('d', 90 px@300ppp)",
+    "L3504 physSampler('b', 300 px@300ppp)",
+    "L3622 physSampler('b', 380 px@300ppp)",
+    "L3622 physSampler('d', 200 px@300ppp)",
+    "L3673 sampler('b', tileMul stile, stretch 0)",
+    "L3673 sampler('d', tileMul stile * 0.8, stretch 0)",
+    "L3694 sampler('b', tileMul 0.7, stretch 0)",
+    "L3694 sampler('d', tileMul 0.5, stretch 0)",
+    "L3875 sampler('d', tileMul 0.4, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_Grano_2_Basecolor.png",
+  "id_plugin": "grano_2",
+  "familia": "grano",
+  "uso": "Grano/diente de papel de acuarela: papel, sello de goma (poros), pincel seco, spray, rayado, serigrafía, prensa, litografía, salida.",
+  "formato_final": "plugin/textures/grano_2.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/grano_2.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1378 physSampler('d', 180 px@300ppp)",
+    "L1589 physSampler('b', 420 px@300ppp)",
+    "L1716 physSampler('b', 300 px@300ppp)",
+    "L1716 physSampler('d', 140 px@300ppp)",
+    "L2355 physSampler('d', 120 px@300ppp)",
+    "L3141 sampler('d', tileMul 0.5, stretch 0)",
+    "L3141 sampler('b', tileMul 0.9, stretch 0)",
+    "L3179 sampler('b', tileMul 0.8, stretch 0)",
+    "L3204 physSampler('d', 90 px@300ppp)",
+    "L3504 physSampler('b', 300 px@300ppp)",
+    "L3622 physSampler('b', 380 px@300ppp)",
+    "L3622 physSampler('d', 200 px@300ppp)",
+    "L3673 sampler('b', tileMul stile, stretch 0)",
+    "L3673 sampler('d', tileMul stile * 0.8, stretch 0)",
+    "L3694 sampler('b', tileMul 0.7, stretch 0)",
+    "L3694 sampler('d', tileMul 0.5, stretch 0)",
+    "L3875 sampler('d', tileMul 0.4, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_Grano_3_Basecolor.png",
+  "id_plugin": "grano_3",
+  "familia": "grano",
+  "uso": "Grano/diente de papel de acuarela: papel, sello de goma (poros), pincel seco, spray, rayado, serigrafía, prensa, litografía, salida.",
+  "formato_final": "plugin/textures/grano_3.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/grano_3.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1378 physSampler('d', 180 px@300ppp)",
+    "L1589 physSampler('b', 420 px@300ppp)",
+    "L1716 physSampler('b', 300 px@300ppp)",
+    "L1716 physSampler('d', 140 px@300ppp)",
+    "L2355 physSampler('d', 120 px@300ppp)",
+    "L3141 sampler('d', tileMul 0.5, stretch 0)",
+    "L3141 sampler('b', tileMul 0.9, stretch 0)",
+    "L3179 sampler('b', tileMul 0.8, stretch 0)",
+    "L3204 physSampler('d', 90 px@300ppp)",
+    "L3504 physSampler('b', 300 px@300ppp)",
+    "L3622 physSampler('b', 380 px@300ppp)",
+    "L3622 physSampler('d', 200 px@300ppp)",
+    "L3673 sampler('b', tileMul stile, stretch 0)",
+    "L3673 sampler('d', tileMul stile * 0.8, stretch 0)",
+    "L3694 sampler('b', tileMul 0.7, stretch 0)",
+    "L3694 sampler('d', tileMul 0.5, stretch 0)",
+    "L3875 sampler('d', tileMul 0.4, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_Grano_4_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 9173060
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_Grano_5_Basecolor.png",
+  "id_plugin": "grano_4",
+  "familia": "grano",
+  "uso": "Grano/diente de papel de acuarela: papel, sello de goma (poros), pincel seco, spray, rayado, serigrafía, prensa, litografía, salida.",
+  "formato_final": "plugin/textures/grano_4.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/grano_4.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1378 physSampler('d', 180 px@300ppp)",
+    "L1589 physSampler('b', 420 px@300ppp)",
+    "L1716 physSampler('b', 300 px@300ppp)",
+    "L1716 physSampler('d', 140 px@300ppp)",
+    "L2355 physSampler('d', 120 px@300ppp)",
+    "L3141 sampler('d', tileMul 0.5, stretch 0)",
+    "L3141 sampler('b', tileMul 0.9, stretch 0)",
+    "L3179 sampler('b', tileMul 0.8, stretch 0)",
+    "L3204 physSampler('d', 90 px@300ppp)",
+    "L3504 physSampler('b', 300 px@300ppp)",
+    "L3622 physSampler('b', 380 px@300ppp)",
+    "L3622 physSampler('d', 200 px@300ppp)",
+    "L3673 sampler('b', tileMul stile, stretch 0)",
+    "L3673 sampler('d', tileMul stile * 0.8, stretch 0)",
+    "L3694 sampler('b', tileMul 0.7, stretch 0)",
+    "L3694 sampler('d', tileMul 0.5, stretch 0)",
+    "L3875 sampler('d', tileMul 0.4, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_Grano_6_Basecolor.png",
+  "id_plugin": "grano_5",
+  "familia": "grano",
+  "uso": "Grano/diente de papel de acuarela: papel, sello de goma (poros), pincel seco, spray, rayado, serigrafía, prensa, litografía, salida.",
+  "formato_final": "plugin/textures/grano_5.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/grano_5.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1378 physSampler('d', 180 px@300ppp)",
+    "L1589 physSampler('b', 420 px@300ppp)",
+    "L1716 physSampler('b', 300 px@300ppp)",
+    "L1716 physSampler('d', 140 px@300ppp)",
+    "L2355 physSampler('d', 120 px@300ppp)",
+    "L3141 sampler('d', tileMul 0.5, stretch 0)",
+    "L3141 sampler('b', tileMul 0.9, stretch 0)",
+    "L3179 sampler('b', tileMul 0.8, stretch 0)",
+    "L3204 physSampler('d', 90 px@300ppp)",
+    "L3504 physSampler('b', 300 px@300ppp)",
+    "L3622 physSampler('b', 380 px@300ppp)",
+    "L3622 physSampler('d', 200 px@300ppp)",
+    "L3673 sampler('b', tileMul stile, stretch 0)",
+    "L3673 sampler('d', tileMul stile * 0.8, stretch 0)",
+    "L3694 sampler('b', tileMul 0.7, stretch 0)",
+    "L3694 sampler('d', tileMul 0.5, stretch 0)",
+    "L3875 sampler('d', tileMul 0.4, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_Grano_7_Basecolor.png",
+  "id_plugin": "grano_6",
+  "familia": "grano",
+  "uso": "Grano/diente de papel de acuarela: papel, sello de goma (poros), pincel seco, spray, rayado, serigrafía, prensa, litografía, salida.",
+  "formato_final": "plugin/textures/grano_6.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/grano_6.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1378 physSampler('d', 180 px@300ppp)",
+    "L1589 physSampler('b', 420 px@300ppp)",
+    "L1716 physSampler('b', 300 px@300ppp)",
+    "L1716 physSampler('d', 140 px@300ppp)",
+    "L2355 physSampler('d', 120 px@300ppp)",
+    "L3141 sampler('d', tileMul 0.5, stretch 0)",
+    "L3141 sampler('b', tileMul 0.9, stretch 0)",
+    "L3179 sampler('b', tileMul 0.8, stretch 0)",
+    "L3204 physSampler('d', 90 px@300ppp)",
+    "L3504 physSampler('b', 300 px@300ppp)",
+    "L3622 physSampler('b', 380 px@300ppp)",
+    "L3622 physSampler('d', 200 px@300ppp)",
+    "L3673 sampler('b', tileMul stile, stretch 0)",
+    "L3673 sampler('d', tileMul stile * 0.8, stretch 0)",
+    "L3694 sampler('b', tileMul 0.7, stretch 0)",
+    "L3694 sampler('d', tileMul 0.5, stretch 0)",
+    "L3875 sampler('d', tileMul 0.4, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_Grano_8_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 7073084
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_Grano_9_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 6295552
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_manchas_1_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 8132961
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_manchas_2_Basecolor.png",
+  "id_plugin": "aguada_3",
+  "familia": "aguada",
+  "uso": "Lavados de acuarela: tinta corrida y acuarela (módulo 7c). Uso bajo.",
+  "formato_final": "plugin/textures/aguada_3.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/aguada_3.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L2951 sampler('b', tileMul zs * 0.9, stretch 0)",
+    "L2988 sampler('b', tileMul 1.4, stretch 0)",
+    "L3693 sampler('b', tileMul 1.6, stretch 0)",
+    "L3693 sampler('d', tileMul 1.2, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_manchas_3_Basecolor.png",
+  "id_plugin": "aguada_4",
+  "familia": "aguada",
+  "uso": "Lavados de acuarela: tinta corrida y acuarela (módulo 7c). Uso bajo.",
+  "formato_final": "plugin/textures/aguada_4.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/aguada_4.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L2951 sampler('b', tileMul zs * 0.9, stretch 0)",
+    "L2988 sampler('b', tileMul 1.4, stretch 0)",
+    "L3693 sampler('b', tileMul 1.6, stretch 0)",
+    "L3693 sampler('d', tileMul 1.2, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Acuarela_manchas_5_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 9374910
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Calidas_10_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 6882206
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Calidas_11_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 7491002
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Calidas_12_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 6834241
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Calidas_13_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 7054717
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Calidas_14_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 8801583
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Calidas_1_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 8949888
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Calidas_2_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 8386370
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Calidas_3_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 8224607
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Calidas_4_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 8835641
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Calidas_5_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 8084572
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Calidas_6_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 8285215
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Calidas_7_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 9195757
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Calidas_8_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 7745148
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Calidas_9_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 9013442
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Frias_10_Basecolor.png",
+  "id_plugin": "desgaste_4",
+  "familia": "desgaste",
+  "uso": "Textura de desgaste general: erosión de tinta (erode, fam=desgaste), rugosidad de borde (warp), presión de tinta, tinta corrida, goteo, salpicaduras, salida/papel. Elegible en la UI (p.texture).",
+  "formato_final": "plugin/textures/desgaste_4.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/desgaste_4.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1282 sampler('b', tileMul 0.7)",
+    "L1282 sampler('b', tileMul 0.7)",
+    "L1283 sampler('d', tileMul 0.18)",
+    "L1283 sampler('d', tileMul 0.18)",
+    "L2740 sampler('b', tileMul 0.6, stretch 0)",
+    "L2941 sampler('b', tileMul 0.8)",
+    "L2941 sampler('b', tileMul 0.22)",
+    "L2941 sampler('d', tileMul 0.08)",
+    "L2941 sampler('b', tileMul 0.35)",
+    "L3021 sampler('d', tileMul 0.6, stretch -1.2)",
+    "L3043 sampler('b', tileMul 0.12 + 0.5 * sz)",
+    "L3043 sampler('d', tileMul 0.08 + 0.2 * sz)",
+    "L3204 sampler('b', tileMul 0.9)",
+    "L3831 sampler('b', tileMul 1.6)",
+    "L3831 sampler('b', tileMul 1.2)",
+    "L3832 sampler('b', tileMul 0.7)",
+    "L3832 sampler('d', tileMul 0.2)",
+    "L3841 physSampler('b', 420 * (0.5 + (PA.paperScale == null ? 0.5 : PA.paperScale px@300ppp)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Frias_11_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 9107007
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Frias_12_Basecolor.png",
+  "id_plugin": "desgaste_5",
+  "familia": "desgaste",
+  "uso": "Textura de desgaste general: erosión de tinta (erode, fam=desgaste), rugosidad de borde (warp), presión de tinta, tinta corrida, goteo, salpicaduras, salida/papel. Elegible en la UI (p.texture).",
+  "formato_final": "plugin/textures/desgaste_5.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/desgaste_5.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1282 sampler('b', tileMul 0.7)",
+    "L1282 sampler('b', tileMul 0.7)",
+    "L1283 sampler('d', tileMul 0.18)",
+    "L1283 sampler('d', tileMul 0.18)",
+    "L2740 sampler('b', tileMul 0.6, stretch 0)",
+    "L2941 sampler('b', tileMul 0.8)",
+    "L2941 sampler('b', tileMul 0.22)",
+    "L2941 sampler('d', tileMul 0.08)",
+    "L2941 sampler('b', tileMul 0.35)",
+    "L3021 sampler('d', tileMul 0.6, stretch -1.2)",
+    "L3043 sampler('b', tileMul 0.12 + 0.5 * sz)",
+    "L3043 sampler('d', tileMul 0.08 + 0.2 * sz)",
+    "L3204 sampler('b', tileMul 0.9)",
+    "L3831 sampler('b', tileMul 1.6)",
+    "L3831 sampler('b', tileMul 1.2)",
+    "L3832 sampler('b', tileMul 0.7)",
+    "L3832 sampler('d', tileMul 0.2)",
+    "L3841 physSampler('b', 420 * (0.5 + (PA.paperScale == null ? 0.5 : PA.paperScale px@300ppp)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Frias_1_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 7790905
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Frias_2_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3661478
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Frias_3_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 6554728
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Frias_4_Basecolor.png",
+  "id_plugin": "desgaste_2",
+  "familia": "desgaste",
+  "uso": "Textura de desgaste general: erosión de tinta (erode, fam=desgaste), rugosidad de borde (warp), presión de tinta, tinta corrida, goteo, salpicaduras, salida/papel. Elegible en la UI (p.texture).",
+  "formato_final": "plugin/textures/desgaste_2.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/desgaste_2.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1282 sampler('b', tileMul 0.7)",
+    "L1282 sampler('b', tileMul 0.7)",
+    "L1283 sampler('d', tileMul 0.18)",
+    "L1283 sampler('d', tileMul 0.18)",
+    "L2740 sampler('b', tileMul 0.6, stretch 0)",
+    "L2941 sampler('b', tileMul 0.8)",
+    "L2941 sampler('b', tileMul 0.22)",
+    "L2941 sampler('d', tileMul 0.08)",
+    "L2941 sampler('b', tileMul 0.35)",
+    "L3021 sampler('d', tileMul 0.6, stretch -1.2)",
+    "L3043 sampler('b', tileMul 0.12 + 0.5 * sz)",
+    "L3043 sampler('d', tileMul 0.08 + 0.2 * sz)",
+    "L3204 sampler('b', tileMul 0.9)",
+    "L3831 sampler('b', tileMul 1.6)",
+    "L3831 sampler('b', tileMul 1.2)",
+    "L3832 sampler('b', tileMul 0.7)",
+    "L3832 sampler('d', tileMul 0.2)",
+    "L3841 physSampler('b', 420 * (0.5 + (PA.paperScale == null ? 0.5 : PA.paperScale px@300ppp)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Frias_5_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 9191726
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Frias_6_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 7854839
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Frias_7_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 8408762
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Frias_8_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 9001280
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Frias_9_Basecolor.png",
+  "id_plugin": "desgaste_3",
+  "familia": "desgaste",
+  "uso": "Textura de desgaste general: erosión de tinta (erode, fam=desgaste), rugosidad de borde (warp), presión de tinta, tinta corrida, goteo, salpicaduras, salida/papel. Elegible en la UI (p.texture).",
+  "formato_final": "plugin/textures/desgaste_3.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/desgaste_3.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1282 sampler('b', tileMul 0.7)",
+    "L1282 sampler('b', tileMul 0.7)",
+    "L1283 sampler('d', tileMul 0.18)",
+    "L1283 sampler('d', tileMul 0.18)",
+    "L2740 sampler('b', tileMul 0.6, stretch 0)",
+    "L2941 sampler('b', tileMul 0.8)",
+    "L2941 sampler('b', tileMul 0.22)",
+    "L2941 sampler('d', tileMul 0.08)",
+    "L2941 sampler('b', tileMul 0.35)",
+    "L3021 sampler('d', tileMul 0.6, stretch -1.2)",
+    "L3043 sampler('b', tileMul 0.12 + 0.5 * sz)",
+    "L3043 sampler('d', tileMul 0.08 + 0.2 * sz)",
+    "L3204 sampler('b', tileMul 0.9)",
+    "L3831 sampler('b', tileMul 1.6)",
+    "L3831 sampler('b', tileMul 1.2)",
+    "L3832 sampler('b', tileMul 0.7)",
+    "L3832 sampler('d', tileMul 0.2)",
+    "L3841 physSampler('b', 420 * (0.5 + (PA.paperScale == null ? 0.5 : PA.paperScale px@300ppp)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Grises_10_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 8488115
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Grises_1_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 6734605
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Grises_2_Basecolor.png",
+  "id_plugin": "desgaste_6",
+  "familia": "desgaste",
+  "uso": "Textura de desgaste general: erosión de tinta (erode, fam=desgaste), rugosidad de borde (warp), presión de tinta, tinta corrida, goteo, salpicaduras, salida/papel. Elegible en la UI (p.texture).",
+  "formato_final": "plugin/textures/desgaste_6.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/desgaste_6.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1282 sampler('b', tileMul 0.7)",
+    "L1282 sampler('b', tileMul 0.7)",
+    "L1283 sampler('d', tileMul 0.18)",
+    "L1283 sampler('d', tileMul 0.18)",
+    "L2740 sampler('b', tileMul 0.6, stretch 0)",
+    "L2941 sampler('b', tileMul 0.8)",
+    "L2941 sampler('b', tileMul 0.22)",
+    "L2941 sampler('d', tileMul 0.08)",
+    "L2941 sampler('b', tileMul 0.35)",
+    "L3021 sampler('d', tileMul 0.6, stretch -1.2)",
+    "L3043 sampler('b', tileMul 0.12 + 0.5 * sz)",
+    "L3043 sampler('d', tileMul 0.08 + 0.2 * sz)",
+    "L3204 sampler('b', tileMul 0.9)",
+    "L3831 sampler('b', tileMul 1.6)",
+    "L3831 sampler('b', tileMul 1.2)",
+    "L3832 sampler('b', tileMul 0.7)",
+    "L3832 sampler('d', tileMul 0.2)",
+    "L3841 physSampler('b', 420 * (0.5 + (PA.paperScale == null ? 0.5 : PA.paperScale px@300ppp)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Grises_3_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 7515947
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Grises_4_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 5421560
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Grises_5_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 9579954
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Grises_6_Basecolor.png",
+  "id_plugin": "desgaste_1",
+  "familia": "desgaste",
+  "uso": "Textura de desgaste general: erosión de tinta (erode, fam=desgaste), rugosidad de borde (warp), presión de tinta, tinta corrida, goteo, salpicaduras, salida/papel. Elegible en la UI (p.texture).",
+  "formato_final": "plugin/textures/desgaste_1.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/desgaste_1.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1282 sampler('b', tileMul 0.7)",
+    "L1282 sampler('b', tileMul 0.7)",
+    "L1283 sampler('d', tileMul 0.18)",
+    "L1283 sampler('d', tileMul 0.18)",
+    "L2740 sampler('b', tileMul 0.6, stretch 0)",
+    "L2941 sampler('b', tileMul 0.8)",
+    "L2941 sampler('b', tileMul 0.22)",
+    "L2941 sampler('d', tileMul 0.08)",
+    "L2941 sampler('b', tileMul 0.35)",
+    "L3021 sampler('d', tileMul 0.6, stretch -1.2)",
+    "L3043 sampler('b', tileMul 0.12 + 0.5 * sz)",
+    "L3043 sampler('d', tileMul 0.08 + 0.2 * sz)",
+    "L3204 sampler('b', tileMul 0.9)",
+    "L3831 sampler('b', tileMul 1.6)",
+    "L3831 sampler('b', tileMul 1.2)",
+    "L3832 sampler('b', tileMul 0.7)",
+    "L3832 sampler('d', tileMul 0.2)",
+    "L3841 physSampler('b', 420 * (0.5 + (PA.paperScale == null ? 0.5 : PA.paperScale px@300ppp)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Grises_7_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 6287798
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/Guache_Pinceladas_Grises_9_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 6894193
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/001.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3684470
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/002.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3322258
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/003.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 549823
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/004.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 2081519
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/005.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1154230
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/006.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1036493
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/007.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 730326
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/008.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 2497444
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/009.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1017319
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/010.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1164141
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/011.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1231777
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/012.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1901447
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/013.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1637540
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/014.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1030069
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/015.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1190983
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/016.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 825958
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_1m2vhi1m2vhi1m2v.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1320132
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_6mtp7n6mtp7n6mtp.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1825886
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_dd9o77dd9o77dd9o.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1292288
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_du29s5du29s5du29.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1744331
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_fooa8gfooa8gfooa.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1946949
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_fr6bplfr6bplfr6b.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1921868
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_gtyi67gtyi67gtyi.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1246391
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_i9od48i9od48i9od.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1237574
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_ogccn5ogccn5ogcc.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1219520
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_p29j97p29j97p29j.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1365344
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_uoqx5fuoqx5fuoqx.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1330827
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_xw72ktxw72ktxw72.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1465584
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Mancha vertical gris de gouache texturizada.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1497728
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Pincelada gouache gris texturizada.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1672,
+    941
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1393061
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Pincelada gris sobre blanco.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1378213
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Pincelada vertical gris sobre blanco.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1553709
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Pincelada vertical gris texturizada.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    940,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1612546
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Trazo de gouache gris carbón.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1672,
+    941
+   ],
+   "modo_origen": "RGB",
+   "bytes": 1527847
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHAS GRANDES DE VARIOS TRAZOS_TEXTURA COMPLEJA/MACNHA_07.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4655131
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHAS GRANDES DE VARIOS TRAZOS_TEXTURA COMPLEJA/MACNHA_10.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 5157084
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHAS GRANDES DE VARIOS TRAZOS_TEXTURA COMPLEJA/MACNHA_11.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 5599197
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHAS GRANDES DE VARIOS TRAZOS_TEXTURA COMPLEJA/MANCHA_08.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4416272
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHAS GRANDES DE VARIOS TRAZOS_TEXTURA COMPLEJA/Macnha_05.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4139158
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHAS GRANDES DE VARIOS TRAZOS_TEXTURA COMPLEJA/Macnha_06.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3793059
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHAS GRANDES DE VARIOS TRAZOS_TEXTURA COMPLEJA/Macnha_1.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3698023
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHAS GRANDES DE VARIOS TRAZOS_TEXTURA COMPLEJA/Macnha_2.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 5044997
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHAS GRANDES DE VARIOS TRAZOS_TEXTURA COMPLEJA/Macnha_3.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3537260
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/MANCHAS GRANDES DE VARIOS TRAZOS_TEXTURA COMPLEJA/Macnha_4.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    3000,
+    3000
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3493329
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_1f8a291f8a291f8a.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 5540813
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_1gmijg1gmijg1gmi.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3776190
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_1gpyhm1gpyhm1gpy.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3860740
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_1rjusi1rjusi1rju.jpg",
+  "id_plugin": "goteo_1",
+  "familia": "goteo",
+  "uso": "SIN USO en el motor actual (se carga en getTexs pero ningún módulo la lee).",
+  "formato_final": "plugin/textures/goteo_1.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/goteo_1.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": []
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_269een269een269e.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3459530
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_2a6p6v2a6p6v2a6p.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3288850
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_2kqay92kqay92kqa.jpg",
+  "id_plugin": "fibra_1",
+  "familia": "fibra",
+  "uso": "Fibras de celulosa: capilaridad y pelitos de tinta corrida, goteo, humedad, acuarela, empapado, estampado manchado. La más usada.",
+  "formato_final": "plugin/textures/fibra_1.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/fibra_1.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1335 physSampler('d', 280 px@300ppp)",
+    "L1335 physSampler('d', 280 px@300ppp, stretch -1.2)",
+    "L1378 physSampler('d', 260 px@300ppp)",
+    "L1378 physSampler('d', 340 px@300ppp, stretch -1.3)",
+    "L1399 sampler('d', tileMul 0.28, stretch 1.3)",
+    "L1399 sampler('d', tileMul 0.28, stretch -1.3)",
+    "L1399 sampler('b', tileMul 0.7, stretch 0)",
+    "L1684 physSampler('d', 220 px@300ppp)",
+    "L1684 physSampler('d', 220 px@300ppp, stretch -0.5)",
+    "L1735 physSampler('d', 180 px@300ppp)",
+    "L1759 physSampler('d', 260 px@300ppp)",
+    "L1759 physSampler('d', 260 px@300ppp, stretch -0.5)",
+    "L1829 physSampler('d', 260 px@300ppp)",
+    "L1989 physSampler('d', 160 px@300ppp)",
+    "L2183 physSampler('d', 140 px@300ppp, stretch -0.9)",
+    "L2429 physSampler('b', 420 px@300ppp)",
+    "L2429 physSampler('d', 110 px@300ppp)",
+    "L3236 physSampler('d', 300 px@300ppp)",
+    "L3236 sampler('b', tileMul 1.1, stretch 0)",
+    "L3236 physSampler('d', 130 px@300ppp)",
+    "L3248 physSampler('d', 220 px@300ppp)",
+    "L3263 sampler('b', tileMul 0.8, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_2lzr4m2lzr4m2lzr.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 5282343
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_2nzviv2nzviv2nzv.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4777882
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_2uidw32uidw32uid.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 2921646
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_336szj336szj336s.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3149048
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_36cw3g36cw3g36cw.jpg",
+  "id_plugin": "fibra_3",
+  "familia": "fibra",
+  "uso": "Fibras de celulosa: capilaridad y pelitos de tinta corrida, goteo, humedad, acuarela, empapado, estampado manchado. La más usada.",
+  "formato_final": "plugin/textures/fibra_3.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/fibra_3.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1335 physSampler('d', 280 px@300ppp)",
+    "L1335 physSampler('d', 280 px@300ppp, stretch -1.2)",
+    "L1378 physSampler('d', 260 px@300ppp)",
+    "L1378 physSampler('d', 340 px@300ppp, stretch -1.3)",
+    "L1399 sampler('d', tileMul 0.28, stretch 1.3)",
+    "L1399 sampler('d', tileMul 0.28, stretch -1.3)",
+    "L1399 sampler('b', tileMul 0.7, stretch 0)",
+    "L1684 physSampler('d', 220 px@300ppp)",
+    "L1684 physSampler('d', 220 px@300ppp, stretch -0.5)",
+    "L1735 physSampler('d', 180 px@300ppp)",
+    "L1759 physSampler('d', 260 px@300ppp)",
+    "L1759 physSampler('d', 260 px@300ppp, stretch -0.5)",
+    "L1829 physSampler('d', 260 px@300ppp)",
+    "L1989 physSampler('d', 160 px@300ppp)",
+    "L2183 physSampler('d', 140 px@300ppp, stretch -0.9)",
+    "L2429 physSampler('b', 420 px@300ppp)",
+    "L2429 physSampler('d', 110 px@300ppp)",
+    "L3236 physSampler('d', 300 px@300ppp)",
+    "L3236 sampler('b', tileMul 1.1, stretch 0)",
+    "L3236 physSampler('d', 130 px@300ppp)",
+    "L3248 physSampler('d', 220 px@300ppp)",
+    "L3263 sampler('b', tileMul 0.8, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_3poaaj3poaaj3poa.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 2923625
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_3xxuul3xxuul3xxu.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3992807
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_411yj9411yj9411y.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3719027
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_4ge8c24ge8c24ge8.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3471084
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_4rtsxr4rtsxr4rts.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3829219
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_4tiwp4tiwp4tiwp4.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3854730
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_4xtvel4xtvel4xtv.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3704373
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_53kunb53kunb53ku (1).jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3582347
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_53kunb53kunb53ku.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3582347
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_5jd75n5jd75n5jd7.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 2547663
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_5lzf0j5lzf0j5lzf.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 2686809
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_5u9yva5u9yva5u9y.jpg",
+  "id_plugin": "goteo_2",
+  "familia": "goteo",
+  "uso": "SIN USO en el motor actual (se carga en getTexs pero ningún módulo la lee).",
+  "formato_final": "plugin/textures/goteo_2.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/goteo_2.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": []
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_614ens614ens614e.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4343399
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_67p0t67p0t67p0t6.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3859545
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_6e8xuh6e8xuh6e8x.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4124884
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_7k4e7x7k4e7x7k4e.jpg",
+  "id_plugin": "fibra_2",
+  "familia": "fibra",
+  "uso": "Fibras de celulosa: capilaridad y pelitos de tinta corrida, goteo, humedad, acuarela, empapado, estampado manchado. La más usada.",
+  "formato_final": "plugin/textures/fibra_2.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/fibra_2.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1335 physSampler('d', 280 px@300ppp)",
+    "L1335 physSampler('d', 280 px@300ppp, stretch -1.2)",
+    "L1378 physSampler('d', 260 px@300ppp)",
+    "L1378 physSampler('d', 340 px@300ppp, stretch -1.3)",
+    "L1399 sampler('d', tileMul 0.28, stretch 1.3)",
+    "L1399 sampler('d', tileMul 0.28, stretch -1.3)",
+    "L1399 sampler('b', tileMul 0.7, stretch 0)",
+    "L1684 physSampler('d', 220 px@300ppp)",
+    "L1684 physSampler('d', 220 px@300ppp, stretch -0.5)",
+    "L1735 physSampler('d', 180 px@300ppp)",
+    "L1759 physSampler('d', 260 px@300ppp)",
+    "L1759 physSampler('d', 260 px@300ppp, stretch -0.5)",
+    "L1829 physSampler('d', 260 px@300ppp)",
+    "L1989 physSampler('d', 160 px@300ppp)",
+    "L2183 physSampler('d', 140 px@300ppp, stretch -0.9)",
+    "L2429 physSampler('b', 420 px@300ppp)",
+    "L2429 physSampler('d', 110 px@300ppp)",
+    "L3236 physSampler('d', 300 px@300ppp)",
+    "L3236 sampler('b', tileMul 1.1, stretch 0)",
+    "L3236 physSampler('d', 130 px@300ppp)",
+    "L3248 physSampler('d', 220 px@300ppp)",
+    "L3263 sampler('b', tileMul 0.8, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_7li8v87li8v87li8.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4330183
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_7mn6li7mn6li7mn6.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4008845
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_7w8c4f7w8c4f7w8c.jpg",
+  "id_plugin": "lavado_3",
+  "familia": "lavado",
+  "uso": "Lavados grises: pigmento levantado por agua (humedad, empapado), moteado de tinta corrida, acuarela, erosión (erode.fam=lavado).",
+  "formato_final": "plugin/textures/lavado_3.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/lavado_3.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1335 sampler('b', tileMul 1.2, stretch 0)",
+    "L1447 sampler('b', tileMul 0.9, stretch 0)",
+    "L1574 sampler('d', tileMul 0.35, stretch 0)",
+    "L1589 sampler('b', tileMul 3.2, stretch 0)",
+    "L1589 sampler('b', tileMul 1.3, stretch 0)",
+    "L1685 sampler('b', tileMul 0.7, stretch 0)",
+    "L1829 sampler('b', tileMul 0.8, stretch 0)",
+    "L3863 sampler('b', tileMul 1.8, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_893fxo893fxo893f.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3916551
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_8f9kax8f9kax8f9k (1).jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3542523
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_8f9kax8f9kax8f9k.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3542523
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_8i0s9o8i0s9o8i0s.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3463102
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_96k6n196k6n196k6.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3779797
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_9bueey9bueey9bue (1).jpg",
+  "id_plugin": "granul_1",
+  "familia": "granul",
+  "uso": "Granulación de pigmento: humedad, empapado, acuarela, estampado, rayado (lascas), distorsión, erosión (erode.fam=granul).",
+  "formato_final": "plugin/textures/granul_1.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/granul_1.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1335 physSampler('b', 260 px@300ppp)",
+    "L1436 physSampler('b', 220 px@300ppp)",
+    "L1447 physSampler('b', 260 px@300ppp)",
+    "L1590 physSampler('d', 160 px@300ppp)",
+    "L1685 physSampler('b', 260 px@300ppp)",
+    "L1779 physSampler('b', 220 px@300ppp)",
+    "L1779 physSampler('d', 120 px@300ppp)",
+    "L1829 physSampler('b', 240 px@300ppp)",
+    "L2027 physSampler('b', 200 px@300ppp)",
+    "L2429 physSampler('d', 160 px@300ppp)",
+    "L2464 physSampler('d', 90 px@300ppp)",
+    "L2559 physSampler('b', 300 px@300ppp)",
+    "L3258 physSampler('b', 260 px@300ppp)",
+    "L3504 physSampler('d', 180 px@300ppp)",
+    "L3863 sampler('b', tileMul 0.6, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_9bueey9bueey9bue.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4772232
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_9h9h639h9h639h9h.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3237057
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_9w9wes9w9wes9w9w.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3595733
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_a4jq4ma4jq4ma4jq.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3837347
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_afbmozafbmozafbm.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4228878
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_akryteakryteakry.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3152331
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_bjj6bebjj6bebjj6.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4106991
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_bmolwabmolwabmol.jpg",
+  "id_plugin": "goteo_4",
+  "familia": "goteo",
+  "uso": "SIN USO en el motor actual (se carga en getTexs pero ningún módulo la lee).",
+  "formato_final": "plugin/textures/goteo_4.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/goteo_4.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": []
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_cc5r44cc5r44cc5r.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4651963
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_d7fmedd7fmedd7fm.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3743864
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_dkn2wudkn2wudkn2.jpg",
+  "id_plugin": "floracion_1",
+  "familia": "floracion",
+  "uso": "Floraciones de acuarela: grietas (cracks.fam=floracion) en Destrozado y Humedad; acuarela por letras.",
+  "formato_final": "plugin/textures/floracion_1.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/floracion_1.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1590 sampler('b', tileMul 1.1, stretch 0)",
+    "L1590 sampler('d', tileMul 1.1, stretch 0)",
+    "L1647 sampler('b', tileMul 1.2, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_dyy4eddyy4eddyy4.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 2708640
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_e6zoese6zoese6zo.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4393099
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_ecfqylecfqylecfq.jpg",
+  "id_plugin": "goteo_3",
+  "familia": "goteo",
+  "uso": "SIN USO en el motor actual (se carga en getTexs pero ningún módulo la lee).",
+  "formato_final": "plugin/textures/goteo_3.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/goteo_3.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": []
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_ehchjbehchjbehch.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3006864
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_f4dn6qf4dn6qf4dn.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 2817381
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_f4lp1of4lp1of4lp.jpg",
+  "id_plugin": "granul_2",
+  "familia": "granul",
+  "uso": "Granulación de pigmento: humedad, empapado, acuarela, estampado, rayado (lascas), distorsión, erosión (erode.fam=granul).",
+  "formato_final": "plugin/textures/granul_2.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/granul_2.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1335 physSampler('b', 260 px@300ppp)",
+    "L1436 physSampler('b', 220 px@300ppp)",
+    "L1447 physSampler('b', 260 px@300ppp)",
+    "L1590 physSampler('d', 160 px@300ppp)",
+    "L1685 physSampler('b', 260 px@300ppp)",
+    "L1779 physSampler('b', 220 px@300ppp)",
+    "L1779 physSampler('d', 120 px@300ppp)",
+    "L1829 physSampler('b', 240 px@300ppp)",
+    "L2027 physSampler('b', 200 px@300ppp)",
+    "L2429 physSampler('d', 160 px@300ppp)",
+    "L2464 physSampler('d', 90 px@300ppp)",
+    "L2559 physSampler('b', 300 px@300ppp)",
+    "L3258 physSampler('b', 260 px@300ppp)",
+    "L3504 physSampler('d', 180 px@300ppp)",
+    "L3863 sampler('b', tileMul 0.6, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_fdduegfdduegfddu.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3737057
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_flvuhvflvuhvflvu.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 5205511
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_fzychxfzychxfzyc.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 5505466
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_g1k2hmg1k2hmg1k2.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3123689
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_gjquzfgjquzfgjqu.jpg",
+  "id_plugin": "toner_3",
+  "familia": "toner",
+  "uso": "Tóner y polvo: Fotocopia (quemada/gastada), Láser roto, Borrón tramado, Distorsión.",
+  "formato_final": "plugin/textures/toner_3.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/toner_3.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L2559 physSampler('d', 140 px@300ppp)",
+    "L2740 physSampler('d', 200 px@300ppp)",
+    "L3287 physSampler('d', 90 px@300ppp)",
+    "L3287 physSampler('d', 220 px@300ppp)",
+    "L3287 physSampler('b', 520 px@300ppp)",
+    "L3353 physSampler('d', 200 px@300ppp)",
+    "L3357 physSampler('d', 260 px@300ppp)",
+    "L3357 physSampler('b', 600 px@300ppp)",
+    "L3357 physSampler('d', 110 px@300ppp)",
+    "L3416 physSampler('d', 110 px@300ppp)",
+    "L3416 physSampler('b', 420 px@300ppp)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_h24geuh24geuh24g.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4384597
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_hchk06hchk06hchk.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3603020
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_idahwaidahwaidah.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3287879
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_idpfooidpfooidpf.jpg",
+  "id_plugin": "toner_2",
+  "familia": "toner",
+  "uso": "Tóner y polvo: Fotocopia (quemada/gastada), Láser roto, Borrón tramado, Distorsión.",
+  "formato_final": "plugin/textures/toner_2.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/toner_2.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L2559 physSampler('d', 140 px@300ppp)",
+    "L2740 physSampler('d', 200 px@300ppp)",
+    "L3287 physSampler('d', 90 px@300ppp)",
+    "L3287 physSampler('d', 220 px@300ppp)",
+    "L3287 physSampler('b', 520 px@300ppp)",
+    "L3353 physSampler('d', 200 px@300ppp)",
+    "L3357 physSampler('d', 260 px@300ppp)",
+    "L3357 physSampler('b', 600 px@300ppp)",
+    "L3357 physSampler('d', 110 px@300ppp)",
+    "L3416 physSampler('d', 110 px@300ppp)",
+    "L3416 physSampler('b', 420 px@300ppp)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_jdonm6jdonm6jdon.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3094241
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_k2o1kgk2o1kgk2o1.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4016055
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_kihujckihujckihu.jpg",
+  "id_plugin": "lavado_4",
+  "familia": "lavado",
+  "uso": "Lavados grises: pigmento levantado por agua (humedad, empapado), moteado de tinta corrida, acuarela, erosión (erode.fam=lavado).",
+  "formato_final": "plugin/textures/lavado_4.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/lavado_4.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1335 sampler('b', tileMul 1.2, stretch 0)",
+    "L1447 sampler('b', tileMul 0.9, stretch 0)",
+    "L1574 sampler('d', tileMul 0.35, stretch 0)",
+    "L1589 sampler('b', tileMul 3.2, stretch 0)",
+    "L1589 sampler('b', tileMul 1.3, stretch 0)",
+    "L1685 sampler('b', tileMul 0.7, stretch 0)",
+    "L1829 sampler('b', tileMul 0.8, stretch 0)",
+    "L3863 sampler('b', tileMul 1.8, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_kugqvakugqvakugq.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3674818
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_l0b4lbl0b4lbl0b4.jpg",
+  "id_plugin": "floracion_2",
+  "familia": "floracion",
+  "uso": "Floraciones de acuarela: grietas (cracks.fam=floracion) en Destrozado y Humedad; acuarela por letras.",
+  "formato_final": "plugin/textures/floracion_2.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/floracion_2.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1590 sampler('b', tileMul 1.1, stretch 0)",
+    "L1590 sampler('d', tileMul 1.1, stretch 0)",
+    "L1647 sampler('b', tileMul 1.2, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_m4rvtbm4rvtbm4rv.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3689777
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_m6wvfm6wvfm6wvfm.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3448164
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_mdyw5ymdyw5ymdyw.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3500374
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_mtskkumtskkumtsk.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4144745
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_nxh21anxh21anxh2.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3800810
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_o4l9nio4l9nio4l9.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4525791
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_o6u4rto6u4rto6u4.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4337153
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_o8pp1ko8pp1ko8pp.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3595054
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_oo79lboo79lboo79.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4787160
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_oru2agoru2agoru2.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3738578
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_ozdrg6ozdrg6ozdr.jpg",
+  "id_plugin": "gubia_1",
+  "familia": "gubia",
+  "uso": "SIN USO en el motor actual (se carga en getTexs pero ningún módulo la lee).",
+  "formato_final": "plugin/textures/gubia_1.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/gubia_1.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": []
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_p9pezjp9pezjp9pe.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3898354
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_pekpvmpekpvmpekp.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4713802
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_phyczxphyczxphyc.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4703050
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_q47fqjq47fqjq47f.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3909027
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_qcgpwrqcgpwrqcgp.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 2724546
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_qkqdpsqkqdpsqkqd.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4030167
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_qpkk31qpkk31qpkk.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 5041772
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_r9ff34r9ff34r9ff.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4107140
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_rafudarafudarafu.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 6751043
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_rf5g08rf5g08rf5g.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 5294228
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_s4lbfjs4lbfjs4lb.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3192400
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_sfyomusfyomusfyo.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3530375
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_t5p91mt5p91mt5p9.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3312088
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_t7rsqbt7rsqbt7rs.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3537833
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_t99b7yt99b7yt99b.jpg",
+  "id_plugin": "gubia_2",
+  "familia": "gubia",
+  "uso": "SIN USO en el motor actual (se carga en getTexs pero ningún módulo la lee).",
+  "formato_final": "plugin/textures/gubia_2.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/gubia_2.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": []
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_tl8xmmtl8xmmtl8x.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3649960
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_tsebu7tsebu7tseb.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3724833
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_uc6me1uc6me1uc6m.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 5029490
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_uf5mpuf5mpuf5mpu.jpg",
+  "id_plugin": "floracion_4",
+  "familia": "floracion",
+  "uso": "Floraciones de acuarela: grietas (cracks.fam=floracion) en Destrozado y Humedad; acuarela por letras.",
+  "formato_final": "plugin/textures/floracion_4.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/floracion_4.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1590 sampler('b', tileMul 1.1, stretch 0)",
+    "L1590 sampler('d', tileMul 1.1, stretch 0)",
+    "L1647 sampler('b', tileMul 1.2, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_utwmlbutwmlbutwm.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3261344
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_uwxt3ouwxt3ouwxt.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4423833
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_v3ebosv3ebosv3eb.jpg",
+  "id_plugin": "toner_1",
+  "familia": "toner",
+  "uso": "Tóner y polvo: Fotocopia (quemada/gastada), Láser roto, Borrón tramado, Distorsión.",
+  "formato_final": "plugin/textures/toner_1.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/toner_1.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L2559 physSampler('d', 140 px@300ppp)",
+    "L2740 physSampler('d', 200 px@300ppp)",
+    "L3287 physSampler('d', 90 px@300ppp)",
+    "L3287 physSampler('d', 220 px@300ppp)",
+    "L3287 physSampler('b', 520 px@300ppp)",
+    "L3353 physSampler('d', 200 px@300ppp)",
+    "L3357 physSampler('d', 260 px@300ppp)",
+    "L3357 physSampler('b', 600 px@300ppp)",
+    "L3357 physSampler('d', 110 px@300ppp)",
+    "L3416 physSampler('d', 110 px@300ppp)",
+    "L3416 physSampler('b', 420 px@300ppp)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_v5rl1wv5rl1wv5rl.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4637737
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_v9cxn1v9cxn1v9cx.jpg",
+  "id_plugin": "goteo_5",
+  "familia": "goteo",
+  "uso": "SIN USO en el motor actual (se carga en getTexs pero ningún módulo la lee).",
+  "formato_final": "plugin/textures/goteo_5.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/goteo_5.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": []
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_vobr5qvobr5qvobr.jpg",
+  "id_plugin": "floracion_3",
+  "familia": "floracion",
+  "uso": "Floraciones de acuarela: grietas (cracks.fam=floracion) en Destrozado y Humedad; acuarela por letras.",
+  "formato_final": "plugin/textures/floracion_3.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/floracion_3.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1590 sampler('b', tileMul 1.1, stretch 0)",
+    "L1590 sampler('d', tileMul 1.1, stretch 0)",
+    "L1647 sampler('b', tileMul 1.2, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_vpzha6vpzha6vpzh.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3990157
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_vw4bpmvw4bpmvw4b.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2072,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3436958
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_w2cvlhw2cvlhw2cv.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3816240
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_x3e1nyx3e1nyx3e1.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3796564
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_x7u7vkx7u7vkx7u7.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3483642
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_xlwemjxlwemjxlwe.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 2818450
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_xyd79bxyd79bxyd7.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 2657327
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_y0t7gy0t7gy0t7gy.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 5902025
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_ya43dcya43dcya43.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3684509
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_yeytdeyeytdeyeyt.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4094419
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_yvk4yzyvk4yzyvk4.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4232034
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_z660oqz660oqz660.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 3946236
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_zc2zgwzc2zgwzc2z.jpg",
+  "id_plugin": "granul_3",
+  "familia": "granul",
+  "uso": "Granulación de pigmento: humedad, empapado, acuarela, estampado, rayado (lascas), distorsión, erosión (erode.fam=granul).",
+  "formato_final": "plugin/textures/granul_3.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/granul_3.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1335 physSampler('b', 260 px@300ppp)",
+    "L1436 physSampler('b', 220 px@300ppp)",
+    "L1447 physSampler('b', 260 px@300ppp)",
+    "L1590 physSampler('d', 160 px@300ppp)",
+    "L1685 physSampler('b', 260 px@300ppp)",
+    "L1779 physSampler('b', 220 px@300ppp)",
+    "L1779 physSampler('d', 120 px@300ppp)",
+    "L1829 physSampler('b', 240 px@300ppp)",
+    "L2027 physSampler('b', 200 px@300ppp)",
+    "L2429 physSampler('d', 160 px@300ppp)",
+    "L2464 physSampler('d', 90 px@300ppp)",
+    "L2559 physSampler('b', 300 px@300ppp)",
+    "L3258 physSampler('b', 260 px@300ppp)",
+    "L3504 physSampler('d', 180 px@300ppp)",
+    "L3863 sampler('b', tileMul 0.6, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Gemini_Generated_Image_zghstwzghstwzghs.jpg",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1536,
+    2752
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4006278
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Textura abstracta de acuarela en escala de grises.png",
+  "id_plugin": "lavado_1",
+  "familia": "lavado",
+  "uso": "Lavados grises: pigmento levantado por agua (humedad, empapado), moteado de tinta corrida, acuarela, erosión (erode.fam=lavado).",
+  "formato_final": "plugin/textures/lavado_1.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/lavado_1.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1335 sampler('b', tileMul 1.2, stretch 0)",
+    "L1447 sampler('b', tileMul 0.9, stretch 0)",
+    "L1574 sampler('d', tileMul 0.35, stretch 0)",
+    "L1589 sampler('b', tileMul 3.2, stretch 0)",
+    "L1589 sampler('b', tileMul 1.3, stretch 0)",
+    "L1685 sampler('b', tileMul 0.7, stretch 0)",
+    "L1829 sampler('b', tileMul 0.8, stretch 0)",
+    "L3863 sampler('b', tileMul 1.8, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Textura abstracta de acuarela en gris.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4418637
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Textura abstracta de acuarela gris tormentosa.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4337796
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Textura abstracta de acuarela gris.png",
+  "id_plugin": "lavado_2",
+  "familia": "lavado",
+  "uso": "Lavados grises: pigmento levantado por agua (humedad, empapado), moteado de tinta corrida, acuarela, erosión (erode.fam=lavado).",
+  "formato_final": "plugin/textures/lavado_2.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/lavado_2.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1335 sampler('b', tileMul 1.2, stretch 0)",
+    "L1447 sampler('b', tileMul 0.9, stretch 0)",
+    "L1574 sampler('d', tileMul 0.35, stretch 0)",
+    "L1589 sampler('b', tileMul 3.2, stretch 0)",
+    "L1589 sampler('b', tileMul 1.3, stretch 0)",
+    "L1685 sampler('b', tileMul 0.7, stretch 0)",
+    "L1829 sampler('b', tileMul 0.8, stretch 0)",
+    "L3863 sampler('b', tileMul 1.8, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Textura abstracta de tinta granulada.png",
+  "id_plugin": "granul_4",
+  "familia": "granul",
+  "uso": "Granulación de pigmento: humedad, empapado, acuarela, estampado, rayado (lascas), distorsión, erosión (erode.fam=granul).",
+  "formato_final": "plugin/textures/granul_4.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/granul_4.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "recorte": "cuadrado centrado",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L1335 physSampler('b', 260 px@300ppp)",
+    "L1436 physSampler('b', 220 px@300ppp)",
+    "L1447 physSampler('b', 260 px@300ppp)",
+    "L1590 physSampler('d', 160 px@300ppp)",
+    "L1685 physSampler('b', 260 px@300ppp)",
+    "L1779 physSampler('b', 220 px@300ppp)",
+    "L1779 physSampler('d', 120 px@300ppp)",
+    "L1829 physSampler('b', 240 px@300ppp)",
+    "L2027 physSampler('b', 200 px@300ppp)",
+    "L2429 physSampler('d', 160 px@300ppp)",
+    "L2464 physSampler('d', 90 px@300ppp)",
+    "L2559 physSampler('b', 300 px@300ppp)",
+    "L3258 physSampler('b', 260 px@300ppp)",
+    "L3504 physSampler('d', 180 px@300ppp)",
+    "L3863 sampler('b', tileMul 0.6, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Textura acuarela monocromática granular.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4515811
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS EN 9-16 NO TILEABLES/Textura de acuarela en escala de grises.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    940,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "bytes": 4545205
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_01_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 6760789
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_2_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 9168790
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_3_Basecolor.png",
+  "id_plugin": "aguada_5",
+  "familia": "aguada",
+  "uso": "Lavados de acuarela: tinta corrida y acuarela (módulo 7c). Uso bajo.",
+  "formato_final": "plugin/textures/aguada_5.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/aguada_5.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L2951 sampler('b', tileMul zs * 0.9, stretch 0)",
+    "L2988 sampler('b', tileMul 1.4, stretch 0)",
+    "L3693 sampler('b', tileMul 1.6, stretch 0)",
+    "L3693 sampler('d', tileMul 1.2, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_4_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 10266382
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_6_Basecolor.png",
+  "id_plugin": "aguada_6",
+  "familia": "aguada",
+  "uso": "Lavados de acuarela: tinta corrida y acuarela (módulo 7c). Uso bajo.",
+  "formato_final": "plugin/textures/aguada_6.bin: gris 8 bits, 1 canal, 1024x1024, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/aguada_6.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 1024",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L2951 sampler('b', tileMul zs * 0.9, stretch 0)",
+    "L2988 sampler('b', tileMul 1.4, stretch 0)",
+    "L3693 sampler('b', tileMul 1.6, stretch 0)",
+    "L3693 sampler('d', tileMul 1.2, stretch 0)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS REALISTAS TILEABLES/ACUARELAS_BASE_7_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 8788358
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_2_Basecolor.png",
+  "id_plugin": "rodillo_1",
+  "familia": "rodillo",
+  "uso": "Huella de rodillo (ink.roller) con isoSampler, sin rotación aleatoria. Uso bajo.",
+  "formato_final": "plugin/textures/rodillo_1.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/rodillo_1.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L3215 isoSampler('b', tileMul 0.9)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_3_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 6047676
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_5_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 8118101
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_6_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 6769549
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_7_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 6590285
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_8_Basecolor.png",
+  "id_plugin": "rodillo_2",
+  "familia": "rodillo",
+  "uso": "Huella de rodillo (ink.roller) con isoSampler, sin rotación aleatoria. Uso bajo.",
+  "formato_final": "plugin/textures/rodillo_2.bin: gris 8 bits, 1 canal, 512x512, crudo sin cabecera, ecualizado (histograma plano), tileable; índice plugin/textures/textures.json; miniatura plugin/textures/thumbs/rodillo_2.jpg 96x96",
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "recorte": "ninguno",
+   "redimension": "Lanczos a 512",
+   "seamless": "mezcla con copia desplazada S/2, máscara t=clip((t-0.08)/0.5), smoothstep, mínimo en cruz",
+   "ecualizado": true,
+   "script": "tools/build_textures.py",
+   "muestreo": "makeStochastic (por defecto) con rotación aleatoria; base(b)=textura, detail(d)=altas frecuencias ecualizadas (base - blurWrap radio S/256)",
+   "llamadas_motor": [
+    "L3215 isoSampler('b', tileMul 0.9)"
+   ]
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_9_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 5800777
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 7731320
+  }
+ },
+ {
+  "fuente": "textures-src/OTRAS TEXTURAS/TEXTURAS REALISTAS TILEABLES/Bruchazos_Guache_Puntos_Basecolor.png",
+  "id_plugin": null,
+  "familia": null,
+  "uso": "NO SE USA (candidata en el repo)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    2048,
+    2048
+   ],
+   "modo_origen": "RGB",
+   "bytes": 7686170
+  }
+ },
+ {
+  "fuente": "Tintas impresas/Textura Grunge Monocromática Abstracta.png",
+  "id_plugin": "tinta_1",
+  "familia": "tinta",
+  "uso": "Tinta impresa real por zonas: Letras › Estampado manchado › Sobrecargado (engine.js L2532, sampler b tileMul 1.4, solo fuera de la letra donde 1-tex>0.55, zona = blur U*0.2 de la letra); Imágenes › Movido y grano (image.js TECH motion, im.tex.tinta.base, escala S*(1.1..1.7), espejo al azar, zonas por noiseField S*0.25). Una por render: tinta_[(seed*7) % 10 + 1].",
+  "formato_final": "plugin/textures/tinta_1.bin: gris 8 bits, 1024x1024, crudo, SIN ecualizar (raw:true en textures.json), tileable, blanco=papel 1.0 / tinta oscura 0",
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_tintas.py",
+   "normalizacion": "percentil 0.5 -> 0, percentil 92 -> 1",
+   "seamless": "mezcla en espacio tinta (1-v) con máscara t=clip((t-0.06)/0.5) y máximo suave x1.15 (no aclara manchas)",
+   "redimension": "Lanczos 1024",
+   "dedupe": "md5 del archivo y md5 de gris 64x64"
+  }
+ },
+ {
+  "fuente": "Tintas impresas/Textura Grunge Monocromática de Tinta y Desgaste.png",
+  "id_plugin": "tinta_2",
+  "familia": "tinta",
+  "uso": "Tinta impresa real por zonas: Letras › Estampado manchado › Sobrecargado (engine.js L2532, sampler b tileMul 1.4, solo fuera de la letra donde 1-tex>0.55, zona = blur U*0.2 de la letra); Imágenes › Movido y grano (image.js TECH motion, im.tex.tinta.base, escala S*(1.1..1.7), espejo al azar, zonas por noiseField S*0.25). Una por render: tinta_[(seed*7) % 10 + 1].",
+  "formato_final": "plugin/textures/tinta_2.bin: gris 8 bits, 1024x1024, crudo, SIN ecualizar (raw:true en textures.json), tileable, blanco=papel 1.0 / tinta oscura 0",
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_tintas.py",
+   "normalizacion": "percentil 0.5 -> 0, percentil 92 -> 1",
+   "seamless": "mezcla en espacio tinta (1-v) con máscara t=clip((t-0.06)/0.5) y máximo suave x1.15 (no aclara manchas)",
+   "redimension": "Lanczos 1024",
+   "dedupe": "md5 del archivo y md5 de gris 64x64"
+  }
+ },
+ {
+  "fuente": "Tintas impresas/Textura abstracta de tinta y grunge.png",
+  "id_plugin": "tinta_3",
+  "familia": "tinta",
+  "uso": "Tinta impresa real por zonas: Letras › Estampado manchado › Sobrecargado (engine.js L2532, sampler b tileMul 1.4, solo fuera de la letra donde 1-tex>0.55, zona = blur U*0.2 de la letra); Imágenes › Movido y grano (image.js TECH motion, im.tex.tinta.base, escala S*(1.1..1.7), espejo al azar, zonas por noiseField S*0.25). Una por render: tinta_[(seed*7) % 10 + 1].",
+  "formato_final": "plugin/textures/tinta_3.bin: gris 8 bits, 1024x1024, crudo, SIN ecualizar (raw:true en textures.json), tileable, blanco=papel 1.0 / tinta oscura 0",
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_tintas.py",
+   "normalizacion": "percentil 0.5 -> 0, percentil 92 -> 1",
+   "seamless": "mezcla en espacio tinta (1-v) con máscara t=clip((t-0.06)/0.5) y máximo suave x1.15 (no aclara manchas)",
+   "redimension": "Lanczos 1024",
+   "dedupe": "md5 del archivo y md5 de gris 64x64"
+  }
+ },
+ {
+  "fuente": "Tintas impresas/Textura grunge de tinta en blanco y negro.png",
+  "id_plugin": "tinta_4",
+  "familia": "tinta",
+  "uso": "Tinta impresa real por zonas: Letras › Estampado manchado › Sobrecargado (engine.js L2532, sampler b tileMul 1.4, solo fuera de la letra donde 1-tex>0.55, zona = blur U*0.2 de la letra); Imágenes › Movido y grano (image.js TECH motion, im.tex.tinta.base, escala S*(1.1..1.7), espejo al azar, zonas por noiseField S*0.25). Una por render: tinta_[(seed*7) % 10 + 1].",
+  "formato_final": "plugin/textures/tinta_4.bin: gris 8 bits, 1024x1024, crudo, SIN ecualizar (raw:true en textures.json), tileable, blanco=papel 1.0 / tinta oscura 0",
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_tintas.py",
+   "normalizacion": "percentil 0.5 -> 0, percentil 92 -> 1",
+   "seamless": "mezcla en espacio tinta (1-v) con máscara t=clip((t-0.06)/0.5) y máximo suave x1.15 (no aclara manchas)",
+   "redimension": "Lanczos 1024",
+   "dedupe": "md5 del archivo y md5 de gris 64x64"
+  }
+ },
+ {
+  "fuente": "Tintas impresas/Textura grunge en blanco y negro.png",
+  "id_plugin": "tinta_5",
+  "familia": "tinta",
+  "uso": "Tinta impresa real por zonas: Letras › Estampado manchado › Sobrecargado (engine.js L2532, sampler b tileMul 1.4, solo fuera de la letra donde 1-tex>0.55, zona = blur U*0.2 de la letra); Imágenes › Movido y grano (image.js TECH motion, im.tex.tinta.base, escala S*(1.1..1.7), espejo al azar, zonas por noiseField S*0.25). Una por render: tinta_[(seed*7) % 10 + 1].",
+  "formato_final": "plugin/textures/tinta_5.bin: gris 8 bits, 1024x1024, crudo, SIN ecualizar (raw:true en textures.json), tileable, blanco=papel 1.0 / tinta oscura 0",
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_tintas.py",
+   "normalizacion": "percentil 0.5 -> 0, percentil 92 -> 1",
+   "seamless": "mezcla en espacio tinta (1-v) con máscara t=clip((t-0.06)/0.5) y máximo suave x1.15 (no aclara manchas)",
+   "redimension": "Lanczos 1024",
+   "dedupe": "md5 del archivo y md5 de gris 64x64"
+  }
+ },
+ {
+  "fuente": "Tintas impresas/Textura grunge monocromática de tinta y papel envejecido-1.png",
+  "id_plugin": "tinta_6",
+  "familia": "tinta",
+  "uso": "Tinta impresa real por zonas: Letras › Estampado manchado › Sobrecargado (engine.js L2532, sampler b tileMul 1.4, solo fuera de la letra donde 1-tex>0.55, zona = blur U*0.2 de la letra); Imágenes › Movido y grano (image.js TECH motion, im.tex.tinta.base, escala S*(1.1..1.7), espejo al azar, zonas por noiseField S*0.25). Una por render: tinta_[(seed*7) % 10 + 1].",
+  "formato_final": "plugin/textures/tinta_6.bin: gris 8 bits, 1024x1024, crudo, SIN ecualizar (raw:true en textures.json), tileable, blanco=papel 1.0 / tinta oscura 0",
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_tintas.py",
+   "normalizacion": "percentil 0.5 -> 0, percentil 92 -> 1",
+   "seamless": "mezcla en espacio tinta (1-v) con máscara t=clip((t-0.06)/0.5) y máximo suave x1.15 (no aclara manchas)",
+   "redimension": "Lanczos 1024",
+   "dedupe": "md5 del archivo y md5 de gris 64x64"
+  }
+ },
+ {
+  "fuente": "Tintas impresas/Textura grunge monocromática de tinta y polvo.png",
+  "id_plugin": "tinta_7",
+  "familia": "tinta",
+  "uso": "Tinta impresa real por zonas: Letras › Estampado manchado › Sobrecargado (engine.js L2532, sampler b tileMul 1.4, solo fuera de la letra donde 1-tex>0.55, zona = blur U*0.2 de la letra); Imágenes › Movido y grano (image.js TECH motion, im.tex.tinta.base, escala S*(1.1..1.7), espejo al azar, zonas por noiseField S*0.25). Una por render: tinta_[(seed*7) % 10 + 1].",
+  "formato_final": "plugin/textures/tinta_7.bin: gris 8 bits, 1024x1024, crudo, SIN ecualizar (raw:true en textures.json), tileable, blanco=papel 1.0 / tinta oscura 0",
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_tintas.py",
+   "normalizacion": "percentil 0.5 -> 0, percentil 92 -> 1",
+   "seamless": "mezcla en espacio tinta (1-v) con máscara t=clip((t-0.06)/0.5) y máximo suave x1.15 (no aclara manchas)",
+   "redimension": "Lanczos 1024",
+   "dedupe": "md5 del archivo y md5 de gris 64x64"
+  }
+ },
+ {
+  "fuente": "Tintas impresas/Textura grunge monocromática envejecida (1).png",
+  "id_plugin": "tinta_8",
+  "familia": "tinta",
+  "uso": "Tinta impresa real por zonas: Letras › Estampado manchado › Sobrecargado (engine.js L2532, sampler b tileMul 1.4, solo fuera de la letra donde 1-tex>0.55, zona = blur U*0.2 de la letra); Imágenes › Movido y grano (image.js TECH motion, im.tex.tinta.base, escala S*(1.1..1.7), espejo al azar, zonas por noiseField S*0.25). Una por render: tinta_[(seed*7) % 10 + 1].",
+  "formato_final": "plugin/textures/tinta_8.bin: gris 8 bits, 1024x1024, crudo, SIN ecualizar (raw:true en textures.json), tileable, blanco=papel 1.0 / tinta oscura 0",
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_tintas.py",
+   "normalizacion": "percentil 0.5 -> 0, percentil 92 -> 1",
+   "seamless": "mezcla en espacio tinta (1-v) con máscara t=clip((t-0.06)/0.5) y máximo suave x1.15 (no aclara manchas)",
+   "redimension": "Lanczos 1024",
+   "dedupe": "md5 del archivo y md5 de gris 64x64"
+  }
+ },
+ {
+  "fuente": "Tintas impresas/Textura grunge monocromática envejecida.png",
+  "id_plugin": null,
+  "familia": "tinta",
+  "uso": "NO SE USA: duplicada de otra imagen de la carpeta (descartada por build_tintas.py)",
+  "formato_final": null,
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ]
+  }
+ },
+ {
+  "fuente": "Tintas impresas/Textura monocroma de suciedad y grano de tinta.png",
+  "id_plugin": "tinta_9",
+  "familia": "tinta",
+  "uso": "Tinta impresa real por zonas: Letras › Estampado manchado › Sobrecargado (engine.js L2532, sampler b tileMul 1.4, solo fuera de la letra donde 1-tex>0.55, zona = blur U*0.2 de la letra); Imágenes › Movido y grano (image.js TECH motion, im.tex.tinta.base, escala S*(1.1..1.7), espejo al azar, zonas por noiseField S*0.25). Una por render: tinta_[(seed*7) % 10 + 1].",
+  "formato_final": "plugin/textures/tinta_9.bin: gris 8 bits, 1024x1024, crudo, SIN ecualizar (raw:true en textures.json), tileable, blanco=papel 1.0 / tinta oscura 0",
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_tintas.py",
+   "normalizacion": "percentil 0.5 -> 0, percentil 92 -> 1",
+   "seamless": "mezcla en espacio tinta (1-v) con máscara t=clip((t-0.06)/0.5) y máximo suave x1.15 (no aclara manchas)",
+   "redimension": "Lanczos 1024",
+   "dedupe": "md5 del archivo y md5 de gris 64x64"
+  }
+ },
+ {
+  "fuente": "Tintas impresas/Textura monocromática de grunge desgastado-2.png",
+  "id_plugin": "tinta_10",
+  "familia": "tinta",
+  "uso": "Tinta impresa real por zonas: Letras › Estampado manchado › Sobrecargado (engine.js L2532, sampler b tileMul 1.4, solo fuera de la letra donde 1-tex>0.55, zona = blur U*0.2 de la letra); Imágenes › Movido y grano (image.js TECH motion, im.tex.tinta.base, escala S*(1.1..1.7), espejo al azar, zonas por noiseField S*0.25). Una por render: tinta_[(seed*7) % 10 + 1].",
+  "formato_final": "plugin/textures/tinta_10.bin: gris 8 bits, 1024x1024, crudo, SIN ecualizar (raw:true en textures.json), tileable, blanco=papel 1.0 / tinta oscura 0",
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_tintas.py",
+   "normalizacion": "percentil 0.5 -> 0, percentil 92 -> 1",
+   "seamless": "mezcla en espacio tinta (1-v) con máscara t=clip((t-0.06)/0.5) y máximo suave x1.15 (no aclara manchas)",
+   "redimension": "Lanczos 1024",
+   "dedupe": "md5 del archivo y md5 de gris 64x64"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de Pintura Gris sobre Negro (4).png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de pintura brillantes sobre negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de pintura gris agrietada.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de pintura gris sobre negro (1).png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de pintura gris sobre negro (2).png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de pintura gris sobre negro (3).png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de pintura gris sobre negro-1.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de pintura gris sobre negro-2.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    940,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de pintura gris sobre negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de pintura seca sobre negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de pintura sobre negro (1).png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de pintura sobre negro (2).png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de pintura sobre negro (3).png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de pintura sobre negro (4).png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de pintura sobre negro-2.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de pintura sobre negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    1254,
+    1254
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de tinta gris sobre negro-1.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas de tinta gris sobre negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Gotas grises sobre negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteo abstracto sobre negro (1).png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteo abstracto sobre negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos Blancos Agrietados sobre Negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos Monocromos sobre Negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos abstractos en blanco y negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos abstractos sobre fondo negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos abstractos sobre negro (1).png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos abstractos sobre negro (2).png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos abstractos sobre negro eterno.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos abstractos sobre negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos de pintura agrietada sobre negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos de pintura blanca sobre negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos de pintura seca sobre negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos de pintura sobre fondo negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos de pintura sobre negro (1).png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos de pintura sobre negro profundo.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos de pintura sobre negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos grises sobre fondo negro-1.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos grises sobre fondo negro-2.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos grises sobre negro (1).png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos grises sobre negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos plateados sobre negro (1).png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos plateados sobre negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos pálidos sobre fondo negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos pálidos sobre negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ },
+ {
+  "fuente": "GOTAS/Goteos verticales en blanco y negro.png",
+  "id_plugin": "banco de gotas (varias gotas por foto)",
+  "familia": "gota",
+  "uso": "Gotas reales de pintura: módulos drip (Destrozado › Normal, Goteo › Fino/Largo) vía prepareDrips/pickDrip/stampDrip (engine.js L930-1000); pesos por clase p.ej. {lagrima:0.55, fina:0.3, serpenteante:0.15}.",
+  "formato_final": "BIBLIOTECA/goteos/<clase>/goteo_NNN.png (RGBA, resolución completa: A=máscara, RGB=sombreado gris) + catalogo.json; plugin/drips/drips.bin (por gota w*h bytes máscara + w*h bytes sombreado, 8 bits, alto máx 320 px) + drips.json (id, c, w, h, o, s, rw, mw, bw, L, cg, ox, gp)",
+  "parametros": {
+   "origen_px": [
+    941,
+    1672
+   ],
+   "modo_origen": "RGB",
+   "script": "tools/build_drips.py",
+   "alpha": "smoothstep(0.025, 0.11, L) (fondo negro puro)",
+   "nucleo": "L > 0.06",
+   "raiz": "toca el borde superior (y0 <= 6 % alto) = raíz",
+   "sombreado": "lum / percentil 95 de la pintura",
+   "clases": "lagrima, fina, serpenteante, seca, impacto, suelta"
+  }
+ }
+]
