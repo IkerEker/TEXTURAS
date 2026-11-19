@@ -9173,7 +9173,11 @@
 "ab:2dbf6bcc4c6c",
 "ab:cffcbbca02b4",
 "ab:c2e2df37a4fc",
-"ab:230dda3b96f2"
+"ab:230dda3b96f2",
+"ab:f50ab1d50ef3",
+"ab:4c2ab375f1b0",
+"ab:f84a5a2b72be",
+"ab:8f08fc26dc2a"
 ],
 "uso": "quemado de película Super 8 real (4096×2550, con la ventanilla y la perforación a la izquierda) de ACIDBITE Film Burns: fogonazos naranjas, azules y blancos entre negros",
 "modo": "trama",
@@ -9624,5 +9628,109 @@
 "modo": "normal (alfa)",
 "usar_si": "collage de papel perforado sobre vídeo",
 "evitar_si": "se quieren colores discretos"
+},
+"ab_super8": {
+"miembros": [
+"ab:b23336dc7591",
+"ab:fc912a95f527",
+"ab:2eae0232d4d1",
+"ab:d5823dc6a81b",
+"ab:c89cf9ff97c7",
+"ab:27a112e1dc58",
+"ab:2dc522e854e4",
+"ab:638ad71482b3",
+"ab:819a35a2a570",
+"ab:71ef6e8d54fe",
+"ab:eeb2e890641b",
+"ab:830405a68145",
+"ab:ee9aa48cb5f8",
+"ab:baefa903b6ab",
+"ab:0aa062008ae2",
+"ab:417ccf0010c3",
+"ab:b34464210337"
+],
+"uso": "elemento de película Super 8 de ACIDBITE Super 8 Package (suciedad, polvo, ventanilla, grano y quemados reales escaneados), 4K",
+"modo": "el que indica el nombre (multiplicar, trama, superponer)",
+"usar_si": "look Super 8 completo por capas",
+"evitar_si": "se quiere imagen digital limpia"
+},
+"ab_mixed_marco": {
+"miembros": [
+"ab:f06bb10f4c87",
+"ab:2b1825d46d81",
+"ab:8de4bfaa2c0e",
+"ab:798979fb5151",
+"ab:1cb35620a632",
+"ab:af491c892c12",
+"ab:a8f5301df805",
+"ab:97c03c8e64f3",
+"ab:4df691239153",
+"ab:a5278c680475"
+],
+"uso": "marco de collage de ACIDBITE Super Mixed Media: papeles, cartón, celo, cuadros y manchas escaneados alrededor de una ventana transparente (alfa) que cambia de forma a saltos, 4K",
+"modo": "normal (alfa)",
+"usar_si": "encuadrar un vídeo dentro de un collage de papel animado",
+"evitar_si": "se quiere marco limpio"
+},
+"ab_mixed_opener": {
+"miembros": [
+"ab:049273546d58",
+"ab:e40cd760d1ab",
+"ab:e544cfb59714",
+"ab:7649a058edbf",
+"ab:e124bbb5c946",
+"ab:2024c72ee561",
+"ab:75ee95caffe0",
+"ab:e6c3a345816d",
+"ab:cc1aa2add168",
+"ab:324cffe47c54",
+"ab:71101158d30f",
+"ab:a49777f9c971",
+"ab:35badc9f9dcf",
+"ab:82e12f06180c",
+"ab:564afe4e47c9",
+"ab:402b559dc9e8",
+"ab:8d37fcef145c",
+"ab:5fd83577958a"
+],
+"uso": "apertura de collage de ACIDBITE Super Mixed Media sobre negro: rayas blancas, tachones rojos, recortes de papel y salpicaduras animados a saltos, 4K",
+"modo": "trama",
+"usar_si": "intro o transición de collage gráfico",
+"evitar_si": "se quiere algo sobrio"
+},
+"ab_mixed_alfa": {
+"miembros": [
+"ab:cad87da9db7c",
+"ab:d0c635fde1d3",
+"ab:a93400165770",
+"ab:10e0bfa63a45",
+"ab:4ee015b4c67a",
+"ab:360a5ee56ffa",
+"ab:f9ebfe550d6f",
+"ab:b5c70ca92aa9",
+"ab:8e12584e9eed",
+"ab:8468c8db77f2",
+"ab:79cd59a95518",
+"ab:49e6a04203e2"
+],
+"uso": "transición de collage de ACIDBITE Super Mixed Media: papel negro con celo, recortes y manchas donde se abre un hueco (alfa) de borde irregular que crece hasta dejar todo semitransparente, 4K",
+"modo": "mate alfa (Track Matte)",
+"usar_si": "transición de collage que abre el plano siguiente",
+"evitar_si": "se quiere corte limpio"
+},
+"ab_mixed_overlay": {
+"miembros": [
+"ab:35cd984a5427",
+"ab:c7487507d594",
+"ab:4e1a19216c85",
+"ab:b219b26e67fb",
+"ab:55b7878b4f31",
+"ab:9b9ff73760ed",
+"ab:44f722fdd693"
+],
+"uso": "transición de collage opaca de ACIDBITE Super Mixed Media (Overlay Transition): pintura, papel o forma que cubre el cuadro a saltos y vuelve a descubrirlo, 4K sin alfa",
+"modo": "normal o superponer",
+"usar_si": "transición por pintura que tapa",
+"evitar_si": "se necesita alfa"
 }
 }
