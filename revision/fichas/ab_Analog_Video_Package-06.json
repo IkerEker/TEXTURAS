@@ -1,0 +1,37 @@
+{
+"ab:efba834ddc42": {
+"que_es": "HUD Video8 Rec: batería 529min, SP, REC y contador 0:02:55 que avanza, arriba",
+"calidad": 5,
+"defectos": "ninguno",
+"familia": "ab_hud_camara",
+"variante": 6,
+"diferencia": "-",
+"mejor_de_familia": false,
+"uso": "HUD de cámara",
+"modo": "normal (alfa)",
+"usar_si": "-",
+"evitar_si": "-",
+"escala": "1920×1440, 15.56 s a 23.976 fps, sin loop",
+"color": "blanco/negro (alfa)",
+"orient": "4:3",
+"estilo": "interfaz de videocámara",
+"contenido": "texto de interfaz de cámara (REC, números)",
+"comportamiento": "contador que avanza cada segundo",
+"medidas": {
+"fuente_medida": "tira",
+"w": 1920,
+"h": 1440,
+"color_medio": "#e12b9d",
+"luminancia": 0.558,
+"contraste": 0.065,
+"saturacion": 0.804,
+"phash": "d57570756055d5e0"
+},
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"nivel": "completo",
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/ab_Analog_Video_Package-06.jpg"
+}
+}
