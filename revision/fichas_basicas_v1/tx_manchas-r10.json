@@ -1,0 +1,41 @@
+{
+"tx:manchas/pincel_grandes/mancha_1129": {
+"que_es": "parche de pinceladas gris claro (3000 px)",
+"calidad": 4,
+"defectos": "",
+"familia": "mancha_pincel_grande",
+"variante": 10,
+"diferencia": "grande claro",
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/tx_manchas-r10.jpg"
+},
+"tx:manchas/tinta/mancha_tinta_negra_papel_texturizado_0369": {
+"que_es": "tinta negra que entra por la izquierda",
+"calidad": 4,
+"defectos": "",
+"familia": "tinta_borde",
+"variante": 1,
+"diferencia": "izquierda",
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/tx_manchas-r10.jpg"
+},
+"tx:manchas/tinta/mancha_tinta_papel_texturizado_0370": {
+"que_es": "tinta negra en esquina superior izquierda",
+"calidad": 5,
+"defectos": "",
+"familia": "tinta_borde",
+"variante": 2,
+"diferencia": "esquina",
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/tx_manchas-r10.jpg"
+}
+}

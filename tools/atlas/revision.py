@@ -208,13 +208,14 @@ def hoja(lote_id):
         o = Image.new('RGB', (W, sum(r.height + 6 for r in rows)), (200, 200, 200)); y = 0
         for r in rows: o.paste(r, (0, y)); y += r.height + 6
     else:
-        cols = 3; cw = 670; chh = 330 + 34
+        cols = 4 if len(cells) > 15 else 3; cw = 670 if cols == 3 else 490; chh = (330 if cols == 3 else 240) + 34
         o = Image.new('RGB', (cols * cw, ((len(cells) + cols - 1) // cols) * chh), 'white'); dr = ImageDraw.Draw(o)
         for k, (lab, info, a1, a2) in enumerate(cells):
             x, y = (k % cols) * cw, (k // cols) * chh
             dr.text((x + 3, y + 1), lab[:40], fill='black', font=FONT_S); dr.text((x + 3, y + 17), info[:70], fill=(90, 90, 90), font=FONT_S)
-            o.paste(a1, (x, y + 34))
-            if a2: o.paste(a2, (x + 334, y + 34))
+            s2 = 330 if cols == 3 else 240
+            o.paste(a1.resize((s2, s2)), (x, y + 34))
+            if a2: o.paste(a2.resize((s2, s2)), (x + s2 + 4, y + 34))
     (RV / 'hojas').mkdir(parents=True, exist_ok=True)
     out = RV / 'hojas' / (lote_id + '.jpg')
     o.save(out, quality=82)
@@ -222,11 +223,52 @@ def hoja(lote_id):
 
 
 # ------------------------------------------------------------------ fichas
+def phash(im):
+    g = np.asarray(im.convert('L').resize((32, 32), Image.LANCZOS), dtype=np.float32)
+    from scipy.fft import dctn
+    d = dctn(g, norm='ortho')[:8, :8]
+    b = (d > np.median(d)).flatten()
+    return '%016x' % int(''.join('1' if x else '0' for x in b), 2)
+
+
+def medir(a):
+    """medidas objetivas: tamaño, alfa, color medio, luminancia, pHash (de la imagen o de la tira)."""
+    m = {}
+    try:
+        p = local(a)
+        if p is None or a.get('tipo') not in ('imagen',):
+            sid = a['id'].replace(':', '_').replace('/', '__')
+            p = TIRAS / (sid + '.jpg')
+            if a['coleccion'] == 'originales' and a.get('sub') == 'collage':
+                p = COLLAGE_SRC / a['archivo'].split('originales/collage/', 1)[1]
+            m['fuente_medida'] = 'tira' if p.name.startswith(('ab_', 'or_', 'tx_')) else 'imagen'
+        if not p.exists(): return m
+        im = Image.open(p); im.thumbnail((512, 512))
+        m['w'], m['h'] = a.get('w'), a.get('h')
+        if im.mode in ('RGBA', 'LA') or (im.mode == 'P' and 'transparency' in im.info):
+            im = im.convert('RGBA'); A = np.asarray(im)[..., 3] / 255.0
+            m['alfa_cobertura'] = round(float((A > .5).mean()), 3)
+            m['alfa_parcial'] = round(float(((A > .05) & (A < .95)).sum() / max(1, (A > .05).sum())), 3)
+            rgb = np.asarray(im)[..., :3][A > .5]
+        else:
+            rgb = np.asarray(im.convert('RGB')).reshape(-1, 3)
+        if len(rgb):
+            c = rgb.mean(0); m['color_medio'] = '#%02x%02x%02x' % tuple(int(x) for x in c)
+            L = rgb.mean(1); m['luminancia'] = round(float(L.mean() / 255), 3); m['contraste'] = round(float(L.std() / 255), 3)
+            mx, mn = rgb.max(1).astype(float), rgb.min(1).astype(float)
+            m['saturacion'] = round(float(((mx - mn) / np.maximum(mx, 1)).mean()), 3)
+        m['phash'] = phash(im)
+    except Exception as e:
+        m['error_medida'] = str(e)[:80]
+    return m
+
+
 def fichas(lote_id, txt):
     est = json.load(open(RV / 'ESTADO.json'))
     L = next(l for l in est['lotes'] if l['lote'] == lote_id)
     fp = RV / 'familias.json'
     fam = json.load(open(fp)) if fp.exists() else {}
+    byid = {a['id']: a for a in indice()}
     out, n_ok = {}, 0
     for line in txt.splitlines():
         line = line.strip()
@@ -251,10 +293,21 @@ def fichas(lote_id, txt):
         f = fam[k]
         if aid not in f['miembros']: f['miembros'].append(aid)
         if mejor: f['mejor'] = aid
+        extra = {}
+        if len(parts) > 3:
+            for kv in '|'.join(parts[3:]).split(';'):
+                if '=' in kv:
+                    kk, vv = kv.split('=', 1); extra[kk.strip()] = vv.strip()
+        fam_info = {kk: f[kk] for kk in ('uso', 'modo', 'usar_si', 'evitar_si') if kk in f}
         out[aid] = dict(que_es=parts[0], calidad=nota, defectos=defe, familia=k,
                         variante=f['miembros'].index(aid) + 1, diferencia=parts[2] if len(parts) > 2 else '',
+                        mejor_de_familia=mejor,
+                        **{kk: extra.get(kk, fam_info.get(kk)) for kk in ('uso', 'modo', 'usar_si', 'evitar_si') if extra.get(kk) or fam_info.get(kk)},
+                        **{kk: vv for kk, vv in extra.items() if kk not in ('uso', 'modo', 'usar_si', 'evitar_si')},
+                        medidas=medir(byid[aid]),
                         rehacer='REHACER' in defe, dudoso='DUDOSO' in (parts[0] + defe),
-                        revisado_por_vista=True, fecha='2026-11-19', hoja='revision/hojas/%s.jpg' % lote_id)
+                        revisado_por_vista=True, nivel='completo' if extra else 'basico',
+                        fecha='2026-11-19', hoja='revision/hojas/%s.jpg' % lote_id)
         n_ok += 1
     falta = [i for i in L['ids'] if i not in out]
     if falta: raise SystemExit('faltan %d elementos del lote: %s' % (len(falta), [L['ids'].index(i) + 1 for i in falta]))
@@ -284,6 +337,23 @@ if __name__ == '__main__':
     elif cmd == 'hoja': hoja(sys.argv[2])
     elif cmd == 'fichas': fichas(sys.argv[2], sys.stdin.read())
     elif cmd == 'estado': estado()
+    elif cmd == 'reempaquetar':   # junta los lotes pendientes de imágenes en lotes de N (ahorra hojas)
+        N = int(sys.argv[2]); est = json.load(open(RV / 'ESTADO.json'))
+        byid = {a['id']: a for a in indice()}
+        nuevos, pend = [], collections.OrderedDict()
+        for l in est['lotes']:
+            g = l['lote'].rsplit('-', 1)[0]
+            vid = byid[l['ids'][0]].get('tipo') in ('video', 'tutorial') or g == 'ab_tutoriales' or any(
+                (byid[i].get('archivo') or '').lower().endswith(('.mov', '.mp4')) for i in l['ids'])
+            if l['hecho'] or vid: nuevos.append(l); continue
+            pend.setdefault(g, []).extend(l['ids'])
+        for g, ids in pend.items():
+            for k in range(0, len(ids), N):
+                nuevos.append(dict(lote='%s-r%02d' % (g, k // N + 1), ids=ids[k:k + N], hecho=False))
+        orden = {l['lote'].rsplit('-', 1)[0]: n for n, l in enumerate(est['lotes'])}
+        nuevos.sort(key=lambda l: (not l['hecho'], orden.get(l['lote'].rsplit('-', 1)[0], 9999)))
+        est['lotes'] = nuevos; json.dump(est, open(RV / 'ESTADO.json', 'w'), ensure_ascii=False, indent=0)
+        print(len(nuevos), 'lotes')
     elif cmd == 'siguiente':
         est = json.load(open(RV / 'ESTADO.json'))
         pref = sys.argv[2] if len(sys.argv) > 2 else ''
