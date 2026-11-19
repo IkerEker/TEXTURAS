@@ -58,7 +58,7 @@ def main():
             F.mkdir(parents=True, exist_ok=True)
             clonar(f"https://github.com/{info['repo']}.git", F / repo, info['rama'])
     tareas = [(g['archivo'], g['md5'], g['rutas']) for g in man['originales']]
-    tareas += [(h['archivo'], h['md5'], [h['ruta_en_repo']]) for h in man['heredado_neonizador']]
+    tareas += [(h['archivo'], h['md5'], ['neonizador_bt/' + h['ruta_en_repo'].split('/', 1)[1]]) for h in man['heredado_neonizador']]
     for archivo, m, rutas in tareas:
         dst = R / archivo
         if dst.exists() and md5(dst) == m:
@@ -72,10 +72,10 @@ def main():
             estado['md5_distinto'].append(str(src)); continue
         dst.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(src, dst); estado['copiados'] += 1
-    nb = F / 'neonizador' / 'BIBLIOTECA' / 'elementos'
+    nb = F / 'neonizador_bt' / 'BIBLIOTECA' / 'elementos'
     if nb.exists() and not a.solo_comprobar:
         for j in nb.rglob('*.json'):
-            d = R / 'originales' / 'heredado' / 'neonizador' / j.relative_to(F / 'neonizador')
+            d = R / 'originales' / 'heredado' / 'neonizador' / j.relative_to(F / 'neonizador_bt')
             d.parent.mkdir(parents=True, exist_ok=True); shutil.copy2(j, d)
 
     # 3. AcidBite

@@ -8190,7 +8190,8 @@
    "fuente_ruta": "APOYO/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_1m2vhi1m2vhi1m2v.jpg",
    "id": "or:1fab4c773c1595efc5c71fa8ba5d003b",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_oscuro_0031"
+    "tx:trazos/pincel/trazo_pincel_gris_oscuro_0031",
+    "tx:productos/cintas_trazo/pincel_56"
    ],
    "formato": null
   },
@@ -8212,7 +8213,8 @@
    "fuente_ruta": "APOYO/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_dd9o77dd9o77dd9o.jpg",
    "id": "or:93b2c592d0844bb90bdb735019f8632f",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_0034"
+    "tx:trazos/pincel/trazo_pincel_gris_0034",
+    "tx:productos/cintas_trazo/pincel_57"
    ],
    "formato": null
   },
@@ -8256,7 +8258,8 @@
    "fuente_ruta": "APOYO/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_gtyi67gtyi67gtyi.jpg",
    "id": "or:f2a1c7dbb7402bd7f31a4c3631b1ce49",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_oscuro_0036"
+    "tx:trazos/pincel/trazo_pincel_gris_oscuro_0036",
+    "tx:productos/cintas_trazo/pincel_58"
    ],
    "formato": null
   },
@@ -8267,7 +8270,8 @@
    "fuente_ruta": "APOYO/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_i9od48i9od48i9od.jpg",
    "id": "or:ea43656231d6b863d67eb6c169032e5b",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_0037"
+    "tx:trazos/pincel/trazo_pincel_gris_0037",
+    "tx:productos/cintas_trazo/pincel_59"
    ],
    "formato": null
   },
@@ -8277,7 +8281,9 @@
    "uso": "sin usar",
    "fuente_ruta": "APOYO/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_ogccn5ogccn5ogcc.jpg",
    "id": "or:039431753bcad30873ec83cfd64ee744",
-   "productos_comunes": [],
+   "productos_comunes": [
+    "tx:productos/cintas_trazo/pincel_60"
+   ],
    "formato": null
   },
   {
@@ -8298,7 +8304,8 @@
    "fuente_ruta": "APOYO/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_uoqx5fuoqx5fuoqx.jpg",
    "id": "or:160a8c8a106c89a1bde10f3990e915d2",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_0038"
+    "tx:trazos/pincel/trazo_pincel_gris_0038",
+    "tx:productos/cintas_trazo/pincel_61"
    ],
    "formato": null
   },
@@ -8309,7 +8316,8 @@
    "fuente_ruta": "APOYO/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_xw72ktxw72ktxw72.jpg",
    "id": "or:7b13ec84a1c7508de63bb6cf144d9b9e",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_0040"
+    "tx:trazos/pincel/trazo_pincel_gris_0040",
+    "tx:productos/cintas_trazo/pincel_62"
    ],
    "formato": null
   },
@@ -8342,7 +8350,8 @@
    "fuente_ruta": "APOYO/MANCHA CON  FORMA CONCRETA/Pincelada gris sobre blanco.png",
    "id": "or:0e36d27811e2498679e00e8a3bb3a6f9",
    "productos_comunes": [
-    "tx:trazos/brocha/pincelada_gris_0062"
+    "tx:trazos/brocha/pincelada_gris_0062",
+    "tx:productos/cintas_trazo/brocha_70"
    ],
    "formato": null
   },
@@ -8353,7 +8362,8 @@
    "fuente_ruta": "APOYO/MANCHA CON  FORMA CONCRETA/Pincelada vertical gris sobre blanco.png",
    "id": "or:9af81d46749352e1f8119c5bc9358f0b",
    "productos_comunes": [
-    "tx:trazos/brocha/pincelada_vertical_gris_0063"
+    "tx:trazos/brocha/pincelada_vertical_gris_0063",
+    "tx:productos/cintas_trazo/brocha_71"
    ],
    "formato": null
   },
@@ -8553,7 +8563,9 @@
    "productos_comunes": [
     "tx:trazos/aguada/trazo_aguada_gris_0000_02",
     "tx:trazos/aguada/trazo_aguada_gris_oscuro_0000_01",
-    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0000_03"
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0000_03",
+    "tx:productos/cintas_trazo/aguada_00",
+    "tx:productos/cintas_trazo/aguada_07"
    ],
    "formato": null
   },
@@ -8566,7 +8578,9 @@
    "productos_comunes": [
     "tx:trazos/aguada/trazo_aguada_gris_0001_01",
     "tx:trazos/aguada/trazo_aguada_gris_0001_02",
-    "tx:trazos/aguada/trazo_aguada_gris_0001_03"
+    "tx:trazos/aguada/trazo_aguada_gris_0001_03",
+    "tx:productos/cintas_trazo/aguada_01",
+    "tx:productos/cintas_trazo/aguada_08"
    ],
    "formato": null
   },
@@ -8579,7 +8593,9 @@
    "productos_comunes": [
     "tx:trazos/aguada/trazo_aguada_gris_oscuro_0002_01",
     "tx:trazos/aguada/trazo_aguada_gris_oscuro_0002_02",
-    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0002_03"
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0002_03",
+    "tx:productos/cintas_trazo/aguada_02",
+    "tx:productos/cintas_trazo/aguada_09"
    ],
    "formato": null
   },
@@ -8592,7 +8608,9 @@
    "productos_comunes": [
     "tx:trazos/aguada/trazo_aguada_gris_oscuro_0003_01",
     "tx:trazos/aguada/trazo_aguada_gris_oscuro_0003_02",
-    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0003_03"
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0003_03",
+    "tx:productos/cintas_trazo/aguada_03",
+    "tx:productos/cintas_trazo/aguada_10"
    ],
    "formato": null
   },
@@ -8605,7 +8623,9 @@
    "productos_comunes": [
     "tx:trazos/aguada/trazo_aguada_gris_0004_02",
     "tx:trazos/aguada/trazo_aguada_gris_0004_03",
-    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0004_01"
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0004_01",
+    "tx:productos/cintas_trazo/aguada_04",
+    "tx:productos/cintas_trazo/aguada_11"
    ],
    "formato": null
   },
@@ -8618,7 +8638,8 @@
    "productos_comunes": [
     "tx:trazos/aguada/trazo_aguada_gris_0005_02",
     "tx:trazos/aguada/trazo_aguada_gris_0005_03",
-    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0005_01"
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0005_01",
+    "tx:productos/cintas_trazo/aguada_05"
    ],
    "formato": null
   },
@@ -8630,7 +8651,8 @@
    "id": "or:4d7017da88104ffd2d20291e4fb0148f",
    "productos_comunes": [
     "tx:trazos/aguada/trazo_aguada_gris_0006_01",
-    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0006_02"
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0006_02",
+    "tx:productos/cintas_trazo/aguada_06"
    ],
    "formato": null
   },
@@ -8643,7 +8665,10 @@
    "productos_comunes": [
     "tx:trazos/cera/trazo_cera_gris_0007_02",
     "tx:trazos/cera/trazo_cera_gris_0007_03",
-    "tx:trazos/cera/trazo_cera_gris_oscuro_0007_01"
+    "tx:trazos/cera/trazo_cera_gris_oscuro_0007_01",
+    "tx:productos/cintas_trazo/cera_12",
+    "tx:productos/cintas_trazo/cera_17",
+    "tx:productos/cintas_trazo/cera_22"
    ],
    "formato": null
   },
@@ -8656,7 +8681,10 @@
    "productos_comunes": [
     "tx:trazos/cera/trazo_cera_gris_oscuro_0008_01",
     "tx:trazos/cera/trazo_cera_gris_oscuro_0008_02",
-    "tx:trazos/cera/trazo_cera_gris_oscuro_0008_03"
+    "tx:trazos/cera/trazo_cera_gris_oscuro_0008_03",
+    "tx:productos/cintas_trazo/cera_13",
+    "tx:productos/cintas_trazo/cera_18",
+    "tx:productos/cintas_trazo/cera_23"
    ],
    "formato": null
   },
@@ -8669,7 +8697,11 @@
    "productos_comunes": [
     "tx:trazos/cera/trazo_cera_gris_oscuro_0009_01",
     "tx:trazos/cera/trazo_cera_gris_oscuro_0009_02",
-    "tx:trazos/cera/trazo_cera_gris_oscuro_0009_03"
+    "tx:trazos/cera/trazo_cera_gris_oscuro_0009_03",
+    "tx:productos/cintas_trazo/cera_14",
+    "tx:productos/cintas_trazo/cera_15",
+    "tx:productos/cintas_trazo/cera_19",
+    "tx:productos/cintas_trazo/cera_20"
    ],
    "formato": null
   },
@@ -8682,7 +8714,11 @@
    "productos_comunes": [
     "tx:trazos/cera/trazo_cera_gris_oscuro_0009_01",
     "tx:trazos/cera/trazo_cera_gris_oscuro_0009_02",
-    "tx:trazos/cera/trazo_cera_gris_oscuro_0009_03"
+    "tx:trazos/cera/trazo_cera_gris_oscuro_0009_03",
+    "tx:productos/cintas_trazo/cera_14",
+    "tx:productos/cintas_trazo/cera_15",
+    "tx:productos/cintas_trazo/cera_19",
+    "tx:productos/cintas_trazo/cera_20"
    ],
    "formato": null
   },
@@ -8692,7 +8728,10 @@
    "uso": "sin usar",
    "fuente_ruta": "APOYO/TRAZOS/CERAS/Gemini_Generated_Image_y7qljdy7qljdy7ql.jpg",
    "id": "or:e144d33708b20cfa07cdb172e936acce",
-   "productos_comunes": [],
+   "productos_comunes": [
+    "tx:productos/cintas_trazo/cera_16",
+    "tx:productos/cintas_trazo/cera_21"
+   ],
    "formato": null
   },
   {
@@ -8706,7 +8745,8 @@
     "tx:trazos/rotulador/cinco_lineas_azules_dibujadas_a_mano_0010_02",
     "tx:trazos/rotulador/cinco_lineas_azules_dibujadas_a_mano_0010_03",
     "tx:trazos/rotulador/cinco_lineas_azules_dibujadas_a_mano_0010_04",
-    "tx:trazos/rotulador/cinco_lineas_azules_dibujadas_a_mano_0010_05"
+    "tx:trazos/rotulador/cinco_lineas_azules_dibujadas_a_mano_0010_05",
+    "tx:productos/cintas_trazo/rotulador_77"
    ],
    "formato": null
   },
@@ -8721,7 +8761,9 @@
     "tx:trazos/boligrafo/cinco_lineas_azules_0011_02",
     "tx:trazos/boligrafo/cinco_lineas_azules_0011_03",
     "tx:trazos/boligrafo/cinco_lineas_azules_0011_04",
-    "tx:trazos/boligrafo/cinco_lineas_azules_0011_05"
+    "tx:trazos/boligrafo/cinco_lineas_azules_0011_05",
+    "tx:productos/cintas_trazo/boligrafo_80",
+    "tx:productos/cintas_trazo/boligrafo_84"
    ],
    "formato": null
   },
@@ -8785,7 +8827,9 @@
     "tx:trazos/boligrafo/cuatro_lineas_rojas_dibujadas_a_mano_0015_01",
     "tx:trazos/boligrafo/cuatro_lineas_rojas_dibujadas_a_mano_0015_02",
     "tx:trazos/boligrafo/cuatro_lineas_rojas_dibujadas_a_mano_0015_03",
-    "tx:trazos/boligrafo/cuatro_lineas_rojas_dibujadas_a_mano_0015_04"
+    "tx:trazos/boligrafo/cuatro_lineas_rojas_dibujadas_a_mano_0015_04",
+    "tx:productos/cintas_trazo/boligrafo_83",
+    "tx:productos/cintas_trazo/boligrafo_87"
    ],
    "formato": null
   },
@@ -8799,7 +8843,8 @@
     "tx:trazos/pincel/cuatro_pinceladas_rojas_0016_01",
     "tx:trazos/pincel/cuatro_pinceladas_rojas_0016_02",
     "tx:trazos/pincel/cuatro_pinceladas_rojas_0016_03",
-    "tx:trazos/pincel/cuatro_pinceladas_rojas_0016_04"
+    "tx:trazos/pincel/cuatro_pinceladas_rojas_0016_04",
+    "tx:productos/cintas_trazo/pincel_63"
    ],
    "formato": null
   },
@@ -8813,7 +8858,8 @@
     "tx:trazos/rotulador/cuatro_trazos_negros_horizontales_0017_01",
     "tx:trazos/rotulador/cuatro_trazos_negros_horizontales_0017_02",
     "tx:trazos/rotulador/cuatro_trazos_negros_horizontales_0017_03",
-    "tx:trazos/rotulador/cuatro_trazos_negros_horizontales_0017_04"
+    "tx:trazos/rotulador/cuatro_trazos_negros_horizontales_0017_04",
+    "tx:productos/cintas_trazo/rotulador_79"
    ],
    "formato": null
   },
@@ -8877,7 +8923,8 @@
     "tx:trazos/pincel/franjas_pintura_roja_0021_01",
     "tx:trazos/pincel/franjas_pintura_roja_0021_02",
     "tx:trazos/pincel/franjas_pintura_roja_0021_03",
-    "tx:trazos/pincel/franjas_pintura_roja_0021_04"
+    "tx:trazos/pincel/franjas_pintura_roja_0021_04",
+    "tx:productos/cintas_trazo/pincel_64"
    ],
    "formato": null
   },
@@ -8887,7 +8934,10 @@
    "uso": "sin usar",
    "fuente_ruta": "APOYO/TRAZOS/GUACHE/Gemini_Generated_Image_6l56yc6l56yc6l56.jpg",
    "id": "or:44adc9c64138f6cd1a55bed4cb5abd05",
-   "productos_comunes": [],
+   "productos_comunes": [
+    "tx:productos/cintas_trazo/gouache_24",
+    "tx:productos/cintas_trazo/gouache_33"
+   ],
    "formato": null
   },
   {
@@ -8899,7 +8949,9 @@
    "productos_comunes": [
     "tx:trazos/gouache/trazo_gouache_gris_oscuro_0022_01",
     "tx:trazos/gouache/trazo_gouache_gris_oscuro_0022_02",
-    "tx:trazos/gouache/trazo_gouache_gris_oscuro_0022_03"
+    "tx:trazos/gouache/trazo_gouache_gris_oscuro_0022_03",
+    "tx:productos/cintas_trazo/gouache_25",
+    "tx:productos/cintas_trazo/gouache_34"
    ],
    "formato": null
   },
@@ -8912,7 +8964,9 @@
    "productos_comunes": [
     "tx:trazos/gouache/trazo_gouache_gris_oscuro_0023_01",
     "tx:trazos/gouache/trazo_gouache_gris_oscuro_0023_02",
-    "tx:trazos/gouache/trazo_gouache_gris_oscuro_0023_03"
+    "tx:trazos/gouache/trazo_gouache_gris_oscuro_0023_03",
+    "tx:productos/cintas_trazo/gouache_26",
+    "tx:productos/cintas_trazo/gouache_35"
    ],
    "formato": null
   },
@@ -8925,7 +8979,8 @@
    "productos_comunes": [
     "tx:trazos/gouache/trazo_gouache_gris_0024_01",
     "tx:trazos/gouache/trazo_gouache_gris_0024_02",
-    "tx:trazos/gouache/trazo_gouache_gris_0024_03"
+    "tx:trazos/gouache/trazo_gouache_gris_0024_03",
+    "tx:productos/cintas_trazo/gouache_27"
    ],
    "formato": null
   },
@@ -8937,7 +8992,8 @@
    "id": "or:a8622af802d9a3c83c25bd60e891586d",
    "productos_comunes": [
     "tx:trazos/gouache/trazo_gouache_gris_0025_01",
-    "tx:trazos/gouache/trazo_gouache_gris_0025_02"
+    "tx:trazos/gouache/trazo_gouache_gris_0025_02",
+    "tx:productos/cintas_trazo/gouache_28"
    ],
    "formato": null
   },
@@ -8947,7 +9003,9 @@
    "uso": "sin usar",
    "fuente_ruta": "APOYO/TRAZOS/GUACHE/Gemini_Generated_Image_omhgriomhgriomhg.jpg",
    "id": "or:fb33f7dda84a14d3434758806b5b5cfa",
-   "productos_comunes": [],
+   "productos_comunes": [
+    "tx:productos/cintas_trazo/gouache_29"
+   ],
    "formato": null
   },
   {
@@ -8959,7 +9017,8 @@
    "productos_comunes": [
     "tx:trazos/gouache/trazo_gouache_gris_0026_02",
     "tx:trazos/gouache/trazo_gouache_gris_0026_03",
-    "tx:trazos/gouache/trazo_gouache_gris_oscuro_0026_01"
+    "tx:trazos/gouache/trazo_gouache_gris_oscuro_0026_01",
+    "tx:productos/cintas_trazo/gouache_30"
    ],
    "formato": null
   },
@@ -8969,7 +9028,10 @@
    "uso": "sin usar",
    "fuente_ruta": "APOYO/TRAZOS/GUACHE/Gemini_Generated_Image_t7kg8st7kg8st7kg (1).jpg",
    "id": "or:0877b4440f565bc67c81c2c19fa64d44",
-   "productos_comunes": [],
+   "productos_comunes": [
+    "tx:productos/cintas_trazo/gouache_31",
+    "tx:productos/cintas_trazo/gouache_32"
+   ],
    "formato": null
   },
   {
@@ -8978,7 +9040,10 @@
    "uso": "sin usar",
    "fuente_ruta": "APOYO/TRAZOS/GUACHE/Gemini_Generated_Image_t7kg8st7kg8st7kg.jpg",
    "id": "or:0877b4440f565bc67c81c2c19fa64d44",
-   "productos_comunes": [],
+   "productos_comunes": [
+    "tx:productos/cintas_trazo/gouache_31",
+    "tx:productos/cintas_trazo/gouache_32"
+   ],
    "formato": null
   },
   {
@@ -9014,7 +9079,8 @@
    "fuente_ruta": "APOYO/TRAZOS/Gemini_Generated_Image_1m2vhi1m2vhi1m2v.jpg",
    "id": "or:1fab4c773c1595efc5c71fa8ba5d003b",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_oscuro_0031"
+    "tx:trazos/pincel/trazo_pincel_gris_oscuro_0031",
+    "tx:productos/cintas_trazo/pincel_56"
    ],
    "formato": null
   },
@@ -9047,7 +9113,9 @@
    "fuente_ruta": "APOYO/TRAZOS/Gemini_Generated_Image_4k0x3g4k0x3g4k0x.jpg",
    "id": "or:4473e9c1d6f00ab84b4073cceaf19f51",
    "productos_comunes": [
-    "tx:trazos/carbon/trazo_carboncillo_gris_oscuro_0033"
+    "tx:trazos/carbon/trazo_carboncillo_gris_oscuro_0033",
+    "tx:productos/cintas_trazo/carbon_49",
+    "tx:productos/cintas_trazo/carbon_53"
    ],
    "formato": null
   },
@@ -9058,7 +9126,8 @@
    "fuente_ruta": "APOYO/TRAZOS/Gemini_Generated_Image_dd9o77dd9o77dd9o.jpg",
    "id": "or:93b2c592d0844bb90bdb735019f8632f",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_0034"
+    "tx:trazos/pincel/trazo_pincel_gris_0034",
+    "tx:productos/cintas_trazo/pincel_57"
    ],
    "formato": null
   },
@@ -9080,7 +9149,8 @@
    "fuente_ruta": "APOYO/TRAZOS/Gemini_Generated_Image_gtyi67gtyi67gtyi.jpg",
    "id": "or:f2a1c7dbb7402bd7f31a4c3631b1ce49",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_oscuro_0036"
+    "tx:trazos/pincel/trazo_pincel_gris_oscuro_0036",
+    "tx:productos/cintas_trazo/pincel_58"
    ],
    "formato": null
   },
@@ -9091,7 +9161,8 @@
    "fuente_ruta": "APOYO/TRAZOS/Gemini_Generated_Image_i9od48i9od48i9od.jpg",
    "id": "or:ea43656231d6b863d67eb6c169032e5b",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_0037"
+    "tx:trazos/pincel/trazo_pincel_gris_0037",
+    "tx:productos/cintas_trazo/pincel_59"
    ],
    "formato": null
   },
@@ -9101,7 +9172,9 @@
    "uso": "sin usar",
    "fuente_ruta": "APOYO/TRAZOS/Gemini_Generated_Image_ogccn5ogccn5ogcc.jpg",
    "id": "or:039431753bcad30873ec83cfd64ee744",
-   "productos_comunes": [],
+   "productos_comunes": [
+    "tx:productos/cintas_trazo/pincel_60"
+   ],
    "formato": null
   },
   {
@@ -9111,7 +9184,8 @@
    "fuente_ruta": "APOYO/TRAZOS/Gemini_Generated_Image_uoqx5fuoqx5fuoqx.jpg",
    "id": "or:160a8c8a106c89a1bde10f3990e915d2",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_0038"
+    "tx:trazos/pincel/trazo_pincel_gris_0038",
+    "tx:productos/cintas_trazo/pincel_61"
    ],
    "formato": null
   },
@@ -9141,7 +9215,8 @@
    "fuente_ruta": "APOYO/TRAZOS/Gemini_Generated_Image_xw72ktxw72ktxw72.jpg",
    "id": "or:7b13ec84a1c7508de63bb6cf144d9b9e",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_0040"
+    "tx:trazos/pincel/trazo_pincel_gris_0040",
+    "tx:productos/cintas_trazo/pincel_62"
    ],
    "formato": null
   },
@@ -9227,7 +9302,10 @@
    "fuente_ruta": "APOYO/TRAZOS/LAPIZ/Gemini_Generated_Image_4vfeh34vfeh34vfe.jpg",
    "id": "or:46afa9de8ecce9fc9ba79d3e9e6721b3",
    "productos_comunes": [
-    "tx:trazos/carbon/trazo_carboncillo_gris_oscuro_0045"
+    "tx:trazos/carbon/trazo_carboncillo_gris_oscuro_0045",
+    "tx:productos/cintas_trazo/carbon_46",
+    "tx:productos/cintas_trazo/carbon_50",
+    "tx:productos/cintas_trazo/carbon_54"
    ],
    "formato": null
   },
@@ -9240,7 +9318,10 @@
    "productos_comunes": [
     "tx:trazos/lapiz/trazo_grafito_gris_0046_02",
     "tx:trazos/lapiz/trazo_grafito_gris_0046_03",
-    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0046_01"
+    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0046_01",
+    "tx:productos/cintas_trazo/lapiz_36",
+    "tx:productos/cintas_trazo/lapiz_40",
+    "tx:productos/cintas_trazo/lapiz_44"
    ],
    "formato": null
   },
@@ -9253,7 +9334,9 @@
    "productos_comunes": [
     "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0047_01",
     "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0047_02",
-    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0047_03"
+    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0047_03",
+    "tx:productos/cintas_trazo/lapiz_37",
+    "tx:productos/cintas_trazo/lapiz_41"
    ],
    "formato": null
   },
@@ -9265,7 +9348,10 @@
    "id": "or:16105ce5cc4b1d2b200909510e32b70f",
    "productos_comunes": [
     "tx:trazos/carbon/trazo_carboncillo_gris_oscuro_0048_01",
-    "tx:trazos/carbon/trazo_carboncillo_gris_oscuro_0048_02"
+    "tx:trazos/carbon/trazo_carboncillo_gris_oscuro_0048_02",
+    "tx:productos/cintas_trazo/carbon_47",
+    "tx:productos/cintas_trazo/carbon_51",
+    "tx:productos/cintas_trazo/carbon_55"
    ],
    "formato": null
   },
@@ -9278,7 +9364,10 @@
    "productos_comunes": [
     "tx:trazos/lapiz/trazo_grafito_gris_0049_01",
     "tx:trazos/lapiz/trazo_grafito_gris_0049_03",
-    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0049_02"
+    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0049_02",
+    "tx:productos/cintas_trazo/lapiz_38",
+    "tx:productos/cintas_trazo/lapiz_42",
+    "tx:productos/cintas_trazo/lapiz_45"
    ],
    "formato": null
   },
@@ -9291,7 +9380,9 @@
    "productos_comunes": [
     "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0050_01",
     "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0050_02",
-    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0050_03"
+    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0050_03",
+    "tx:productos/cintas_trazo/lapiz_39",
+    "tx:productos/cintas_trazo/lapiz_43"
    ],
    "formato": null
   },
@@ -9302,7 +9393,9 @@
    "fuente_ruta": "APOYO/TRAZOS/LAPIZ/Gemini_Generated_Image_uvge2nuvge2nuvge.jpg",
    "id": "or:8b1caba32d3287fa9a08c5de574690c6",
    "productos_comunes": [
-    "tx:trazos/carbon/trazo_carboncillo_gris_oscuro_0051_01"
+    "tx:trazos/carbon/trazo_carboncillo_gris_oscuro_0051_01",
+    "tx:productos/cintas_trazo/carbon_48",
+    "tx:productos/cintas_trazo/carbon_52"
    ],
    "formato": null
   },
@@ -9316,7 +9409,8 @@
     "tx:trazos/rotulador/lineas_azules_0052_01",
     "tx:trazos/rotulador/lineas_azules_0052_02",
     "tx:trazos/rotulador/lineas_azules_0052_03",
-    "tx:trazos/rotulador/lineas_azules_0052_04"
+    "tx:trazos/rotulador/lineas_azules_0052_04",
+    "tx:productos/cintas_trazo/rotulador_78"
    ],
    "formato": null
   },
@@ -9332,7 +9426,9 @@
     "tx:trazos/boligrafo/lineas_azules_0053_03",
     "tx:trazos/boligrafo/lineas_azules_0053_04",
     "tx:trazos/boligrafo/lineas_azules_0053_05",
-    "tx:trazos/boligrafo/lineas_azules_0053_06"
+    "tx:trazos/boligrafo/lineas_azules_0053_06",
+    "tx:productos/cintas_trazo/boligrafo_81",
+    "tx:productos/cintas_trazo/boligrafo_85"
    ],
    "formato": null
   },
@@ -9363,7 +9459,9 @@
     "tx:trazos/boligrafo/lineas_rojas_0055_03",
     "tx:trazos/boligrafo/lineas_rojas_0055_04",
     "tx:trazos/boligrafo/lineas_rojas_0055_05",
-    "tx:trazos/boligrafo/lineas_rojas_0055_06"
+    "tx:trazos/boligrafo/lineas_rojas_0055_06",
+    "tx:productos/cintas_trazo/boligrafo_82",
+    "tx:productos/cintas_trazo/boligrafo_86"
    ],
    "formato": null
   },
@@ -9394,7 +9492,8 @@
     "tx:trazos/pincel/muestras_pinceladas_azules_0057_01",
     "tx:trazos/pincel/muestras_pinceladas_azules_0057_02",
     "tx:trazos/pincel/muestras_pinceladas_azules_0057_03",
-    "tx:trazos/pincel/muestras_pinceladas_azules_0057_04"
+    "tx:trazos/pincel/muestras_pinceladas_azules_0057_04",
+    "tx:productos/cintas_trazo/pincel_68"
    ],
    "formato": null
   },
@@ -9447,7 +9546,8 @@
     "tx:trazos/pincel/ocho_pinceladas_azules_0061_04",
     "tx:trazos/pincel/ocho_pinceladas_azules_0061_05",
     "tx:trazos/pincel/ocho_pinceladas_azules_0061_06",
-    "tx:trazos/pincel/ocho_pinceladas_azules_0061_07"
+    "tx:trazos/pincel/ocho_pinceladas_azules_0061_07",
+    "tx:productos/cintas_trazo/pincel_69"
    ],
    "formato": null
   },
@@ -9458,7 +9558,8 @@
    "fuente_ruta": "APOYO/TRAZOS/Pincelada gris sobre blanco.png",
    "id": "or:0e36d27811e2498679e00e8a3bb3a6f9",
    "productos_comunes": [
-    "tx:trazos/brocha/pincelada_gris_0062"
+    "tx:trazos/brocha/pincelada_gris_0062",
+    "tx:productos/cintas_trazo/brocha_70"
    ],
    "formato": null
   },
@@ -9469,7 +9570,8 @@
    "fuente_ruta": "APOYO/TRAZOS/Pincelada vertical gris sobre blanco.png",
    "id": "or:9af81d46749352e1f8119c5bc9358f0b",
    "productos_comunes": [
-    "tx:trazos/brocha/pincelada_vertical_gris_0063"
+    "tx:trazos/brocha/pincelada_vertical_gris_0063",
+    "tx:productos/cintas_trazo/brocha_71"
    ],
    "formato": null
   },
@@ -9485,7 +9587,8 @@
     "tx:trazos/pincel/pinceladas_azules_0064_03",
     "tx:trazos/pincel/pinceladas_azules_0064_04",
     "tx:trazos/pincel/pinceladas_azules_0064_05",
-    "tx:trazos/pincel/pinceladas_azules_0064_06"
+    "tx:trazos/pincel/pinceladas_azules_0064_06",
+    "tx:productos/cintas_trazo/pincel_66"
    ],
    "formato": null
   },
@@ -9499,7 +9602,8 @@
     "tx:trazos/pincel/pinceladas_rojas_0065_01",
     "tx:trazos/pincel/pinceladas_rojas_0065_02",
     "tx:trazos/pincel/pinceladas_rojas_0065_03",
-    "tx:trazos/pincel/pinceladas_rojas_0065_04"
+    "tx:trazos/pincel/pinceladas_rojas_0065_04",
+    "tx:productos/cintas_trazo/pincel_65"
    ],
    "formato": null
   },
@@ -9557,7 +9661,12 @@
     "tx:trazos/pincel_fino/trazos_azules_0068_02",
     "tx:trazos/pincel_fino/trazos_azules_0068_03",
     "tx:trazos/pincel_fino/trazos_azules_0068_04",
-    "tx:trazos/pincel_fino/trazos_azules_0068_05"
+    "tx:trazos/pincel_fino/trazos_azules_0068_05",
+    "tx:productos/cintas_trazo/pincel_fino_72",
+    "tx:productos/cintas_trazo/pincel_fino_73",
+    "tx:productos/cintas_trazo/pincel_fino_74",
+    "tx:productos/cintas_trazo/pincel_fino_75",
+    "tx:productos/cintas_trazo/pincel_fino_76"
    ],
    "formato": null
   },
@@ -9570,7 +9679,8 @@
    "productos_comunes": [
     "tx:trazos/pincel/trazos_azules_0069_01",
     "tx:trazos/pincel/trazos_azules_0069_02",
-    "tx:trazos/pincel/trazos_azules_0069_03"
+    "tx:trazos/pincel/trazos_azules_0069_03",
+    "tx:productos/cintas_trazo/pincel_67"
    ],
    "formato": null
   },

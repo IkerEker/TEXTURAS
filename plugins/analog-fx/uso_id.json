@@ -850,7 +850,8 @@
    "fuente_ruta": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_1m2vhi1m2vhi1m2v.jpg",
    "id": "or:1fab4c773c1595efc5c71fa8ba5d003b",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_oscuro_0031"
+    "tx:trazos/pincel/trazo_pincel_gris_oscuro_0031",
+    "tx:productos/cintas_trazo/pincel_56"
    ],
    "formato": null
   },
@@ -874,7 +875,8 @@
    "fuente_ruta": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_dd9o77dd9o77dd9o.jpg",
    "id": "or:93b2c592d0844bb90bdb735019f8632f",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_0034"
+    "tx:trazos/pincel/trazo_pincel_gris_0034",
+    "tx:productos/cintas_trazo/pincel_57"
    ],
    "formato": null
   },
@@ -922,7 +924,8 @@
    "fuente_ruta": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_gtyi67gtyi67gtyi.jpg",
    "id": "or:f2a1c7dbb7402bd7f31a4c3631b1ce49",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_oscuro_0036"
+    "tx:trazos/pincel/trazo_pincel_gris_oscuro_0036",
+    "tx:productos/cintas_trazo/pincel_58"
    ],
    "formato": null
   },
@@ -934,7 +937,8 @@
    "fuente_ruta": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_i9od48i9od48i9od.jpg",
    "id": "or:ea43656231d6b863d67eb6c169032e5b",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_0037"
+    "tx:trazos/pincel/trazo_pincel_gris_0037",
+    "tx:productos/cintas_trazo/pincel_59"
    ],
    "formato": null
   },
@@ -945,7 +949,9 @@
    "uso": "NO SE USA (candidata en el repo)",
    "fuente_ruta": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_ogccn5ogccn5ogcc.jpg",
    "id": "or:039431753bcad30873ec83cfd64ee744",
-   "productos_comunes": [],
+   "productos_comunes": [
+    "tx:productos/cintas_trazo/pincel_60"
+   ],
    "formato": null
   },
   {
@@ -968,7 +974,8 @@
    "fuente_ruta": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_uoqx5fuoqx5fuoqx.jpg",
    "id": "or:160a8c8a106c89a1bde10f3990e915d2",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_0038"
+    "tx:trazos/pincel/trazo_pincel_gris_0038",
+    "tx:productos/cintas_trazo/pincel_61"
    ],
    "formato": null
   },
@@ -980,7 +987,8 @@
    "fuente_ruta": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Gemini_Generated_Image_xw72ktxw72ktxw72.jpg",
    "id": "or:7b13ec84a1c7508de63bb6cf144d9b9e",
    "productos_comunes": [
-    "tx:trazos/pincel/trazo_pincel_gris_0040"
+    "tx:trazos/pincel/trazo_pincel_gris_0040",
+    "tx:productos/cintas_trazo/pincel_62"
    ],
    "formato": null
   },
@@ -1016,7 +1024,8 @@
    "fuente_ruta": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Pincelada gris sobre blanco.png",
    "id": "or:0e36d27811e2498679e00e8a3bb3a6f9",
    "productos_comunes": [
-    "tx:trazos/brocha/pincelada_gris_0062"
+    "tx:trazos/brocha/pincelada_gris_0062",
+    "tx:productos/cintas_trazo/brocha_70"
    ],
    "formato": null
   },
@@ -1028,7 +1037,8 @@
    "fuente_ruta": "textures-src/OTRAS TEXTURAS/MANCHA CON  FORMA CONCRETA/Pincelada vertical gris sobre blanco.png",
    "id": "or:9af81d46749352e1f8119c5bc9358f0b",
    "productos_comunes": [
-    "tx:trazos/brocha/pincelada_vertical_gris_0063"
+    "tx:trazos/brocha/pincelada_vertical_gris_0063",
+    "tx:productos/cintas_trazo/brocha_71"
    ],
    "formato": null
   },
