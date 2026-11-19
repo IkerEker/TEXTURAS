@@ -46,7 +46,7 @@ function GitRun([string[]]$a) {
   return $p.ExitCode
 }
 function Clonar($url, $dest, $rama) {
-  if (Test-Path (Join-Path $dest '.git')) { Log "  ya está: $dest"; return }
+  if (Test-Path (Join-Path $dest '.git')) { Log "  ya está: $dest (actualizando)"; [void](GitRun @('-C', "`"$dest`"", 'pull', '--ff-only')); return }
   if (Test-Path $dest) { Log "  ERROR: $dest existe pero no es un clon. Revísalo."; return }
   Log "  clonando $url ($rama) -> $dest  (puede tardar)"
   $c = GitRun @('clone', '--depth', '1', '--branch', $rama, $url, "`"$dest`"")
