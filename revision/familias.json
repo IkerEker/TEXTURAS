@@ -1,0 +1,307 @@
+{
+"esquina_plegada_blanca": {
+"miembros": [
+"tx:bordes/C_oreja/collage_esquinas_papel_plegadas_0490",
+"tx:bordes/C_oreja/esquinas_papel_plegadas_0494",
+"tx:bordes/C_oreja/tres_esquinas_papel_dobladas_0604"
+],
+"uso": "esquina de hoja blanca doblada hacia dentro, para rematar fotos/notas o simular página que se levanta",
+"modo": "normal",
+"usar_si": "quieres un doblez limpio y moderno",
+"evitar_si": "el estilo es viejo o sucio",
+"mejor": "tx:bordes/C_oreja/tres_esquinas_papel_dobladas_0604"
+},
+"esquina_rasgada_doblada": {
+"miembros": [
+"tx:bordes/C_oreja_rota/borde_gris_claro_0529",
+"tx:bordes/C_oreja_rota/borde_gris_claro_0548",
+"tx:bordes/C_oreja_rota/esquinas_papel_rasgado_0493",
+"tx:bordes/C_oreja_rota/esquinas_papel_rasgado_0496",
+"tx:bordes/C_oreja_rota/esquinas_papel_rasgado_0497",
+"tx:bordes/C_oreja_rota/esquinas_papel_rasgado_verde_auxiliar_0495",
+"tx:bordes/blanco/borde_gris_claro_0562",
+"tx:bordes/blanco/borde_gris_claro_0572"
+],
+"uso": "esquina de papel (blanco o crema) doblada y rasgada, con fibras y arruga",
+"modo": "normal",
+"usar_si": "quieres desgaste fuerte en una esquina",
+"evitar_si": "se ve a mucho tamaño: el doblez es grande y protagonista",
+"mejor": "tx:bordes/C_oreja_rota/esquinas_papel_rasgado_0496"
+},
+"borde_naranja_viejo": {
+"miembros": [
+"tx:bordes/C_vieja/borde_naranja_0519",
+"tx:bordes/C_vieja/borde_naranja_0531",
+"tx:bordes/C_vieja/borde_naranja_0539",
+"tx:bordes/C_vieja/borde_naranja_0561"
+],
+"uso": "esquinas/bordes de papel viejo amarillento redondeados y gastados (4 por lámina)",
+"modo": "normal",
+"usar_si": "enmarcas una foto vieja o carta",
+"evitar_si": "necesitas el borde sin sombra: llevan halo de sombra suave pegado"
+},
+"esquina_vieja_4": {
+"miembros": [
+"tx:bordes/C_vieja/cuatro_esquinas_papel_envejecido_0491",
+"tx:bordes/C_vieja/cuatro_esquinas_papel_envejecido_0492",
+"tx:bordes/C_vieja/esquinas_papel_vintage_0498",
+"tx:bordes/C_vieja/fragmentos_papel_envejecido_cuadricula_0499"
+],
+"uso": "cuatro esquinas sueltas de papel viejo amarillento rasgado",
+"modo": "normal",
+"usar_si": "rematas las 4 esquinas de una composición vintage",
+"evitar_si": "quieres papel limpio",
+"mejor": "tx:bordes/C_vieja/cuatro_esquinas_papel_envejecido_0491"
+},
+"tira_borde_rasgado_blanco": {
+"miembros": [
+"tx:bordes/acuarela/borde_gris_claro_0508",
+"tx:bordes/acuarela/borde_gris_claro_0511",
+"tx:bordes/acuarela/borde_papel_rasgado_0467",
+"tx:bordes/acuarela/borde_rasgado_0450",
+"tx:bordes/acuarela/papel_rasgado_0592",
+"tx:bordes/acuarela/textura_papel_rasgado_0601",
+"tx:bordes/blanco/borde_gris_claro_0514",
+"tx:bordes/blanco/borde_gris_claro_0515",
+"tx:bordes/blanco/borde_gris_claro_0518",
+"tx:bordes/blanco/borde_gris_claro_0522",
+"tx:bordes/blanco/borde_gris_claro_0534",
+"tx:bordes/blanco/borde_gris_claro_0542",
+"tx:bordes/blanco/borde_gris_claro_0547",
+"tx:bordes/blanco/borde_gris_claro_0551",
+"tx:bordes/blanco/borde_gris_claro_0555",
+"tx:bordes/blanco/borde_gris_claro_0556",
+"tx:bordes/blanco/borde_gris_claro_0566",
+"tx:bordes/blanco/borde_papel_rasgado_0466",
+"tx:bordes/blanco/borde_papel_rasgado_0468",
+"tx:bordes/blanco/borde_papel_rasgado_0469",
+"tx:bordes/blanco/borde_papel_rasgado_0470",
+"tx:bordes/blanco/borde_papel_rasgado_0471",
+"tx:bordes/blanco/papel_blanco_rasgado_0579",
+"tx:bordes/blanco/papel_blanco_rasgado_0580",
+"tx:bordes/blanco/papel_blanco_rasgado_0581",
+"tx:bordes/blanco/papel_rasgado_0589",
+"tx:bordes/blanco/papel_rasgado_0591"
+],
+"uso": "tira horizontal de papel blanco/gris con el borde superior rasgado (fibras blancas) para rematar un corte de papel",
+"modo": "normal",
+"usar_si": "haces un «papel arrancado» limpio encima de otra imagen",
+"evitar_si": "necesitas el otro lado del papel: solo está rasgado arriba",
+"mejor": "tx:bordes/blanco/papel_blanco_rasgado_0579"
+},
+"tira_borde_artesanal": {
+"miembros": [
+"tx:bordes/artesanal/borde_papel_artesanal_0457",
+"tx:bordes/artesanal/borde_papel_artesanal_0458",
+"tx:bordes/artesanal/papel_artesanal_0578",
+"tx:bordes/artesanal/papel_artesanal_rasgado_0577",
+"tx:bordes/carton/borde_naranja_0505",
+"tx:bordes/carton/borde_naranja_0528",
+"tx:bordes/carton/borde_naranja_claro_0543",
+"tx:bordes/viejo/borde_amarillo_claro_0568"
+],
+"uso": "tira de papel artesanal crema con fibras e inclusiones vegetales, borde rasgado muy fibroso",
+"modo": "normal",
+"usar_si": "quieres un borde orgánico y cálido",
+"evitar_si": "el diseño es limpio/moderno",
+"mejor": "tx:bordes/artesanal/borde_papel_artesanal_0458"
+},
+"tira_borde_color_fibra": {
+"miembros": [
+"tx:bordes/bisel/borde_azul_0506",
+"tx:bordes/bisel/borde_azul_0538",
+"tx:bordes/bisel/borde_azul_0560",
+"tx:bordes/bisel/borde_azul_0564",
+"tx:bordes/bisel/borde_papel_azul_rasgado_0459",
+"tx:bordes/bisel/borde_papel_azul_rasgado_0460",
+"tx:bordes/bisel/borde_papel_rasgado_verde_azul_0473",
+"tx:bordes/bisel/textura_papel_rasgado_verde_azul_0602"
+],
+"uso": "tira de cartulina de color con rasgado que deja ver el alma blanca fibrosa",
+"modo": "normal",
+"usar_si": "quieres el contraste color/blanco del papel rasgado",
+"evitar_si": "necesitas otro color: recolorear rompe el blanco de las fibras",
+"mejor": "tx:bordes/bisel/borde_papel_azul_rasgado_0459"
+},
+"tira_borde_perforado": {
+"miembros": [
+"tx:bordes/blanco/borde_blanco_0516",
+"tx:bordes/blanco/borde_blanco_0533",
+"tx:bordes/espiral/borde_cuaderno_espiral_rasgado_0455",
+"tx:bordes/espiral/borde_cuaderno_rasgado_0456",
+"tx:bordes/espiral/borde_gris_claro_0549",
+"tx:bordes/espiral/borde_perforado_rasgado_0475",
+"tx:bordes/espiral/papel_cuaderno_rasgado_0582"
+],
+"uso": "tira de hoja blanca arrancada de cuaderno de espiral, con los dientes de la perforación rotos arriba",
+"modo": "normal",
+"usar_si": "simulas una hoja arrancada de libreta",
+"evitar_si": "quieres un rasgado orgánico",
+"mejor": "tx:bordes/espiral/borde_cuaderno_espiral_rasgado_0455"
+},
+"tira_borde_viejo_roto": {
+"miembros": [
+"tx:bordes/blanco/borde_gris_claro_0512",
+"tx:bordes/blanco/borde_gris_claro_0517",
+"tx:bordes/carton/borde_naranja_0509"
+],
+"uso": "tira de papel viejo/cartón crema con el canto roto y deshilachado",
+"modo": "normal",
+"usar_si": "quieres un canto muy castigado",
+"evitar_si": "el tono crema choca con el diseño"
+},
+"tira_borde_fibra_larga": {
+"miembros": [
+"tx:bordes/blanco/borde_gris_claro_0513",
+"tx:bordes/blanco/borde_gris_claro_0521",
+"tx:bordes/blanco/borde_gris_claro_0524",
+"tx:bordes/blanco/borde_gris_claro_0525",
+"tx:bordes/blanco/borde_gris_claro_0526",
+"tx:bordes/blanco/borde_gris_claro_0554",
+"tx:bordes/blanco/borde_gris_claro_0573",
+"tx:bordes/viejo/borde_amarillo_claro_0532",
+"tx:bordes/washi/borde_gris_claro_0507",
+"tx:bordes/washi/borde_papel_fibroso_0462",
+"tx:bordes/washi/borde_papel_fibroso_0463",
+"tx:bordes/washi/franja_fibras_0500"
+],
+"uso": "tira de papel gris claro con fibras muy largas tipo pelo saliendo del rasgado",
+"modo": "normal",
+"usar_si": "quieres un rasgado exagerado y textil",
+"evitar_si": "va pequeño: las fibras finas desaparecen",
+"mejor": "tx:bordes/washi/borde_gris_claro_0507"
+},
+"tira_borde_carton": {
+"miembros": [
+"tx:bordes/carton/borde_carton_corrugado_0453",
+"tx:bordes/carton/borde_carton_desgastado_0454",
+"tx:bordes/carton/borde_marron_0546",
+"tx:bordes/carton/borde_naranja_0501",
+"tx:bordes/carton/borde_naranja_0502",
+"tx:bordes/carton/borde_naranja_0504",
+"tx:bordes/carton/borde_naranja_0520",
+"tx:bordes/carton/borde_naranja_0535",
+"tx:bordes/carton/borde_naranja_0537",
+"tx:bordes/carton/borde_naranja_0540",
+"tx:bordes/carton/borde_naranja_0545",
+"tx:bordes/carton/borde_naranja_0553",
+"tx:bordes/carton/borde_naranja_0557",
+"tx:bordes/carton/borde_naranja_0558",
+"tx:bordes/carton/borde_naranja_0559",
+"tx:bordes/carton/borde_naranja_0567",
+"tx:bordes/carton/borde_naranja_0569",
+"tx:bordes/carton/carton_corrugado_desgarrado_0478",
+"tx:bordes/carton/carton_corrugado_rasgado_0480",
+"tx:bordes/carton/carton_corrugado_rasgado_0481",
+"tx:bordes/carton/carton_corrugado_rasgado_0483",
+"tx:bordes/carton/carton_corrugado_rasgado_0484",
+"tx:bordes/carton/carton_kraft_desgastado_0487",
+"tx:bordes/carton/primer_plano_carton_desgastado_0594",
+"tx:bordes/carton/textura_carton_corrugado_0596",
+"tx:bordes/carton/textura_carton_corrugado_0597",
+"tx:bordes/carton_roto/carton_corrugado_rasgado_0479",
+"tx:bordes/carton_roto/carton_corrugado_rasgado_0482",
+"tx:bordes/carton_roto/carton_kraft_borde_rasgado_0486",
+"tx:bordes/carton_roto/carton_kraft_rasgado_0488",
+"tx:bordes/carton_roto/carton_kraft_rasgado_0489"
+],
+"uso": "tira de cartón ondulado/kraft con el canto roto, capas a la vista",
+"modo": "normal",
+"usar_si": "quieres un canto de caja rota",
+"evitar_si": "buscas papel fino",
+"mejor": "tx:bordes/carton/carton_corrugado_desgarrado_0478"
+},
+"tira_borde_quemado": {
+"miembros": [
+"tx:bordes/carton/borde_naranja_0527",
+"tx:bordes/carton/borde_naranja_0530",
+"tx:bordes/carton/borde_naranja_0544",
+"tx:bordes/carton/borde_naranja_0550",
+"tx:bordes/carton/borde_naranja_0552",
+"tx:bordes/carton/borde_naranja_0563"
+],
+"uso": "tira de papel/cartón tostado con el canto roto, oscurecido o chamuscado",
+"modo": "normal",
+"usar_si": "quieres un borde viejo, quemado o de pergamino",
+"evitar_si": "el diseño es limpio",
+"mejor": "tx:bordes/carton/borde_naranja_0552"
+},
+"tira_borde_gris_fibra": {
+"miembros": [
+"tx:bordes/gris/borde_gris_0503",
+"tx:bordes/gris/borde_gris_0510",
+"tx:bordes/gris/borde_gris_0523",
+"tx:bordes/gris/borde_gris_0536",
+"tx:bordes/gris/borde_gris_0541",
+"tx:bordes/gris/borde_gris_0570",
+"tx:bordes/gris/borde_gris_0571",
+"tx:bordes/gris/borde_papel_rasgado_verde_vivo_0452",
+"tx:bordes/gris/carton_gris_rasgado_0485",
+"tx:bordes/gris/cartulina_gris_rasgada_0477",
+"tx:bordes/gris/papel_gris_rasgado_0585",
+"tx:bordes/gris/textura_papel_gris_rasgado_0599"
+],
+"uso": "cartón gris (tipo contracolado) con el canto rasgado y fibras crema abundantes",
+"modo": "normal",
+"usar_si": "quieres un canto industrial/grueso",
+"evitar_si": "quieres papel fino",
+"mejor": "tx:bordes/gris/cartulina_gris_rasgada_0477"
+},
+"tira_borde_kraft": {
+"miembros": [
+"tx:bordes/kraft/papel_kraft_rasgado_0586",
+"tx:bordes/kraft/papel_kraft_rasgado_0587",
+"tx:bordes/kraft/papel_kraft_rasgado_0588",
+"tx:bordes/kraft/textura_papel_kraft_rasgado_0600"
+],
+"uso": "tira de papel kraft naranja con rasgado de fibras claras",
+"modo": "normal",
+"usar_si": "quieres papel de estraza rasgado",
+"evitar_si": "buscas cartón grueso",
+"mejor": "tx:bordes/kraft/papel_kraft_rasgado_0586"
+},
+"tira_borde_reciclado": {
+"miembros": [
+"tx:bordes/periodico/borde_papel_rasgado_0464",
+"tx:bordes/periodico/borde_papel_rasgado_0465",
+"tx:bordes/periodico/borde_papel_rasgado_0472",
+"tx:bordes/periodico/textura_macro_papel_rasgado_0603"
+],
+"uso": "tira de papel reciclado gris-beige con rasgado fibroso",
+"modo": "normal",
+"usar_si": "quieres un papel neutro y humilde",
+"evitar_si": "necesitas blanco limpio",
+"mejor": "tx:bordes/periodico/textura_macro_papel_rasgado_0603"
+},
+"tira_borde_translucido": {
+"miembros": [
+"tx:bordes/vegetal/borde_papel_translucido_rasgado_0474",
+"tx:bordes/vegetal/borde_rasgado_0476"
+],
+"uso": "tira de papel vegetal/translúcido con rasgado blanco, fotografiado sobre negro",
+"modo": "normal (o trama/aclarar para que deje ver)",
+"usar_si": "quieres el rasgado de papel vegetal",
+"evitar_si": "esperas transparencia real: el gris del fondo negro va dentro"
+},
+"tira_borde_antiguo": {
+"miembros": [
+"tx:bordes/viejo/borde_amarillo_claro_0565",
+"tx:bordes/viejo/borde_papel_rasgado_0451",
+"tx:bordes/viejo/papel_antiguo_rasgado_0576",
+"tx:bordes/viejo/papel_envejecido_borde_rasgado_0583",
+"tx:bordes/viejo/papel_envejecido_rasgado_0584",
+"tx:bordes/viejo/papel_rasgado_0590",
+"tx:bordes/viejo/pergamino_antiguo_0593",
+"tx:bordes/viejo/textura_papel_antiguo_rasgado_0595",
+"tx:bordes/viejo/textura_papel_blanco_rasgado_0598",
+"tx:bordes/viejo_roto/borde_papel_envejecido_0461",
+"tx:bordes/viejo_roto/papel_antiguo_rasgado_0575",
+"tx:bordes/viejo_roto/papel_rasgado_0574"
+],
+"uso": "tira de papel antiguo (crema o tostado/ocre) con canto rasgado, desconchado o agrietado",
+"modo": "normal",
+"usar_si": "quieres un documento viejo",
+"evitar_si": "el ocre fuerte no casa con la paleta",
+"mejor": "tx:bordes/viejo/papel_antiguo_rasgado_0576"
+}
+}

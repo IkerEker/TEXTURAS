@@ -1,0 +1,67 @@
+{
+"tx:bordes/viejo_roto/papel_rasgado_0574": {
+"que_es": "papel ocre con canto desconchado y agujero real",
+"calidad": 4,
+"defectos": "",
+"familia": "tira_borde_antiguo",
+"variante": 12,
+"diferencia": "con agujero",
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/tx_bordes-11.jpg"
+},
+"tx:bordes/washi/borde_gris_claro_0507": {
+"que_es": "papel blanco con mechones largos sedosos",
+"calidad": 5,
+"defectos": "",
+"familia": "tira_borde_fibra_larga",
+"variante": 9,
+"diferencia": "mechones muy finos",
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/tx_bordes-11.jpg"
+},
+"tx:bordes/washi/borde_papel_fibroso_0462": {
+"que_es": "papel japonés blanco con fibras largas sueltas",
+"calidad": 4,
+"defectos": "",
+"familia": "tira_borde_fibra_larga",
+"variante": 10,
+"diferencia": "fibras dispersas",
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/tx_bordes-11.jpg"
+},
+"tx:bordes/washi/borde_papel_fibroso_0463": {
+"que_es": "papel japonés blanco con fibras finas",
+"calidad": 4,
+"defectos": "",
+"familia": "tira_borde_fibra_larga",
+"variante": 11,
+"diferencia": "casi igual a la 3",
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/tx_bordes-11.jpg"
+},
+"tx:bordes/washi/franja_fibras_0500": {
+"que_es": "franja de papel japonés con fibras",
+"calidad": 4,
+"defectos": "",
+"familia": "tira_borde_fibra_larga",
+"variante": 12,
+"diferencia": "casi igual a la 3",
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/tx_bordes-11.jpg"
+}
+}
