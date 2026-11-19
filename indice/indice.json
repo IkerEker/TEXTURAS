@@ -1,10 +1,10 @@
 {
 "version": "2026-11-19",
 "raiz": "Biblioteca/ (variable TEXTURAS_ROOT)",
-"total": 8154,
+"total": 8156,
 "por_coleccion": {
 "TEXTURAS": 3172,
-"originales": 2057,
+"originales": 2059,
 "ACIDBITE": 2925
 },
 "por_clase": {
@@ -17,7 +17,7 @@
 "tileables": 416,
 "trazos": 358,
 "video": 1804,
-"—": 2057,
+"—": 2059,
 "tutorial": 48,
 "plantilla": 52,
 "sonido": 658,
@@ -56911,7 +56911,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:e0160c1e257ae6048bbdc2615cd37cc4",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/QuickTime/T1.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 12.5,
@@ -56930,6 +56930,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Free Spray Paint Textures",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__elementos__spray.jpg"
 },
 {
@@ -56951,7 +56961,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:3a9e5d3472e63bfa736576923154d4d7",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/QuickTime/T2.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 12.5,
@@ -56970,6 +56980,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Free Spray Paint Textures",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__elementos__spray.jpg"
 },
 {
@@ -56991,7 +57011,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:cbca8a8108212630bc9a49480eca9a58",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/QuickTime/T3.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 12.5,
@@ -57010,6 +57030,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Free Spray Paint Textures",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__elementos__spray.jpg"
 },
 {
@@ -57031,7 +57061,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:156ca0d5617cae743f0f4e66f425992b",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/QuickTime/T4.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 12.5,
@@ -57050,6 +57080,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Free Spray Paint Textures",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__elementos__spray.jpg"
 },
 {
@@ -57271,7 +57311,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:b8f74cae0ff693ff57c18bf9f6764145",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/AnimatedTexturesPack_QuickTimeProRes/Texture3_BlackPaper_Grunge.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 12.0,
 "fps_efectivo": 12.0,
@@ -57290,6 +57330,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Animated Paper Texture Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__texturas_animadas__grunge.jpg"
 },
 {
@@ -57311,7 +57361,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:8ec562adb058580039c7c07a9c7ae28b",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/AnimatedTexturesPack_QuickTimeProRes/Texture4_WhitePaper_Grunge.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 12.0,
 "fps_efectivo": 12.0,
@@ -57330,6 +57380,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Animated Paper Texture Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__texturas_animadas__grunge.jpg"
 },
 {
@@ -57351,7 +57411,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:5d0eabb08fbde9dd41d36ff5a46913d9",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/AnimatedTexturesPack_QuickTimeProRes/Texture10_WhitePaper_VerticalLines.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 12.0,
 "fps_efectivo": 12.0,
@@ -57370,6 +57430,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Animated Paper Texture Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__texturas_animadas__lineas.jpg"
 },
 {
@@ -57391,7 +57461,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:f0627529c53e7cfd5f30d0ebc0c598b7",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/AnimatedTexturesPack_QuickTimeProRes/Texture11_BlackPaper_HorizontalLines.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 12.0,
 "fps_efectivo": 12.0,
@@ -57410,6 +57480,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Animated Paper Texture Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__texturas_animadas__lineas.jpg"
 },
 {
@@ -57431,7 +57511,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:be2d18e6f574ba3427c4df0de5866f7c",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/AnimatedTexturesPack_QuickTimeProRes/Texture12_WhitePaper_HorizontalLines.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 12.0,
 "fps_efectivo": 12.0,
@@ -57450,6 +57530,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Animated Paper Texture Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__texturas_animadas__lineas.jpg"
 },
 {
@@ -57471,7 +57561,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:fee06f31a703c35bcf4f8c82c251e341",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/AnimatedTexturesPack_QuickTimeProRes/Texture9_BlackPaper_VerticalLines.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 12.0,
 "fps_efectivo": 12.0,
@@ -57490,6 +57580,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Animated Paper Texture Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__texturas_animadas__lineas.jpg"
 },
 {
@@ -57511,7 +57611,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:0f1f42491288156fef1dc325fd3a8607",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/AnimatedTexturesPack_QuickTimeProRes/Texture13_PaintLeaks.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 12.0,
 "fps_efectivo": 12.0,
@@ -57530,6 +57630,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Animated Paper Texture Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__texturas_animadas__manchas.jpg"
 },
 {
@@ -57551,7 +57661,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:a0a4abbb3dd83643050378a72720c740",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/AnimatedTexturesPack_QuickTimeProRes/Texture1_BlackPaper.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 12.0,
 "fps_efectivo": 12.0,
@@ -57570,6 +57680,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Animated Paper Texture Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__texturas_animadas__papel.jpg"
 },
 {
@@ -57591,7 +57711,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:dd903b91e1e2fccaa4a479e127692ae6",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/AnimatedTexturesPack_QuickTimeProRes/Texture2_WhitePaper.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 12.0,
 "fps_efectivo": 12.0,
@@ -57610,6 +57730,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Animated Paper Texture Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__texturas_animadas__papel.jpg"
 },
 {
@@ -57631,7 +57761,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:cffbc53b2cbbb307a834e09cd70f1bb2",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/AnimatedTexturesPack_QuickTimeProRes/Texture5_BlackPaper_Splashes.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 12.0,
 "fps_efectivo": 12.0,
@@ -57650,6 +57780,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Animated Paper Texture Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__texturas_animadas__salpicaduras.jpg"
 },
 {
@@ -57671,7 +57811,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:9e725150bf6c9d4bf64c53b907295900",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/AnimatedTexturesPack_QuickTimeProRes/Texture6_WhitePaper_Splashes.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 12.0,
 "fps_efectivo": 12.0,
@@ -57690,6 +57830,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Animated Paper Texture Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__texturas_animadas__salpicaduras.jpg"
 },
 {
@@ -57711,7 +57861,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:896eb74a422044eec68498af564220e1",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/AnimatedTexturesPack_QuickTimeProRes/Texture7_BlackPaper_Stamps.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 12.0,
 "fps_efectivo": 12.0,
@@ -57730,6 +57880,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Animated Paper Texture Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__texturas_animadas__sellos.jpg"
 },
 {
@@ -57751,7 +57911,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:fd6d910537f224f2787a804b264be2c4",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/AnimatedTexturesPack_QuickTimeProRes/Texture8_BlackPaper_Stamps.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 12.0,
 "fps_efectivo": 12.0,
@@ -57770,6 +57930,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Animated Paper Texture Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__texturas_animadas__sellos.jpg"
 },
 {
@@ -57791,7 +57961,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:585d8a4b17579c62f75d7e04a3a83b3d",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/AnimatedTexturesPack_QuickTimeProRes/TransitionTexture2.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 12.0,
 "fps_efectivo": 12.0,
@@ -57820,6 +57990,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Animated Paper Texture Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__transiciones__pintura.jpg"
 },
 {
@@ -57841,7 +58021,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:4e784bd24f5a4d5928b5f3826e8a6d10",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/AnimatedTexturesPack_QuickTimeProRes/TransitionTexture_1.mov",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 12.0,
 "fps_efectivo": 12.0,
@@ -57870,6 +58050,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Animated Paper Texture Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__transiciones__pintura.jpg"
 },
 {
@@ -57891,7 +58081,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:dacf851097fe541a61019a3392b2dc93",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D1.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -57920,6 +58110,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Diagonal/D1/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__diagonal.jpg"
 },
 {
@@ -57941,7 +58142,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:2d09ac375d42f8599c169e81940ab87a",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D2.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -57970,6 +58171,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Diagonal/D2/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__diagonal.jpg"
 },
 {
@@ -57991,7 +58203,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:e7478e529631d379b43fe91c00d55b26",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D3.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58020,6 +58232,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Diagonal/D3/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__diagonal.jpg"
 },
 {
@@ -58041,7 +58264,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:4a7c2bb0975485bce6564aebe2ac5e1d",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D4.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58070,6 +58293,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Diagonal/D4/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__diagonal.jpg"
 },
 {
@@ -58091,7 +58325,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:05fab5a371329bf446b0208f7b5c5450",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D5.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58120,6 +58354,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Diagonal/D5/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__diagonal.jpg"
 },
 {
@@ -58141,7 +58386,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:cd8819481e2eeb84dddda2fca523daad",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D6.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58170,6 +58415,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Diagonal/D6/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__diagonal.jpg"
 },
 {
@@ -58191,7 +58447,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:2b82f4d73523cb848383e071b06cf4f3",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D7.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58220,6 +58476,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Diagonal/D7/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__diagonal.jpg"
 },
 {
@@ -58241,7 +58508,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:08ae870d5e5cad684e2a6ee0a505cbdd",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D_Texture.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58260,6 +58527,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__diagonal.jpg"
 },
 {
@@ -58281,7 +58558,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:e68017f32e22a3364cd33763eb9adfe4",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H1.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58310,6 +58587,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Horizontal/H1/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__horizontal.jpg"
 },
 {
@@ -58331,7 +58619,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:0997beff16ad45dd0b729724486efbed",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H2.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58360,6 +58648,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Horizontal/H2/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__horizontal.jpg"
 },
 {
@@ -58381,7 +58680,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:e1644953c3b6500e6c6e4a056252f12e",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H3.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58410,6 +58709,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Horizontal/H3/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__horizontal.jpg"
 },
 {
@@ -58431,7 +58741,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:7c6d1576e2ca3a77a397b32e657f90b2",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H4.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58460,6 +58770,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Horizontal/H4/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__horizontal.jpg"
 },
 {
@@ -58481,7 +58802,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:917c08520a7f745ea01ed7b6e980d602",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H5.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58510,6 +58831,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Horizontal/H5/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__horizontal.jpg"
 },
 {
@@ -58531,7 +58863,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:61325f87399efb902a451ad3402887ca",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H6.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58560,6 +58892,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Horizontal/H6/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__horizontal.jpg"
 },
 {
@@ -58581,7 +58924,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:f026c8ffa28fba98415b34d41558b865",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H7.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58610,6 +58953,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Horizontal/H7/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__horizontal.jpg"
 },
 {
@@ -58631,7 +58985,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:4b6b02bd9a999f6ba640a714fe496b03",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H_Texture.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58650,6 +59004,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__horizontal.jpg"
 },
 {
@@ -58671,7 +59035,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:150e52b59ab38779bc25222be12f514a",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V1.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58700,6 +59064,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Vertical/V1/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__vertical.jpg"
 },
 {
@@ -58721,7 +59096,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:b888dbc4bbdfe14bb6c9a3969d726fbe",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V2.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58750,6 +59125,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Vertical/V2/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__vertical.jpg"
 },
 {
@@ -58771,7 +59157,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:a7a470f2cad770eb3d63ae8c08b2819f",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V3.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58800,6 +59186,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Vertical/V3/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__vertical.jpg"
 },
 {
@@ -58821,7 +59218,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:75085d84c340b61f918c67856d41f567",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V4.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58850,6 +59247,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Vertical/V4/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__vertical.jpg"
 },
 {
@@ -58871,7 +59279,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:0660c52482b0f3eae149efb2ad94cbf7",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V5.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58900,6 +59308,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Vertical/V5/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__vertical.jpg"
 },
 {
@@ -58921,7 +59340,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:b86bbe85bf5459ef25e88f9bdb5b43ce",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V6.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -58950,6 +59369,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Vertical/V6/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__vertical.jpg"
 },
 {
@@ -58971,7 +59401,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:459ebc85ade20ab8124befbe9572aacd",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V7.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -59000,6 +59430,17 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
+"version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Vertical/V7/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__vertical.jpg"
 },
 {
@@ -59021,7 +59462,7 @@
 "modo_fuente": "TEXTURAS",
 "origen": "or:d63a00623d970e45c7f8bf6722e3d1d6",
 "origen_ruta": "neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V_Texture.mp4",
-"licencia": "Gumroad: uso propio, no redistribuir",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
 "video": {
 "fps": 25.0,
 "fps_efectivo": 8.0,
@@ -59040,6 +59481,16 @@
 "audio": {
 "incrustado": false
 },
+"autor": "Studio DamDam (damdam.studio, Gumroad)",
+"pack_origen": "Textured Transition Pack",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
+"desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__vertical.jpg"
 },
 {
@@ -81839,6 +82290,34 @@
 "productos": [
 "tx:tileables/madera_y_carton/textura_uniforme_virutas_madera_0803"
 ]
+},
+{
+"id": "or:ce32f64fdf254c1ef745394bac745795",
+"coleccion": "originales",
+"archivo": "originales/neonizador/TEXTURAS/GUMROAD/GUMROAD_PaperTexturePromo (2).aep",
+"tipo": "proyecto_ae",
+"md5": "ce32f64fdf254c1ef745394bac745795",
+"w": null,
+"h": null,
+"bytes": 2498393,
+"rutas_antiguas": [
+"neonizador/TEXTURAS/GUMROAD/GUMROAD_PaperTexturePromo (2).aep"
+],
+"productos": []
+},
+{
+"id": "or:0d2fcc5b7c0f1bd724d5a2de9df21980",
+"coleccion": "originales",
+"archivo": "originales/neonizador/TEXTURAS/GUMROAD/SprayPaintTextrues_Gumroad (1).aep",
+"tipo": "proyecto_ae",
+"md5": "0d2fcc5b7c0f1bd724d5a2de9df21980",
+"w": null,
+"h": null,
+"bytes": 3281670,
+"rutas_antiguas": [
+"neonizador/TEXTURAS/GUMROAD/SprayPaintTextrues_Gumroad (1).aep"
+],
+"productos": []
 },
 {
 "id": "or:30685a03c6e7478e85a5c97f0e4ec2f9",

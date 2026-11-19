@@ -80,6 +80,20 @@ for e in tx:
                                    acaba=tr.get('acaba'), criterio='medido por TEXTURAS (tinta cubre y descubre)',
                                    fuente='TEXTURAS')
         a['audio'] = dict(incrustado=False)
+    if 'GUMROAD/' in (o.get('ruta') or ''):
+        rr = o['ruta']
+        pk = ('Textured Transition Pack' if 'TransitionPack4K' in rr else
+              'Animated Paper Texture Pack' if 'AnimatedTexturesPack' in rr else 'Free Spray Paint Textures')
+        a['autor'] = 'Studio DamDam (damdam.studio, Gumroad)'; a['pack_origen'] = pk
+        a['usos_autor'] = ['superposicion', 'mapa_de_desplazamiento', 'mate']
+        a['receta'] = 'TEXTURAS/tecnicas/pintado_a_mano_damdam.md'
+        a['ritmo_autor'] = 'animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación'
+        a['desplazamiento'] = 'luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)'
+        a['licencia'] = 'Gumroad (Studio DamDam): uso propio, no redistribuir'
+        if 'Textured_MOVs' in rr:
+            d = rr.split('/')[-1].split('.')[0]
+            if '_' not in d:
+                a['version_sin_perdida'] = 'originales/' + rr.rsplit('Textured_MOVs', 1)[0] + 'Textured_PNGs/' + rr.split('/')[-2] + '/' + d + '/ (8 PNG 4K)'
     a['hoja'] = 'TEXTURAS/hojas/' + e['carpeta'].replace('/', '__') + '.jpg'
     if org: deriv[org].append(a['id'])
     idx.append({k: v for k, v in a.items() if v is not None})

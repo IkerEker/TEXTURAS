@@ -18,5 +18,6 @@ ACIDBITE (`acidbite/COMO_LO_USA_ACIDBITE.md`, `acidbite/datos/plantillas_acidbit
 | Fuego, pavesas y humo | `fuego.md` | NEONIZADOR |
 | Relieve y desplazamiento | `relieve_desplazamiento.md` | todos |
 | Montaje automático por estilo | `montaje_por_estilo.md` | plugins de montaje |
+| Texturas pintadas a mano (Gumroad, Studio DamDam): mate, overlay y desplazamiento | `pintado_a_mano_damdam.md` | vídeo, Neonizador vídeo, collage |
 
 Regla: antes de usar un asset, mira su hoja (`hoja` en el índice).

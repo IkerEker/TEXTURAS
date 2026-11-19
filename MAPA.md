@@ -48,6 +48,6 @@ Montar o comprobar en un ordenador: `python TEXTURAS/tools/atlas/montar_bibliote
 
 ## Documentos
 
-`DECISIONES.md` (cómo y por qué se unió todo) · `TRASPASO.md` · `acidbite/ESTADO.md` · `plugins/README.md` y
+`DECISIONES.md` (cómo y por qué se unió todo) · `TRASPASO.md` · `acidbite/ESTADO.md` · `gumroad/ESTADO.md` (packs de Studio DamDam: qué hay y cómo los usa su autor) · `plugins/README.md` y
 `CONCILIACION.md` · `indice/cruce_acidbite.md` (qué aporta AcidBite y qué sigue faltando) · `productos/README.md`.
 Material de pago (ACIDBITE, Gumroad): uso propio, **no redistribuir**; repo privado.

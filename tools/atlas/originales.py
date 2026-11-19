@@ -17,6 +17,11 @@ for e in inv:
     m = md5[e['ruta']]
     g = grupos.setdefault(m, dict(md5=m, bytes=e['bytes'], tipo=e['tipo'], w=e.get('w'), h=e.get('h'), rutas=[]))
     g['rutas'].append(e['ruta'])
+# proyectos de After Effects del autor (Studio DamDam, Gumroad): no son imágenes, pero enseñan cómo usar sus packs
+EXTRA_AEP = [('neonizador/TEXTURAS/GUMROAD/GUMROAD_PaperTexturePromo (2).aep', 'ce32f64fdf254c1ef745394bac745795', 2498393),
+             ('neonizador/TEXTURAS/GUMROAD/SprayPaintTextrues_Gumroad (1).aep', '0d2fcc5b7c0f1bd724d5a2de9df21980', 3281670)]
+for r, m, n in EXTRA_AEP:
+    grupos.setdefault(m, dict(md5=m, bytes=n, tipo='proyecto_ae', w=None, h=None, rutas=[r]))
 pref = ['papelator', 'a-mano', 'analog-fx-plugin', 'trazo', 'neonizador', 'neonizador_bt']
 for g in grupos.values():
     g['rutas'].sort(key=lambda r: (pref.index(r.split('/')[0]), r))
