@@ -1913,7 +1913,7 @@
 "tx:trazos/aguada/trazo_aguada_gris_oscuro_0002_03",
 "tx:trazos/aguada/trazo_aguada_gris_oscuro_0003_01"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r02",
@@ -1934,7 +1934,7 @@
 "tx:trazos/boligrafo/cuatro_lineas_rojas_dibujadas_a_mano_0015_04",
 "tx:trazos/boligrafo/lineas_azules_0053_01"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r03",
@@ -1955,7 +1955,7 @@
 "tx:trazos/boligrafo/lineas_rojas_0055_04",
 "tx:trazos/boligrafo/lineas_rojas_0055_05"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r04",
@@ -1976,7 +1976,7 @@
 "tx:trazos/cera/trazo_cera_gris_oscuro_0008_01",
 "tx:trazos/cera/trazo_cera_gris_oscuro_0008_02"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r05",
@@ -1997,7 +1997,7 @@
 "tx:trazos/gouache/trazo_gouache_gris_oscuro_0022_03",
 "tx:trazos/gouache/trazo_gouache_gris_oscuro_0023_01"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r06",
@@ -2018,7 +2018,7 @@
 "tx:trazos/lapiz/doodles_grafito_0019_01",
 "tx:trazos/lapiz/doodles_grafito_0019_02"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r07",
@@ -2039,7 +2039,7 @@
 "tx:trazos/lapiz/doodles_grafito_0020_09",
 "tx:trazos/lapiz/garabatos_abstractos_grafito_0028_01"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r08",
@@ -2060,7 +2060,7 @@
 "tx:trazos/lapiz/trazo_grafito_gris_0032_05",
 "tx:trazos/lapiz/trazo_grafito_gris_0032_08"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r09",
@@ -2081,7 +2081,7 @@
 "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0039_02",
 "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0039_03"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r10",
@@ -2102,7 +2102,7 @@
 "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0050_03",
 "tx:trazos/oleo/trazo_oleo_gris_0058_01"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r11",
@@ -2123,7 +2123,7 @@
 "tx:trazos/pincel/muestras_pinceladas_azules_0057_01",
 "tx:trazos/pincel/muestras_pinceladas_azules_0057_02"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r12",
@@ -2144,7 +2144,7 @@
 "tx:trazos/pincel/pinceladas_azules_0064_05",
 "tx:trazos/pincel/pinceladas_azules_0064_06"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r13",
@@ -2165,7 +2165,7 @@
 "tx:trazos/pincel/trazos_azules_0069_03",
 "tx:trazos/pincel_fino/trazos_azules_0068_01"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r14",
@@ -2186,7 +2186,7 @@
 "tx:trazos/rotulador/cinco_lineas_azules_dibujadas_a_mano_0010_03",
 "tx:trazos/rotulador/cinco_lineas_azules_dibujadas_a_mano_0010_04"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r15",
@@ -2207,7 +2207,7 @@
 "tx:trazos/rotulador/garabatos_marcador_negro_0030_02",
 "tx:trazos/rotulador/garabatos_marcador_negro_0030_03"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r16",
@@ -2228,7 +2228,7 @@
 "tx:trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_01",
 "tx:trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_02"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r17",
@@ -2249,7 +2249,7 @@
 "tx:trazos/rotulador/hoja_pruebas_garabatos_tinta_0043_09",
 "tx:trazos/rotulador/hoja_pruebas_garabatos_tinta_0043_10"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r18",
@@ -2270,7 +2270,7 @@
 "tx:trazos/rotulador/tres_lineas_negras_0070_02",
 "tx:trazos/rotulador/tres_lineas_negras_0070_03"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r19",
@@ -2291,7 +2291,7 @@
 "tx:trazos/rotulador_gastado/cuatro_trazos_rojos_texturizados_0018_04",
 "tx:trazos/rotulador_gastado/tres_trazos_azules_texturizados_0071_01"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r20",
@@ -2299,7 +2299,7 @@
 "tx:trazos/rotulador_gastado/tres_trazos_azules_texturizados_0071_02",
 "tx:trazos/rotulador_gastado/tres_trazos_azules_texturizados_0071_03"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_video-01",
