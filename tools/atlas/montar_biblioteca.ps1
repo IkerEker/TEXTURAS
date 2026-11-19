@@ -89,7 +89,9 @@ foreach ($t in $tareas) {
   $dst = Join-Path $Raiz ($t[0] -replace '/', '\')
   if ((Test-Path -LiteralPath $dst) -and ((Md5 $dst) -eq $t[1])) { $yaEstaban++; continue }
   $src = $null
-  foreach ($r in $t[2]) { $c = Join-Path $Fuentes ($r -replace '/', '\'); if (Test-Path -LiteralPath $c) { $src = $c; break } }
+  foreach ($r in $t[2]) {
+    $base = if ($r.StartsWith('AÑADIDOS/')) { $Raiz } else { $Fuentes }   # material que Iker deja en Biblioteca\AÑADIDOS
+    $c = Join-Path $base ($r -replace '/', '\'); if (Test-Path -LiteralPath $c) { $src = $c; break } }
   if (-not $src) { [void]$faltan.Add($t[0]); continue }
   if ((Md5 $src) -ne $t[1]) { [void]$malos.Add($src); continue }
   New-Item -ItemType Directory -Force -Path (Split-Path $dst -Parent) | Out-Null

@@ -1,10 +1,10 @@
 {
 "version": "2026-11-19",
 "raiz": "Biblioteca/ (variable TEXTURAS_ROOT)",
-"total": 8156,
+"total": 8309,
 "por_coleccion": {
-"TEXTURAS": 3172,
-"originales": 2059,
+"TEXTURAS": 3193,
+"originales": 2191,
 "ACIDBITE": 2925
 },
 "por_clase": {
@@ -17,14 +17,16 @@
 "tileables": 416,
 "trazos": 358,
 "video": 1804,
-"—": 2059,
+"—": 2084,
+"superposicion": 70,
+"desplazamiento": 32,
+"mascara": 21,
 "tutorial": 48,
 "plantilla": 52,
 "sonido": 658,
 "mascaras": 16,
 "lut": 220,
-"desplazamiento": 16,
-"productos": 1494
+"productos": 1515
 },
 "assets": [
 {
@@ -90898,6 +90900,3392 @@
 "neonizador/BIBLIOTECA/video/humo/humo_columna_fina.mp4"
 ],
 "nota": "JPG re-guardado o recorte de NEONIZADOR: se conserva para que su plugin/tex salga igual"
+},
+{
+"id": "or:de7850ac841c6b3b16869d6ba2b98246",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_1/001.png",
+"tipo": "imagen",
+"md5": "de7850ac841c6b3b16869d6ba2b98246",
+"bytes": 2752137,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 1, fotograma 001 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_1/001.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:832720a7ed23a9535c57e867d72b0f7c",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_1/002.png",
+"tipo": "imagen",
+"md5": "832720a7ed23a9535c57e867d72b0f7c",
+"bytes": 2767659,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 1, fotograma 002 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_1/002.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:3a919109165709ba13a4fc17e2c3afbd",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_1/003.png",
+"tipo": "imagen",
+"md5": "3a919109165709ba13a4fc17e2c3afbd",
+"bytes": 2700157,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 1, fotograma 003 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_1/003.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:2cf417db40b63d884c93a2f4292a42f9",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_1/004.png",
+"tipo": "imagen",
+"md5": "2cf417db40b63d884c93a2f4292a42f9",
+"bytes": 2642422,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 1, fotograma 004 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_1/004.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:cbe7ba47d6686607adac14631cec8906",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_1/005.png",
+"tipo": "imagen",
+"md5": "cbe7ba47d6686607adac14631cec8906",
+"bytes": 2770743,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 1, fotograma 005 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_1/005.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:b78499bb4ac5b2fdf59c06add3953039",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_1/006.png",
+"tipo": "imagen",
+"md5": "b78499bb4ac5b2fdf59c06add3953039",
+"bytes": 2705827,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 1, fotograma 006 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_1/006.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:263a28ebdc03dca739ab753f252502a4",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_1/007.png",
+"tipo": "imagen",
+"md5": "263a28ebdc03dca739ab753f252502a4",
+"bytes": 2807214,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 1, fotograma 007 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_1/007.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:3413ce4d593cab4e715ffac721423fe8",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_1/008.png",
+"tipo": "imagen",
+"md5": "3413ce4d593cab4e715ffac721423fe8",
+"bytes": 2803450,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 1, fotograma 008 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_1/008.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:bd853821bd26a42fc4101f4d9695aaff",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_1/009.png",
+"tipo": "imagen",
+"md5": "bd853821bd26a42fc4101f4d9695aaff",
+"bytes": 2757798,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 1, fotograma 009 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_1/009.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:e3d62e89692caf33c3daf32781b3a1ac",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_1/010.png",
+"tipo": "imagen",
+"md5": "e3d62e89692caf33c3daf32781b3a1ac",
+"bytes": 2645371,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 1, fotograma 010 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_1/010.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:8f84b57503a7cea729e8eab960b968f6",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_2/001.png",
+"tipo": "imagen",
+"md5": "8f84b57503a7cea729e8eab960b968f6",
+"bytes": 3263645,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 2, fotograma 001 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_2/001.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:27a483506c7cad2a08f1d5ae4fee55a2",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_2/002.png",
+"tipo": "imagen",
+"md5": "27a483506c7cad2a08f1d5ae4fee55a2",
+"bytes": 3274696,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 2, fotograma 002 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_2/002.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:610800078ce4b66678c0ff5ace2d043c",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_2/003.png",
+"tipo": "imagen",
+"md5": "610800078ce4b66678c0ff5ace2d043c",
+"bytes": 3082985,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 2, fotograma 003 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_2/003.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:dbd6f458a2ca631515b7c0f2b2bbc991",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_2/004.png",
+"tipo": "imagen",
+"md5": "dbd6f458a2ca631515b7c0f2b2bbc991",
+"bytes": 3192716,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 2, fotograma 004 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_2/004.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:60dff86bfb74a21608d13589f9ae42b0",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_2/005.png",
+"tipo": "imagen",
+"md5": "60dff86bfb74a21608d13589f9ae42b0",
+"bytes": 3193240,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 2, fotograma 005 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_2/005.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:8281a9defc9a24bfc58f005592104a1d",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_2/006.png",
+"tipo": "imagen",
+"md5": "8281a9defc9a24bfc58f005592104a1d",
+"bytes": 3420531,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 2, fotograma 006 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_2/006.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:fe8b32c050715ba5d30e9672250cced1",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_2/007.png",
+"tipo": "imagen",
+"md5": "fe8b32c050715ba5d30e9672250cced1",
+"bytes": 3231579,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 2, fotograma 007 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_2/007.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:6f330c7b7952fb70e43abc11dc44233c",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_2/008.png",
+"tipo": "imagen",
+"md5": "6f330c7b7952fb70e43abc11dc44233c",
+"bytes": 3132591,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 2, fotograma 008 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_2/008.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:5021ffdf9afecb971b410ea2143252d1",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_2/009.png",
+"tipo": "imagen",
+"md5": "5021ffdf9afecb971b410ea2143252d1",
+"bytes": 3187096,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 2, fotograma 009 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_2/009.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:4b83e83ec0a79ed82806e04b7c400c62",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_2/010.png",
+"tipo": "imagen",
+"md5": "4b83e83ec0a79ed82806e04b7c400c62",
+"bytes": 3064321,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 2, fotograma 010 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_2/010.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:329a8d09cfd71e313651d86b7383dfe9",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_3/001.png",
+"tipo": "imagen",
+"md5": "329a8d09cfd71e313651d86b7383dfe9",
+"bytes": 2836795,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 3, fotograma 001 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_3/001.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:98b371d99f66fa7a585e59779c177ef2",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_3/002.png",
+"tipo": "imagen",
+"md5": "98b371d99f66fa7a585e59779c177ef2",
+"bytes": 2915733,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 3, fotograma 002 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_3/002.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:10246527940e595ff88489e2557e7c91",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_3/003.png",
+"tipo": "imagen",
+"md5": "10246527940e595ff88489e2557e7c91",
+"bytes": 2968105,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 3, fotograma 003 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_3/003.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:6ef2471a163652499e86a90a9e0743dc",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_3/004.png",
+"tipo": "imagen",
+"md5": "6ef2471a163652499e86a90a9e0743dc",
+"bytes": 2896898,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 3, fotograma 004 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_3/004.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:2570efadacd3a571a78de86dec1699a2",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_3/005.png",
+"tipo": "imagen",
+"md5": "2570efadacd3a571a78de86dec1699a2",
+"bytes": 3243392,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 3, fotograma 005 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_3/005.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:10e9b952120effff6be16d107e20e9e6",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_3/006.png",
+"tipo": "imagen",
+"md5": "10e9b952120effff6be16d107e20e9e6",
+"bytes": 3030470,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 3, fotograma 006 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_3/006.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:e97891b41c6c50fb2c7f0b75834627af",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_3/007.png",
+"tipo": "imagen",
+"md5": "e97891b41c6c50fb2c7f0b75834627af",
+"bytes": 3273897,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 3, fotograma 007 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_3/007.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:2aebc1928ee73320983572875f17ebd5",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_3/008.png",
+"tipo": "imagen",
+"md5": "2aebc1928ee73320983572875f17ebd5",
+"bytes": 2924773,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 3, fotograma 008 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_3/008.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:cbdfc15932ea8388bc79b755821f52b3",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_3/009.png",
+"tipo": "imagen",
+"md5": "cbdfc15932ea8388bc79b755821f52b3",
+"bytes": 3211650,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 3, fotograma 009 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_3/009.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:03fbd0fedab6292fc8a0496ec1bc04b0",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_3/010.png",
+"tipo": "imagen",
+"md5": "03fbd0fedab6292fc8a0496ec1bc04b0",
+"bytes": 3092437,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 3, fotograma 010 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_3/010.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:907e03f3136c6685f55683a47486f0ea",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_4/001.png",
+"tipo": "imagen",
+"md5": "907e03f3136c6685f55683a47486f0ea",
+"bytes": 2547546,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 4, fotograma 001 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_4/001.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:78495bb6883de72075a01d5942abeb0b",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_4/002.png",
+"tipo": "imagen",
+"md5": "78495bb6883de72075a01d5942abeb0b",
+"bytes": 2297908,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 4, fotograma 002 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_4/002.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:3ff1b93c5d43863ab4329bdb399f82cb",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_4/003.png",
+"tipo": "imagen",
+"md5": "3ff1b93c5d43863ab4329bdb399f82cb",
+"bytes": 2760215,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 4, fotograma 003 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_4/003.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:c88481a886333a0436547d7da3a8acda",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_4/004.png",
+"tipo": "imagen",
+"md5": "c88481a886333a0436547d7da3a8acda",
+"bytes": 2745556,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 4, fotograma 004 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_4/004.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:24310044de0bd519de9ca5557fd1b86c",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_4/005.png",
+"tipo": "imagen",
+"md5": "24310044de0bd519de9ca5557fd1b86c",
+"bytes": 2784462,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 4, fotograma 005 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_4/005.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:12c926b73356fc86aee3f03d84f5dca2",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_4/006.png",
+"tipo": "imagen",
+"md5": "12c926b73356fc86aee3f03d84f5dca2",
+"bytes": 2967848,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 4, fotograma 006 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_4/006.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:bdda8b609a539e6528f432fc3ea720d0",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_4/007.png",
+"tipo": "imagen",
+"md5": "bdda8b609a539e6528f432fc3ea720d0",
+"bytes": 2674371,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 4, fotograma 007 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_4/007.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:108ed47f80b94d8531337febcb1684ee",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_4/008.png",
+"tipo": "imagen",
+"md5": "108ed47f80b94d8531337febcb1684ee",
+"bytes": 2878444,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 4, fotograma 008 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_4/008.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:5f4b73a0dcd5a9e6332f86a6edf48cf2",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_4/009.png",
+"tipo": "imagen",
+"md5": "5f4b73a0dcd5a9e6332f86a6edf48cf2",
+"bytes": 3003823,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 4, fotograma 009 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_4/009.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:a91b58fc3318a3d172f2c8221a82692a",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_4/010.png",
+"tipo": "imagen",
+"md5": "a91b58fc3318a3d172f2c8221a82692a",
+"bytes": 3127945,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 4, fotograma 010 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_4/010.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:8ffc4dcc3f12e5c002cff45240476e64",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_5/001.png",
+"tipo": "imagen",
+"md5": "8ffc4dcc3f12e5c002cff45240476e64",
+"bytes": 3088003,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 5, fotograma 001 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_5/001.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:5cbcdd435b461aca50a9e442254da05a",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_5/002.png",
+"tipo": "imagen",
+"md5": "5cbcdd435b461aca50a9e442254da05a",
+"bytes": 3130535,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 5, fotograma 002 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_5/002.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:f67becc18d313ddf427c14e480b7d1ca",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_5/003.png",
+"tipo": "imagen",
+"md5": "f67becc18d313ddf427c14e480b7d1ca",
+"bytes": 2960659,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 5, fotograma 003 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_5/003.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:4b0dc4e7e181c48ba6d088f8815e40a6",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_5/004.png",
+"tipo": "imagen",
+"md5": "4b0dc4e7e181c48ba6d088f8815e40a6",
+"bytes": 3002596,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 5, fotograma 004 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_5/004.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:3e7489198609826ddee4fea778175b6f",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_5/005.png",
+"tipo": "imagen",
+"md5": "3e7489198609826ddee4fea778175b6f",
+"bytes": 2957034,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 5, fotograma 005 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_5/005.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:13cfa0aa08a4a654ecda06cf7c4a49fa",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_5/006.png",
+"tipo": "imagen",
+"md5": "13cfa0aa08a4a654ecda06cf7c4a49fa",
+"bytes": 2993226,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 5, fotograma 006 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_5/006.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:00500c13844d2924faad6fb9d97076d2",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_5/007.png",
+"tipo": "imagen",
+"md5": "00500c13844d2924faad6fb9d97076d2",
+"bytes": 2990161,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 5, fotograma 007 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_5/007.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:98a9d03323af464057a6bbea108872e1",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_5/008.png",
+"tipo": "imagen",
+"md5": "98a9d03323af464057a6bbea108872e1",
+"bytes": 2970241,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 5, fotograma 008 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_5/008.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:c0a9dcc83f9380cc472b9c0d3a8d9803",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_5/009.png",
+"tipo": "imagen",
+"md5": "c0a9dcc83f9380cc472b9c0d3a8d9803",
+"bytes": 2876597,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 5, fotograma 009 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_5/009.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:a94d6946f0e710920db8719e21b9bd10",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_5/010.png",
+"tipo": "imagen",
+"md5": "a94d6946f0e710920db8719e21b9bd10",
+"bytes": 2996796,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 5, fotograma 010 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_5/010.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:b9589c394dcdff7aa53c8c998e9022b8",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_6/001.png",
+"tipo": "imagen",
+"md5": "b9589c394dcdff7aa53c8c998e9022b8",
+"bytes": 3040105,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 6, fotograma 001 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_6/001.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:b7f710dae559900aec63954a357a4d7f",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_6/002.png",
+"tipo": "imagen",
+"md5": "b7f710dae559900aec63954a357a4d7f",
+"bytes": 2941007,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 6, fotograma 002 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_6/002.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:3a0e22e72057a6532a9bbfeb5f7c938f",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_6/003.png",
+"tipo": "imagen",
+"md5": "3a0e22e72057a6532a9bbfeb5f7c938f",
+"bytes": 3061901,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 6, fotograma 003 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_6/003.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:d84f12e5d01d204d5f4ba7011b07f2be",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_6/004.png",
+"tipo": "imagen",
+"md5": "d84f12e5d01d204d5f4ba7011b07f2be",
+"bytes": 2993718,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 6, fotograma 004 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_6/004.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:ee41cc57b8b546dfd900bc5c4736210d",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_6/005.png",
+"tipo": "imagen",
+"md5": "ee41cc57b8b546dfd900bc5c4736210d",
+"bytes": 3036477,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 6, fotograma 005 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_6/005.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:6b4275aa35c1a18e65c31bdca568b24f",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_6/006.png",
+"tipo": "imagen",
+"md5": "6b4275aa35c1a18e65c31bdca568b24f",
+"bytes": 3035271,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 6, fotograma 006 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_6/006.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:7588bf338bba92b7adadf177a0f620cb",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_6/007.png",
+"tipo": "imagen",
+"md5": "7588bf338bba92b7adadf177a0f620cb",
+"bytes": 2965375,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 6, fotograma 007 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_6/007.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:bc22d7106246cb2695f6b4072e4096c1",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_6/008.png",
+"tipo": "imagen",
+"md5": "bc22d7106246cb2695f6b4072e4096c1",
+"bytes": 2992219,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 6, fotograma 008 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_6/008.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:0feb32f7dc3795d7903c4a353fb252f8",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_6/009.png",
+"tipo": "imagen",
+"md5": "0feb32f7dc3795d7903c4a353fb252f8",
+"bytes": 2965802,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 6, fotograma 009 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_6/009.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:462108bd24b6f471a66e35a6d462deb2",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_6/010.png",
+"tipo": "imagen",
+"md5": "462108bd24b6f471a66e35a6d462deb2",
+"bytes": 2889600,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 6, fotograma 010 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_6/010.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:af4d31cc2dd0cbb5c1fffae5cfdb45fc",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_7/001.png",
+"tipo": "imagen",
+"md5": "af4d31cc2dd0cbb5c1fffae5cfdb45fc",
+"bytes": 1965714,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 7, fotograma 001 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_7/001.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:00c1e6a9ea169bfc17cad471b0d4edff",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_7/002.png",
+"tipo": "imagen",
+"md5": "00c1e6a9ea169bfc17cad471b0d4edff",
+"bytes": 1848370,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 7, fotograma 002 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_7/002.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:e31e455f77558e19cf818e0740ecec56",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_7/003.png",
+"tipo": "imagen",
+"md5": "e31e455f77558e19cf818e0740ecec56",
+"bytes": 2205970,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 7, fotograma 003 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_7/003.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:c6691da26332eae95308eec34d771f3e",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_7/004.png",
+"tipo": "imagen",
+"md5": "c6691da26332eae95308eec34d771f3e",
+"bytes": 2221891,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 7, fotograma 004 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_7/004.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:1639415262ea4d43caa67091e6a7c87f",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_7/005.png",
+"tipo": "imagen",
+"md5": "1639415262ea4d43caa67091e6a7c87f",
+"bytes": 2219683,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 7, fotograma 005 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_7/005.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:7a19007c02d4b9c091a0f6f0720ba180",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_7/006.png",
+"tipo": "imagen",
+"md5": "7a19007c02d4b9c091a0f6f0720ba180",
+"bytes": 2338257,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 7, fotograma 006 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_7/006.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:5c36f0fd3ca41c142e39edcde02c1106",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_7/007.png",
+"tipo": "imagen",
+"md5": "5c36f0fd3ca41c142e39edcde02c1106",
+"bytes": 2281262,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 7, fotograma 007 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_7/007.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:c01ca0e1f2c66b12b5e0e8fe73b6b549",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_7/008.png",
+"tipo": "imagen",
+"md5": "c01ca0e1f2c66b12b5e0e8fe73b6b549",
+"bytes": 2339111,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 7, fotograma 008 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_7/008.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:e0065b807549bd9aa2ed3d2bd7956ed5",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_7/009.png",
+"tipo": "imagen",
+"md5": "e0065b807549bd9aa2ed3d2bd7956ed5",
+"bytes": 2225021,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 7, fotograma 009 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_7/009.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:59cdd55d05218412c6485b607dd52868",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/cianotipia/Texture_7/010.png",
+"tipo": "imagen",
+"md5": "59cdd55d05218412c6485b607dd52868",
+"bytes": 2390116,
+"desc": "Textura animada de cianotipia pintada a mano y escaneada (Texture 7, fotograma 010 de 10), 1920×1080 PNG opaco",
+"autor": "Studio DamDam",
+"pack_origen": "Free Cyanotype Textures",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/Cyanotype Texture Pack_PNGs/Texture_7/010.png"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "superposicion",
+"modo": "multiplicar",
+"modo_texto": "multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps",
+"fondo": "papel blanco/azul (opaco)",
+"hoja": "TEXTURAS/gumroad/hojas/cianotipia.jpg"
+},
+{
+"id": "or:819285699b9f7dd071ce54ebcb0237ee",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/SlitScreenEffect.aep",
+"tipo": "plantilla",
+"md5": "819285699b9f7dd071ce54ebcb0237ee",
+"bytes": 818198,
+"desc": "Proyecto de After Effects del autor: Displacement Map con los mapas + Simple Choker + Camera Lens Blur",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/SlitScreenEffect.aep"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:234e8845db058a7ae5e64f1ea79400c7",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Horizontal/D1.mp4",
+"tipo": "video",
+"md5": "234e8845db058a7ae5e64f1ea79400c7",
+"bytes": 8048870,
+"desc": "Mapa de desplazamiento slit-scan D1 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Horizontal/D1.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:61653b5a811db30238f07902a58fbf66",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Horizontal/D2.mp4",
+"tipo": "video",
+"md5": "61653b5a811db30238f07902a58fbf66",
+"bytes": 7366051,
+"desc": "Mapa de desplazamiento slit-scan D2 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Horizontal/D2.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:6d2c1bd9a45ddaf8ce47852013338553",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Horizontal/D3.mp4",
+"tipo": "video",
+"md5": "6d2c1bd9a45ddaf8ce47852013338553",
+"bytes": 7426159,
+"desc": "Mapa de desplazamiento slit-scan D3 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Horizontal/D3.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:ad6a898d288589b0b51ce0da868a8a59",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Horizontal/D4.mp4",
+"tipo": "video",
+"md5": "ad6a898d288589b0b51ce0da868a8a59",
+"bytes": 7493693,
+"desc": "Mapa de desplazamiento slit-scan D4 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Horizontal/D4.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:0fc388a61730c6442568ba79267d8be1",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Horizontal/D5.mp4",
+"tipo": "video",
+"md5": "0fc388a61730c6442568ba79267d8be1",
+"bytes": 7088519,
+"desc": "Mapa de desplazamiento slit-scan D5 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Horizontal/D5.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:e1d9050b7e75e0c01dc447e6a02e822f",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Horizontal/D6.mp4",
+"tipo": "video",
+"md5": "e1d9050b7e75e0c01dc447e6a02e822f",
+"bytes": 8063545,
+"desc": "Mapa de desplazamiento slit-scan D6 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Horizontal/D6.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:17ed25cc8fea53b3a4430eac4ecd7f48",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Horizontal/D7.mp4",
+"tipo": "video",
+"md5": "17ed25cc8fea53b3a4430eac4ecd7f48",
+"bytes": 7799463,
+"desc": "Mapa de desplazamiento slit-scan D7 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Horizontal/D7.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:41ba0bc4cba94bee4a1e67259cf0c1ad",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Horizontal/D8.mp4",
+"tipo": "video",
+"md5": "41ba0bc4cba94bee4a1e67259cf0c1ad",
+"bytes": 7394771,
+"desc": "Mapa de desplazamiento slit-scan D8 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Horizontal/D8.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:efe3dfc5687e4da0bd90c7fcd454c289",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Vertical/D1.mp4",
+"tipo": "video",
+"md5": "efe3dfc5687e4da0bd90c7fcd454c289",
+"bytes": 8058986,
+"desc": "Mapa de desplazamiento slit-scan D1 (vertical): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Vertical/D1.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:62d7c35959101a538429e23d59894858",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Vertical/D2.mp4",
+"tipo": "video",
+"md5": "62d7c35959101a538429e23d59894858",
+"bytes": 7376195,
+"desc": "Mapa de desplazamiento slit-scan D2 (vertical): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Vertical/D2.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:2cef00ac3917bd742bd105a2273031f6",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Vertical/D3.mp4",
+"tipo": "video",
+"md5": "2cef00ac3917bd742bd105a2273031f6",
+"bytes": 7436291,
+"desc": "Mapa de desplazamiento slit-scan D3 (vertical): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Vertical/D3.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:b1470d017a33c82d3b1ae206120d0a8d",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Vertical/D4.mp4",
+"tipo": "video",
+"md5": "b1470d017a33c82d3b1ae206120d0a8d",
+"bytes": 7503837,
+"desc": "Mapa de desplazamiento slit-scan D4 (vertical): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Vertical/D4.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:ce3f605ffb6023f18b31a468c4d31573",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Vertical/D5.mp4",
+"tipo": "video",
+"md5": "ce3f605ffb6023f18b31a468c4d31573",
+"bytes": 7098663,
+"desc": "Mapa de desplazamiento slit-scan D5 (vertical): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Vertical/D5.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:b01b5eb32ff1ae2d2b6aff4af092c0bb",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Vertical/D6.mp4",
+"tipo": "video",
+"md5": "b01b5eb32ff1ae2d2b6aff4af092c0bb",
+"bytes": 8073673,
+"desc": "Mapa de desplazamiento slit-scan D6 (vertical): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Vertical/D6.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:3d3147c9dc704e5c5062be95cf305f2d",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Vertical/D7.mp4",
+"tipo": "video",
+"md5": "3d3147c9dc704e5c5062be95cf305f2d",
+"bytes": 7809607,
+"desc": "Mapa de desplazamiento slit-scan D7 (vertical): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Vertical/D7.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:e0d7ec1e860a77c21a83014dd82d3105",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/slitscan/Displacements_Vertical/D8.mp4",
+"tipo": "video",
+"md5": "e0d7ec1e860a77c21a83014dd82d3105",
+"bytes": 7404927,
+"desc": "Mapa de desplazamiento slit-scan D8 (vertical): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"autor": "Studio DamDam",
+"pack_origen": "Easy Slit Scan Effect + AE Project",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/SlitScanFx/SlitScanFx/Displacements_Vertical/D8.mp4"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "desplazamiento",
+"desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
+"hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg"
+},
+{
+"id": "or:53e7266e5f74548dd48eb3ea28a2b6a0",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Diagonal/D1.mov",
+"tipo": "video",
+"md5": "53e7266e5f74548dd48eb3ea28a2b6a0",
+"bytes": 10431012,
+"desc": "Mate de la transición de tinta D1 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Diagonal/D1.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/diagonal/diagonal_1_mate"
+},
+{
+"id": "or:0ada0eb7a99ea13678d006842f160e02",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Diagonal/D2.mov",
+"tipo": "video",
+"md5": "0ada0eb7a99ea13678d006842f160e02",
+"bytes": 8024468,
+"desc": "Mate de la transición de tinta D2 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Diagonal/D2.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/diagonal/diagonal_2_mate"
+},
+{
+"id": "or:0fdda9f2fb5a740ab5b8e7e5e5a2a6eb",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Diagonal/D3.mov",
+"tipo": "video",
+"md5": "0fdda9f2fb5a740ab5b8e7e5e5a2a6eb",
+"bytes": 14686516,
+"desc": "Mate de la transición de tinta D3 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Diagonal/D3.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/diagonal/diagonal_3_mate"
+},
+{
+"id": "or:b572644fd1cca1ffb8f2622856353d7a",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Diagonal/D4.mov",
+"tipo": "video",
+"md5": "b572644fd1cca1ffb8f2622856353d7a",
+"bytes": 9689668,
+"desc": "Mate de la transición de tinta D4 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Diagonal/D4.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/diagonal/diagonal_4_mate"
+},
+{
+"id": "or:54735b1d605dab22f7f7f9b2215e68f2",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Diagonal/D5.mov",
+"tipo": "video",
+"md5": "54735b1d605dab22f7f7f9b2215e68f2",
+"bytes": 10844868,
+"desc": "Mate de la transición de tinta D5 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Diagonal/D5.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/diagonal/diagonal_5_mate"
+},
+{
+"id": "or:771affff49cb32efc3fa55ad99e9dfe1",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Diagonal/D6.mov",
+"tipo": "video",
+"md5": "771affff49cb32efc3fa55ad99e9dfe1",
+"bytes": 21494212,
+"desc": "Mate de la transición de tinta D6 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Diagonal/D6.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/diagonal/diagonal_6_mate"
+},
+{
+"id": "or:1af521676c22d97944c47c6c29889d81",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Diagonal/D7.mov",
+"tipo": "video",
+"md5": "1af521676c22d97944c47c6c29889d81",
+"bytes": 11261956,
+"desc": "Mate de la transición de tinta D7 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Diagonal/D7.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/diagonal/diagonal_7_mate"
+},
+{
+"id": "or:58072638a16ca9db19a1ac95b6dbfec1",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Horizontal/H1.mov",
+"tipo": "video",
+"md5": "58072638a16ca9db19a1ac95b6dbfec1",
+"bytes": 9817828,
+"desc": "Mate de la transición de tinta H1 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Horizontal/H1.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/horizontal/horizontal_1_mate"
+},
+{
+"id": "or:3b816662f5c4aecca05000d60db2d0a9",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Horizontal/H2.mov",
+"tipo": "video",
+"md5": "3b816662f5c4aecca05000d60db2d0a9",
+"bytes": 7898596,
+"desc": "Mate de la transición de tinta H2 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Horizontal/H2.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/horizontal/horizontal_2_mate"
+},
+{
+"id": "or:57115dd23a95b3488a89b2a9b05a0df2",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Horizontal/H3.mov",
+"tipo": "video",
+"md5": "57115dd23a95b3488a89b2a9b05a0df2",
+"bytes": 13941876,
+"desc": "Mate de la transición de tinta H3 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Horizontal/H3.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/horizontal/horizontal_3_mate"
+},
+{
+"id": "or:74e6963dbf115e61d07cc26244861de1",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Horizontal/H4.mov",
+"tipo": "video",
+"md5": "74e6963dbf115e61d07cc26244861de1",
+"bytes": 8987988,
+"desc": "Mate de la transición de tinta H4 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Horizontal/H4.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/horizontal/horizontal_4_mate"
+},
+{
+"id": "or:4304c21880bbc2e8dc05a40c02f5b021",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Horizontal/H5.mov",
+"tipo": "video",
+"md5": "4304c21880bbc2e8dc05a40c02f5b021",
+"bytes": 8181620,
+"desc": "Mate de la transición de tinta H5 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Horizontal/H5.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/horizontal/horizontal_5_mate"
+},
+{
+"id": "or:3c5ae00c8bb54a3ccda83b378d6c2cb0",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Horizontal/H6.mov",
+"tipo": "video",
+"md5": "3c5ae00c8bb54a3ccda83b378d6c2cb0",
+"bytes": 17590484,
+"desc": "Mate de la transición de tinta H6 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Horizontal/H6.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/horizontal/horizontal_6_mate"
+},
+{
+"id": "or:d9ae0ab49ab29a96f968be409a9eb541",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Horizontal/H7.mov",
+"tipo": "video",
+"md5": "d9ae0ab49ab29a96f968be409a9eb541",
+"bytes": 21520868,
+"desc": "Mate de la transición de tinta H7 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Horizontal/H7.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/horizontal/horizontal_7_mate"
+},
+{
+"id": "or:57a53744ebc6539236f862dc22aaddef",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Vertical/V1.mov",
+"tipo": "video",
+"md5": "57a53744ebc6539236f862dc22aaddef",
+"bytes": 12697092,
+"desc": "Mate de la transición de tinta V1 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Vertical/V1.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/vertical/vertical_1_mate"
+},
+{
+"id": "or:eda496b1ef235f24dcd9c44c5ec1994d",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Vertical/V2.mov",
+"tipo": "video",
+"md5": "eda496b1ef235f24dcd9c44c5ec1994d",
+"bytes": 9202804,
+"desc": "Mate de la transición de tinta V2 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Vertical/V2.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/vertical/vertical_2_mate"
+},
+{
+"id": "or:6be2dfd306178ed6fe9ae435a40565bf",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Vertical/V3.mov",
+"tipo": "video",
+"md5": "6be2dfd306178ed6fe9ae435a40565bf",
+"bytes": 22211092,
+"desc": "Mate de la transición de tinta V3 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Vertical/V3.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/vertical/vertical_3_mate"
+},
+{
+"id": "or:c64ae23db3c92707a12744b7081f82b8",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Vertical/V4.mov",
+"tipo": "video",
+"md5": "c64ae23db3c92707a12744b7081f82b8",
+"bytes": 7491972,
+"desc": "Mate de la transición de tinta V4 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Vertical/V4.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/vertical/vertical_4_mate"
+},
+{
+"id": "or:723e534da4f5c4b560f6a657f236d893",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Vertical/V5.mov",
+"tipo": "video",
+"md5": "723e534da4f5c4b560f6a657f236d893",
+"bytes": 7234772,
+"desc": "Mate de la transición de tinta V5 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Vertical/V5.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/vertical/vertical_5_mate"
+},
+{
+"id": "or:678588b18abc23b814eff9228f84f4a7",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Vertical/V6.mov",
+"tipo": "video",
+"md5": "678588b18abc23b814eff9228f84f4a7",
+"bytes": 20633012,
+"desc": "Mate de la transición de tinta V6 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Vertical/V6.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/vertical/vertical_6_mate"
+},
+{
+"id": "or:372a4937db41849c770470b502c91985",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Matte_MOVs/Vertical/V7.mov",
+"tipo": "video",
+"md5": "372a4937db41849c770470b502c91985",
+"bytes": 24164068,
+"desc": "Mate de la transición de tinta V7 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Matte_MOVs/Vertical/V7.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+],
+"clase": "mascara",
+"alfa": true,
+"modo": "mascara_alfa",
+"producto": "tx:productos/mates_tinta_4k/vertical/vertical_7_mate"
+},
+{
+"id": "or:3df549c8454bef1f42876e6056cb27c9",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D1.mov",
+"tipo": "video",
+"md5": "3df549c8454bef1f42876e6056cb27c9",
+"bytes": 192639764,
+"desc": "Transición de tinta texturada D1 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D1.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:5a72c40d9be5ce14da84fa57bfa1d5f4",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D2.mov",
+"tipo": "video",
+"md5": "5a72c40d9be5ce14da84fa57bfa1d5f4",
+"bytes": 192937012,
+"desc": "Transición de tinta texturada D2 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D2.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:530600ca5c20fab13279d35f774a4263",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D3.mov",
+"tipo": "video",
+"md5": "530600ca5c20fab13279d35f774a4263",
+"bytes": 203119268,
+"desc": "Transición de tinta texturada D3 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D3.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:b1b9a2fd11ead57a8e57865960c25b0f",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D4.mov",
+"tipo": "video",
+"md5": "b1b9a2fd11ead57a8e57865960c25b0f",
+"bytes": 193633716,
+"desc": "Transición de tinta texturada D4 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D4.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:33295827d6674053a65dca7e6af02d36",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D5.mov",
+"tipo": "video",
+"md5": "33295827d6674053a65dca7e6af02d36",
+"bytes": 191298228,
+"desc": "Transición de tinta texturada D5 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D5.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:dc6a3eb3c4375c767d9e499d605d913f",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D6.mov",
+"tipo": "video",
+"md5": "dc6a3eb3c4375c767d9e499d605d913f",
+"bytes": 202893780,
+"desc": "Transición de tinta texturada D6 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D6.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:c5df677ea710097fdcadc6e244ef9521",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D7.mov",
+"tipo": "video",
+"md5": "c5df677ea710097fdcadc6e244ef9521",
+"bytes": 191779220,
+"desc": "Transición de tinta texturada D7 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D7.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:4654be97836d18ef06d5b9e1deda2f9d",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D_Texture.mov",
+"tipo": "video",
+"md5": "4654be97836d18ef06d5b9e1deda2f9d",
+"bytes": 127017988,
+"desc": "Transición de tinta texturada D_Texture en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Diagonal/D_Texture.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:fc777371d8fec6a48979114cc9a4f66d",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H1.mov",
+"tipo": "video",
+"md5": "fc777371d8fec6a48979114cc9a4f66d",
+"bytes": 190412948,
+"desc": "Transición de tinta texturada H1 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H1.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:dd37c0e11117bfed835b4b26784ff744",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H2.mov",
+"tipo": "video",
+"md5": "dd37c0e11117bfed835b4b26784ff744",
+"bytes": 187813972,
+"desc": "Transición de tinta texturada H2 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H2.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:910336cb63a2f4d2d1fb660f69b699af",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H3.mov",
+"tipo": "video",
+"md5": "910336cb63a2f4d2d1fb660f69b699af",
+"bytes": 206780228,
+"desc": "Transición de tinta texturada H3 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H3.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:99b723ba9237d1da9611e3074607131c",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H4.mov",
+"tipo": "video",
+"md5": "99b723ba9237d1da9611e3074607131c",
+"bytes": 191197236,
+"desc": "Transición de tinta texturada H4 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H4.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:e5a9d2355d4d8c494c34ec7a987d935e",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H5.mov",
+"tipo": "video",
+"md5": "e5a9d2355d4d8c494c34ec7a987d935e",
+"bytes": 189563300,
+"desc": "Transición de tinta texturada H5 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H5.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:2de0ebc6bc722a5244124e5e1b388c23",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H6.mov",
+"tipo": "video",
+"md5": "2de0ebc6bc722a5244124e5e1b388c23",
+"bytes": 197317748,
+"desc": "Transición de tinta texturada H6 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H6.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:99604d7a0e79f152ee67677106f562bc",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H7.mov",
+"tipo": "video",
+"md5": "99604d7a0e79f152ee67677106f562bc",
+"bytes": 206664692,
+"desc": "Transición de tinta texturada H7 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H7.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:4ccee31acd118dcaaa073b8d11600936",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H_Texture.mov",
+"tipo": "video",
+"md5": "4ccee31acd118dcaaa073b8d11600936",
+"bytes": 146920612,
+"desc": "Transición de tinta texturada H_Texture en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Horizontal/H_Texture.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:ab45e5c3f8dcfe77457beac18b94b1bd",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V1.mov",
+"tipo": "video",
+"md5": "ab45e5c3f8dcfe77457beac18b94b1bd",
+"bytes": 194893620,
+"desc": "Transición de tinta texturada V1 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V1.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:e57f3934873906e819a80f915841f643",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V2.mov",
+"tipo": "video",
+"md5": "e57f3934873906e819a80f915841f643",
+"bytes": 191034404,
+"desc": "Transición de tinta texturada V2 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V2.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:bd581c0c9755f8e952b0fd25817e6552",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V3.mov",
+"tipo": "video",
+"md5": "bd581c0c9755f8e952b0fd25817e6552",
+"bytes": 212099668,
+"desc": "Transición de tinta texturada V3 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V3.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:d5782db50c2cb010ab694784f5a181d4",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V4.mov",
+"tipo": "video",
+"md5": "d5782db50c2cb010ab694784f5a181d4",
+"bytes": 186051396,
+"desc": "Transición de tinta texturada V4 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V4.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:45d17d2de79b46e3e50743d7d23ed310",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V5.mov",
+"tipo": "video",
+"md5": "45d17d2de79b46e3e50743d7d23ed310",
+"bytes": 188191316,
+"desc": "Transición de tinta texturada V5 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V5.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:82ac0ffa79d50ea111fa073cd9d52041",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V6.mov",
+"tipo": "video",
+"md5": "82ac0ffa79d50ea111fa073cd9d52041",
+"bytes": 204262356,
+"desc": "Transición de tinta texturada V6 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V6.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:ddf2ffb7d072c0a78655d108d01094ed",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V7.mov",
+"tipo": "video",
+"md5": "ddf2ffb7d072c0a78655d108d01094ed",
+"bytes": 213000356,
+"desc": "Transición de tinta texturada V7 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V7.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
+},
+{
+"id": "or:9092f7aad4220846cf71facf6f83a3bd",
+"coleccion": "originales",
+"sub": "gumroad",
+"archivo": "originales/gumroad/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V_Texture.mov",
+"tipo": "video",
+"md5": "9092f7aad4220846cf71facf6f83a3bd",
+"bytes": 135773764,
+"desc": "Transición de tinta texturada V_Texture en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"rutas_antiguas": [
+"AÑADIDOS/GUMROAD/_extraido/TransitionPack4K_Gumroad (1)/TransitionPack4K_Gumroad/Textured_MOVs/Vertical/V_Texture.mov"
+],
+"receta": "TEXTURAS/tecnicas/pintado_a_mano_damdam.md",
+"usos_autor": [
+"superposicion",
+"mapa_de_desplazamiento",
+"mate"
+]
 },
 {
 "id": "ab:4c54ec3b2139",
@@ -242126,6 +245514,699 @@
 "metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
 "hoja": "TEXTURAS/productos/hojas/neonizador__salpicaduras_tinta.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/salpicaduras/tinta/salpicaduras_100.png"
+},
+{
+"id": "tx:productos/mates_tinta_4k/diagonal/diagonal_1_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/diagonal/diagonal_1_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "a737f45ee50d84b18806950196e83d95",
+"pareja": "tx:video/transiciones/tinta_4k/diagonal/diagonal_1",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.52,
+"descubre_desde_s": 0.64,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/diagonal/diagonal_2_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/diagonal/diagonal_2_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "39cdd794a44eb334376f40e77bf74bd7",
+"pareja": "tx:video/transiciones/tinta_4k/diagonal/diagonal_2",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.52,
+"descubre_desde_s": 0.64,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/diagonal/diagonal_3_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/diagonal/diagonal_3_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "23a94fa3b6423617e24f2f9299db8501",
+"pareja": "tx:video/transiciones/tinta_4k/diagonal/diagonal_3",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.52,
+"descubre_desde_s": 0.64,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/diagonal/diagonal_4_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/diagonal/diagonal_4_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "5014fd6f9a4cddfc2091258928e7a624",
+"pareja": "tx:video/transiciones/tinta_4k/diagonal/diagonal_4",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.52,
+"descubre_desde_s": 0.64,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/diagonal/diagonal_5_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/diagonal/diagonal_5_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "39e1165170291b4ed54be937a8fda389",
+"pareja": "tx:video/transiciones/tinta_4k/diagonal/diagonal_5",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.52,
+"descubre_desde_s": 0.64,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/diagonal/diagonal_6_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/diagonal/diagonal_6_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "d32256b98ef82e278b16d360d090423c",
+"pareja": "tx:video/transiciones/tinta_4k/diagonal/diagonal_6",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.52,
+"descubre_desde_s": 0.64,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/diagonal/diagonal_7_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/diagonal/diagonal_7_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "06121cff06e7ce9704c40ee8f34bbbaf",
+"pareja": "tx:video/transiciones/tinta_4k/diagonal/diagonal_7",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.52,
+"descubre_desde_s": 0.64,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/horizontal/horizontal_1_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/horizontal/horizontal_1_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "3e1f224d04bef6acf253af1b2502c012",
+"pareja": "tx:video/transiciones/tinta_4k/horizontal/horizontal_1",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.4,
+"descubre_desde_s": 0.52,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/horizontal/horizontal_2_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/horizontal/horizontal_2_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "6a42165af3b905b7867c65e17dd42d1d",
+"pareja": "tx:video/transiciones/tinta_4k/horizontal/horizontal_2",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.4,
+"descubre_desde_s": 0.52,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/horizontal/horizontal_3_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/horizontal/horizontal_3_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "973126d86030e2e85476c7d79593c18f",
+"pareja": "tx:video/transiciones/tinta_4k/horizontal/horizontal_3",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.4,
+"descubre_desde_s": 0.52,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/horizontal/horizontal_4_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/horizontal/horizontal_4_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "a8ef76bd2bcb3b6ffc20e8ea5fb04e7d",
+"pareja": "tx:video/transiciones/tinta_4k/horizontal/horizontal_4",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.4,
+"descubre_desde_s": 0.52,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/horizontal/horizontal_5_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/horizontal/horizontal_5_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "46c1f299555a738fafb3be653412c48c",
+"pareja": "tx:video/transiciones/tinta_4k/horizontal/horizontal_5",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.4,
+"descubre_desde_s": 0.52,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/horizontal/horizontal_6_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/horizontal/horizontal_6_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "b497c27a71f4851c06d61c73d438e4af",
+"pareja": "tx:video/transiciones/tinta_4k/horizontal/horizontal_6",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.4,
+"descubre_desde_s": 0.52,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/horizontal/horizontal_7_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/horizontal/horizontal_7_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "ab235b501744a45072ad2b8e16a037a3",
+"pareja": "tx:video/transiciones/tinta_4k/horizontal/horizontal_7",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.4,
+"descubre_desde_s": 0.52,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/vertical/vertical_1_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/vertical/vertical_1_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "af2ae9611a91796f694193eb08d5b6ef",
+"pareja": "tx:video/transiciones/tinta_4k/vertical/vertical_1",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.4,
+"descubre_desde_s": 0.52,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/vertical/vertical_2_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/vertical/vertical_2_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "60b1f6f8a20f5530d4a3db2f81638616",
+"pareja": "tx:video/transiciones/tinta_4k/vertical/vertical_2",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.4,
+"descubre_desde_s": 0.52,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/vertical/vertical_3_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/vertical/vertical_3_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "314786bc523c9ccae90a1c80f34d2656",
+"pareja": "tx:video/transiciones/tinta_4k/vertical/vertical_3",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.4,
+"descubre_desde_s": 0.52,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/vertical/vertical_4_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/vertical/vertical_4_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "5ade784f6dc1981bb57428b6cb51b83f",
+"pareja": "tx:video/transiciones/tinta_4k/vertical/vertical_4",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.4,
+"descubre_desde_s": 0.52,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/vertical/vertical_5_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/vertical/vertical_5_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "9116a1ca4e1f40aa9a135a07a6ebd689",
+"pareja": "tx:video/transiciones/tinta_4k/vertical/vertical_5",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.4,
+"descubre_desde_s": 0.52,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/vertical/vertical_6_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/vertical/vertical_6_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "f8c53874fc8b337e202bcac075489805",
+"pareja": "tx:video/transiciones/tinta_4k/vertical/vertical_6",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": null,
+"descubre_desde_s": null,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
+},
+{
+"id": "tx:productos/mates_tinta_4k/vertical/vertical_7_mate",
+"coleccion": "TEXTURAS",
+"archivo": "TEXTURAS/productos/mates_tinta_4k/vertical/vertical_7_mate.mp4",
+"tipo": "video",
+"clase": "productos",
+"sub": "mates_tinta_4k",
+"w": 3840,
+"h": 2160,
+"md5": "73f95dff857afbf883be6767f2987790",
+"pareja": "tx:video/transiciones/tinta_4k/vertical/vertical_7",
+"modo": "mascara_luma",
+"modo_texto": "mate de luminancia: blanco = tinta (cubre), negro = deja ver",
+"modo_fuente": "Studio DamDam (Matte_MOVs)",
+"autor": "Studio DamDam",
+"pack_origen": "Textured Transition Pack",
+"licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
+"video": {
+"fps": 25.0,
+"fps_efectivo": 8.0,
+"a_saltos": true,
+"duracion": 1.0,
+"fotogramas": 25
+},
+"transicion": {
+"tipo": "mascara",
+"cubre_s": 0.4,
+"descubre_desde_s": 0.52,
+"criterio": "alfa del autor >= 99,5 % de la imagen",
+"fuente": "Matte_MOVs"
+},
+"hoja": "TEXTURAS/productos/hojas/mates_tinta_4k.jpg"
 }
 ]
 }

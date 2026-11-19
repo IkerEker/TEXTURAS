@@ -16,9 +16,18 @@ que ya hizo TEXTURAS (`catalogo.json`, `video/_tiras/`).
 | **Animated Paper Texture Pack + AE Project** (13 bucles + 2 transiciones) | `AnimatedTexturesPack_QuickTimeProRes` (15 .mov) + `GUMROAD_PaperTexturePromo (2).aep` | `video/texturas_animadas/{papel,grunge,lineas,salpicaduras,sellos,manchas}` y `video/transiciones/pintura` | ProRes, **12 fps** reales, 4–10 s, en bucle (salvo Paint Leaks y la transición 2) |
 | **Free Spray Paint Textures + AE Project** (4 sprays) | `QuickTime/T1–T4.mov` + `SprayPaintTextrues_Gumroad (1).aep` | `video/elementos/spray/t1–t4` | 25 fps con 12,5 fotogramas distintos/s, 0,32 s, sobre blanco (el producto original también trae PNG con alfa; Iker tiene los .mov) |
 
-**Lo que el autor vende y Iker no tiene en su copia:** las **21 «mattes»** del Transition Pack (en la descarga solo
-queda el rastro `__MACOSX/…/Matte_MOVs`) y la cuarta textura de bucle del pack. Tampoco su pack de 65 glitches CRT.
-Las transiciones texturadas sirven igualmente como mate de luminancia (ver §3).
+**Re-descarga completa (19-11-2026, `Biblioteca/AÑADIDOS/GUMROAD`)** — comparada por md5 (`gumroad/lista_md5_anadidos_2026-11-19.csv`,
+`tools/atlas/gumroad_anadidos.py`): de 319 archivos, **187 ya estaban** (los 168 PNG 4K, los 15 bucles de papel y los 4 sprays: idénticos).
+**132 son nuevos** (5,1 GB) y van a `originales/gumroad/` (el montaje los copia de AÑADIDOS; los zip no se tocan):
+
+| Nuevo | Qué es | En el atlas |
+|---|---|---|
+| **21 `Matte_MOVs`** | los mates del autor: ProRes 4444 XQ 4K, 25 fps, 1 s, **RGB negro + ALFA = tinta**, mismos 8 dibujos que la versión texturada | `productos/mates_tinta_4k/` (alfa → luminancia, blanco = tinta cubre; `mates.json` con cobertura por fotograma; hoja `productos/hojas/mates_tinta_4k.jpg`, revisada). Cubre del todo a 0,52 s (diagonales) / 0,40 s (horizontales y verticales) y empieza a descubrir 3 fotogramas después; **vertical_6 nunca cubre entera (máx. 97,6 %)**. Todas arrancan y acaban con algo de tinta: para un corte limpio, recortar el primer y último dibujo |
+| **24 `Textured_MOVs` en ProRes** | la calidad original de las transiciones (ProRes 4444 XQ, sin alfa). Lo que tenían los plugins eran MP4 de 2–3 MB | solo en `originales/gumroad/`; `video/transiciones/tinta_4k` sigue igual (los PNG 4K ya eran la versión sin pérdida) |
+| **Free Cyanotype Textures** (7 × 10 PNG) | cianotipias pintadas a mano fotograma a fotograma y escaneadas, 1920×1080, opacas (azul de Prusia sobre papel) | `originales/gumroad/cianotipia/`; hoja `gumroad/hojas/cianotipia.jpg`. Uso: multiplicar a pantalla completa a 12 fps, o como mate de luminancia (el azul tapa) |
+| **Easy Slit Scan Effect + AE Project** (16 mapas + .aep) | 8 mapas horizontales y 8 verticales: degradados grises animados, 1080×1920 (vertical, para redes), 24 fps, 4 s. El .aep usa **Displacement Map** (15 capas, «Use For Horizontal/Vertical Displacement»), **Simple Choker** y **Camera Lens Blur** | `originales/gumroad/slitscan/`; hoja `gumroad/hojas/slitscan.jpg`. Uso: mapa de Displacement Map (estira la imagen en franjas) o de Time Displacement para slit-scan real |
+
+Sigue sin estar: su pack de 65 glitches CRT (no comprado).
 
 ## 2. Cómo dice el autor que se usan
 
@@ -56,4 +65,5 @@ case con el «hecho a mano».
 ## 5. Pendiente
 
 - Ver el tutorial y el promo del autor (enlaces arriba) y anotar lo que añadan.
-- Pedirle a Iker si tiene la descarga completa del Transition Pack con las 21 mattes; si la encuentra, va a la Biblioteca.
+- Leer valores exactos del .aep de SlitScan (cuántos píxeles desplaza) cuando haya un lector de .aep fiable.
+- Iker: volver a lanzar `MONTAR_BIBLIOTECA.bat` para que copie los 132 nuevos a `originales/gumroad/`.

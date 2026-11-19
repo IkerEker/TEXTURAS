@@ -108,6 +108,23 @@ for h in man['heredado_neonizador']:
                     bytes=h['bytes'], rutas_antiguas=[h['ruta_en_repo']],
                     nota='JPG re-guardado o recorte de NEONIZADOR: se conserva para que su plugin/tex salga igual'))
 
+for g in man.get('gumroad_anadidos', []):
+    a = dict(id=g['id'], coleccion='originales', sub='gumroad', archivo=g['archivo'], tipo=g['tipo'], md5=g['md5'],
+             bytes=g['bytes'], desc=g['desc'], autor=g['autor'], pack_origen=g['pack'], licencia=g['licencia'],
+             rutas_antiguas=[g['origen_biblioteca']], receta='TEXTURAS/tecnicas/pintado_a_mano_damdam.md',
+             usos_autor=['superposicion', 'mapa_de_desplazamiento', 'mate'])
+    if 'Cyanotype' in g['pack']:
+        a.update(clase='superposicion', modo='multiplicar', modo_texto='multiplicar (papel blanco) o color; secuencia de 10 PNG a 12 fps',
+                 fondo='papel blanco/azul (opaco)', hoja='TEXTURAS/gumroad/hojas/cianotipia.jpg')
+    elif 'Slit' in g['pack'] and g['tipo'] == 'video':
+        a.update(clase='desplazamiento', desplazamiento='slit-scan: Displacement Map (o Time Displacement) por luminancia',
+                 hoja='TEXTURAS/gumroad/hojas/slitscan.jpg')
+    elif 'Matte_MOVs' in g['archivo']:
+        a.update(clase='mascara', alfa=True, modo='mascara_alfa', producto='tx:productos/mates_tinta_4k/' +
+                 {'D': 'diagonal', 'H': 'horizontal', 'V': 'vertical'}[g['archivo'][-6]] + '/' +
+                 {'D': 'diagonal', 'H': 'horizontal', 'V': 'vertical'}[g['archivo'][-6]] + '_' + g['archivo'][-5] + '_mate')
+    idx.append(a)
+
 # ---------------------------------------------------------------- AcidBite
 PACK = {
     'Light Transitions': ('video', 'transiciones/luz'), 'Wipe and Light Transitions': ('video', 'transiciones/barrido_luz'),
@@ -227,6 +244,17 @@ if P.exists():
             a['foto_origen'] = m.get('src'); a['clase_pieza'] = m.get('clase')
         if sub.startswith('goteos'): a['orientacion'] = 'raíz arriba (la pintura cae hacia abajo)'
         idx.append(a)
+
+    for c in json.load(open(P / 'mates_tinta_4k/mates.json'))['mates']:
+        idx.append(dict(id=c['id'], coleccion='TEXTURAS', archivo='TEXTURAS/productos/' + c['archivo'], tipo='video',
+                        clase='productos', sub='mates_tinta_4k', w=c['w'], h=c['h'], md5=c['md5'], pareja=c['pareja'],
+                        modo='mascara_luma', modo_texto='mate de luminancia: blanco = tinta (cubre), negro = deja ver',
+                        modo_fuente='Studio DamDam (Matte_MOVs)', autor='Studio DamDam', pack_origen='Textured Transition Pack',
+                        licencia='Gumroad (Studio DamDam): uso propio, no redistribuir',
+                        video=dict(fps=c['fps'], fps_efectivo=8.0, a_saltos=True, duracion=c['duracion'], fotogramas=c['fotogramas']),
+                        transicion=dict(tipo='mascara', cubre_s=c['cubre_total_s'], descubre_desde_s=c['descubre_desde_s'],
+                                        criterio='alfa del autor >= 99,5 % de la imagen', fuente='Matte_MOVs'),
+                        hoja='TEXTURAS/productos/hojas/mates_tinta_4k.jpg'))
 
 os.makedirs('indice', exist_ok=True)
 out = dict(version='2026-11-19', raiz='Biblioteca/ (variable TEXTURAS_ROOT)', total=len(idx),

@@ -6,6 +6,7 @@
 | Sellos de relieve (50) | `sellos_relieve/` + `sellos.json` | PNG gris 8 bits, 128 = neutro, luz desde arriba; S 20, M 36, L 56 px | A mano `js/grumosdata.js` (byte a byte) | A mano, cualquiera con relieve de pintura |
 | Piezas sueltas finas (1.328) | `piezas_neonizador/` (+ `fuego.json`, `goteos.json`, `catalogo.json` con medidas) | PNG RGBA/LA sin premultiplicar, alfa = luz o cobertura; medidas en px del recorte | NEONIZADOR rama `biblioteca-texturas` f7afed1, `BIBLIOTECA/elementos` (copias exactas) | NEONIZADOR, PAPELATOR (moho, quemaduras), Analog FX/A mano (goteos) |
 | Papeles grises a escala (32) | `papel_gris/` + `papeles.json` | PNG gris 8 bits tileable, 128 = papel plano, `tile_mm`, `px_por_mm`, `ganancia` | `tileables/papel` con escala conocida (`tools/atlas/producto_papel_gris.py`) | A mano (grano real), Trazo (soportes), NEONIZADOR, Cartelator |
+| Mates de tinta 4K (21) | `mates_tinta_4k/` + `mates.json` | MP4 H.264 4K gris, 25 fps, 1 s; blanco = tinta (cubre), negro = deja ver; cobertura medida por fotograma | Studio DamDam `Matte_MOVs` (alfa del autor, `tools/atlas/producto_mates_tinta.py`) · Gumroad: no redistribuir | NEONIZADOR vídeo, montaje automático (pareja de `video/transiciones/tinta_4k`) |
 | Alfa de croma | `tools/atlas/metodo_bordes_matte_papelator.py` | método | PAPELATOR `tools/bordes_matte.py` | cualquiera con fotos sobre verde |
 
 Hojas de contactos: `productos/hojas/` (todo revisado a ojo el 19-11-2026). Las piezas de NEONIZADOR no incluyen sus
