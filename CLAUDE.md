@@ -5,9 +5,9 @@ sacados de sus plugins de Photoshop (NEONIZADOR, Analog FX, PAPELATOR, A mano, T
 **Regla de oro:** antes de dibujar, generar o pedir una textura en cualquier proyecto, búscala aquí.
 Si no está, se añade aquí (ver «Añadir material») y luego se usa; no se crean bancos sueltos dentro de cada plugin.
 
-> **Estado del proyecto (19-11-2026):** la biblioteca común se está unificando con el pack AcidBite. Antes de cambiar
-> nada en la estructura, lee `TRASPASO.md`, `plugins/README.md` y `plugins/CONCILIACION.md` (cómo usa cada plugin las
-> texturas y qué necesita para no cambiar ni un píxel).
+> **Atlas unificado (19-11-2026, rama `atlas`):** TEXTURAS + AcidBite + originales de los plugins en un solo índice.
+> **Empieza por `MAPA.md`** (dónde está todo y cómo buscar: `indice/indice.json`, `tools/atlas/buscar.py`), las recetas
+> de `tecnicas/` y `DECISIONES.md`. Lo de abajo describe la parte TEXTURAS (`catalogo.json`), que sigue vigente.
 
 ## Cómo encontrar algo
 

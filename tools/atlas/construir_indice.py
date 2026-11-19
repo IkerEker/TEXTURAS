@@ -170,6 +170,50 @@ for e in ab:
     if sub == 'hoja_4k': a['desplazamiento'] = 'pliegues/arrugas en gris (Multiply)'
     idx.append({k: v for k, v in a.items() if v is not None})
 
+
+# ---------------------------------------------------------------- productos comunes
+P = Path('productos')
+if P.exists():
+    for c in json.load(open(P / 'cintas_trazo/cintas.json'))['cintas']:
+        idx.append(dict(id=c['id'], coleccion='TEXTURAS', archivo='TEXTURAS/productos/' + c['archivo'], tipo='imagen',
+                        clase='productos', sub='cintas_trazo', familia=c['familia'], w=c['w'], h=c['h'], mh=c['mh'], ar=c['ar'],
+                        md5_bytes=c['md5_bytes'], origen=c['origen'], orden_a_mano=c['orden_a_mano'],
+                        modo='multiplicar', modo_texto='densidad de tinta 0–255 (se aplica como cobertura)', modo_fuente='A mano',
+                        hoja='TEXTURAS/productos/hojas/cintas_trazo.jpg', usado_por='A mano (cinta #%d)' % c['orden_a_mano']))
+    for c in json.load(open(P / 'sellos_relieve/sellos.json'))['sellos']:
+        idx.append(dict(id=c['id'], coleccion='TEXTURAS', archivo='TEXTURAS/productos/' + c['archivo'], tipo='imagen',
+                        clase='productos', sub='sellos_relieve', clase_tam=c['clase'], w=c['lado'], h=c['lado'],
+                        md5_bytes=c['md5_bytes'], desplazamiento='gris 128 = neutro, luz desde arriba',
+                        modo='superponer', modo_fuente='A mano', usado_por='A mano (grumos de Graffiti)',
+                        hoja='TEXTURAS/productos/hojas/sellos_relieve.jpg'))
+    for c in json.load(open(P / 'papel_gris/papeles.json'))['papeles']:
+        idx.append(dict(id=c['id'], coleccion='TEXTURAS', archivo='TEXTURAS/productos/' + c['archivo'], tipo='imagen',
+                        clase='productos', sub='papel_gris', de=c['de'], w=c['w'], h=c['h'], tileable=True,
+                        tile_mm=c['tile_mm'], mm_por_px=c['mm_por_px'], px_por_mm=c['px_por_mm'], ganancia=c['ganancia'],
+                        md5_bytes=c['md5_bytes'], modo='superponer', modo_texto='superponer / luz suave (128 = plano)',
+                        modo_fuente='TEXTURAS', desplazamiento='gris 128 = neutro', hoja='TEXTURAS/productos/hojas/papel_gris.jpg'))
+    meta = {}
+    for cat, key in (('fuego/fuego.json', 'elementos'), ('goteos/goteos.json', 'goteos'), ('moho/catalogo.json', 'elementos'),
+                     ('burbujas_foto/catalogo.json', 'elementos')):
+        base = cat.split('/')[0]
+        for m in json.load(open(P / 'piezas_neonizador' / cat))[key]:
+            meta[base + '/' + m['archivo']] = m
+    for f in sorted((P / 'piezas_neonizador').rglob('*.png')):
+        rel = f.relative_to(P / 'piezas_neonizador').as_posix()
+        m = meta.get(rel, {})
+        sub = rel.rsplit('/', 1)[0]
+        a = dict(id='tx:productos/piezas_neonizador/' + rel[:-4], coleccion='TEXTURAS', archivo='TEXTURAS/productos/piezas_neonizador/' + rel,
+                 tipo='imagen', clase='productos', sub='piezas/' + sub, md5=md5f(f), alfa=True, fondo='transparente',
+                 modo='trama' if sub.startswith(('fuego', 'burbujas')) else 'normal', modo_fuente='NEONIZADOR',
+                 metodo='NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)',
+                 hoja='TEXTURAS/productos/hojas/neonizador__' + sub.replace('/', '_') + '.jpg',
+                 origen_ruta='neonizador/BIBLIOTECA/elementos/' + rel)
+        if m:
+            a['medidas'] = {k: v for k, v in m.items() if k not in ('archivo', 'src', 'clase')}
+            a['foto_origen'] = m.get('src'); a['clase_pieza'] = m.get('clase')
+        if sub.startswith('goteos'): a['orientacion'] = 'raíz arriba (la pintura cae hacia abajo)'
+        idx.append(a)
+
 os.makedirs('indice', exist_ok=True)
 out = dict(version='2026-11-19', raiz='Biblioteca/ (variable TEXTURAS_ROOT)', total=len(idx),
            por_coleccion=dict(collections.Counter(a['coleccion'] for a in idx)),

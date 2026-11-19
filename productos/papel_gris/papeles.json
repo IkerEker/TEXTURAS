@@ -1,0 +1,549 @@
+{
+ "formato": "PNG gris 8 bits tileable; 128 = papel plano; rel = (v-128)/(128·ganancia)",
+ "papeles": [
+  {
+   "id": "tx:productos/papel_gris/papel_translucido_texturizado_blanco_roto_1013_gris",
+   "archivo": "papel_gris/papel_translucido_texturizado_blanco_roto_1013_gris.png",
+   "de": "tx:tileables/papel/papel_translucido_texturizado_blanco_roto_1013",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    73.4,
+    73.4
+   ],
+   "mm_por_px": 0.0638,
+   "px_por_mm": 15.674,
+   "ganancia": 34.0347,
+   "sigma_px": 62.7,
+   "md5_bytes": "56da0633f9a6c05744877d9fd327b85c",
+   "desc": "Vegetal / cebolla"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_arrugada_papel_translucido_blanco_1014_gris",
+   "archivo": "papel_gris/textura_arrugada_papel_translucido_blanco_1014_gris.png",
+   "de": "tx:tileables/papel/textura_arrugada_papel_translucido_blanco_1014",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    137.6,
+    137.6
+   ],
+   "mm_por_px": 0.11962,
+   "px_por_mm": 8.36,
+   "ganancia": 6.8811,
+   "sigma_px": 33.44,
+   "md5_bytes": "c750c7f6559ff3e3933e456db0a086ff",
+   "desc": "Vegetal arrugado"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_acuarela_blanco_1021_gris",
+   "archivo": "papel_gris/textura_papel_acuarela_blanco_1021_gris.png",
+   "de": "tx:tileables/papel/textura_papel_acuarela_blanco_1021",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    110.0,
+    110.0
+   ],
+   "mm_por_px": 0.09569,
+   "px_por_mm": 10.45,
+   "ganancia": 4.778,
+   "sigma_px": 41.8,
+   "md5_bytes": "ac143d2e950af69dbcb3a58f6a810fe9",
+   "desc": "Acuarela grano grueso II"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_acuarela_blanco_rugoso_1019_gris",
+   "archivo": "papel_gris/textura_papel_acuarela_blanco_rugoso_1019_gris.png",
+   "de": "tx:tileables/papel/textura_papel_acuarela_blanco_rugoso_1019",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    110.0,
+    110.0
+   ],
+   "mm_por_px": 0.09569,
+   "px_por_mm": 10.45,
+   "ganancia": 4.8837,
+   "sigma_px": 41.8,
+   "md5_bytes": "0584e6433e520e29a8375a973ad5be14",
+   "desc": "Acuarela grano grueso"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_acuarela_marfil_fina_1022_gris",
+   "archivo": "papel_gris/textura_papel_acuarela_marfil_fina_1022_gris.png",
+   "de": "tx:tileables/papel/textura_papel_acuarela_marfil_fina_1022",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    64.2,
+    64.2
+   ],
+   "mm_por_px": 0.05582,
+   "px_por_mm": 17.915,
+   "ganancia": 9.5597,
+   "sigma_px": 71.66,
+   "md5_bytes": "12e6c8cd668b0a009d2905d2c239c754",
+   "desc": "Acuarela grano fino"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_arroz_artesanal_1032_gris",
+   "archivo": "papel_gris/textura_papel_arroz_artesanal_1032_gris.png",
+   "de": "tx:tileables/papel/textura_papel_arroz_artesanal_1032",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    137.6,
+    137.6
+   ],
+   "mm_por_px": 0.11962,
+   "px_por_mm": 8.36,
+   "ganancia": 8.5765,
+   "sigma_px": 33.44,
+   "md5_bytes": "9de9b085082c5e45bed517198512c557",
+   "desc": "Arroz artesanal"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_arroz_fibroso_1033_gris",
+   "archivo": "papel_gris/textura_papel_arroz_fibroso_1033_gris.png",
+   "de": "tx:tileables/papel/textura_papel_arroz_fibroso_1033",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    137.6,
+    137.6
+   ],
+   "mm_por_px": 0.11962,
+   "px_por_mm": 8.36,
+   "ganancia": 9.2003,
+   "sigma_px": 33.44,
+   "md5_bytes": "e61762c0576b96fb2f4a309fad1861c7",
+   "desc": "Arroz con fibras doradas"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_arroz_fibroso_1034_gris",
+   "archivo": "papel_gris/textura_papel_arroz_fibroso_1034_gris.png",
+   "de": "tx:tileables/papel/textura_papel_arroz_fibroso_1034",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    137.6,
+    137.6
+   ],
+   "mm_por_px": 0.11962,
+   "px_por_mm": 8.36,
+   "ganancia": 8.306,
+   "sigma_px": 33.44,
+   "md5_bytes": "9c9b02d23883de7c426b719d5e70a43c",
+   "desc": "Papel de arroz"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_artesanal_crema_suave_1023_gris",
+   "archivo": "papel_gris/textura_papel_artesanal_crema_suave_1023_gris.png",
+   "de": "tx:tileables/papel/textura_papel_artesanal_crema_suave_1023",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    91.7,
+    91.7
+   ],
+   "mm_por_px": 0.07974,
+   "px_por_mm": 12.541,
+   "ganancia": 8.9861,
+   "sigma_px": 50.16,
+   "md5_bytes": "a695a3395c8d88baa8714bac7a79da93",
+   "desc": "Algodón crema"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_artesanal_fibroso_1024_gris",
+   "archivo": "papel_gris/textura_papel_artesanal_fibroso_1024_gris.png",
+   "de": "tx:tileables/papel/textura_papel_artesanal_fibroso_1024",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    100.9,
+    100.9
+   ],
+   "mm_por_px": 0.08772,
+   "px_por_mm": 11.4,
+   "ganancia": 3.9496,
+   "sigma_px": 45.6,
+   "md5_bytes": "21d012536b3dc54ad1476d9ce84679d7",
+   "desc": "Hecho a mano fibroso"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_artesanal_marfil_1026_gris",
+   "archivo": "papel_gris/textura_papel_artesanal_marfil_1026_gris.png",
+   "de": "tx:tileables/papel/textura_papel_artesanal_marfil_1026",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    100.9,
+    100.9
+   ],
+   "mm_por_px": 0.08772,
+   "px_por_mm": 11.4,
+   "ganancia": 1.9241,
+   "sigma_px": 45.6,
+   "md5_bytes": "8086b61a938cd6c20204c35e12ef8a7f",
+   "desc": "Hecho a mano con grumos"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_artesanal_marfil_1027_gris",
+   "archivo": "papel_gris/textura_papel_artesanal_marfil_1027_gris.png",
+   "de": "tx:tileables/papel/textura_papel_artesanal_marfil_1027",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    100.9,
+    100.9
+   ],
+   "mm_por_px": 0.08772,
+   "px_por_mm": 11.4,
+   "ganancia": 3.46,
+   "sigma_px": 45.6,
+   "md5_bytes": "6ca4f76ba0784669d7138355376a8837",
+   "desc": "Hecho a mano"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_blanco_fino_1028_gris",
+   "archivo": "papel_gris/textura_papel_blanco_fino_1028_gris.png",
+   "de": "tx:tileables/papel/textura_papel_blanco_fino_1028",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    55.0,
+    55.0
+   ],
+   "mm_por_px": 0.04785,
+   "px_por_mm": 20.899,
+   "ganancia": 14.0598,
+   "sigma_px": 83.59,
+   "md5_bytes": "8f281bb0925316b8a50cb223e94e1d8b",
+   "desc": "Papel blanco fino"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_blanco_uniforme_1030_gris",
+   "archivo": "papel_gris/textura_papel_blanco_uniforme_1030_gris.png",
+   "de": "tx:tileables/papel/textura_papel_blanco_uniforme_1030",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    55.0,
+    55.0
+   ],
+   "mm_por_px": 0.04785,
+   "px_por_mm": 20.899,
+   "ganancia": 31.304,
+   "sigma_px": 83.59,
+   "md5_bytes": "efbc6fca5824c6f84c41af3d7f44fbb4",
+   "desc": "Vitela / Bristol"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_encerado_arrugado_1036_gris",
+   "archivo": "papel_gris/textura_papel_encerado_arrugado_1036_gris.png",
+   "de": "tx:tileables/papel/textura_papel_encerado_arrugado_1036",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    146.7,
+    146.7
+   ],
+   "mm_por_px": 0.12759,
+   "px_por_mm": 7.838,
+   "ganancia": 6.9223,
+   "sigma_px": 31.35,
+   "md5_bytes": "104684f118b5762afe9b17244d52fa1e",
+   "desc": "Encerado"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_gris_uniforme_1041_gris",
+   "archivo": "papel_gris/textura_papel_gris_uniforme_1041_gris.png",
+   "de": "tx:tileables/papel/textura_papel_gris_uniforme_1041",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    55.0,
+    55.0
+   ],
+   "mm_por_px": 0.04785,
+   "px_por_mm": 20.899,
+   "ganancia": 5.244,
+   "sigma_px": 83.59,
+   "md5_bytes": "15502e7d74a052963e54f394a5ac1316",
+   "desc": "Cartulina gris"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_horno_arrugado_1035_gris",
+   "archivo": "papel_gris/textura_papel_horno_arrugado_1035_gris.png",
+   "de": "tx:tileables/papel/textura_papel_horno_arrugado_1035",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    146.7,
+    146.7
+   ],
+   "mm_por_px": 0.12759,
+   "px_por_mm": 7.838,
+   "ganancia": 7.8848,
+   "sigma_px": 31.35,
+   "md5_bytes": "9d64b55734b128c1729de38db2478a7d",
+   "desc": "Papel de horno"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_kraft_marron_fibroso_1042_gris",
+   "archivo": "papel_gris/textura_papel_kraft_marron_fibroso_1042_gris.png",
+   "de": "tx:tileables/papel/textura_papel_kraft_marron_fibroso_1042",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    64.2,
+    64.2
+   ],
+   "mm_por_px": 0.05582,
+   "px_por_mm": 17.915,
+   "ganancia": 3.816,
+   "sigma_px": 71.66,
+   "md5_bytes": "539e44b8718ec265077d93b0dea9f3f1",
+   "desc": "Kraft claro"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_kraft_marron_fibroso_1043_gris",
+   "archivo": "papel_gris/textura_papel_kraft_marron_fibroso_1043_gris.png",
+   "de": "tx:tileables/papel/textura_papel_kraft_marron_fibroso_1043",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    64.2,
+    64.2
+   ],
+   "mm_por_px": 0.05582,
+   "px_por_mm": 17.915,
+   "ganancia": 3.5055,
+   "sigma_px": 71.66,
+   "md5_bytes": "22c51b59349910fd7c699239d0c2de7c",
+   "desc": "Kraft"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_marfil_artesanal_1045_gris",
+   "archivo": "papel_gris/textura_papel_marfil_artesanal_1045_gris.png",
+   "de": "tx:tileables/papel/textura_papel_marfil_artesanal_1045",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    91.7,
+    91.7
+   ],
+   "mm_por_px": 0.07974,
+   "px_por_mm": 12.541,
+   "ganancia": 10.0558,
+   "sigma_px": 50.16,
+   "md5_bytes": "7b46922137dc793215f7bb2f05770c5c",
+   "desc": "Algodón"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_reciclado_fibroso_1050_gris",
+   "archivo": "papel_gris/textura_papel_reciclado_fibroso_1050_gris.png",
+   "de": "tx:tileables/papel/textura_papel_reciclado_fibroso_1050",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    73.4,
+    73.4
+   ],
+   "mm_por_px": 0.0638,
+   "px_por_mm": 15.674,
+   "ganancia": 3.2147,
+   "sigma_px": 62.7,
+   "md5_bytes": "cdfc993533697c8d886456febad1b3c6",
+   "desc": "Reciclado"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_reciclado_multicolor_1054_gris",
+   "archivo": "papel_gris/textura_papel_reciclado_multicolor_1054_gris.png",
+   "de": "tx:tileables/papel/textura_papel_reciclado_multicolor_1054",
+   "w": 1451,
+   "h": 939,
+   "tile_mm": [
+    103.9,
+    67.2
+   ],
+   "mm_por_px": 0.07161,
+   "px_por_mm": 13.965,
+   "ganancia": 2.5729,
+   "sigma_px": 55.86,
+   "md5_bytes": "ab17a67a9aa544ed65b2576e1c5922ab",
+   "desc": "Reciclado con motas"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_papel_verjurado_color_crema_1055_gris",
+   "archivo": "papel_gris/textura_papel_verjurado_color_crema_1055_gris.png",
+   "de": "tx:tileables/papel/textura_papel_verjurado_color_crema_1055",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    110.0,
+    110.0
+   ],
+   "mm_por_px": 0.09569,
+   "px_por_mm": 10.45,
+   "ganancia": 10.2586,
+   "sigma_px": 41.8,
+   "md5_bytes": "a53ae07c12caad2fc4b0108cdfbb60fe",
+   "desc": "Verjurado"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_pergamino_blanco_arrugado_1057_gris",
+   "archivo": "papel_gris/textura_pergamino_blanco_arrugado_1057_gris.png",
+   "de": "tx:tileables/papel/textura_pergamino_blanco_arrugado_1057",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    146.7,
+    146.7
+   ],
+   "mm_por_px": 0.12759,
+   "px_por_mm": 7.838,
+   "ganancia": 5.7228,
+   "sigma_px": 31.35,
+   "md5_bytes": "a88876d80b794b1ab73e749cb1a19c68",
+   "desc": "Pergamino blanco"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_pergamino_envejecido_1059_gris",
+   "archivo": "papel_gris/textura_pergamino_envejecido_1059_gris.png",
+   "de": "tx:tileables/papel/textura_pergamino_envejecido_1059",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    220.1,
+    220.1
+   ],
+   "mm_por_px": 0.19139,
+   "px_por_mm": 5.225,
+   "ganancia": 7.9064,
+   "sigma_px": 20.9,
+   "md5_bytes": "81c2da38a699cc0a1e73436f6dcc9cad",
+   "desc": "Pergamino"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_pergamino_envejecido_1060_gris",
+   "archivo": "papel_gris/textura_pergamino_envejecido_1060_gris.png",
+   "de": "tx:tileables/papel/textura_pergamino_envejecido_1060",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    220.1,
+    220.1
+   ],
+   "mm_por_px": 0.19139,
+   "px_por_mm": 5.225,
+   "ganancia": 7.9541,
+   "sigma_px": 20.9,
+   "md5_bytes": "e792f0018e1a879386deee0da9113a7a",
+   "desc": "Pergamino envejecido"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_sutil_papel_blanco_1065_gris",
+   "archivo": "papel_gris/textura_sutil_papel_blanco_1065_gris.png",
+   "de": "tx:tileables/papel/textura_sutil_papel_blanco_1065",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    55.0,
+    55.0
+   ],
+   "mm_por_px": 0.04785,
+   "px_por_mm": 20.899,
+   "ganancia": 15.9446,
+   "sigma_px": 83.59,
+   "md5_bytes": "6bff77a56f98984f1b615ea7212b5d2e",
+   "desc": "Folio blanco"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_sutil_papel_verjurado_marfil_1066_gris",
+   "archivo": "papel_gris/textura_sutil_papel_verjurado_marfil_1066_gris.png",
+   "de": "tx:tileables/papel/textura_sutil_papel_verjurado_marfil_1066",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    100.9,
+    100.9
+   ],
+   "mm_por_px": 0.08772,
+   "px_por_mm": 11.4,
+   "ganancia": 8.9042,
+   "sigma_px": 45.6,
+   "md5_bytes": "b220d3d9523e8d413b9062eef1594ba9",
+   "desc": "Verjurado marfil"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_uniforme_papel_acuarela_blanco_calido_1067_gris",
+   "archivo": "papel_gris/textura_uniforme_papel_acuarela_blanco_calido_1067_gris.png",
+   "de": "tx:tileables/papel/textura_uniforme_papel_acuarela_blanco_calido_1067",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    64.2,
+    64.2
+   ],
+   "mm_por_px": 0.05582,
+   "px_por_mm": 17.915,
+   "ganancia": 12.4858,
+   "sigma_px": 71.66,
+   "md5_bytes": "329e2f8e231ffd504b04e6b12224a120",
+   "desc": "Acuarela satinada"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_uniforme_papel_gris_reciclado_1071_gris",
+   "archivo": "papel_gris/textura_uniforme_papel_gris_reciclado_1071_gris.png",
+   "de": "tx:tileables/papel/textura_uniforme_papel_gris_reciclado_1071",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    64.2,
+    64.2
+   ],
+   "mm_por_px": 0.05582,
+   "px_por_mm": 17.915,
+   "ganancia": 5.2138,
+   "sigma_px": 71.66,
+   "md5_bytes": "56058ed98a8b1f40251489a520bd1315",
+   "desc": "Reciclado gris"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_uniforme_papel_periodico_1069_gris",
+   "archivo": "papel_gris/textura_uniforme_papel_periodico_1069_gris.png",
+   "de": "tx:tileables/papel/textura_uniforme_papel_periodico_1069",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    45.9,
+    45.9
+   ],
+   "mm_por_px": 0.03987,
+   "px_por_mm": 25.082,
+   "ganancia": 4.0734,
+   "sigma_px": 100.33,
+   "md5_bytes": "38566e90defa2eaf4a497ef9a1ee1b04",
+   "desc": "Periódico gris"
+  },
+  {
+   "id": "tx:productos/papel_gris/textura_uniforme_papel_periodico_1070_gris",
+   "archivo": "papel_gris/textura_uniforme_papel_periodico_1070_gris.png",
+   "de": "tx:tileables/papel/textura_uniforme_papel_periodico_1070",
+   "w": 1150,
+   "h": 1150,
+   "tile_mm": [
+    45.9,
+    45.9
+   ],
+   "mm_por_px": 0.03987,
+   "px_por_mm": 25.082,
+   "ganancia": 7.4802,
+   "sigma_px": 100.33,
+   "md5_bytes": "65e8e9d7ebe2449655d00a7262c847fc",
+   "desc": "Periódico"
+  }
+ ]
+}

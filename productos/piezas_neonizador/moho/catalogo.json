@@ -1,0 +1,319 @@
+{
+ "descripcion": "Nuevos recursos (burbujas y moho) → elementos listos para usar.\n  python3 tools/extract_nuevos.py\nEntrada: BIBLIOTECA/elementos/nuevos_originales/*.png (fotos sobre negro)\nSalida:\n  BIBLIOTECA/elementos/burbujas_foto/sueltas/suelta_NN.png   LA: una pompa transparente (alfa = luz: solo se ve el\n                                                             reflejo y el filo, el centro deja ver lo de debajo)\n  BIBLIOTECA/elementos/burbujas_foto/manchas/mancha_NN.png   LA: isla de espuma (gris = foto, alfa = silueta de la\n                                                             isla: paredes blancas y huecos oscuros, opaca)\n  BIBLIOTECA/elementos/moho/colonias/colonia_NN.png          RGBA: colonia de moho recortada (alfa = silueta suave)\n  BIBLIOTECA/elementos/moho/manchitas/manchita_NNN.png       RGBA: trocitos recortados del interior de las colonias\n  BIBLIOTECA/elementos/moho/texturas/moho_tile_NN.png        RGB: textura de moho repetible (tileable) sin costuras\n  BIBLIOTECA/elementos/burbujas_foto/catalogo.json, BIBLIOTECA/elementos/moho/catalogo.json",
+ "elementos": [
+  {
+   "clase": "colonia",
+   "archivo": "colonias/colonia_01.png",
+   "w": 1146,
+   "h": 1111,
+   "src": "Colonia de moho multicolor sobre negro (1).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_001.png",
+   "w": 166,
+   "h": 166,
+   "src": "Colonia de moho multicolor sobre negro (1).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_002.png",
+   "w": 210,
+   "h": 210,
+   "src": "Colonia de moho multicolor sobre negro (1).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_003.png",
+   "w": 108,
+   "h": 108,
+   "src": "Colonia de moho multicolor sobre negro (1).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_004.png",
+   "w": 116,
+   "h": 116,
+   "src": "Colonia de moho multicolor sobre negro (1).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_005.png",
+   "w": 164,
+   "h": 164,
+   "src": "Colonia de moho multicolor sobre negro (1).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_006.png",
+   "w": 112,
+   "h": 112,
+   "src": "Colonia de moho multicolor sobre negro (1).png"
+  },
+  {
+   "clase": "colonia",
+   "archivo": "colonias/colonia_02.png",
+   "w": 1095,
+   "h": 1154,
+   "src": "Colonia de moho multicolor sobre negro (2).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_007.png",
+   "w": 168,
+   "h": 168,
+   "src": "Colonia de moho multicolor sobre negro (2).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_008.png",
+   "w": 110,
+   "h": 110,
+   "src": "Colonia de moho multicolor sobre negro (2).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_009.png",
+   "w": 200,
+   "h": 200,
+   "src": "Colonia de moho multicolor sobre negro (2).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_010.png",
+   "w": 146,
+   "h": 146,
+   "src": "Colonia de moho multicolor sobre negro (2).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_011.png",
+   "w": 206,
+   "h": 206,
+   "src": "Colonia de moho multicolor sobre negro (2).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_012.png",
+   "w": 130,
+   "h": 130,
+   "src": "Colonia de moho multicolor sobre negro (2).png"
+  },
+  {
+   "clase": "colonia",
+   "archivo": "colonias/colonia_03.png",
+   "w": 1132,
+   "h": 1144,
+   "src": "Colonia de moho multicolor sobre negro (3).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_013.png",
+   "w": 172,
+   "h": 172,
+   "src": "Colonia de moho multicolor sobre negro (3).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_014.png",
+   "w": 94,
+   "h": 94,
+   "src": "Colonia de moho multicolor sobre negro (3).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_015.png",
+   "w": 110,
+   "h": 110,
+   "src": "Colonia de moho multicolor sobre negro (3).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_016.png",
+   "w": 192,
+   "h": 192,
+   "src": "Colonia de moho multicolor sobre negro (3).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_017.png",
+   "w": 158,
+   "h": 158,
+   "src": "Colonia de moho multicolor sobre negro (3).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_018.png",
+   "w": 82,
+   "h": 82,
+   "src": "Colonia de moho multicolor sobre negro (3).png"
+  },
+  {
+   "clase": "colonia",
+   "archivo": "colonias/colonia_04.png",
+   "w": 1141,
+   "h": 1164,
+   "src": "Colonia de moho multicolor sobre negro (4).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_019.png",
+   "w": 194,
+   "h": 194,
+   "src": "Colonia de moho multicolor sobre negro (4).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_020.png",
+   "w": 196,
+   "h": 196,
+   "src": "Colonia de moho multicolor sobre negro (4).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_021.png",
+   "w": 108,
+   "h": 108,
+   "src": "Colonia de moho multicolor sobre negro (4).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_022.png",
+   "w": 138,
+   "h": 138,
+   "src": "Colonia de moho multicolor sobre negro (4).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_023.png",
+   "w": 82,
+   "h": 82,
+   "src": "Colonia de moho multicolor sobre negro (4).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_024.png",
+   "w": 130,
+   "h": 130,
+   "src": "Colonia de moho multicolor sobre negro (4).png"
+  },
+  {
+   "clase": "colonia",
+   "archivo": "colonias/colonia_05.png",
+   "w": 1084,
+   "h": 1131,
+   "src": "Colonia de moho multicolor sobre negro (5).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_025.png",
+   "w": 160,
+   "h": 160,
+   "src": "Colonia de moho multicolor sobre negro (5).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_026.png",
+   "w": 168,
+   "h": 168,
+   "src": "Colonia de moho multicolor sobre negro (5).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_027.png",
+   "w": 214,
+   "h": 214,
+   "src": "Colonia de moho multicolor sobre negro (5).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_028.png",
+   "w": 126,
+   "h": 126,
+   "src": "Colonia de moho multicolor sobre negro (5).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_029.png",
+   "w": 164,
+   "h": 164,
+   "src": "Colonia de moho multicolor sobre negro (5).png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_030.png",
+   "w": 144,
+   "h": 144,
+   "src": "Colonia de moho multicolor sobre negro (5).png"
+  },
+  {
+   "clase": "colonia",
+   "archivo": "colonias/colonia_06.png",
+   "w": 1117,
+   "h": 1084,
+   "src": "Colonia de moho multicolor sobre negro.png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_031.png",
+   "w": 152,
+   "h": 152,
+   "src": "Colonia de moho multicolor sobre negro.png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_032.png",
+   "w": 114,
+   "h": 114,
+   "src": "Colonia de moho multicolor sobre negro.png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_033.png",
+   "w": 212,
+   "h": 212,
+   "src": "Colonia de moho multicolor sobre negro.png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_034.png",
+   "w": 166,
+   "h": 166,
+   "src": "Colonia de moho multicolor sobre negro.png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_035.png",
+   "w": 206,
+   "h": 206,
+   "src": "Colonia de moho multicolor sobre negro.png"
+  },
+  {
+   "clase": "manchita",
+   "archivo": "manchitas/manchita_036.png",
+   "w": 176,
+   "h": 176,
+   "src": "Colonia de moho multicolor sobre negro.png"
+  },
+  {
+   "clase": "textura",
+   "archivo": "texturas/moho_tile_01.png",
+   "src": "Textura abstracta de moho multicolor (1).png"
+  },
+  {
+   "clase": "textura",
+   "archivo": "texturas/moho_tile_02.png",
+   "src": "Textura abstracta de moho multicolor.png"
+  },
+  {
+   "clase": "textura",
+   "archivo": "texturas/moho_tile_03.png",
+   "src": "Textura densa de moho y líquenes.png"
+  },
+  {
+   "clase": "textura",
+   "archivo": "texturas/moho_tile_04.png",
+   "src": "Textura macro de moho multicolor sobre fondo negro.png"
+  }
+ ]
+}

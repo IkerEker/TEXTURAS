@@ -1,0 +1,455 @@
+{
+ "nota": "Los archivos NO se renombran. Cada plugin conserva sus nombres internos (ver plugins/<p>/uso_id.json). Evitar «organica» y «trazos» como familia genérica.",
+ "oficiales": {
+  "boligrafo": [
+   "boli",
+   "bic",
+   "ballpoint"
+  ],
+  "rotulador": [
+   "rotu",
+   "marker",
+   "rotulador_anotacion"
+  ],
+  "gouache": [
+   "guache",
+   "pin_guache",
+   "gouache_opaco"
+  ],
+  "oleo": [
+   "pin_gouache (Trazo: óleo)",
+   "pin_oleo",
+   "oil"
+  ],
+  "pincel_fino": [
+   "pincelfino"
+  ],
+  "pincel_seco": [
+   "brocha seca",
+   "dry brush"
+  ],
+  "aguada": [
+   "aguadas",
+   "wash",
+   "tinta aguada"
+  ],
+  "acuarela": [
+   "watercolor",
+   "acuarela_grano",
+   "acuarela_aguada"
+  ],
+  "lapiz": [
+   "lápiz",
+   "grafito (trazo)",
+   "pencil"
+  ],
+  "carbon": [
+   "carboncillo",
+   "charcoal"
+  ],
+  "cera": [
+   "ceras",
+   "crayon",
+   "cera (técnica)"
+  ],
+  "tinta": [
+   "ink",
+   "tinta_brocha",
+   "tinta_anotacion"
+  ],
+  "pastel": [
+   "pin_pastel"
+  ],
+  "sello_seco": [
+   "sello en seco",
+   "relieve notarial"
+  ],
+  "sello_tinta": [
+   "sello de caucho",
+   "tampón",
+   "stamp (tinta)"
+  ],
+  "sello_brocha": [
+   "sello (NEONIZADOR: efecto de brocha)"
+  ],
+  "sello_relieve": [
+   "grumo",
+   "grumos",
+   "lump"
+  ],
+  "papel_kraft": [
+   "kraft (papel)"
+  ],
+  "carton_kraft": [
+   "kraft (cartón)",
+   "cardboard"
+  ],
+  "cera_vela": [
+   "cera (de vela)"
+  ],
+  "papel_periodico": [
+   "periodico",
+   "newspaper"
+  ],
+  "papel_acuarela": [
+   "acuarela (papel)",
+   "papel_rugoso"
+  ],
+  "papel_plegado": [
+   "paper fold",
+   "pliegue",
+   "fold"
+  ],
+  "papel_arrugado": [
+   "paper crumble",
+   "crumble",
+   "arrugado"
+  ],
+  "lienzo": [
+   "canvas",
+   "linen",
+   "tela"
+  ],
+  "cinta_adhesiva": [
+   "scotch tape",
+   "tape",
+   "cinta",
+   "celo",
+   "gaffer"
+  ],
+  "borde_rasgado": [
+   "rip",
+   "rips",
+   "rasgado"
+  ],
+  "borde_quemado": [
+   "burning paper",
+   "quemado (borde)"
+  ],
+  "grano_pelicula": [
+   "grain",
+   "film grain"
+  ],
+  "ventanilla": [
+   "gate",
+   "film gate",
+   "filmgate"
+  ],
+  "perforacion": [
+   "sprocket",
+   "sprocket holes"
+  ],
+  "quemado_pelicula": [
+   "burn",
+   "film burn",
+   "filmburn"
+  ],
+  "fuga_de_luz": [
+   "light leak",
+   "leak",
+   "fuga"
+  ],
+  "polvo_y_rayas": [
+   "dust",
+   "dirt",
+   "scratches",
+   "polvo_aranazos"
+  ],
+  "visor": [
+   "viewfinder"
+  ],
+  "mascara_fosforo": [
+   "shadow mask",
+   "rejilla RGB",
+   "CRT dirt"
+  ],
+  "lineas_de_barrido": [
+   "scanlines"
+  ],
+  "nieve_analogica": [
+   "noise",
+   "video noise",
+   "static"
+  ],
+  "glitch": [
+   "cyber",
+   "glitchy",
+   "datamosh",
+   "mosh"
+  ],
+  "vhs": [
+   "video home system",
+   "tracking"
+  ],
+  "llama": [
+   "flame",
+   "fg_lengua",
+   "fg_masa",
+   "fg_base",
+   "lengua",
+   "masa"
+  ],
+  "pavesa": [
+   "ember",
+   "brasa",
+   "fg_pavesas"
+  ],
+  "chispa": [
+   "spark",
+   "fg_chispas"
+  ],
+  "humo": [
+   "smoke",
+   "fg_humo",
+   "humo_v"
+  ],
+  "goteo": [
+   "drip",
+   "gt_",
+   "gota (pintura que cuelga)"
+  ],
+  "gota_agua": [
+   "water drop",
+   "gotas_cristal",
+   "gotas"
+  ],
+  "salpicadura": [
+   "splatter",
+   "splash",
+   "salpicaduras"
+  ],
+  "pompa": [
+   "bubble",
+   "bf_suelta",
+   "burbuja"
+  ],
+  "espuma": [
+   "foam",
+   "bf_tile",
+   "espuma_tile"
+  ],
+  "moho": [
+   "mold",
+   "mo_colonia",
+   "mo_tile"
+  ],
+  "refraccion": [
+   "optical elements",
+   "prisma",
+   "lens"
+  ],
+  "marcador_animado": [
+   "animated markers",
+   "cinemarkers"
+  ],
+  "encima_corte": [
+   "overlay transition",
+   "sobre el corte"
+  ],
+  "mascara": [
+   "track matte",
+   "mate",
+   "matte"
+  ],
+  "intercalado": [
+   "plano intercalado",
+   "wipe (entre planos)"
+  ]
+ },
+ "alias": {
+  "boli": "boligrafo",
+  "bic": "boligrafo",
+  "ballpoint": "boligrafo",
+  "rotu": "rotulador",
+  "marker": "rotulador",
+  "rotulador_anotacion": "rotulador",
+  "guache": "gouache",
+  "pin_guache": "gouache",
+  "gouache_opaco": "gouache",
+  "pin_gouache (trazo: óleo)": "oleo",
+  "pin_oleo": "oleo",
+  "oil": "oleo",
+  "pincelfino": "pincel_fino",
+  "brocha seca": "pincel_seco",
+  "dry brush": "pincel_seco",
+  "aguadas": "aguada",
+  "wash": "aguada",
+  "tinta aguada": "aguada",
+  "watercolor": "acuarela",
+  "acuarela_grano": "acuarela",
+  "acuarela_aguada": "acuarela",
+  "lápiz": "lapiz",
+  "grafito (trazo)": "lapiz",
+  "pencil": "lapiz",
+  "carboncillo": "carbon",
+  "charcoal": "carbon",
+  "ceras": "cera",
+  "crayon": "cera",
+  "cera (técnica)": "cera",
+  "ink": "tinta",
+  "tinta_brocha": "tinta",
+  "tinta_anotacion": "tinta",
+  "pin_pastel": "pastel",
+  "sello en seco": "sello_seco",
+  "relieve notarial": "sello_seco",
+  "sello de caucho": "sello_tinta",
+  "tampón": "sello_tinta",
+  "stamp (tinta)": "sello_tinta",
+  "sello (neonizador: efecto de brocha)": "sello_brocha",
+  "grumo": "sello_relieve",
+  "grumos": "sello_relieve",
+  "lump": "sello_relieve",
+  "kraft (papel)": "papel_kraft",
+  "kraft (cartón)": "carton_kraft",
+  "cardboard": "carton_kraft",
+  "cera (de vela)": "cera_vela",
+  "periodico": "papel_periodico",
+  "newspaper": "papel_periodico",
+  "acuarela (papel)": "papel_acuarela",
+  "papel_rugoso": "papel_acuarela",
+  "paper fold": "papel_plegado",
+  "pliegue": "papel_plegado",
+  "fold": "papel_plegado",
+  "paper crumble": "papel_arrugado",
+  "crumble": "papel_arrugado",
+  "arrugado": "papel_arrugado",
+  "canvas": "lienzo",
+  "linen": "lienzo",
+  "tela": "lienzo",
+  "scotch tape": "cinta_adhesiva",
+  "tape": "cinta_adhesiva",
+  "cinta": "cinta_adhesiva",
+  "celo": "cinta_adhesiva",
+  "gaffer": "cinta_adhesiva",
+  "rip": "borde_rasgado",
+  "rips": "borde_rasgado",
+  "rasgado": "borde_rasgado",
+  "burning paper": "borde_quemado",
+  "quemado (borde)": "borde_quemado",
+  "grain": "grano_pelicula",
+  "film grain": "grano_pelicula",
+  "gate": "ventanilla",
+  "film gate": "ventanilla",
+  "filmgate": "ventanilla",
+  "sprocket": "perforacion",
+  "sprocket holes": "perforacion",
+  "burn": "quemado_pelicula",
+  "film burn": "quemado_pelicula",
+  "filmburn": "quemado_pelicula",
+  "light leak": "fuga_de_luz",
+  "leak": "fuga_de_luz",
+  "fuga": "fuga_de_luz",
+  "dust": "polvo_y_rayas",
+  "dirt": "polvo_y_rayas",
+  "scratches": "polvo_y_rayas",
+  "polvo_aranazos": "polvo_y_rayas",
+  "viewfinder": "visor",
+  "shadow mask": "mascara_fosforo",
+  "rejilla rgb": "mascara_fosforo",
+  "crt dirt": "mascara_fosforo",
+  "scanlines": "lineas_de_barrido",
+  "noise": "nieve_analogica",
+  "video noise": "nieve_analogica",
+  "static": "nieve_analogica",
+  "cyber": "glitch",
+  "glitchy": "glitch",
+  "datamosh": "glitch",
+  "mosh": "glitch",
+  "video home system": "vhs",
+  "tracking": "vhs",
+  "flame": "llama",
+  "fg_lengua": "llama",
+  "fg_masa": "llama",
+  "fg_base": "llama",
+  "lengua": "llama",
+  "masa": "llama",
+  "ember": "pavesa",
+  "brasa": "pavesa",
+  "fg_pavesas": "pavesa",
+  "spark": "chispa",
+  "fg_chispas": "chispa",
+  "smoke": "humo",
+  "fg_humo": "humo",
+  "humo_v": "humo",
+  "drip": "goteo",
+  "gt_": "goteo",
+  "gota (pintura que cuelga)": "goteo",
+  "water drop": "gota_agua",
+  "gotas_cristal": "gota_agua",
+  "gotas": "gota_agua",
+  "splatter": "salpicadura",
+  "splash": "salpicadura",
+  "salpicaduras": "salpicadura",
+  "bubble": "pompa",
+  "bf_suelta": "pompa",
+  "burbuja": "pompa",
+  "foam": "espuma",
+  "bf_tile": "espuma",
+  "espuma_tile": "espuma",
+  "mold": "moho",
+  "mo_colonia": "moho",
+  "mo_tile": "moho",
+  "optical elements": "refraccion",
+  "prisma": "refraccion",
+  "lens": "refraccion",
+  "animated markers": "marcador_animado",
+  "cinemarkers": "marcador_animado",
+  "overlay transition": "encima_corte",
+  "sobre el corte": "encima_corte",
+  "track matte": "mascara",
+  "mate": "mascara",
+  "matte": "mascara",
+  "plano intercalado": "intercalado",
+  "wipe (entre planos)": "intercalado"
+ },
+ "modos": {
+  "normal": [
+   "Normal"
+  ],
+  "multiplicar": [
+   "Multiply"
+  ],
+  "trama": [
+   "Screen",
+   "Pantalla"
+  ],
+  "superponer": [
+   "Overlay"
+  ],
+  "luz_suave": [
+   "Soft Light"
+  ],
+  "luz_fuerte": [
+   "Hard Light"
+  ],
+  "luz_focal": [
+   "Pin Light"
+  ],
+  "diferencia": [
+   "Difference"
+  ],
+  "sobreexponer_lineal": [
+   "Linear Dodge (Add)",
+   "Add",
+   "Añadir"
+  ],
+  "sobreexponer_color": [
+   "Color Dodge"
+  ],
+  "aclarar": [
+   "Lighten"
+  ],
+  "color_mas_claro": [
+   "Lighter Color"
+  ],
+  "mascara_alfa": [
+   "Track Matte Alpha",
+   "Matte Alpha"
+  ],
+  "mascara_luma": [
+   "Track Matte Luma",
+   "Matte Luma",
+   "Luma Matte"
+  ]
+ }
+}

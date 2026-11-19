@@ -1,0 +1,187 @@
+{
+ "descripcion": "Nuevos recursos (burbujas y moho) → elementos listos para usar.\n  python3 tools/extract_nuevos.py\nEntrada: BIBLIOTECA/elementos/nuevos_originales/*.png (fotos sobre negro)\nSalida:\n  BIBLIOTECA/elementos/burbujas_foto/sueltas/suelta_NN.png   LA: una pompa transparente (alfa = luz: solo se ve el\n                                                             reflejo y el filo, el centro deja ver lo de debajo)\n  BIBLIOTECA/elementos/burbujas_foto/manchas/mancha_NN.png   LA: isla de espuma (gris = foto, alfa = silueta de la\n                                                             isla: paredes blancas y huecos oscuros, opaca)\n  BIBLIOTECA/elementos/moho/colonias/colonia_NN.png          RGBA: colonia de moho recortada (alfa = silueta suave)\n  BIBLIOTECA/elementos/moho/manchitas/manchita_NNN.png       RGBA: trocitos recortados del interior de las colonias\n  BIBLIOTECA/elementos/moho/texturas/moho_tile_NN.png        RGB: textura de moho repetible (tileable) sin costuras\n  BIBLIOTECA/elementos/burbujas_foto/catalogo.json, BIBLIOTECA/elementos/moho/catalogo.json",
+ "elementos": [
+  {
+   "clase": "suelta",
+   "archivo": "sueltas/suelta_01.png",
+   "w": 800,
+   "h": 802,
+   "src": "Burbuja brillante sobre fondo negro.png"
+  },
+  {
+   "clase": "tile",
+   "archivo": "tiles/espuma_tile_01.png",
+   "w": 542,
+   "h": 542,
+   "src": "Burbuja de espuma sobre fondo negro.png"
+  },
+  {
+   "clase": "mancha",
+   "archivo": "manchas/mancha_01.png",
+   "w": 949,
+   "h": 918,
+   "src": "Burbuja de espuma sobre fondo negro.png"
+  },
+  {
+   "clase": "suelta",
+   "archivo": "sueltas/suelta_02.png",
+   "w": 968,
+   "h": 963,
+   "src": "Burbuja de jabón brillante sobre negro.png"
+  },
+  {
+   "clase": "suelta",
+   "archivo": "sueltas/suelta_03.png",
+   "w": 959,
+   "h": 971,
+   "src": "Burbuja de jabón iridiscente en blanco y negro.png"
+  },
+  {
+   "clase": "suelta",
+   "archivo": "sueltas/suelta_04.png",
+   "w": 890,
+   "h": 875,
+   "src": "Burbuja de jabón marmoleada en negro.png"
+  },
+  {
+   "clase": "suelta",
+   "archivo": "sueltas/suelta_05.png",
+   "w": 909,
+   "h": 925,
+   "src": "Burbuja de jabón perlada sobre negro.png"
+  },
+  {
+   "clase": "suelta",
+   "archivo": "sueltas/suelta_06.png",
+   "w": 900,
+   "h": 926,
+   "src": "Burbuja transparente sobre fondo negro.png"
+  },
+  {
+   "clase": "tile",
+   "archivo": "tiles/espuma_tile_02.png",
+   "w": 442,
+   "h": 442,
+   "src": "Burbujas brillantes sobre negro.png"
+  },
+  {
+   "clase": "mancha",
+   "archivo": "manchas/mancha_02.png",
+   "w": 910,
+   "h": 891,
+   "src": "Burbujas brillantes sobre negro.png"
+  },
+  {
+   "clase": "tile",
+   "archivo": "tiles/espuma_tile_03.png",
+   "w": 466,
+   "h": 466,
+   "src": "Burbujas de espuma sobre negro (1).png"
+  },
+  {
+   "clase": "mancha",
+   "archivo": "manchas/mancha_03.png",
+   "w": 877,
+   "h": 848,
+   "src": "Burbujas de espuma sobre negro (1).png"
+  },
+  {
+   "clase": "tile",
+   "archivo": "tiles/espuma_tile_04.png",
+   "w": 548,
+   "h": 548,
+   "src": "Burbujas de espuma sobre negro.png"
+  },
+  {
+   "clase": "mancha",
+   "archivo": "manchas/mancha_04.png",
+   "w": 959,
+   "h": 938,
+   "src": "Burbujas de espuma sobre negro.png"
+  },
+  {
+   "clase": "tile",
+   "archivo": "tiles/espuma_tile_05.png",
+   "w": 436,
+   "h": 436,
+   "src": "Espectacular racimo de burbujas sobre negro.png"
+  },
+  {
+   "clase": "mancha",
+   "archivo": "manchas/mancha_05.png",
+   "w": 792,
+   "h": 778,
+   "src": "Espectacular racimo de burbujas sobre negro.png"
+  },
+  {
+   "clase": "tile",
+   "archivo": "tiles/espuma_tile_06.png",
+   "w": 538,
+   "h": 538,
+   "src": "Espuma Monocromática sobre Negro.png"
+  },
+  {
+   "clase": "mancha",
+   "archivo": "manchas/mancha_06.png",
+   "w": 929,
+   "h": 1030,
+   "src": "Espuma Monocromática sobre Negro.png"
+  },
+  {
+   "clase": "tile",
+   "archivo": "tiles/espuma_tile_07.png",
+   "w": 464,
+   "h": 464,
+   "src": "Isla de burbujas de espuma.png"
+  },
+  {
+   "clase": "mancha",
+   "archivo": "manchas/mancha_07.png",
+   "w": 880,
+   "h": 1088,
+   "src": "Isla de burbujas de espuma.png"
+  },
+  {
+   "clase": "tile",
+   "archivo": "tiles/espuma_tile_08.png",
+   "w": 598,
+   "h": 598,
+   "src": "Isla de espuma burbujeante en blanco y negro.png"
+  },
+  {
+   "clase": "mancha",
+   "archivo": "manchas/mancha_08.png",
+   "w": 1096,
+   "h": 1175,
+   "src": "Isla de espuma burbujeante en blanco y negro.png"
+  },
+  {
+   "clase": "tile",
+   "archivo": "tiles/espuma_tile_09.png",
+   "w": 504,
+   "h": 504,
+   "src": "Macro de espuma jabonosa brillante.png"
+  },
+  {
+   "clase": "mancha",
+   "archivo": "manchas/mancha_09.png",
+   "w": 860,
+   "h": 1066,
+   "src": "Macro de espuma jabonosa brillante.png"
+  },
+  {
+   "clase": "tile",
+   "archivo": "tiles/espuma_tile_10.png",
+   "w": 474,
+   "h": 474,
+   "src": "Racimo brillante de burbujas sobre negro.png"
+  },
+  {
+   "clase": "mancha",
+   "archivo": "manchas/mancha_10.png",
+   "w": 782,
+   "h": 797,
+   "src": "Racimo brillante de burbujas sobre negro.png"
+  }
+ ]
+}

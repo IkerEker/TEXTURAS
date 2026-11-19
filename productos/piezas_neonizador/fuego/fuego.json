@@ -1,0 +1,6988 @@
+{
+ "descripcion": "Biblioteca FUEGO: separa las fotos de BIBLIOTECA/elementos/fuego/originales (fuego, pavesas, chispas y humo sobre\nnegro) en elementos listos para usar, sin fondo, y un catálogo con sus medidas.\n\n  python3 tools/extract_fuego.py\n\nSalida en BIBLIOTECA/elementos/fuego/:\n  llamas/<clase>_NN.png   RGBA (alfa = luz de la llama; RGB sin premultiplicar). Clases:\n      lengua   lengua alta y fina (vertical o inclinada); se guarda con la base abajo y se mide hacia dónde se inclina\n      masa     llama redonda y densa (bola de fuego)\n      base     fuego ancho y bajo (hoguera)\n  humo/humo_NN.png        LA (gris + alfa)\n  pavesas/pavesa_NNN.png  RGBA: cada pavesa suelta (copo de ceniza incandescente, rojo-naranja o gris)\n  chispas/chispa_NNN.png  RGBA: cada chispa suelta (trazo fino y brillante); se mide su ángulo y largo\n  fuego.json              catálogo: clase, archivo, medidas (lean, base_x, ang, len, …), foto de origen\n\nFondo: las fotos son luz sobre negro, así que alfa = brillo (máximo de los canales) con una curva suave y el color se\ndivide por alfa (para poder pegarlas con «normal» o sumarlas con «pantalla»).",
+ "elementos": [
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_001.png",
+   "w": 13,
+   "h": 13,
+   "area": 38,
+   "elong": 1.04,
+   "ang": 2.356,
+   "len": 5.3,
+   "gris": false,
+   "col": [
+    0.39,
+    0.09,
+    0.069
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_002.png",
+   "w": 28,
+   "h": 15,
+   "area": 143,
+   "elong": 3.26,
+   "ang": 3.122,
+   "len": 20.2,
+   "gris": true,
+   "col": [
+    0.251,
+    0.186,
+    0.151
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_003.png",
+   "w": 15,
+   "h": 16,
+   "area": 63,
+   "elong": 1.34,
+   "ang": 2.257,
+   "len": 8.3,
+   "gris": false,
+   "col": [
+    0.55,
+    0.106,
+    0.063
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_004.png",
+   "w": 22,
+   "h": 28,
+   "area": 266,
+   "elong": 1.5,
+   "ang": 1.498,
+   "len": 20.5,
+   "gris": false,
+   "col": [
+    0.449,
+    0.188,
+    0.062
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_005.png",
+   "w": 61,
+   "h": 47,
+   "area": 1487,
+   "elong": 1.55,
+   "ang": 2.803,
+   "len": 50.5,
+   "gris": false,
+   "col": [
+    0.666,
+    0.31,
+    0.092
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_006.png",
+   "w": 17,
+   "h": 18,
+   "area": 95,
+   "elong": 1.31,
+   "ang": 0.922,
+   "len": 10.2,
+   "gris": false,
+   "col": [
+    0.141,
+    0.009,
+    0.013
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_007.png",
+   "w": 13,
+   "h": 12,
+   "area": 28,
+   "elong": 1.15,
+   "ang": 2.796,
+   "len": 4.4,
+   "gris": false,
+   "col": [
+    0.581,
+    0.44,
+    0.431
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_008.png",
+   "w": 17,
+   "h": 15,
+   "area": 76,
+   "elong": 1.48,
+   "ang": -2.911,
+   "len": 9.6,
+   "gris": false,
+   "col": [
+    0.561,
+    0.315,
+    0.119
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_009.png",
+   "w": 38,
+   "h": 29,
+   "area": 391,
+   "elong": 1.73,
+   "ang": -2.918,
+   "len": 29.5,
+   "gris": false,
+   "col": [
+    0.274,
+    0.108,
+    0.08
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_010.png",
+   "w": 26,
+   "h": 21,
+   "area": 207,
+   "elong": 1.69,
+   "ang": -2.926,
+   "len": 18.8,
+   "gris": false,
+   "col": [
+    0.236,
+    0.051,
+    0.028
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_011.png",
+   "w": 16,
+   "h": 21,
+   "area": 103,
+   "elong": 2.11,
+   "ang": 1.919,
+   "len": 13.3,
+   "gris": false,
+   "col": [
+    0.226,
+    0.022,
+    0.017
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_012.png",
+   "w": 17,
+   "h": 18,
+   "area": 94,
+   "elong": 1.21,
+   "ang": 1.231,
+   "len": 9.7,
+   "gris": false,
+   "col": [
+    0.524,
+    0.042,
+    0.03
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_013.png",
+   "w": 11,
+   "h": 15,
+   "area": 29,
+   "elong": 3.14,
+   "ang": 1.844,
+   "len": 6.8,
+   "gris": true,
+   "col": [
+    0.113,
+    0.02,
+    0.02
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_014.png",
+   "w": 26,
+   "h": 27,
+   "area": 259,
+   "elong": 1.67,
+   "ang": 2.205,
+   "len": 20.9,
+   "gris": false,
+   "col": [
+    0.419,
+    0.225,
+    0.119
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_015.png",
+   "w": 44,
+   "h": 39,
+   "area": 861,
+   "elong": 1.22,
+   "ang": 2.73,
+   "len": 34.5,
+   "gris": false,
+   "col": [
+    0.761,
+    0.399,
+    0.14
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_016.png",
+   "w": 12,
+   "h": 12,
+   "area": 23,
+   "elong": 1.63,
+   "ang": -2.678,
+   "len": 4.6,
+   "gris": true,
+   "col": [
+    0.351,
+    0.255,
+    0.264
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_017.png",
+   "w": 22,
+   "h": 24,
+   "area": 196,
+   "elong": 1.25,
+   "ang": 1.648,
+   "len": 16.8,
+   "gris": false,
+   "col": [
+    0.432,
+    0.285,
+    0.155
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_018.png",
+   "w": 21,
+   "h": 18,
+   "area": 124,
+   "elong": 1.21,
+   "ang": -2.673,
+   "len": 11.4,
+   "gris": false,
+   "col": [
+    0.415,
+    0.103,
+    0.04
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_019.png",
+   "w": 21,
+   "h": 21,
+   "area": 131,
+   "elong": 1.26,
+   "ang": 2.486,
+   "len": 12.9,
+   "gris": false,
+   "col": [
+    0.336,
+    0.101,
+    0.051
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_020.png",
+   "w": 17,
+   "h": 16,
+   "area": 74,
+   "elong": 2.02,
+   "ang": 2.493,
+   "len": 10.8,
+   "gris": false,
+   "col": [
+    0.24,
+    0.043,
+    0.033
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_021.png",
+   "w": 15,
+   "h": 18,
+   "area": 74,
+   "elong": 1.87,
+   "ang": 1.216,
+   "len": 10.6,
+   "gris": false,
+   "col": [
+    0.503,
+    0.135,
+    0.078
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_022.png",
+   "w": 15,
+   "h": 19,
+   "area": 87,
+   "elong": 1.73,
+   "ang": 1.213,
+   "len": 11.0,
+   "gris": false,
+   "col": [
+    0.25,
+    0.041,
+    0.031
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_023.png",
+   "w": 25,
+   "h": 28,
+   "area": 274,
+   "elong": 1.39,
+   "ang": 2.028,
+   "len": 19.9,
+   "gris": false,
+   "col": [
+    0.827,
+    0.532,
+    0.217
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_024.png",
+   "w": 16,
+   "h": 16,
+   "area": 64,
+   "elong": 1.58,
+   "ang": 0.813,
+   "len": 9.2,
+   "gris": false,
+   "col": [
+    0.396,
+    0.061,
+    0.046
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_025.png",
+   "w": 37,
+   "h": 31,
+   "area": 400,
+   "elong": 2.39,
+   "ang": 2.529,
+   "len": 31.7,
+   "gris": false,
+   "col": [
+    0.621,
+    0.26,
+    0.09
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_026.png",
+   "w": 23,
+   "h": 21,
+   "area": 183,
+   "elong": 1.23,
+   "ang": 2.791,
+   "len": 14.9,
+   "gris": false,
+   "col": [
+    0.203,
+    0.03,
+    0.019
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_027.png",
+   "w": 27,
+   "h": 23,
+   "area": 162,
+   "elong": 3.16,
+   "ang": -2.586,
+   "len": 21.1,
+   "gris": true,
+   "col": [
+    0.229,
+    0.166,
+    0.141
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_028.png",
+   "w": 18,
+   "h": 16,
+   "area": 89,
+   "elong": 1.28,
+   "ang": -2.854,
+   "len": 10.0,
+   "gris": false,
+   "col": [
+    0.501,
+    0.099,
+    0.059
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_029.png",
+   "w": 15,
+   "h": 14,
+   "area": 58,
+   "elong": 1.26,
+   "ang": 2.783,
+   "len": 7.6,
+   "gris": false,
+   "col": [
+    0.314,
+    0.052,
+    0.034
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_030.png",
+   "w": 39,
+   "h": 36,
+   "area": 682,
+   "elong": 1.27,
+   "ang": 0.923,
+   "len": 30.8,
+   "gris": false,
+   "col": [
+    0.612,
+    0.264,
+    0.109
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_031.png",
+   "w": 24,
+   "h": 28,
+   "area": 220,
+   "elong": 2.53,
+   "ang": 2.152,
+   "len": 23.2,
+   "gris": false,
+   "col": [
+    0.294,
+    0.067,
+    0.037
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_032.png",
+   "w": 18,
+   "h": 24,
+   "area": 116,
+   "elong": 3.16,
+   "ang": 1.088,
+   "len": 18.1,
+   "gris": false,
+   "col": [
+    0.707,
+    0.115,
+    0.082
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_033.png",
+   "w": 43,
+   "h": 32,
+   "area": 457,
+   "elong": 3.07,
+   "ang": 2.541,
+   "len": 38.4,
+   "gris": true,
+   "col": [
+    0.25,
+    0.172,
+    0.139
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_034.png",
+   "w": 18,
+   "h": 14,
+   "area": 72,
+   "elong": 1.81,
+   "ang": -3.013,
+   "len": 10.1,
+   "gris": false,
+   "col": [
+    0.491,
+    0.106,
+    0.083
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_035.png",
+   "w": 14,
+   "h": 24,
+   "area": 83,
+   "elong": 5.98,
+   "ang": 1.813,
+   "len": 21.5,
+   "gris": false,
+   "col": [
+    0.197,
+    0.073,
+    0.061
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_036.png",
+   "w": 12,
+   "h": 13,
+   "area": 27,
+   "elong": 1.53,
+   "ang": 1.028,
+   "len": 5.1,
+   "gris": true,
+   "col": [
+    0.139,
+    0.064,
+    0.046
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_037.png",
+   "w": 14,
+   "h": 13,
+   "area": 42,
+   "elong": 1.19,
+   "ang": 2.985,
+   "len": 6.0,
+   "gris": false,
+   "col": [
+    0.204,
+    0.088,
+    0.06
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_038.png",
+   "w": 26,
+   "h": 19,
+   "area": 135,
+   "elong": 2.86,
+   "ang": 2.741,
+   "len": 21.5,
+   "gris": false,
+   "col": [
+    0.33,
+    0.177,
+    0.111
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_039.png",
+   "w": 12,
+   "h": 14,
+   "area": 27,
+   "elong": 2.86,
+   "ang": 2.21,
+   "len": 6.3,
+   "gris": true,
+   "col": [
+    0.148,
+    0.074,
+    0.055
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_040.png",
+   "w": 18,
+   "h": 15,
+   "area": 76,
+   "elong": 1.65,
+   "ang": -2.869,
+   "len": 9.6,
+   "gris": false,
+   "col": [
+    0.284,
+    0.059,
+    0.042
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_041.png",
+   "w": 15,
+   "h": 12,
+   "area": 35,
+   "elong": 1.75,
+   "ang": -2.703,
+   "len": 6.2,
+   "gris": true,
+   "col": [
+    0.152,
+    0.101,
+    0.07
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_042.png",
+   "w": 19,
+   "h": 25,
+   "area": 136,
+   "elong": 1.76,
+   "ang": 1.478,
+   "len": 18.2,
+   "gris": false,
+   "col": [
+    0.385,
+    0.248,
+    0.146
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_043.png",
+   "w": 15,
+   "h": 25,
+   "area": 135,
+   "elong": 2.19,
+   "ang": 1.705,
+   "len": 16.0,
+   "gris": false,
+   "col": [
+    0.611,
+    0.102,
+    0.043
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_044.png",
+   "w": 17,
+   "h": 14,
+   "area": 62,
+   "elong": 1.93,
+   "ang": 3.119,
+   "len": 9.2,
+   "gris": false,
+   "col": [
+    0.367,
+    0.043,
+    0.04
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_045.png",
+   "w": 30,
+   "h": 32,
+   "area": 470,
+   "elong": 1.37,
+   "ang": 2.119,
+   "len": 25.3,
+   "gris": false,
+   "col": [
+    0.749,
+    0.461,
+    0.141
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_046.png",
+   "w": 13,
+   "h": 12,
+   "area": 28,
+   "elong": 1.98,
+   "ang": 2.59,
+   "len": 5.9,
+   "gris": false,
+   "col": [
+    0.303,
+    0.171,
+    0.163
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_047.png",
+   "w": 16,
+   "h": 15,
+   "area": 63,
+   "elong": 1.88,
+   "ang": 2.469,
+   "len": 9.0,
+   "gris": false,
+   "col": [
+    0.597,
+    0.124,
+    0.086
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_048.png",
+   "w": 49,
+   "h": 41,
+   "area": 875,
+   "elong": 1.96,
+   "ang": 2.538,
+   "len": 42.8,
+   "gris": false,
+   "col": [
+    0.59,
+    0.254,
+    0.079
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_049.png",
+   "w": 16,
+   "h": 22,
+   "area": 111,
+   "elong": 2.01,
+   "ang": 1.842,
+   "len": 14.1,
+   "gris": false,
+   "col": [
+    0.519,
+    0.218,
+    0.092
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_050.png",
+   "w": 20,
+   "h": 20,
+   "area": 105,
+   "elong": 2.57,
+   "ang": 0.835,
+   "len": 15.2,
+   "gris": false,
+   "col": [
+    0.553,
+    0.129,
+    0.091
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_051.png",
+   "w": 14,
+   "h": 12,
+   "area": 35,
+   "elong": 1.46,
+   "ang": 3.093,
+   "len": 5.8,
+   "gris": false,
+   "col": [
+    0.185,
+    0.036,
+    0.038
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_052.png",
+   "w": 19,
+   "h": 19,
+   "area": 100,
+   "elong": 2.02,
+   "ang": 0.876,
+   "len": 13.1,
+   "gris": false,
+   "col": [
+    0.225,
+    0.026,
+    0.024
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_053.png",
+   "w": 11,
+   "h": 13,
+   "area": 27,
+   "elong": 2.04,
+   "ang": 1.267,
+   "len": 5.7,
+   "gris": true,
+   "col": [
+    0.214,
+    0.152,
+    0.15
+   ],
+   "src": "Brasas flotando en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_054.png",
+   "w": 17,
+   "h": 16,
+   "area": 66,
+   "elong": 1.97,
+   "ang": -2.37,
+   "len": 10.3,
+   "gris": false,
+   "col": [
+    0.724,
+    0.252,
+    0.138
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_055.png",
+   "w": 38,
+   "h": 37,
+   "area": 699,
+   "elong": 1.19,
+   "ang": 0.856,
+   "len": 27.0,
+   "gris": false,
+   "col": [
+    0.808,
+    0.438,
+    0.131
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_056.png",
+   "w": 29,
+   "h": 25,
+   "area": 264,
+   "elong": 1.71,
+   "ang": 2.696,
+   "len": 21.8,
+   "gris": false,
+   "col": [
+    0.591,
+    0.186,
+    0.127
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_057.png",
+   "w": 11,
+   "h": 10,
+   "area": 16,
+   "elong": 1.73,
+   "ang": 2.82,
+   "len": 3.5,
+   "gris": false,
+   "col": [
+    0.205,
+    0.041,
+    0.053
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_058.png",
+   "w": 19,
+   "h": 21,
+   "area": 110,
+   "elong": 2.12,
+   "ang": 0.913,
+   "len": 14.5,
+   "gris": false,
+   "col": [
+    0.647,
+    0.167,
+    0.117
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_059.png",
+   "w": 24,
+   "h": 16,
+   "area": 122,
+   "elong": 2.94,
+   "ang": 2.84,
+   "len": 17.2,
+   "gris": false,
+   "col": [
+    0.339,
+    0.099,
+    0.09
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_060.png",
+   "w": 14,
+   "h": 13,
+   "area": 34,
+   "elong": 2.51,
+   "ang": -2.437,
+   "len": 7.7,
+   "gris": false,
+   "col": [
+    0.161,
+    0.037,
+    0.037
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_061.png",
+   "w": 22,
+   "h": 21,
+   "area": 109,
+   "elong": 3.59,
+   "ang": -2.405,
+   "len": 18.5,
+   "gris": false,
+   "col": [
+    0.695,
+    0.317,
+    0.173
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_062.png",
+   "w": 17,
+   "h": 15,
+   "area": 71,
+   "elong": 1.47,
+   "ang": -2.942,
+   "len": 9.2,
+   "gris": false,
+   "col": [
+    0.75,
+    0.335,
+    0.144
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_063.png",
+   "w": 21,
+   "h": 14,
+   "area": 95,
+   "elong": 2.12,
+   "ang": 3.102,
+   "len": 13.3,
+   "gris": false,
+   "col": [
+    0.758,
+    0.253,
+    0.136
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_064.png",
+   "w": 11,
+   "h": 12,
+   "area": 17,
+   "elong": 2.45,
+   "ang": 1.249,
+   "len": 4.4,
+   "gris": true,
+   "col": [
+    0.135,
+    0.042,
+    0.044
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_065.png",
+   "w": 18,
+   "h": 18,
+   "area": 89,
+   "elong": 1.25,
+   "ang": 2.56,
+   "len": 9.9,
+   "gris": false,
+   "col": [
+    0.343,
+    0.14,
+    0.124
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_066.png",
+   "w": 48,
+   "h": 32,
+   "area": 610,
+   "elong": 2.09,
+   "ang": 2.914,
+   "len": 35.9,
+   "gris": false,
+   "col": [
+    0.823,
+    0.495,
+    0.103
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_067.png",
+   "w": 20,
+   "h": 17,
+   "area": 100,
+   "elong": 2.19,
+   "ang": 2.6,
+   "len": 13.8,
+   "gris": false,
+   "col": [
+    0.787,
+    0.419,
+    0.146
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_068.png",
+   "w": 14,
+   "h": 15,
+   "area": 47,
+   "elong": 1.94,
+   "ang": 2.356,
+   "len": 8.0,
+   "gris": false,
+   "col": [
+    0.301,
+    0.069,
+    0.065
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_069.png",
+   "w": 28,
+   "h": 26,
+   "area": 263,
+   "elong": 1.64,
+   "ang": -2.488,
+   "len": 21.9,
+   "gris": false,
+   "col": [
+    0.512,
+    0.141,
+    0.084
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_070.png",
+   "w": 29,
+   "h": 19,
+   "area": 127,
+   "elong": 4.84,
+   "ang": 2.727,
+   "len": 24.4,
+   "gris": false,
+   "col": [
+    0.189,
+    0.056,
+    0.051
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_071.png",
+   "w": 19,
+   "h": 16,
+   "area": 87,
+   "elong": 1.46,
+   "ang": 2.957,
+   "len": 10.6,
+   "gris": false,
+   "col": [
+    0.754,
+    0.391,
+    0.173
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_072.png",
+   "w": 33,
+   "h": 26,
+   "area": 366,
+   "elong": 1.35,
+   "ang": -3.038,
+   "len": 23.5,
+   "gris": false,
+   "col": [
+    0.446,
+    0.14,
+    0.088
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_073.png",
+   "w": 18,
+   "h": 15,
+   "area": 73,
+   "elong": 1.78,
+   "ang": -2.824,
+   "len": 10.6,
+   "gris": false,
+   "col": [
+    0.756,
+    0.327,
+    0.147
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_074.png",
+   "w": 18,
+   "h": 18,
+   "area": 90,
+   "elong": 1.38,
+   "ang": 2.526,
+   "len": 10.5,
+   "gris": false,
+   "col": [
+    0.646,
+    0.288,
+    0.15
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_075.png",
+   "w": 19,
+   "h": 26,
+   "area": 151,
+   "elong": 2.47,
+   "ang": 1.139,
+   "len": 18.8,
+   "gris": false,
+   "col": [
+    0.441,
+    0.214,
+    0.198
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_076.png",
+   "w": 23,
+   "h": 17,
+   "area": 116,
+   "elong": 2.42,
+   "ang": -2.696,
+   "len": 16.1,
+   "gris": false,
+   "col": [
+    0.793,
+    0.538,
+    0.204
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_077.png",
+   "w": 45,
+   "h": 45,
+   "area": 1025,
+   "elong": 1.09,
+   "ang": 1.767,
+   "len": 33.7,
+   "gris": false,
+   "col": [
+    0.781,
+    0.391,
+    0.099
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_078.png",
+   "w": 16,
+   "h": 14,
+   "area": 51,
+   "elong": 1.98,
+   "ang": -2.65,
+   "len": 8.8,
+   "gris": false,
+   "col": [
+    0.709,
+    0.154,
+    0.086
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_079.png",
+   "w": 14,
+   "h": 16,
+   "area": 57,
+   "elong": 1.32,
+   "ang": 1.173,
+   "len": 7.7,
+   "gris": false,
+   "col": [
+    0.731,
+    0.312,
+    0.157
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_080.png",
+   "w": 23,
+   "h": 24,
+   "area": 137,
+   "elong": 4.02,
+   "ang": 2.322,
+   "len": 21.9,
+   "gris": false,
+   "col": [
+    0.515,
+    0.176,
+    0.101
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_081.png",
+   "w": 34,
+   "h": 35,
+   "area": 460,
+   "elong": 1.69,
+   "ang": 0.83,
+   "len": 29.7,
+   "gris": false,
+   "col": [
+    0.449,
+    0.138,
+    0.081
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_082.png",
+   "w": 23,
+   "h": 20,
+   "area": 120,
+   "elong": 3.09,
+   "ang": 2.464,
+   "len": 17.8,
+   "gris": false,
+   "col": [
+    0.784,
+    0.56,
+    0.207
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_083.png",
+   "w": 23,
+   "h": 21,
+   "area": 150,
+   "elong": 2.15,
+   "ang": -2.515,
+   "len": 17.4,
+   "gris": false,
+   "col": [
+    0.814,
+    0.435,
+    0.182
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_084.png",
+   "w": 18,
+   "h": 14,
+   "area": 58,
+   "elong": 2.71,
+   "ang": 2.732,
+   "len": 10.1,
+   "gris": false,
+   "col": [
+    0.209,
+    0.066,
+    0.067
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_085.png",
+   "w": 30,
+   "h": 33,
+   "area": 326,
+   "elong": 2.84,
+   "ang": 0.873,
+   "len": 31.2,
+   "gris": false,
+   "col": [
+    0.449,
+    0.165,
+    0.108
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_086.png",
+   "w": 19,
+   "h": 29,
+   "area": 198,
+   "elong": 2.83,
+   "ang": 1.789,
+   "len": 21.6,
+   "gris": false,
+   "col": [
+    0.827,
+    0.623,
+    0.217
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_087.png",
+   "w": 42,
+   "h": 24,
+   "area": 395,
+   "elong": 2.35,
+   "ang": -3.112,
+   "len": 32.0,
+   "gris": false,
+   "col": [
+    0.69,
+    0.222,
+    0.147
+   ],
+   "src": "Brasas flotantes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_088.png",
+   "w": 14,
+   "h": 13,
+   "area": 35,
+   "elong": 1.83,
+   "ang": -2.422,
+   "len": 6.6,
+   "gris": false,
+   "col": [
+    0.461,
+    0.185,
+    0.11
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_089.png",
+   "w": 36,
+   "h": 28,
+   "area": 405,
+   "elong": 1.69,
+   "ang": -2.665,
+   "len": 27.7,
+   "gris": false,
+   "col": [
+    0.468,
+    0.206,
+    0.162
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_090.png",
+   "w": 21,
+   "h": 22,
+   "area": 164,
+   "elong": 1.49,
+   "ang": 2.211,
+   "len": 15.4,
+   "gris": false,
+   "col": [
+    0.377,
+    0.121,
+    0.099
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_091.png",
+   "w": 13,
+   "h": 13,
+   "area": 32,
+   "elong": 1.24,
+   "ang": 1.238,
+   "len": 4.7,
+   "gris": true,
+   "col": [
+    0.098,
+    0.07,
+    0.082
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_092.png",
+   "w": 27,
+   "h": 24,
+   "area": 260,
+   "elong": 1.68,
+   "ang": 2.421,
+   "len": 20.9,
+   "gris": false,
+   "col": [
+    0.826,
+    0.42,
+    0.198
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_093.png",
+   "w": 18,
+   "h": 22,
+   "area": 132,
+   "elong": 1.47,
+   "ang": 1.329,
+   "len": 13.3,
+   "gris": false,
+   "col": [
+    0.774,
+    0.476,
+    0.258
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_094.png",
+   "w": 24,
+   "h": 20,
+   "area": 162,
+   "elong": 2.07,
+   "ang": -2.644,
+   "len": 17.1,
+   "gris": true,
+   "col": [
+    0.196,
+    0.115,
+    0.092
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_095.png",
+   "w": 37,
+   "h": 35,
+   "area": 543,
+   "elong": 1.32,
+   "ang": 2.419,
+   "len": 29.2,
+   "gris": false,
+   "col": [
+    0.492,
+    0.18,
+    0.127
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_096.png",
+   "w": 25,
+   "h": 22,
+   "area": 197,
+   "elong": 1.62,
+   "ang": 2.7,
+   "len": 18.4,
+   "gris": false,
+   "col": [
+    0.683,
+    0.259,
+    0.12
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_097.png",
+   "w": 13,
+   "h": 13,
+   "area": 32,
+   "elong": 1.08,
+   "ang": 2.631,
+   "len": 4.9,
+   "gris": true,
+   "col": [
+    0.329,
+    0.262,
+    0.252
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_098.png",
+   "w": 25,
+   "h": 22,
+   "area": 181,
+   "elong": 1.24,
+   "ang": -2.733,
+   "len": 16.1,
+   "gris": false,
+   "col": [
+    0.702,
+    0.366,
+    0.223
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_099.png",
+   "w": 47,
+   "h": 43,
+   "area": 919,
+   "elong": 1.32,
+   "ang": -2.695,
+   "len": 38.1,
+   "gris": false,
+   "col": [
+    0.67,
+    0.343,
+    0.241
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_100.png",
+   "w": 41,
+   "h": 54,
+   "area": 1122,
+   "elong": 1.4,
+   "ang": 1.536,
+   "len": 40.6,
+   "gris": false,
+   "col": [
+    0.722,
+    0.508,
+    0.237
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_101.png",
+   "w": 31,
+   "h": 20,
+   "area": 238,
+   "elong": 2.15,
+   "ang": 3.0,
+   "len": 22.8,
+   "gris": false,
+   "col": [
+    0.634,
+    0.239,
+    0.167
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_102.png",
+   "w": 53,
+   "h": 43,
+   "area": 1002,
+   "elong": 2.0,
+   "ang": 2.615,
+   "len": 48.9,
+   "gris": false,
+   "col": [
+    0.597,
+    0.289,
+    0.191
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_103.png",
+   "w": 34,
+   "h": 27,
+   "area": 364,
+   "elong": 1.86,
+   "ang": -2.71,
+   "len": 27.0,
+   "gris": false,
+   "col": [
+    0.839,
+    0.486,
+    0.234
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_104.png",
+   "w": 16,
+   "h": 15,
+   "area": 62,
+   "elong": 1.46,
+   "ang": 2.824,
+   "len": 8.3,
+   "gris": false,
+   "col": [
+    0.656,
+    0.369,
+    0.188
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_105.png",
+   "w": 14,
+   "h": 12,
+   "area": 33,
+   "elong": 2.04,
+   "ang": 2.5,
+   "len": 6.1,
+   "gris": true,
+   "col": [
+    0.198,
+    0.143,
+    0.122
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_106.png",
+   "w": 20,
+   "h": 19,
+   "area": 112,
+   "elong": 1.24,
+   "ang": 2.69,
+   "len": 11.3,
+   "gris": false,
+   "col": [
+    0.695,
+    0.256,
+    0.11
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_107.png",
+   "w": 15,
+   "h": 17,
+   "area": 65,
+   "elong": 1.68,
+   "ang": 1.144,
+   "len": 9.7,
+   "gris": false,
+   "col": [
+    0.628,
+    0.436,
+    0.339
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_108.png",
+   "w": 18,
+   "h": 22,
+   "area": 122,
+   "elong": 1.81,
+   "ang": 1.136,
+   "len": 14.8,
+   "gris": false,
+   "col": [
+    0.631,
+    0.356,
+    0.252
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_109.png",
+   "w": 16,
+   "h": 13,
+   "area": 51,
+   "elong": 1.49,
+   "ang": 3.065,
+   "len": 7.4,
+   "gris": false,
+   "col": [
+    0.56,
+    0.173,
+    0.119
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_110.png",
+   "w": 36,
+   "h": 39,
+   "area": 660,
+   "elong": 1.16,
+   "ang": 1.431,
+   "len": 28.6,
+   "gris": false,
+   "col": [
+    0.685,
+    0.321,
+    0.127
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_111.png",
+   "w": 25,
+   "h": 20,
+   "area": 163,
+   "elong": 1.83,
+   "ang": 2.747,
+   "len": 16.6,
+   "gris": true,
+   "col": [
+    0.198,
+    0.121,
+    0.092
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_112.png",
+   "w": 25,
+   "h": 24,
+   "area": 198,
+   "elong": 1.29,
+   "ang": 2.642,
+   "len": 16.2,
+   "gris": false,
+   "col": [
+    0.586,
+    0.211,
+    0.13
+   ],
+   "src": "Brasas flotantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_113.png",
+   "w": 26,
+   "h": 26,
+   "area": 243,
+   "elong": 1.16,
+   "ang": 2.41,
+   "len": 17.4,
+   "gris": false,
+   "col": [
+    0.757,
+    0.292,
+    0.186
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_114.png",
+   "w": 18,
+   "h": 20,
+   "area": 113,
+   "elong": 1.48,
+   "ang": 2.103,
+   "len": 12.5,
+   "gris": false,
+   "col": [
+    0.463,
+    0.094,
+    0.093
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_115.png",
+   "w": 25,
+   "h": 27,
+   "area": 240,
+   "elong": 1.16,
+   "ang": 1.927,
+   "len": 17.5,
+   "gris": true,
+   "col": [
+    0.221,
+    0.135,
+    0.121
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_116.png",
+   "w": 20,
+   "h": 12,
+   "area": 56,
+   "elong": 4.25,
+   "ang": 2.995,
+   "len": 12.3,
+   "gris": false,
+   "col": [
+    0.384,
+    0.113,
+    0.064
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_117.png",
+   "w": 28,
+   "h": 25,
+   "area": 227,
+   "elong": 2.4,
+   "ang": 2.469,
+   "len": 22.9,
+   "gris": false,
+   "col": [
+    0.804,
+    0.261,
+    0.096
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_118.png",
+   "w": 11,
+   "h": 12,
+   "area": 19,
+   "elong": 1.35,
+   "ang": 2.356,
+   "len": 3.4,
+   "gris": false,
+   "col": [
+    0.178,
+    0.016,
+    0.015
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_119.png",
+   "w": 52,
+   "h": 39,
+   "area": 996,
+   "elong": 1.54,
+   "ang": -3.084,
+   "len": 41.9,
+   "gris": false,
+   "col": [
+    0.707,
+    0.322,
+    0.053
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_120.png",
+   "w": 20,
+   "h": 16,
+   "area": 51,
+   "elong": 7.95,
+   "ang": 2.563,
+   "len": 17.6,
+   "gris": true,
+   "col": [
+    0.11,
+    0.025,
+    0.019
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_121.png",
+   "w": 27,
+   "h": 29,
+   "area": 301,
+   "elong": 1.63,
+   "ang": 1.013,
+   "len": 22.6,
+   "gris": false,
+   "col": [
+    0.635,
+    0.259,
+    0.059
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_122.png",
+   "w": 11,
+   "h": 18,
+   "area": 38,
+   "elong": 2.03,
+   "ang": 1.571,
+   "len": 4.2,
+   "gris": true,
+   "col": [
+    0.096,
+    0.018,
+    0.024
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_123.png",
+   "w": 25,
+   "h": 29,
+   "area": 120,
+   "elong": 7.63,
+   "ang": 0.915,
+   "len": 29.0,
+   "gris": false,
+   "col": [
+    0.569,
+    0.327,
+    0.274
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_124.png",
+   "w": 16,
+   "h": 16,
+   "area": 47,
+   "elong": 1.74,
+   "ang": 1.451,
+   "len": 6.1,
+   "gris": false,
+   "col": [
+    0.266,
+    0.107,
+    0.102
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_125.png",
+   "w": 19,
+   "h": 25,
+   "area": 116,
+   "elong": 2.37,
+   "ang": 2.017,
+   "len": 16.4,
+   "gris": true,
+   "col": [
+    0.236,
+    0.152,
+    0.139
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_126.png",
+   "w": 21,
+   "h": 19,
+   "area": 128,
+   "elong": 1.41,
+   "ang": -2.529,
+   "len": 12.8,
+   "gris": false,
+   "col": [
+    0.199,
+    0.027,
+    0.019
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_127.png",
+   "w": 24,
+   "h": 26,
+   "area": 211,
+   "elong": 1.55,
+   "ang": 0.829,
+   "len": 18.3,
+   "gris": false,
+   "col": [
+    0.643,
+    0.255,
+    0.116
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_128.png",
+   "w": 20,
+   "h": 19,
+   "area": 112,
+   "elong": 1.07,
+   "ang": 2.345,
+   "len": 10.8,
+   "gris": false,
+   "col": [
+    0.425,
+    0.079,
+    0.087
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_129.png",
+   "w": 19,
+   "h": 16,
+   "area": 81,
+   "elong": 1.87,
+   "ang": 2.696,
+   "len": 11.1,
+   "gris": true,
+   "col": [
+    0.142,
+    0.091,
+    0.083
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_130.png",
+   "w": 23,
+   "h": 24,
+   "area": 184,
+   "elong": 1.23,
+   "ang": -2.729,
+   "len": 15.9,
+   "gris": false,
+   "col": [
+    0.217,
+    0.089,
+    0.084
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_131.png",
+   "w": 22,
+   "h": 23,
+   "area": 130,
+   "elong": 2.97,
+   "ang": 0.869,
+   "len": 17.8,
+   "gris": false,
+   "col": [
+    0.718,
+    0.215,
+    0.089
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_132.png",
+   "w": 58,
+   "h": 45,
+   "area": 1186,
+   "elong": 2.36,
+   "ang": -2.629,
+   "len": 55.5,
+   "gris": false,
+   "col": [
+    0.691,
+    0.227,
+    0.081
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_133.png",
+   "w": 23,
+   "h": 20,
+   "area": 159,
+   "elong": 1.29,
+   "ang": -3.096,
+   "len": 14.7,
+   "gris": false,
+   "col": [
+    0.434,
+    0.179,
+    0.16
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_134.png",
+   "w": 15,
+   "h": 16,
+   "area": 46,
+   "elong": 1.64,
+   "ang": 0.974,
+   "len": 7.4,
+   "gris": false,
+   "col": [
+    0.341,
+    0.112,
+    0.052
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_135.png",
+   "w": 55,
+   "h": 56,
+   "area": 1459,
+   "elong": 1.81,
+   "ang": 0.841,
+   "len": 53.9,
+   "gris": false,
+   "col": [
+    0.844,
+    0.405,
+    0.044
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_136.png",
+   "w": 24,
+   "h": 25,
+   "area": 216,
+   "elong": 1.14,
+   "ang": 1.612,
+   "len": 16.0,
+   "gris": false,
+   "col": [
+    0.673,
+    0.233,
+    0.086
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_137.png",
+   "w": 16,
+   "h": 19,
+   "area": 82,
+   "elong": 2.05,
+   "ang": 2.086,
+   "len": 11.8,
+   "gris": false,
+   "col": [
+    0.387,
+    0.048,
+    0.057
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_138.png",
+   "w": 40,
+   "h": 30,
+   "area": 550,
+   "elong": 1.79,
+   "ang": 2.842,
+   "len": 32.5,
+   "gris": false,
+   "col": [
+    0.835,
+    0.29,
+    0.108
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_139.png",
+   "w": 20,
+   "h": 19,
+   "area": 111,
+   "elong": 1.17,
+   "ang": 2.765,
+   "len": 11.5,
+   "gris": false,
+   "col": [
+    0.486,
+    0.165,
+    0.143
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_140.png",
+   "w": 25,
+   "h": 20,
+   "area": 160,
+   "elong": 2.01,
+   "ang": -2.527,
+   "len": 17.6,
+   "gris": false,
+   "col": [
+    0.283,
+    0.109,
+    0.076
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_141.png",
+   "w": 34,
+   "h": 26,
+   "area": 279,
+   "elong": 2.63,
+   "ang": -2.599,
+   "len": 27.6,
+   "gris": false,
+   "col": [
+    0.634,
+    0.283,
+    0.247
+   ],
+   "src": "Briznas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_001.png",
+   "w": 26,
+   "h": 54,
+   "area": 500,
+   "elong": 2.87,
+   "ang": 1.449,
+   "len": 43.9,
+   "gris": false,
+   "col": [
+    0.596,
+    0.417,
+    0.241
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_142.png",
+   "w": 11,
+   "h": 14,
+   "area": 36,
+   "elong": 2.07,
+   "ang": 1.496,
+   "len": 6.8,
+   "gris": false,
+   "col": [
+    0.348,
+    0.087,
+    0.05
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_002.png",
+   "w": 14,
+   "h": 15,
+   "area": 38,
+   "elong": 3.2,
+   "ang": 0.897,
+   "len": 9.1,
+   "gris": false,
+   "col": [
+    0.542,
+    0.348,
+    0.142
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_003.png",
+   "w": 26,
+   "h": 13,
+   "area": 102,
+   "elong": 4.97,
+   "ang": 3.048,
+   "len": 19.7,
+   "gris": false,
+   "col": [
+    0.528,
+    0.191,
+    0.073
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_004.png",
+   "w": 22,
+   "h": 23,
+   "area": 120,
+   "elong": 4.44,
+   "ang": 0.829,
+   "len": 20.2,
+   "gris": false,
+   "col": [
+    0.539,
+    0.173,
+    0.073
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_143.png",
+   "w": 42,
+   "h": 47,
+   "area": 988,
+   "elong": 1.73,
+   "ang": 1.046,
+   "len": 41.9,
+   "gris": false,
+   "col": [
+    0.572,
+    0.418,
+    0.249
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_005.png",
+   "w": 12,
+   "h": 20,
+   "area": 56,
+   "elong": 5.12,
+   "ang": 1.833,
+   "len": 13.3,
+   "gris": false,
+   "col": [
+    0.275,
+    0.087,
+    0.06
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_144.png",
+   "w": 17,
+   "h": 16,
+   "area": 73,
+   "elong": 2.01,
+   "ang": 2.485,
+   "len": 10.8,
+   "gris": false,
+   "col": [
+    0.538,
+    0.318,
+    0.23
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_006.png",
+   "w": 26,
+   "h": 37,
+   "area": 255,
+   "elong": 3.9,
+   "ang": 1.979,
+   "len": 38.7,
+   "gris": false,
+   "col": [
+    0.485,
+    0.286,
+    0.108
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_145.png",
+   "w": 12,
+   "h": 13,
+   "area": 33,
+   "elong": 1.42,
+   "ang": 1.249,
+   "len": 5.5,
+   "gris": false,
+   "col": [
+    0.527,
+    0.149,
+    0.112
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_007.png",
+   "w": 21,
+   "h": 20,
+   "area": 110,
+   "elong": 3.19,
+   "ang": 2.443,
+   "len": 16.9,
+   "gris": false,
+   "col": [
+    0.539,
+    0.345,
+    0.135
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_146.png",
+   "w": 11,
+   "h": 11,
+   "area": 19,
+   "elong": 1.26,
+   "ang": 2.356,
+   "len": 3.7,
+   "gris": false,
+   "col": [
+    0.372,
+    0.092,
+    0.079
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_147.png",
+   "w": 12,
+   "h": 12,
+   "area": 26,
+   "elong": 1.97,
+   "ang": 0.852,
+   "len": 5.4,
+   "gris": false,
+   "col": [
+    0.468,
+    0.199,
+    0.113
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_148.png",
+   "w": 15,
+   "h": 14,
+   "area": 58,
+   "elong": 1.14,
+   "ang": 1.509,
+   "len": 6.8,
+   "gris": false,
+   "col": [
+    0.517,
+    0.335,
+    0.161
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_149.png",
+   "w": 13,
+   "h": 13,
+   "area": 37,
+   "elong": 1.83,
+   "ang": 2.422,
+   "len": 6.6,
+   "gris": false,
+   "col": [
+    0.545,
+    0.344,
+    0.169
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_008.png",
+   "w": 13,
+   "h": 17,
+   "area": 44,
+   "elong": 4.03,
+   "ang": 1.169,
+   "len": 11.0,
+   "gris": false,
+   "col": [
+    0.506,
+    0.24,
+    0.123
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_009.png",
+   "w": 23,
+   "h": 41,
+   "area": 416,
+   "elong": 2.53,
+   "ang": 1.606,
+   "len": 31.1,
+   "gris": false,
+   "col": [
+    0.529,
+    0.377,
+    0.263
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_150.png",
+   "w": 11,
+   "h": 11,
+   "area": 19,
+   "elong": 1.26,
+   "ang": 2.356,
+   "len": 3.7,
+   "gris": false,
+   "col": [
+    0.347,
+    0.129,
+    0.101
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_010.png",
+   "w": 12,
+   "h": 14,
+   "area": 36,
+   "elong": 2.45,
+   "ang": 2.034,
+   "len": 7.2,
+   "gris": false,
+   "col": [
+    0.438,
+    0.239,
+    0.126
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_151.png",
+   "w": 27,
+   "h": 28,
+   "area": 309,
+   "elong": 1.24,
+   "ang": 2.311,
+   "len": 18.8,
+   "gris": false,
+   "col": [
+    0.61,
+    0.498,
+    0.345
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_011.png",
+   "w": 19,
+   "h": 12,
+   "area": 56,
+   "elong": 3.51,
+   "ang": 2.93,
+   "len": 11.5,
+   "gris": false,
+   "col": [
+    0.491,
+    0.26,
+    0.142
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_012.png",
+   "w": 11,
+   "h": 12,
+   "area": 21,
+   "elong": 2.45,
+   "ang": 1.249,
+   "len": 4.4,
+   "gris": false,
+   "col": [
+    0.242,
+    0.097,
+    0.089
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_152.png",
+   "w": 11,
+   "h": 10,
+   "area": 16,
+   "elong": 1.63,
+   "ang": 0.0,
+   "len": 3.6,
+   "gris": false,
+   "col": [
+    0.19,
+    0.065,
+    0.059
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_153.png",
+   "w": 12,
+   "h": 13,
+   "area": 33,
+   "elong": 1.72,
+   "ang": 1.116,
+   "len": 6.1,
+   "gris": false,
+   "col": [
+    0.589,
+    0.418,
+    0.266
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_013.png",
+   "w": 20,
+   "h": 30,
+   "area": 148,
+   "elong": 5.9,
+   "ang": 1.174,
+   "len": 26.2,
+   "gris": false,
+   "col": [
+    0.597,
+    0.324,
+    0.141
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_014.png",
+   "w": 24,
+   "h": 14,
+   "area": 120,
+   "elong": 3.07,
+   "ang": -3.111,
+   "len": 17.3,
+   "gris": false,
+   "col": [
+    0.519,
+    0.249,
+    0.101
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_154.png",
+   "w": 11,
+   "h": 11,
+   "area": 15,
+   "elong": 1.0,
+   "ang": 1.571,
+   "len": 2.8,
+   "gris": true,
+   "col": [
+    0.173,
+    0.072,
+    0.057
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_155.png",
+   "w": 19,
+   "h": 18,
+   "area": 121,
+   "elong": 1.38,
+   "ang": -2.543,
+   "len": 12.0,
+   "gris": false,
+   "col": [
+    0.617,
+    0.472,
+    0.269
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_156.png",
+   "w": 25,
+   "h": 17,
+   "area": 164,
+   "elong": 1.91,
+   "ang": 3.085,
+   "len": 16.2,
+   "gris": false,
+   "col": [
+    0.596,
+    0.426,
+    0.2
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_015.png",
+   "w": 17,
+   "h": 22,
+   "area": 106,
+   "elong": 3.07,
+   "ang": 1.154,
+   "len": 16.4,
+   "gris": false,
+   "col": [
+    0.569,
+    0.355,
+    0.198
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_016.png",
+   "w": 10,
+   "h": 14,
+   "area": 28,
+   "elong": 3.26,
+   "ang": 1.517,
+   "len": 6.7,
+   "gris": true,
+   "col": [
+    0.179,
+    0.089,
+    0.065
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_157.png",
+   "w": 12,
+   "h": 11,
+   "area": 22,
+   "elong": 1.63,
+   "ang": -2.517,
+   "len": 4.5,
+   "gris": false,
+   "col": [
+    0.495,
+    0.2,
+    0.173
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_017.png",
+   "w": 14,
+   "h": 10,
+   "area": 28,
+   "elong": 3.42,
+   "ang": 0.0,
+   "len": 7.1,
+   "gris": false,
+   "col": [
+    0.296,
+    0.126,
+    0.076
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_018.png",
+   "w": 10,
+   "h": 13,
+   "area": 24,
+   "elong": 2.83,
+   "ang": 1.571,
+   "len": 6.0,
+   "gris": false,
+   "col": [
+    0.358,
+    0.21,
+    0.134
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_158.png",
+   "w": 19,
+   "h": 18,
+   "area": 85,
+   "elong": 2.18,
+   "ang": -2.373,
+   "len": 12.0,
+   "gris": false,
+   "col": [
+    0.589,
+    0.393,
+    0.184
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_159.png",
+   "w": 18,
+   "h": 19,
+   "area": 110,
+   "elong": 1.31,
+   "ang": 1.043,
+   "len": 11.0,
+   "gris": false,
+   "col": [
+    0.633,
+    0.486,
+    0.279
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_160.png",
+   "w": 12,
+   "h": 12,
+   "area": 26,
+   "elong": 1.37,
+   "ang": 0.0,
+   "len": 4.3,
+   "gris": false,
+   "col": [
+    0.538,
+    0.279,
+    0.138
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_161.png",
+   "w": 11,
+   "h": 11,
+   "area": 19,
+   "elong": 1.73,
+   "ang": 1.893,
+   "len": 3.5,
+   "gris": true,
+   "col": [
+    0.15,
+    0.058,
+    0.052
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_162.png",
+   "w": 11,
+   "h": 11,
+   "area": 19,
+   "elong": 1.08,
+   "ang": 1.571,
+   "len": 3.3,
+   "gris": false,
+   "col": [
+    0.301,
+    0.116,
+    0.087
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_019.png",
+   "w": 29,
+   "h": 47,
+   "area": 308,
+   "elong": 3.75,
+   "ang": 2.035,
+   "len": 48.2,
+   "gris": false,
+   "col": [
+    0.488,
+    0.302,
+    0.189
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_020.png",
+   "w": 17,
+   "h": 17,
+   "area": 61,
+   "elong": 3.25,
+   "ang": 2.437,
+   "len": 13.4,
+   "gris": false,
+   "col": [
+    0.431,
+    0.239,
+    0.14
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_163.png",
+   "w": 11,
+   "h": 12,
+   "area": 21,
+   "elong": 1.45,
+   "ang": 1.039,
+   "len": 3.9,
+   "gris": true,
+   "col": [
+    0.137,
+    0.042,
+    0.033
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_021.png",
+   "w": 17,
+   "h": 16,
+   "area": 50,
+   "elong": 4.47,
+   "ang": 2.403,
+   "len": 12.4,
+   "gris": false,
+   "col": [
+    0.549,
+    0.352,
+    0.18
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_022.png",
+   "w": 12,
+   "h": 15,
+   "area": 40,
+   "elong": 2.24,
+   "ang": 1.263,
+   "len": 7.2,
+   "gris": false,
+   "col": [
+    0.553,
+    0.233,
+    0.129
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_023.png",
+   "w": 12,
+   "h": 12,
+   "area": 22,
+   "elong": 2.45,
+   "ang": 1.249,
+   "len": 4.4,
+   "gris": false,
+   "col": [
+    0.239,
+    0.084,
+    0.062
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_024.png",
+   "w": 22,
+   "h": 14,
+   "area": 72,
+   "elong": 5.15,
+   "ang": -2.812,
+   "len": 15.9,
+   "gris": false,
+   "col": [
+    0.408,
+    0.139,
+    0.097
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_164.png",
+   "w": 11,
+   "h": 11,
+   "area": 17,
+   "elong": 1.63,
+   "ang": 1.571,
+   "len": 3.6,
+   "gris": false,
+   "col": [
+    0.363,
+    0.154,
+    0.131
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_025.png",
+   "w": 17,
+   "h": 25,
+   "area": 131,
+   "elong": 3.95,
+   "ang": 1.831,
+   "len": 19.4,
+   "gris": false,
+   "col": [
+    0.479,
+    0.231,
+    0.117
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_165.png",
+   "w": 46,
+   "h": 36,
+   "area": 847,
+   "elong": 1.43,
+   "ang": 3.005,
+   "len": 35.0,
+   "gris": false,
+   "col": [
+    0.57,
+    0.417,
+    0.265
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_026.png",
+   "w": 22,
+   "h": 14,
+   "area": 71,
+   "elong": 4.85,
+   "ang": -2.835,
+   "len": 15.3,
+   "gris": false,
+   "col": [
+    0.499,
+    0.288,
+    0.149
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_027.png",
+   "w": 32,
+   "h": 20,
+   "area": 186,
+   "elong": 4.69,
+   "ang": 2.753,
+   "len": 26.9,
+   "gris": false,
+   "col": [
+    0.508,
+    0.288,
+    0.118
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_028.png",
+   "w": 36,
+   "h": 20,
+   "area": 215,
+   "elong": 5.17,
+   "ang": 2.878,
+   "len": 29.9,
+   "gris": false,
+   "col": [
+    0.522,
+    0.282,
+    0.106
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_029.png",
+   "w": 16,
+   "h": 13,
+   "area": 46,
+   "elong": 2.59,
+   "ang": -2.833,
+   "len": 8.6,
+   "gris": false,
+   "col": [
+    0.373,
+    0.176,
+    0.099
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_030.png",
+   "w": 17,
+   "h": 13,
+   "area": 47,
+   "elong": 3.54,
+   "ang": -2.739,
+   "len": 10.2,
+   "gris": false,
+   "col": [
+    0.496,
+    0.19,
+    0.112
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_031.png",
+   "w": 15,
+   "h": 23,
+   "area": 98,
+   "elong": 2.95,
+   "ang": 1.848,
+   "len": 15.3,
+   "gris": false,
+   "col": [
+    0.551,
+    0.393,
+    0.229
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_032.png",
+   "w": 37,
+   "h": 18,
+   "area": 264,
+   "elong": 3.17,
+   "ang": 3.126,
+   "len": 27.0,
+   "gris": false,
+   "col": [
+    0.581,
+    0.414,
+    0.319
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_033.png",
+   "w": 25,
+   "h": 18,
+   "area": 144,
+   "elong": 2.62,
+   "ang": 2.855,
+   "len": 18.2,
+   "gris": false,
+   "col": [
+    0.501,
+    0.211,
+    0.089
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_166.png",
+   "w": 12,
+   "h": 13,
+   "area": 30,
+   "elong": 1.9,
+   "ang": 2.008,
+   "len": 5.8,
+   "gris": false,
+   "col": [
+    0.376,
+    0.205,
+    0.105
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_167.png",
+   "w": 11,
+   "h": 13,
+   "area": 25,
+   "elong": 1.64,
+   "ang": 1.253,
+   "len": 4.8,
+   "gris": false,
+   "col": [
+    0.176,
+    0.051,
+    0.048
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_168.png",
+   "w": 15,
+   "h": 16,
+   "area": 69,
+   "elong": 1.2,
+   "ang": 1.809,
+   "len": 7.8,
+   "gris": false,
+   "col": [
+    0.488,
+    0.249,
+    0.134
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_169.png",
+   "w": 14,
+   "h": 11,
+   "area": 32,
+   "elong": 2.06,
+   "ang": 2.97,
+   "len": 6.2,
+   "gris": false,
+   "col": [
+    0.437,
+    0.158,
+    0.085
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_170.png",
+   "w": 14,
+   "h": 13,
+   "area": 35,
+   "elong": 1.97,
+   "ang": -2.479,
+   "len": 6.7,
+   "gris": false,
+   "col": [
+    0.565,
+    0.418,
+    0.24
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_034.png",
+   "w": 18,
+   "h": 29,
+   "area": 209,
+   "elong": 2.26,
+   "ang": 1.552,
+   "len": 20.4,
+   "gris": false,
+   "col": [
+    0.602,
+    0.464,
+    0.271
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_171.png",
+   "w": 11,
+   "h": 11,
+   "area": 21,
+   "elong": 1.08,
+   "ang": 1.571,
+   "len": 3.3,
+   "gris": false,
+   "col": [
+    0.356,
+    0.154,
+    0.088
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_172.png",
+   "w": 32,
+   "h": 34,
+   "area": 507,
+   "elong": 1.35,
+   "ang": 2.016,
+   "len": 26.2,
+   "gris": false,
+   "col": [
+    0.622,
+    0.483,
+    0.318
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_173.png",
+   "w": 12,
+   "h": 12,
+   "area": 21,
+   "elong": 2.14,
+   "ang": 0.954,
+   "len": 4.8,
+   "gris": false,
+   "col": [
+    0.532,
+    0.402,
+    0.264
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_035.png",
+   "w": 15,
+   "h": 13,
+   "area": 39,
+   "elong": 2.74,
+   "ang": 2.585,
+   "len": 8.4,
+   "gris": false,
+   "col": [
+    0.593,
+    0.373,
+    0.203
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_174.png",
+   "w": 20,
+   "h": 20,
+   "area": 136,
+   "elong": 1.95,
+   "ang": 2.34,
+   "len": 14.8,
+   "gris": false,
+   "col": [
+    0.465,
+    0.224,
+    0.131
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_175.png",
+   "w": 16,
+   "h": 15,
+   "area": 66,
+   "elong": 1.38,
+   "ang": 2.243,
+   "len": 8.4,
+   "gris": false,
+   "col": [
+    0.603,
+    0.433,
+    0.227
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_176.png",
+   "w": 26,
+   "h": 18,
+   "area": 179,
+   "elong": 1.8,
+   "ang": 2.948,
+   "len": 17.1,
+   "gris": false,
+   "col": [
+    0.608,
+    0.449,
+    0.207
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_177.png",
+   "w": 11,
+   "h": 14,
+   "area": 36,
+   "elong": 2.07,
+   "ang": 1.496,
+   "len": 6.8,
+   "gris": false,
+   "col": [
+    0.474,
+    0.201,
+    0.107
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_178.png",
+   "w": 12,
+   "h": 11,
+   "area": 19,
+   "elong": 1.81,
+   "ang": 2.601,
+   "len": 4.3,
+   "gris": false,
+   "col": [
+    0.529,
+    0.387,
+    0.257
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_036.png",
+   "w": 30,
+   "h": 18,
+   "area": 175,
+   "elong": 3.14,
+   "ang": -2.946,
+   "len": 21.3,
+   "gris": false,
+   "col": [
+    0.604,
+    0.425,
+    0.165
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_179.png",
+   "w": 11,
+   "h": 12,
+   "area": 23,
+   "elong": 2.14,
+   "ang": 0.954,
+   "len": 4.8,
+   "gris": false,
+   "col": [
+    0.388,
+    0.205,
+    0.124
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_037.png",
+   "w": 19,
+   "h": 25,
+   "area": 142,
+   "elong": 2.8,
+   "ang": 1.952,
+   "len": 17.6,
+   "gris": false,
+   "col": [
+    0.518,
+    0.192,
+    0.103
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_038.png",
+   "w": 16,
+   "h": 19,
+   "area": 59,
+   "elong": 4.95,
+   "ang": 2.051,
+   "len": 13.9,
+   "gris": false,
+   "col": [
+    0.616,
+    0.39,
+    0.168
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_180.png",
+   "w": 11,
+   "h": 12,
+   "area": 22,
+   "elong": 1.37,
+   "ang": 1.571,
+   "len": 4.3,
+   "gris": false,
+   "col": [
+    0.434,
+    0.156,
+    0.122
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_181.png",
+   "w": 18,
+   "h": 17,
+   "area": 94,
+   "elong": 1.3,
+   "ang": -2.494,
+   "len": 9.8,
+   "gris": false,
+   "col": [
+    0.568,
+    0.382,
+    0.126
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_039.png",
+   "w": 21,
+   "h": 21,
+   "area": 67,
+   "elong": 10.01,
+   "ang": -2.365,
+   "len": 21.1,
+   "gris": true,
+   "col": [
+    0.128,
+    0.032,
+    0.031
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_182.png",
+   "w": 11,
+   "h": 13,
+   "area": 27,
+   "elong": 1.85,
+   "ang": 1.486,
+   "len": 5.5,
+   "gris": false,
+   "col": [
+    0.433,
+    0.21,
+    0.135
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_183.png",
+   "w": 18,
+   "h": 14,
+   "area": 72,
+   "elong": 2.18,
+   "ang": -3.13,
+   "len": 10.4,
+   "gris": false,
+   "col": [
+    0.53,
+    0.3,
+    0.095
+   ],
+   "src": "Chispa de brasas incandescentes.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_040.png",
+   "w": 19,
+   "h": 31,
+   "area": 154,
+   "elong": 5.45,
+   "ang": 1.879,
+   "len": 27.0,
+   "gris": false,
+   "col": [
+    0.632,
+    0.241,
+    0.078
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_041.png",
+   "w": 15,
+   "h": 12,
+   "area": 35,
+   "elong": 2.48,
+   "ang": -2.848,
+   "len": 7.4,
+   "gris": false,
+   "col": [
+    0.486,
+    0.281,
+    0.181
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_184.png",
+   "w": 28,
+   "h": 24,
+   "area": 309,
+   "elong": 1.33,
+   "ang": 2.933,
+   "len": 19.5,
+   "gris": false,
+   "col": [
+    0.619,
+    0.505,
+    0.343
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_042.png",
+   "w": 16,
+   "h": 24,
+   "area": 138,
+   "elong": 2.25,
+   "ang": 1.406,
+   "len": 16.8,
+   "gris": false,
+   "col": [
+    0.742,
+    0.613,
+    0.248
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_185.png",
+   "w": 16,
+   "h": 13,
+   "area": 61,
+   "elong": 1.77,
+   "ang": -2.958,
+   "len": 8.9,
+   "gris": false,
+   "col": [
+    0.637,
+    0.47,
+    0.232
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_186.png",
+   "w": 22,
+   "h": 22,
+   "area": 177,
+   "elong": 1.08,
+   "ang": 1.898,
+   "len": 13.1,
+   "gris": true,
+   "col": [
+    0.125,
+    0.022,
+    0.008
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_043.png",
+   "w": 20,
+   "h": 23,
+   "area": 78,
+   "elong": 7.95,
+   "ang": 2.226,
+   "len": 21.2,
+   "gris": false,
+   "col": [
+    0.575,
+    0.451,
+    0.285
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_187.png",
+   "w": 13,
+   "h": 12,
+   "area": 26,
+   "elong": 1.97,
+   "ang": 2.422,
+   "len": 5.4,
+   "gris": false,
+   "col": [
+    0.546,
+    0.434,
+    0.256
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_188.png",
+   "w": 11,
+   "h": 10,
+   "area": 14,
+   "elong": 1.0,
+   "ang": 1.571,
+   "len": 2.3,
+   "gris": false,
+   "col": [
+    0.259,
+    0.153,
+    0.135
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_189.png",
+   "w": 12,
+   "h": 12,
+   "area": 24,
+   "elong": 1.0,
+   "ang": 1.571,
+   "len": 4.0,
+   "gris": false,
+   "col": [
+    0.489,
+    0.307,
+    0.174
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_190.png",
+   "w": 12,
+   "h": 11,
+   "area": 22,
+   "elong": 1.39,
+   "ang": -2.787,
+   "len": 4.1,
+   "gris": false,
+   "col": [
+    0.48,
+    0.301,
+    0.216
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_191.png",
+   "w": 15,
+   "h": 16,
+   "area": 59,
+   "elong": 1.94,
+   "ang": 0.957,
+   "len": 9.2,
+   "gris": false,
+   "col": [
+    0.642,
+    0.506,
+    0.26
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_192.png",
+   "w": 28,
+   "h": 24,
+   "area": 232,
+   "elong": 1.96,
+   "ang": -2.589,
+   "len": 21.8,
+   "gris": false,
+   "col": [
+    0.605,
+    0.462,
+    0.256
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_193.png",
+   "w": 11,
+   "h": 11,
+   "area": 21,
+   "elong": 1.26,
+   "ang": 2.356,
+   "len": 3.7,
+   "gris": false,
+   "col": [
+    0.347,
+    0.26,
+    0.177
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_044.png",
+   "w": 26,
+   "h": 26,
+   "area": 197,
+   "elong": 2.2,
+   "ang": -2.415,
+   "len": 22.3,
+   "gris": false,
+   "col": [
+    0.566,
+    0.368,
+    0.152
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_194.png",
+   "w": 13,
+   "h": 11,
+   "area": 24,
+   "elong": 2.18,
+   "ang": -2.996,
+   "len": 4.5,
+   "gris": false,
+   "col": [
+    0.224,
+    0.095,
+    0.077
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_045.png",
+   "w": 22,
+   "h": 19,
+   "area": 122,
+   "elong": 2.36,
+   "ang": -2.434,
+   "len": 16.2,
+   "gris": false,
+   "col": [
+    0.574,
+    0.345,
+    0.144
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_195.png",
+   "w": 29,
+   "h": 28,
+   "area": 327,
+   "elong": 1.29,
+   "ang": 0.938,
+   "len": 20.0,
+   "gris": false,
+   "col": [
+    0.618,
+    0.454,
+    0.202
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_196.png",
+   "w": 11,
+   "h": 11,
+   "area": 19,
+   "elong": 1.08,
+   "ang": 0.0,
+   "len": 3.3,
+   "gris": false,
+   "col": [
+    0.344,
+    0.214,
+    0.171
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_197.png",
+   "w": 11,
+   "h": 11,
+   "area": 19,
+   "elong": 1.63,
+   "ang": 0.0,
+   "len": 3.6,
+   "gris": false,
+   "col": [
+    0.326,
+    0.21,
+    0.165
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_198.png",
+   "w": 12,
+   "h": 12,
+   "area": 30,
+   "elong": 1.15,
+   "ang": 2.356,
+   "len": 4.8,
+   "gris": false,
+   "col": [
+    0.565,
+    0.416,
+    0.236
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_199.png",
+   "w": 10,
+   "h": 11,
+   "area": 14,
+   "elong": 1.73,
+   "ang": 1.893,
+   "len": 3.5,
+   "gris": false,
+   "col": [
+    0.389,
+    0.267,
+    0.225
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_046.png",
+   "w": 14,
+   "h": 17,
+   "area": 45,
+   "elong": 4.29,
+   "ang": 1.979,
+   "len": 13.2,
+   "gris": false,
+   "col": [
+    0.217,
+    0.096,
+    0.079
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_200.png",
+   "w": 12,
+   "h": 13,
+   "area": 30,
+   "elong": 1.84,
+   "ang": 2.126,
+   "len": 6.0,
+   "gris": false,
+   "col": [
+    0.438,
+    0.234,
+    0.162
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_201.png",
+   "w": 20,
+   "h": 17,
+   "area": 114,
+   "elong": 1.96,
+   "ang": -2.613,
+   "len": 13.2,
+   "gris": false,
+   "col": [
+    0.596,
+    0.46,
+    0.257
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_047.png",
+   "w": 24,
+   "h": 12,
+   "area": 69,
+   "elong": 7.1,
+   "ang": 2.951,
+   "len": 17.0,
+   "gris": false,
+   "col": [
+    0.245,
+    0.096,
+    0.084
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_048.png",
+   "w": 25,
+   "h": 13,
+   "area": 74,
+   "elong": 9.29,
+   "ang": 2.939,
+   "len": 20.6,
+   "gris": true,
+   "col": [
+    0.169,
+    0.053,
+    0.057
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_049.png",
+   "w": 13,
+   "h": 17,
+   "area": 43,
+   "elong": 4.7,
+   "ang": 1.256,
+   "len": 12.2,
+   "gris": false,
+   "col": [
+    0.22,
+    0.097,
+    0.085
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_050.png",
+   "w": 31,
+   "h": 21,
+   "area": 123,
+   "elong": 9.07,
+   "ang": 2.665,
+   "len": 30.2,
+   "gris": false,
+   "col": [
+    0.564,
+    0.36,
+    0.174
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_202.png",
+   "w": 43,
+   "h": 42,
+   "area": 906,
+   "elong": 1.27,
+   "ang": 2.461,
+   "len": 34.3,
+   "gris": false,
+   "col": [
+    0.566,
+    0.42,
+    0.241
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_203.png",
+   "w": 21,
+   "h": 20,
+   "area": 159,
+   "elong": 1.09,
+   "ang": 2.898,
+   "len": 12.3,
+   "gris": false,
+   "col": [
+    0.568,
+    0.432,
+    0.301
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_204.png",
+   "w": 12,
+   "h": 13,
+   "area": 26,
+   "elong": 1.97,
+   "ang": -2.422,
+   "len": 5.4,
+   "gris": false,
+   "col": [
+    0.404,
+    0.225,
+    0.202
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_051.png",
+   "w": 21,
+   "h": 15,
+   "area": 82,
+   "elong": 3.28,
+   "ang": -2.885,
+   "len": 14.0,
+   "gris": false,
+   "col": [
+    0.609,
+    0.44,
+    0.231
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_205.png",
+   "w": 24,
+   "h": 20,
+   "area": 181,
+   "elong": 1.83,
+   "ang": -2.757,
+   "len": 17.4,
+   "gris": false,
+   "col": [
+    0.697,
+    0.602,
+    0.307
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_052.png",
+   "w": 14,
+   "h": 20,
+   "area": 77,
+   "elong": 2.62,
+   "ang": 1.856,
+   "len": 12.5,
+   "gris": false,
+   "col": [
+    0.613,
+    0.294,
+    0.104
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_206.png",
+   "w": 11,
+   "h": 10,
+   "area": 14,
+   "elong": 1.63,
+   "ang": 0.0,
+   "len": 3.3,
+   "gris": true,
+   "col": [
+    0.192,
+    0.101,
+    0.103
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_207.png",
+   "w": 12,
+   "h": 11,
+   "area": 19,
+   "elong": 2.14,
+   "ang": -2.525,
+   "len": 4.8,
+   "gris": false,
+   "col": [
+    0.365,
+    0.225,
+    0.17
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_208.png",
+   "w": 11,
+   "h": 10,
+   "area": 16,
+   "elong": 1.73,
+   "ang": -2.82,
+   "len": 3.5,
+   "gris": false,
+   "col": [
+    0.282,
+    0.176,
+    0.153
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_209.png",
+   "w": 13,
+   "h": 13,
+   "area": 30,
+   "elong": 1.02,
+   "ang": 1.571,
+   "len": 4.4,
+   "gris": false,
+   "col": [
+    0.595,
+    0.466,
+    0.279
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_210.png",
+   "w": 12,
+   "h": 12,
+   "area": 27,
+   "elong": 1.31,
+   "ang": 2.582,
+   "len": 4.6,
+   "gris": false,
+   "col": [
+    0.56,
+    0.451,
+    0.268
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_211.png",
+   "w": 12,
+   "h": 11,
+   "area": 26,
+   "elong": 1.39,
+   "ang": -2.787,
+   "len": 4.1,
+   "gris": false,
+   "col": [
+    0.492,
+    0.393,
+    0.274
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_053.png",
+   "w": 16,
+   "h": 15,
+   "area": 46,
+   "elong": 3.89,
+   "ang": -2.547,
+   "len": 11.1,
+   "gris": false,
+   "col": [
+    0.538,
+    0.423,
+    0.271
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_212.png",
+   "w": 11,
+   "h": 12,
+   "area": 20,
+   "elong": 1.26,
+   "ang": 0.785,
+   "len": 3.7,
+   "gris": false,
+   "col": [
+    0.417,
+    0.289,
+    0.192
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_213.png",
+   "w": 11,
+   "h": 10,
+   "area": 16,
+   "elong": 1.0,
+   "ang": 1.571,
+   "len": 2.3,
+   "gris": false,
+   "col": [
+    0.273,
+    0.177,
+    0.146
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_214.png",
+   "w": 11,
+   "h": 11,
+   "area": 19,
+   "elong": 1.08,
+   "ang": 0.0,
+   "len": 3.3,
+   "gris": false,
+   "col": [
+    0.265,
+    0.179,
+    0.135
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_054.png",
+   "w": 16,
+   "h": 13,
+   "area": 43,
+   "elong": 3.06,
+   "ang": 2.688,
+   "len": 9.3,
+   "gris": false,
+   "col": [
+    0.593,
+    0.449,
+    0.273
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_055.png",
+   "w": 16,
+   "h": 12,
+   "area": 41,
+   "elong": 2.9,
+   "ang": -2.79,
+   "len": 8.3,
+   "gris": false,
+   "col": [
+    0.356,
+    0.21,
+    0.15
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_215.png",
+   "w": 27,
+   "h": 26,
+   "area": 289,
+   "elong": 1.12,
+   "ang": -2.831,
+   "len": 17.4,
+   "gris": false,
+   "col": [
+    0.578,
+    0.432,
+    0.312
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_056.png",
+   "w": 15,
+   "h": 12,
+   "area": 39,
+   "elong": 2.63,
+   "ang": -2.779,
+   "len": 8.1,
+   "gris": false,
+   "col": [
+    0.354,
+    0.136,
+    0.115
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_057.png",
+   "w": 14,
+   "h": 11,
+   "area": 28,
+   "elong": 3.26,
+   "ang": -3.088,
+   "len": 6.7,
+   "gris": false,
+   "col": [
+    0.264,
+    0.09,
+    0.072
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_058.png",
+   "w": 13,
+   "h": 17,
+   "area": 49,
+   "elong": 2.91,
+   "ang": 1.298,
+   "len": 10.0,
+   "gris": false,
+   "col": [
+    0.464,
+    0.202,
+    0.099
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_216.png",
+   "w": 16,
+   "h": 17,
+   "area": 80,
+   "elong": 1.02,
+   "ang": 1.934,
+   "len": 7.8,
+   "gris": false,
+   "col": [
+    0.602,
+    0.46,
+    0.242
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_059.png",
+   "w": 16,
+   "h": 17,
+   "area": 69,
+   "elong": 2.34,
+   "ang": 2.311,
+   "len": 11.1,
+   "gris": false,
+   "col": [
+    0.589,
+    0.276,
+    0.11
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_060.png",
+   "w": 18,
+   "h": 17,
+   "area": 59,
+   "elong": 4.66,
+   "ang": -2.447,
+   "len": 14.4,
+   "gris": false,
+   "col": [
+    0.627,
+    0.479,
+    0.278
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_217.png",
+   "w": 13,
+   "h": 11,
+   "area": 24,
+   "elong": 1.63,
+   "ang": -2.678,
+   "len": 4.6,
+   "gris": false,
+   "col": [
+    0.391,
+    0.203,
+    0.162
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_218.png",
+   "w": 26,
+   "h": 23,
+   "area": 254,
+   "elong": 1.49,
+   "ang": -2.872,
+   "len": 18.2,
+   "gris": false,
+   "col": [
+    0.597,
+    0.46,
+    0.344
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_061.png",
+   "w": 17,
+   "h": 14,
+   "area": 52,
+   "elong": 2.76,
+   "ang": -2.733,
+   "len": 10.4,
+   "gris": false,
+   "col": [
+    0.611,
+    0.436,
+    0.237
+   ],
+   "src": "Chispas brillantes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_062.png",
+   "w": 21,
+   "h": 42,
+   "area": 312,
+   "elong": 4.96,
+   "ang": 1.807,
+   "len": 38.7,
+   "gris": false,
+   "col": [
+    0.734,
+    0.488,
+    0.116
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_219.png",
+   "w": 12,
+   "h": 11,
+   "area": 22,
+   "elong": 1.26,
+   "ang": 0.785,
+   "len": 3.7,
+   "gris": false,
+   "col": [
+    0.458,
+    0.251,
+    0.171
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_063.png",
+   "w": 40,
+   "h": 41,
+   "area": 401,
+   "elong": 4.96,
+   "ang": 2.36,
+   "len": 49.0,
+   "gris": false,
+   "col": [
+    0.703,
+    0.387,
+    0.084
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_220.png",
+   "w": 12,
+   "h": 12,
+   "area": 30,
+   "elong": 1.35,
+   "ang": 0.785,
+   "len": 5.0,
+   "gris": false,
+   "col": [
+    0.543,
+    0.348,
+    0.199
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_064.png",
+   "w": 21,
+   "h": 27,
+   "area": 125,
+   "elong": 6.04,
+   "ang": 2.151,
+   "len": 24.0,
+   "gris": false,
+   "col": [
+    0.621,
+    0.302,
+    0.156
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_221.png",
+   "w": 12,
+   "h": 12,
+   "area": 27,
+   "elong": 1.31,
+   "ang": 2.13,
+   "len": 4.6,
+   "gris": false,
+   "col": [
+    0.538,
+    0.389,
+    0.274
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_222.png",
+   "w": 14,
+   "h": 15,
+   "area": 48,
+   "elong": 1.99,
+   "ang": 1.988,
+   "len": 8.2,
+   "gris": false,
+   "col": [
+    0.539,
+    0.212,
+    0.139
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_223.png",
+   "w": 14,
+   "h": 14,
+   "area": 50,
+   "elong": 1.28,
+   "ang": 2.672,
+   "len": 6.8,
+   "gris": false,
+   "col": [
+    0.611,
+    0.421,
+    0.17
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_224.png",
+   "w": 16,
+   "h": 22,
+   "area": 116,
+   "elong": 2.18,
+   "ang": 1.699,
+   "len": 14.9,
+   "gris": false,
+   "col": [
+    0.656,
+    0.343,
+    0.075
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_225.png",
+   "w": 53,
+   "h": 71,
+   "area": 1509,
+   "elong": 1.2,
+   "ang": 0.807,
+   "len": 42.4,
+   "gris": false,
+   "col": [
+    0.504,
+    0.267,
+    0.19
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_226.png",
+   "w": 11,
+   "h": 11,
+   "area": 19,
+   "elong": 1.26,
+   "ang": 2.356,
+   "len": 3.7,
+   "gris": false,
+   "col": [
+    0.504,
+    0.326,
+    0.248
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_227.png",
+   "w": 17,
+   "h": 15,
+   "area": 68,
+   "elong": 1.4,
+   "ang": -2.648,
+   "len": 8.0,
+   "gris": false,
+   "col": [
+    0.623,
+    0.47,
+    0.359
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_228.png",
+   "w": 12,
+   "h": 13,
+   "area": 27,
+   "elong": 1.74,
+   "ang": 2.107,
+   "len": 5.2,
+   "gris": false,
+   "col": [
+    0.489,
+    0.288,
+    0.233
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_229.png",
+   "w": 14,
+   "h": 12,
+   "area": 39,
+   "elong": 1.69,
+   "ang": -2.866,
+   "len": 6.8,
+   "gris": false,
+   "col": [
+    0.577,
+    0.397,
+    0.195
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_230.png",
+   "w": 19,
+   "h": 14,
+   "area": 62,
+   "elong": 1.92,
+   "ang": 3.011,
+   "len": 7.8,
+   "gris": false,
+   "col": [
+    0.44,
+    0.264,
+    0.166
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_231.png",
+   "w": 12,
+   "h": 11,
+   "area": 26,
+   "elong": 1.37,
+   "ang": 0.0,
+   "len": 4.7,
+   "gris": false,
+   "col": [
+    0.563,
+    0.365,
+    0.251
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_065.png",
+   "w": 20,
+   "h": 26,
+   "area": 149,
+   "elong": 3.6,
+   "ang": 1.05,
+   "len": 21.1,
+   "gris": false,
+   "col": [
+    0.665,
+    0.446,
+    0.222
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_232.png",
+   "w": 13,
+   "h": 11,
+   "area": 26,
+   "elong": 1.42,
+   "ang": 2.879,
+   "len": 4.6,
+   "gris": false,
+   "col": [
+    0.468,
+    0.274,
+    0.227
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_066.png",
+   "w": 21,
+   "h": 12,
+   "area": 65,
+   "elong": 4.81,
+   "ang": -3.049,
+   "len": 15.2,
+   "gris": false,
+   "col": [
+    0.53,
+    0.217,
+    0.168
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_233.png",
+   "w": 12,
+   "h": 12,
+   "area": 25,
+   "elong": 1.21,
+   "ang": 1.704,
+   "len": 4.0,
+   "gris": false,
+   "col": [
+    0.293,
+    0.126,
+    0.114
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_067.png",
+   "w": 13,
+   "h": 13,
+   "area": 28,
+   "elong": 2.42,
+   "ang": 2.46,
+   "len": 5.8,
+   "gris": false,
+   "col": [
+    0.268,
+    0.152,
+    0.143
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_234.png",
+   "w": 30,
+   "h": 22,
+   "area": 206,
+   "elong": 1.8,
+   "ang": 2.625,
+   "len": 18.6,
+   "gris": false,
+   "col": [
+    0.554,
+    0.372,
+    0.289
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_235.png",
+   "w": 18,
+   "h": 18,
+   "area": 109,
+   "elong": 1.38,
+   "ang": 2.084,
+   "len": 11.2,
+   "gris": false,
+   "col": [
+    0.512,
+    0.361,
+    0.149
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_068.png",
+   "w": 17,
+   "h": 12,
+   "area": 52,
+   "elong": 2.67,
+   "ang": -3.088,
+   "len": 9.4,
+   "gris": false,
+   "col": [
+    0.548,
+    0.174,
+    0.117
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_069.png",
+   "w": 18,
+   "h": 14,
+   "area": 67,
+   "elong": 2.49,
+   "ang": 2.839,
+   "len": 10.4,
+   "gris": false,
+   "col": [
+    0.621,
+    0.438,
+    0.189
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_236.png",
+   "w": 13,
+   "h": 14,
+   "area": 38,
+   "elong": 1.76,
+   "ang": 1.054,
+   "len": 7.0,
+   "gris": false,
+   "col": [
+    0.449,
+    0.169,
+    0.115
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_237.png",
+   "w": 26,
+   "h": 23,
+   "area": 222,
+   "elong": 1.47,
+   "ang": -2.754,
+   "len": 17.4,
+   "gris": false,
+   "col": [
+    0.668,
+    0.531,
+    0.14
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_070.png",
+   "w": 13,
+   "h": 15,
+   "area": 38,
+   "elong": 2.54,
+   "ang": 1.077,
+   "len": 8.3,
+   "gris": false,
+   "col": [
+    0.4,
+    0.182,
+    0.132
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_071.png",
+   "w": 16,
+   "h": 20,
+   "area": 81,
+   "elong": 2.45,
+   "ang": 2.1,
+   "len": 12.1,
+   "gris": false,
+   "col": [
+    0.619,
+    0.386,
+    0.177
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_072.png",
+   "w": 14,
+   "h": 23,
+   "area": 75,
+   "elong": 3.76,
+   "ang": 1.136,
+   "len": 12.7,
+   "gris": true,
+   "col": [
+    0.123,
+    0.037,
+    0.028
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_238.png",
+   "w": 21,
+   "h": 21,
+   "area": 148,
+   "elong": 2.19,
+   "ang": 2.391,
+   "len": 16.8,
+   "gris": false,
+   "col": [
+    0.696,
+    0.534,
+    0.311
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_073.png",
+   "w": 21,
+   "h": 24,
+   "area": 78,
+   "elong": 6.93,
+   "ang": 2.196,
+   "len": 17.7,
+   "gris": true,
+   "col": [
+    0.119,
+    0.034,
+    0.028
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_074.png",
+   "w": 30,
+   "h": 43,
+   "area": 397,
+   "elong": 3.78,
+   "ang": 1.192,
+   "len": 40.8,
+   "gris": false,
+   "col": [
+    0.765,
+    0.568,
+    0.15
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_075.png",
+   "w": 14,
+   "h": 15,
+   "area": 46,
+   "elong": 2.56,
+   "ang": 2.209,
+   "len": 9.3,
+   "gris": false,
+   "col": [
+    0.61,
+    0.455,
+    0.284
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_076.png",
+   "w": 16,
+   "h": 19,
+   "area": 58,
+   "elong": 4.44,
+   "ang": 0.938,
+   "len": 13.5,
+   "gris": false,
+   "col": [
+    0.441,
+    0.208,
+    0.156
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_239.png",
+   "w": 11,
+   "h": 11,
+   "area": 19,
+   "elong": 1.08,
+   "ang": 0.0,
+   "len": 3.3,
+   "gris": false,
+   "col": [
+    0.195,
+    0.084,
+    0.062
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_240.png",
+   "w": 15,
+   "h": 17,
+   "area": 72,
+   "elong": 1.93,
+   "ang": 1.957,
+   "len": 10.3,
+   "gris": false,
+   "col": [
+    0.627,
+    0.263,
+    0.109
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_077.png",
+   "w": 28,
+   "h": 29,
+   "area": 120,
+   "elong": 9.85,
+   "ang": 2.298,
+   "len": 35.1,
+   "gris": false,
+   "col": [
+    0.46,
+    0.228,
+    0.119
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_241.png",
+   "w": 15,
+   "h": 14,
+   "area": 48,
+   "elong": 1.69,
+   "ang": -2.403,
+   "len": 7.7,
+   "gris": false,
+   "col": [
+    0.522,
+    0.114,
+    0.081
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_242.png",
+   "w": 16,
+   "h": 18,
+   "area": 92,
+   "elong": 1.48,
+   "ang": 1.852,
+   "len": 10.6,
+   "gris": false,
+   "col": [
+    0.674,
+    0.52,
+    0.241
+   ],
+   "src": "Chispas incandescentes en la oscuridad (1).png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_078.png",
+   "w": 26,
+   "h": 29,
+   "area": 251,
+   "elong": 2.7,
+   "ang": 2.243,
+   "len": 25.2,
+   "gris": false,
+   "col": [
+    0.827,
+    0.758,
+    0.471
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_079.png",
+   "w": 18,
+   "h": 16,
+   "area": 61,
+   "elong": 3.24,
+   "ang": 2.489,
+   "len": 12.2,
+   "gris": false,
+   "col": [
+    0.644,
+    0.422,
+    0.287
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_080.png",
+   "w": 13,
+   "h": 13,
+   "area": 31,
+   "elong": 2.48,
+   "ang": -2.473,
+   "len": 6.8,
+   "gris": false,
+   "col": [
+    0.505,
+    0.277,
+    0.27
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_081.png",
+   "w": 13,
+   "h": 18,
+   "area": 44,
+   "elong": 4.91,
+   "ang": 1.969,
+   "len": 11.2,
+   "gris": true,
+   "col": [
+    0.166,
+    0.092,
+    0.082
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_082.png",
+   "w": 16,
+   "h": 23,
+   "area": 124,
+   "elong": 2.55,
+   "ang": 1.51,
+   "len": 15.9,
+   "gris": false,
+   "col": [
+    0.733,
+    0.601,
+    0.343
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_083.png",
+   "w": 14,
+   "h": 13,
+   "area": 35,
+   "elong": 2.97,
+   "ang": -2.678,
+   "len": 7.5,
+   "gris": false,
+   "col": [
+    0.445,
+    0.358,
+    0.323
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_084.png",
+   "w": 20,
+   "h": 24,
+   "area": 134,
+   "elong": 3.82,
+   "ang": 1.021,
+   "len": 19.6,
+   "gris": false,
+   "col": [
+    0.746,
+    0.713,
+    0.449
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_085.png",
+   "w": 24,
+   "h": 33,
+   "area": 274,
+   "elong": 3.1,
+   "ang": 1.388,
+   "len": 26.5,
+   "gris": false,
+   "col": [
+    0.631,
+    0.553,
+    0.312
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_086.png",
+   "w": 11,
+   "h": 16,
+   "area": 41,
+   "elong": 2.99,
+   "ang": 1.722,
+   "len": 8.7,
+   "gris": false,
+   "col": [
+    0.488,
+    0.286,
+    0.236
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_087.png",
+   "w": 16,
+   "h": 16,
+   "area": 40,
+   "elong": 4.44,
+   "ang": -2.413,
+   "len": 10.2,
+   "gris": false,
+   "col": [
+    0.277,
+    0.126,
+    0.114
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_243.png",
+   "w": 14,
+   "h": 14,
+   "area": 42,
+   "elong": 1.82,
+   "ang": 0.829,
+   "len": 7.6,
+   "gris": false,
+   "col": [
+    0.612,
+    0.372,
+    0.254
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_244.png",
+   "w": 21,
+   "h": 27,
+   "area": 180,
+   "elong": 1.91,
+   "ang": 2.192,
+   "len": 17.6,
+   "gris": false,
+   "col": [
+    0.657,
+    0.521,
+    0.299
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_088.png",
+   "w": 13,
+   "h": 15,
+   "area": 35,
+   "elong": 3.88,
+   "ang": 2.101,
+   "len": 9.2,
+   "gris": false,
+   "col": [
+    0.536,
+    0.459,
+    0.391
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_089.png",
+   "w": 46,
+   "h": 48,
+   "area": 861,
+   "elong": 2.23,
+   "ang": 0.851,
+   "len": 41.9,
+   "gris": false,
+   "col": [
+    0.621,
+    0.513,
+    0.336
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_090.png",
+   "w": 12,
+   "h": 13,
+   "area": 23,
+   "elong": 2.66,
+   "ang": 1.948,
+   "len": 5.6,
+   "gris": true,
+   "col": [
+    0.18,
+    0.129,
+    0.127
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_245.png",
+   "w": 16,
+   "h": 14,
+   "area": 62,
+   "elong": 1.58,
+   "ang": -2.983,
+   "len": 8.7,
+   "gris": false,
+   "col": [
+    0.688,
+    0.41,
+    0.269
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_246.png",
+   "w": 18,
+   "h": 24,
+   "area": 165,
+   "elong": 1.84,
+   "ang": 1.29,
+   "len": 16.7,
+   "gris": false,
+   "col": [
+    0.783,
+    0.645,
+    0.39
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_091.png",
+   "w": 13,
+   "h": 15,
+   "area": 35,
+   "elong": 3.33,
+   "ang": 2.059,
+   "len": 8.5,
+   "gris": false,
+   "col": [
+    0.329,
+    0.222,
+    0.197
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_092.png",
+   "w": 16,
+   "h": 14,
+   "area": 42,
+   "elong": 3.77,
+   "ang": 2.599,
+   "len": 10.3,
+   "gris": false,
+   "col": [
+    0.608,
+    0.531,
+    0.379
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_247.png",
+   "w": 12,
+   "h": 11,
+   "area": 22,
+   "elong": 1.39,
+   "ang": 2.787,
+   "len": 4.1,
+   "gris": true,
+   "col": [
+    0.399,
+    0.331,
+    0.315
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_093.png",
+   "w": 26,
+   "h": 21,
+   "area": 94,
+   "elong": 8.71,
+   "ang": 2.541,
+   "len": 24.0,
+   "gris": false,
+   "col": [
+    0.542,
+    0.297,
+    0.222
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_094.png",
+   "w": 20,
+   "h": 15,
+   "area": 65,
+   "elong": 4.68,
+   "ang": -2.702,
+   "len": 14.9,
+   "gris": false,
+   "col": [
+    0.613,
+    0.507,
+    0.324
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_095.png",
+   "w": 17,
+   "h": 15,
+   "area": 48,
+   "elong": 3.98,
+   "ang": 2.619,
+   "len": 10.9,
+   "gris": false,
+   "col": [
+    0.441,
+    0.259,
+    0.235
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_248.png",
+   "w": 17,
+   "h": 14,
+   "area": 58,
+   "elong": 1.46,
+   "ang": -2.971,
+   "len": 7.7,
+   "gris": false,
+   "col": [
+    0.705,
+    0.643,
+    0.399
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_249.png",
+   "w": 11,
+   "h": 10,
+   "area": 14,
+   "elong": 1.73,
+   "ang": 2.356,
+   "len": 2.8,
+   "gris": true,
+   "col": [
+    0.111,
+    0.08,
+    0.082
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_250.png",
+   "w": 13,
+   "h": 15,
+   "area": 47,
+   "elong": 1.46,
+   "ang": 1.915,
+   "len": 7.1,
+   "gris": false,
+   "col": [
+    0.64,
+    0.328,
+    0.176
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_096.png",
+   "w": 15,
+   "h": 16,
+   "area": 53,
+   "elong": 2.58,
+   "ang": 0.968,
+   "len": 9.9,
+   "gris": false,
+   "col": [
+    0.689,
+    0.632,
+    0.528
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_251.png",
+   "w": 13,
+   "h": 11,
+   "area": 25,
+   "elong": 2.14,
+   "ang": 2.525,
+   "len": 4.8,
+   "gris": false,
+   "col": [
+    0.502,
+    0.44,
+    0.37
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_252.png",
+   "w": 11,
+   "h": 11,
+   "area": 15,
+   "elong": 1.35,
+   "ang": 0.785,
+   "len": 3.4,
+   "gris": true,
+   "col": [
+    0.387,
+    0.35,
+    0.33
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_097.png",
+   "w": 12,
+   "h": 11,
+   "area": 19,
+   "elong": 2.54,
+   "ang": -2.62,
+   "len": 5.0,
+   "gris": true,
+   "col": [
+    0.146,
+    0.105,
+    0.111
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_098.png",
+   "w": 15,
+   "h": 13,
+   "area": 31,
+   "elong": 2.72,
+   "ang": 2.716,
+   "len": 7.0,
+   "gris": false,
+   "col": [
+    0.503,
+    0.366,
+    0.307
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_099.png",
+   "w": 16,
+   "h": 16,
+   "area": 47,
+   "elong": 4.35,
+   "ang": 2.375,
+   "len": 11.8,
+   "gris": false,
+   "col": [
+    0.389,
+    0.194,
+    0.161
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_100.png",
+   "w": 31,
+   "h": 17,
+   "area": 134,
+   "elong": 7.62,
+   "ang": 2.977,
+   "len": 26.7,
+   "gris": false,
+   "col": [
+    0.67,
+    0.465,
+    0.285
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_101.png",
+   "w": 14,
+   "h": 15,
+   "area": 40,
+   "elong": 3.33,
+   "ang": 0.907,
+   "len": 9.7,
+   "gris": false,
+   "col": [
+    0.657,
+    0.591,
+    0.443
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_102.png",
+   "w": 24,
+   "h": 22,
+   "area": 202,
+   "elong": 2.27,
+   "ang": -3.018,
+   "len": 17.3,
+   "gris": false,
+   "col": [
+    0.704,
+    0.595,
+    0.463
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_253.png",
+   "w": 25,
+   "h": 25,
+   "area": 218,
+   "elong": 1.86,
+   "ang": 2.424,
+   "len": 20.8,
+   "gris": false,
+   "col": [
+    0.665,
+    0.549,
+    0.434
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_254.png",
+   "w": 11,
+   "h": 11,
+   "area": 19,
+   "elong": 1.26,
+   "ang": 2.356,
+   "len": 3.7,
+   "gris": false,
+   "col": [
+    0.382,
+    0.263,
+    0.252
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_255.png",
+   "w": 27,
+   "h": 28,
+   "area": 295,
+   "elong": 1.32,
+   "ang": 2.568,
+   "len": 19.7,
+   "gris": false,
+   "col": [
+    0.692,
+    0.554,
+    0.384
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_103.png",
+   "w": 18,
+   "h": 16,
+   "area": 74,
+   "elong": 2.64,
+   "ang": 2.725,
+   "len": 11.1,
+   "gris": false,
+   "col": [
+    0.697,
+    0.584,
+    0.421
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_256.png",
+   "w": 13,
+   "h": 16,
+   "area": 53,
+   "elong": 1.72,
+   "ang": 1.415,
+   "len": 8.5,
+   "gris": false,
+   "col": [
+    0.715,
+    0.647,
+    0.517
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_104.png",
+   "w": 20,
+   "h": 11,
+   "area": 60,
+   "elong": 4.02,
+   "ang": 3.125,
+   "len": 13.0,
+   "gris": false,
+   "col": [
+    0.579,
+    0.317,
+    0.229
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_105.png",
+   "w": 14,
+   "h": 13,
+   "area": 36,
+   "elong": 2.68,
+   "ang": 2.57,
+   "len": 7.8,
+   "gris": false,
+   "col": [
+    0.614,
+    0.516,
+    0.381
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_106.png",
+   "w": 14,
+   "h": 15,
+   "area": 43,
+   "elong": 2.59,
+   "ang": 0.962,
+   "len": 8.7,
+   "gris": false,
+   "col": [
+    0.648,
+    0.582,
+    0.413
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_257.png",
+   "w": 13,
+   "h": 16,
+   "area": 50,
+   "elong": 2.02,
+   "ang": 1.571,
+   "len": 8.3,
+   "gris": false,
+   "col": [
+    0.702,
+    0.612,
+    0.393
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_258.png",
+   "w": 11,
+   "h": 10,
+   "area": 16,
+   "elong": 1.73,
+   "ang": -2.82,
+   "len": 3.5,
+   "gris": true,
+   "col": [
+    0.304,
+    0.268,
+    0.251
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_107.png",
+   "w": 15,
+   "h": 15,
+   "area": 42,
+   "elong": 3.36,
+   "ang": 2.34,
+   "len": 9.2,
+   "gris": false,
+   "col": [
+    0.225,
+    0.094,
+    0.08
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_108.png",
+   "w": 21,
+   "h": 17,
+   "area": 64,
+   "elong": 6.35,
+   "ang": 2.634,
+   "len": 15.9,
+   "gris": false,
+   "col": [
+    0.213,
+    0.103,
+    0.084
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_259.png",
+   "w": 38,
+   "h": 41,
+   "area": 691,
+   "elong": 1.52,
+   "ang": 1.595,
+   "len": 29.1,
+   "gris": false,
+   "col": [
+    0.47,
+    0.386,
+    0.294
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_109.png",
+   "w": 13,
+   "h": 16,
+   "area": 46,
+   "elong": 2.9,
+   "ang": 1.188,
+   "len": 9.3,
+   "gris": false,
+   "col": [
+    0.451,
+    0.349,
+    0.291
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_110.png",
+   "w": 16,
+   "h": 14,
+   "area": 40,
+   "elong": 4.28,
+   "ang": -2.511,
+   "len": 10.4,
+   "gris": false,
+   "col": [
+    0.459,
+    0.311,
+    0.254
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_260.png",
+   "w": 15,
+   "h": 13,
+   "area": 47,
+   "elong": 1.79,
+   "ang": -2.734,
+   "len": 7.8,
+   "gris": false,
+   "col": [
+    0.681,
+    0.596,
+    0.377
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_111.png",
+   "w": 13,
+   "h": 14,
+   "area": 28,
+   "elong": 3.23,
+   "ang": 2.407,
+   "len": 7.2,
+   "gris": false,
+   "col": [
+    0.383,
+    0.272,
+    0.236
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_112.png",
+   "w": 25,
+   "h": 12,
+   "area": 84,
+   "elong": 5.82,
+   "ang": -3.049,
+   "len": 18.8,
+   "gris": false,
+   "col": [
+    0.486,
+    0.226,
+    0.158
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_261.png",
+   "w": 12,
+   "h": 11,
+   "area": 22,
+   "elong": 1.39,
+   "ang": -2.787,
+   "len": 4.1,
+   "gris": false,
+   "col": [
+    0.381,
+    0.281,
+    0.236
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_113.png",
+   "w": 19,
+   "h": 14,
+   "area": 68,
+   "elong": 2.5,
+   "ang": 2.829,
+   "len": 11.5,
+   "gris": false,
+   "col": [
+    0.709,
+    0.663,
+    0.348
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_114.png",
+   "w": 14,
+   "h": 12,
+   "area": 32,
+   "elong": 2.88,
+   "ang": 2.798,
+   "len": 6.8,
+   "gris": false,
+   "col": [
+    0.299,
+    0.183,
+    0.151
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_262.png",
+   "w": 10,
+   "h": 11,
+   "area": 16,
+   "elong": 1.63,
+   "ang": 1.571,
+   "len": 3.6,
+   "gris": true,
+   "col": [
+    0.236,
+    0.215,
+    0.199
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_115.png",
+   "w": 29,
+   "h": 22,
+   "area": 167,
+   "elong": 6.26,
+   "ang": 2.677,
+   "len": 26.0,
+   "gris": false,
+   "col": [
+    0.636,
+    0.512,
+    0.305
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_116.png",
+   "w": 16,
+   "h": 17,
+   "area": 52,
+   "elong": 4.71,
+   "ang": 0.902,
+   "len": 12.9,
+   "gris": false,
+   "col": [
+    0.575,
+    0.408,
+    0.289
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_263.png",
+   "w": 11,
+   "h": 12,
+   "area": 24,
+   "elong": 1.42,
+   "ang": 1.308,
+   "len": 4.6,
+   "gris": false,
+   "col": [
+    0.608,
+    0.5,
+    0.357
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_117.png",
+   "w": 14,
+   "h": 13,
+   "area": 32,
+   "elong": 2.99,
+   "ang": -2.508,
+   "len": 6.3,
+   "gris": true,
+   "col": [
+    0.181,
+    0.1,
+    0.102
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_118.png",
+   "w": 13,
+   "h": 12,
+   "area": 24,
+   "elong": 2.31,
+   "ang": -2.622,
+   "len": 5.9,
+   "gris": true,
+   "col": [
+    0.26,
+    0.195,
+    0.17
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_264.png",
+   "w": 17,
+   "h": 17,
+   "area": 88,
+   "elong": 1.08,
+   "ang": 2.652,
+   "len": 8.6,
+   "gris": false,
+   "col": [
+    0.765,
+    0.69,
+    0.533
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_265.png",
+   "w": 44,
+   "h": 45,
+   "area": 932,
+   "elong": 1.18,
+   "ang": 2.947,
+   "len": 34.6,
+   "gris": false,
+   "col": [
+    0.416,
+    0.18,
+    0.107
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_266.png",
+   "w": 25,
+   "h": 24,
+   "area": 228,
+   "elong": 1.78,
+   "ang": 2.173,
+   "len": 17.2,
+   "gris": false,
+   "col": [
+    0.58,
+    0.504,
+    0.332
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_119.png",
+   "w": 11,
+   "h": 11,
+   "area": 16,
+   "elong": 2.89,
+   "ang": 0.785,
+   "len": 4.5,
+   "gris": true,
+   "col": [
+    0.175,
+    0.106,
+    0.091
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_120.png",
+   "w": 20,
+   "h": 12,
+   "area": 59,
+   "elong": 4.34,
+   "ang": -2.99,
+   "len": 13.2,
+   "gris": false,
+   "col": [
+    0.633,
+    0.513,
+    0.302
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_121.png",
+   "w": 17,
+   "h": 14,
+   "area": 50,
+   "elong": 3.31,
+   "ang": 2.545,
+   "len": 10.6,
+   "gris": false,
+   "col": [
+    0.67,
+    0.605,
+    0.412
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_122.png",
+   "w": 12,
+   "h": 15,
+   "area": 41,
+   "elong": 2.74,
+   "ang": 1.869,
+   "len": 8.5,
+   "gris": false,
+   "col": [
+    0.571,
+    0.472,
+    0.342
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_123.png",
+   "w": 11,
+   "h": 10,
+   "area": 12,
+   "elong": 2.62,
+   "ang": 2.588,
+   "len": 3.7,
+   "gris": true,
+   "col": [
+    0.224,
+    0.178,
+    0.17
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_124.png",
+   "w": 22,
+   "h": 16,
+   "area": 68,
+   "elong": 5.67,
+   "ang": 2.714,
+   "len": 16.2,
+   "gris": false,
+   "col": [
+    0.52,
+    0.297,
+    0.248
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_125.png",
+   "w": 13,
+   "h": 16,
+   "area": 41,
+   "elong": 3.08,
+   "ang": 2.058,
+   "len": 8.8,
+   "gris": false,
+   "col": [
+    0.611,
+    0.461,
+    0.315
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_126.png",
+   "w": 15,
+   "h": 22,
+   "area": 108,
+   "elong": 2.82,
+   "ang": 1.578,
+   "len": 15.3,
+   "gris": false,
+   "col": [
+    0.687,
+    0.599,
+    0.371
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_127.png",
+   "w": 15,
+   "h": 11,
+   "area": 37,
+   "elong": 2.67,
+   "ang": -3.022,
+   "len": 8.0,
+   "gris": false,
+   "col": [
+    0.549,
+    0.48,
+    0.399
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "chispa",
+   "archivo": "chispas/chispa_128.png",
+   "w": 15,
+   "h": 15,
+   "area": 40,
+   "elong": 4.14,
+   "ang": 2.326,
+   "len": 10.6,
+   "gris": false,
+   "col": [
+    0.622,
+    0.472,
+    0.317
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "pavesa",
+   "archivo": "pavesas/pavesa_267.png",
+   "w": 16,
+   "h": 16,
+   "area": 74,
+   "elong": 1.33,
+   "ang": 2.457,
+   "len": 9.0,
+   "gris": false,
+   "col": [
+    0.706,
+    0.564,
+    0.454
+   ],
+   "src": "Chispas incandescentes en la oscuridad.png"
+  },
+  {
+   "clase": "humo",
+   "archivo": "humo/humo_01.png",
+   "w": 1013,
+   "h": 773,
+   "src": "Espiral de humo sobre fondo negro-2.png"
+  },
+  {
+   "clase": "base",
+   "archivo": "llamas/base_01.png",
+   "w": 1027,
+   "h": 615,
+   "lean": -0.213,
+   "base_x": 0.536,
+   "asp": 0.6,
+   "src": "Explosión de fuego incandescente.png"
+  },
+  {
+   "clase": "lengua",
+   "archivo": "llamas/lengua_01.png",
+   "w": 915,
+   "h": 1084,
+   "lean": 0.522,
+   "base_x": 0.118,
+   "asp": 1.18,
+   "src": "Llama Curvada sobre Fondo Negro (1).png"
+  },
+  {
+   "clase": "lengua",
+   "archivo": "llamas/lengua_02.png",
+   "w": 1022,
+   "h": 1148,
+   "lean": 0.623,
+   "base_x": 0.13,
+   "asp": 1.12,
+   "src": "Llama Diagonal en el Vacío Negro.png"
+  },
+  {
+   "clase": "lengua",
+   "archivo": "llamas/lengua_03.png",
+   "w": 946,
+   "h": 1116,
+   "lean": 0.505,
+   "base_x": 0.161,
+   "asp": 1.18,
+   "src": "Llama ardiente en espiral (1).png"
+  },
+  {
+   "clase": "masa",
+   "archivo": "llamas/masa_01.png",
+   "w": 795,
+   "h": 885,
+   "lean": -0.052,
+   "base_x": 0.571,
+   "asp": 1.11,
+   "src": "Llama ardiente en la oscuridad.png"
+  },
+  {
+   "clase": "masa",
+   "archivo": "llamas/masa_02.png",
+   "w": 803,
+   "h": 1045,
+   "lean": 0.014,
+   "base_x": 0.493,
+   "asp": 1.3,
+   "src": "Llama ardiente sobre fondo negro (1).png"
+  },
+  {
+   "clase": "masa",
+   "archivo": "llamas/masa_03.png",
+   "w": 778,
+   "h": 865,
+   "lean": 0.137,
+   "base_x": 0.44,
+   "asp": 1.11,
+   "src": "Llama ardiente sobre fondo negro (2).png"
+  },
+  {
+   "clase": "lengua",
+   "archivo": "llamas/lengua_04.png",
+   "w": 670,
+   "h": 1157,
+   "lean": -0.035,
+   "base_x": 0.495,
+   "asp": 1.73,
+   "src": "Llama ardiente sobre fondo negro.png"
+  },
+  {
+   "clase": "masa",
+   "archivo": "llamas/masa_04.png",
+   "w": 887,
+   "h": 905,
+   "lean": 0.044,
+   "base_x": 0.468,
+   "asp": 1.02,
+   "src": "Llama ardiente sobre negro.png"
+  },
+  {
+   "clase": "masa",
+   "archivo": "llamas/masa_05.png",
+   "w": 907,
+   "h": 1072,
+   "lean": 0.024,
+   "base_x": 0.5,
+   "asp": 1.18,
+   "src": "Llama arremolinada sobre fondo negro (1).png"
+  },
+  {
+   "clase": "masa",
+   "archivo": "llamas/masa_06.png",
+   "w": 883,
+   "h": 1121,
+   "lean": 0.036,
+   "base_x": 0.507,
+   "asp": 1.27,
+   "src": "Llama arremolinada sobre fondo negro.png"
+  },
+  {
+   "clase": "lengua",
+   "archivo": "llamas/lengua_05.png",
+   "w": 1007,
+   "h": 1084,
+   "lean": 0.536,
+   "base_x": 0.096,
+   "asp": 1.08,
+   "src": "Llama danzante sobre fondo negro (1).png"
+  },
+  {
+   "clase": "lengua",
+   "archivo": "llamas/lengua_06.png",
+   "w": 211,
+   "h": 1187,
+   "lean": 0.002,
+   "base_x": 0.408,
+   "asp": 5.63,
+   "src": "Llama danzante sobre fondo negro.png"
+  },
+  {
+   "clase": "masa",
+   "archivo": "llamas/masa_07.png",
+   "w": 878,
+   "h": 1125,
+   "lean": 0.003,
+   "base_x": 0.48,
+   "asp": 1.28,
+   "src": "Llama de fuego arremolinada.png"
+  },
+  {
+   "clase": "lengua",
+   "archivo": "llamas/lengua_07.png",
+   "w": 645,
+   "h": 1140,
+   "lean": -0.054,
+   "base_x": 0.519,
+   "asp": 1.77,
+   "src": "Llama de fuego en espiral (1).png"
+  },
+  {
+   "clase": "lengua",
+   "archivo": "llamas/lengua_08.png",
+   "w": 976,
+   "h": 1074,
+   "lean": 0.514,
+   "base_x": 0.168,
+   "asp": 1.1,
+   "src": "Llama de fuego en espiral (2).png"
+  },
+  {
+   "clase": "lengua",
+   "archivo": "llamas/lengua_09.png",
+   "w": 965,
+   "h": 1169,
+   "lean": 0.596,
+   "base_x": 0.116,
+   "asp": 1.21,
+   "src": "Llama de fuego en espiral (3).png"
+  },
+  {
+   "clase": "lengua",
+   "archivo": "llamas/lengua_10.png",
+   "w": 986,
+   "h": 1098,
+   "lean": 0.507,
+   "base_x": 0.117,
+   "asp": 1.11,
+   "src": "Llama de fuego en espiral.png"
+  },
+  {
+   "clase": "lengua",
+   "archivo": "llamas/lengua_11.png",
+   "w": 978,
+   "h": 1158,
+   "lean": 0.535,
+   "base_x": 0.101,
+   "asp": 1.18,
+   "src": "Llama dorada en espiral (1).png"
+  },
+  {
+   "clase": "lengua",
+   "archivo": "llamas/lengua_12.png",
+   "w": 945,
+   "h": 1229,
+   "lean": 0.489,
+   "base_x": 0.153,
+   "asp": 1.3,
+   "src": "Llama dorada en espiral.png"
+  },
+  {
+   "clase": "lengua",
+   "archivo": "llamas/lengua_13.png",
+   "w": 251,
+   "h": 1182,
+   "lean": 0.011,
+   "base_x": 0.429,
+   "asp": 4.71,
+   "src": "Llama esbelta sobre fondo negro.png"
+  },
+  {
+   "clase": "lengua",
+   "archivo": "llamas/lengua_14.png",
+   "w": 923,
+   "h": 1010,
+   "lean": 0.545,
+   "base_x": 0.133,
+   "asp": 1.09,
+   "src": "Llama sinuosa sobre fondo negro.png"
+  },
+  {
+   "clase": "base",
+   "archivo": "llamas/base_02.png",
+   "w": 1147,
+   "h": 715,
+   "lean": -0.182,
+   "base_x": 0.519,
+   "asp": 0.62,
+   "src": "Llamas doradas sobre fondo negro (1).png"
+  },
+  {
+   "clase": "base",
+   "archivo": "llamas/base_03.png",
+   "w": 1113,
+   "h": 710,
+   "lean": -0.144,
+   "base_x": 0.471,
+   "asp": 0.64,
+   "src": "Llamas naranjas sobre fondo negro.png"
+  },
+  {
+   "clase": "humo",
+   "archivo": "humo/humo_02.png",
+   "w": 1167,
+   "h": 756,
+   "src": "Remolino de humo en la oscuridad.png"
+  },
+  {
+   "clase": "humo",
+   "archivo": "humo/humo_03.png",
+   "w": 1026,
+   "h": 883,
+   "src": "Remolino de humo sobre fondo negro-1.png"
+  },
+  {
+   "clase": "humo",
+   "archivo": "humo/humo_04.png",
+   "w": 1067,
+   "h": 743,
+   "src": "Remolino de humo sobre negro.png"
+  }
+ ]
+}
