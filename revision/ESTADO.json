@@ -481,7 +481,7 @@
 "tx:luz_y_elementos/burbujas_y_espuma/burbujas_brillantes_0168_trama",
 "tx:luz_y_elementos/burbujas_y_espuma/burbujas_espuma_0169"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-02",
@@ -502,7 +502,7 @@
 "tx:luz_y_elementos/burbujas_y_espuma/isla_burbujas_espuma_0179",
 "tx:luz_y_elementos/burbujas_y_espuma/isla_burbujas_espuma_0179_trama"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-03",
@@ -523,7 +523,7 @@
 "tx:luz_y_elementos/chispas/briznas_incandescentes_0085_trama",
 "tx:luz_y_elementos/chispas/chispa_brasas_incandescentes_0086"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-04",
@@ -544,7 +544,7 @@
 "tx:luz_y_elementos/fuego/explosion_fuego_incandescente_0091",
 "tx:luz_y_elementos/fuego/explosion_fuego_incandescente_0091_trama"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-05",
@@ -565,7 +565,7 @@
 "tx:luz_y_elementos/fuego/llama_arremolinada_0100_trama",
 "tx:luz_y_elementos/fuego/llama_arremolinada_0101"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-06",
@@ -586,7 +586,7 @@
 "tx:luz_y_elementos/fuego/llama_fuego_arremolinada_0103",
 "tx:luz_y_elementos/fuego/llama_fuego_arremolinada_0103_trama"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-07",
@@ -607,7 +607,7 @@
 "tx:luz_y_elementos/fuego/llamas_danzantes_0403_trama",
 "tx:luz_y_elementos/fuego/llamas_doradas_0111"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-08",
@@ -628,7 +628,7 @@
 "tx:luz_y_elementos/fugas_de_luz/fuga_luz_dorada_0391",
 "tx:luz_y_elementos/fugas_de_luz/fuga_luz_dorada_0391_trama"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-09",
@@ -649,7 +649,7 @@
 "tx:luz_y_elementos/humo/espirales_humo_etereo_0387_trama",
 "tx:luz_y_elementos/humo/espirales_vapor_0389"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_luz_y_elementos-10",
@@ -668,7 +668,7 @@
 "tx:luz_y_elementos/moho/colonia_moho_multicolor_0175",
 "tx:luz_y_elementos/moho/colonia_moho_multicolor_0176"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-01",
@@ -689,7 +689,7 @@
 "tx:manchas/goteos/fina/goteo_141",
 "tx:manchas/goteos/fina/goteo_142"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-02",
@@ -710,7 +710,7 @@
 "tx:manchas/goteos/fina/goteo_177",
 "tx:manchas/goteos/fina/goteo_192"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-03",
@@ -731,7 +731,7 @@
 "tx:manchas/goteos/lagrima/goteo_001",
 "tx:manchas/goteos/lagrima/goteo_002"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-04",
@@ -752,7 +752,7 @@
 "tx:manchas/goteos/lagrima/goteo_017",
 "tx:manchas/goteos/lagrima/goteo_018"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-05",
@@ -773,7 +773,7 @@
 "tx:manchas/goteos/lagrima/goteo_034",
 "tx:manchas/goteos/lagrima/goteo_035"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-06",
@@ -794,7 +794,7 @@
 "tx:manchas/goteos/lagrima/goteo_064",
 "tx:manchas/goteos/lagrima/goteo_065"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-07",
@@ -815,7 +815,7 @@
 "tx:manchas/goteos/lagrima/goteo_171",
 "tx:manchas/goteos/lagrima/goteo_191"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-08",
@@ -836,7 +836,7 @@
 "tx:manchas/goteos/seca/goteo_138",
 "tx:manchas/goteos/seca/goteo_139"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-r01",
@@ -857,7 +857,7 @@
 "tx:manchas/goteos/serpenteante/goteo_087",
 "tx:manchas/goteos/serpenteante/goteo_088"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-r02",
@@ -878,7 +878,7 @@
 "tx:manchas/goteos/serpenteante/goteo_108",
 "tx:manchas/goteos/serpenteante/goteo_109"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-r03",
@@ -899,7 +899,7 @@
 "tx:manchas/goteos/serpenteante/goteo_130",
 "tx:manchas/goteos/serpenteante/goteo_131"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-r04",
@@ -920,7 +920,7 @@
 "tx:manchas/goteos/serpenteante/goteo_164",
 "tx:manchas/goteos/serpenteante/goteo_166"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-r05",
@@ -941,7 +941,7 @@
 "tx:manchas/goteos/serpenteante/goteo_187",
 "tx:manchas/goteos/serpenteante/goteo_188"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-r06",
@@ -962,7 +962,7 @@
 "tx:manchas/goteos/serpenteante/goteo_213",
 "tx:manchas/goteos/serpenteante/goteo_214"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-r07",
@@ -983,7 +983,7 @@
 "tx:manchas/pincel/pincel_gris_0411",
 "tx:manchas/pincel/pincel_gris_0412"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-r08",
@@ -1004,7 +1004,7 @@
 "tx:manchas/pincel/pincel_gris_0427",
 "tx:manchas/pincel/pincel_gris_0428"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-r09",
@@ -1025,7 +1025,7 @@
 "tx:manchas/pincel_grandes/macnha_1134",
 "tx:manchas/pincel_grandes/macnha_1135"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_manchas-r10",
@@ -1034,7 +1034,7 @@
 "tx:manchas/tinta/mancha_tinta_negra_papel_texturizado_0369",
 "tx:manchas/tinta/mancha_tinta_papel_texturizado_0370"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_pliegues-r01",
@@ -1055,7 +1055,7 @@
 "tx:pliegues/2_pliegues/papel_gris_plegado_cruces_arrugas_0686",
 "tx:pliegues/2_pliegues/papel_gris_plegado_textura_sutil_0688"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_pliegues-r02",
@@ -1076,7 +1076,7 @@
 "tx:pliegues/3_pliegues/textura_papel_gris_arrugado_0705",
 "tx:pliegues/3_pliegues/textura_papel_gris_plegado_0714"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_pliegues-r03",
@@ -1097,7 +1097,7 @@
 "tx:pliegues/5_pliegues/textura_papel_plegado_cuadricula_0719",
 "tx:pliegues/6_pliegues/pliegues_geometricos_papel_gris_palido_0696"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_pliegues-r04",
@@ -1118,7 +1118,7 @@
 "tx:pliegues/arrugado/textura_papel_gris_arrugado_0740",
 "tx:pliegues/arrugado/textura_papel_gris_arrugado_0741"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_pliegues-r05",
@@ -1139,14 +1139,14 @@
 "tx:pliegues/muy_arrugado/textura_papel_gris_arrugado_0745",
 "tx:pliegues/muy_arrugado/textura_papel_gris_arrugado_0746"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_pliegues-r06",
 "ids": [
 "tx:pliegues/muy_arrugado/textura_papel_gris_arrugado_0750"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_superposiciones-r01",
@@ -1167,7 +1167,7 @@
 "tx:superposiciones/9x16/aguada/textura_acuarela_monocromatica_granular_1233",
 "tx:superposiciones/9x16/carbon/carbon_1205"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_superposiciones-r02",
@@ -1188,7 +1188,7 @@
 "tx:superposiciones/9x16/grafito/grafito_1213",
 "tx:superposiciones/9x16/grunge/grunge_1140"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_superposiciones-r03",
@@ -1209,7 +1209,7 @@
 "tx:superposiciones/9x16/pintura_color/pintura_color_1146",
 "tx:superposiciones/9x16/pintura_color/pintura_color_1147"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_superposiciones-r04",
@@ -1230,7 +1230,7 @@
 "tx:superposiciones/9x16/pintura_color/pintura_color_1189",
 "tx:superposiciones/9x16/pintura_color/pintura_color_1194"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_superposiciones-r05",
@@ -1251,7 +1251,7 @@
 "tx:superposiciones/9x16/pintura_gris/pintura_gris_1145",
 "tx:superposiciones/9x16/pintura_gris/pintura_gris_1149"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_superposiciones-r06",
@@ -1272,7 +1272,7 @@
 "tx:superposiciones/9x16/pintura_gris/pintura_gris_1200",
 "tx:superposiciones/9x16/pintura_gris/pintura_gris_1208"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_superposiciones-r07",
@@ -1293,7 +1293,7 @@
 "tx:superposiciones/pelicula_polvo_y_rayas/polvo_aranazos_pelicula_negra_0405_trama",
 "tx:superposiciones/pelicula_polvo_y_rayas/textura_pelicula_antigua_polvo_rayas_0409"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_superposiciones-r08",
@@ -1308,7 +1308,7 @@
 "tx:superposiciones/vhs/interferencias_vhs_blanco_negro_0398",
 "tx:superposiciones/vhs/interferencias_vhs_blanco_negro_0398_trama"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r01",
@@ -1329,7 +1329,7 @@
 "tx:tileables/grafito_y_carbon/grafito_gris_1213",
 "tx:tileables/grafito_y_carbon/grafito_gris_claro_1162"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r02",
@@ -1350,7 +1350,7 @@
 "tx:tileables/grunge/textura_abstracta_tinta_grunge_0074",
 "tx:tileables/grunge/textura_fotocopia_sucia_blanco_negro_0406"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r03",
@@ -1371,7 +1371,7 @@
 "tx:tileables/liquidos/espuma_jabon_0363",
 "tx:tileables/liquidos/espuma_marina_aguas_oscuras_0188"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r04",
@@ -1392,7 +1392,7 @@
 "tx:tileables/madera_y_carton/textura_carton_corrugado_kraft_0777",
 "tx:tileables/madera_y_carton/textura_carton_corrugado_marron_0778"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r05",
@@ -1413,7 +1413,7 @@
 "tx:tileables/madera_y_carton/textura_madera_clara_vetas_onduladas_0786",
 "tx:tileables/madera_y_carton/textura_natural_madera_abedul_0795"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r06",
@@ -1434,7 +1434,7 @@
 "tx:tileables/naturaleza/textura_macro_moho_multicolor_0186",
 "tx:tileables/papel/cuadricula_papel_milimetrado_azul_0994"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r07",
@@ -1455,7 +1455,7 @@
 "tx:tileables/papel/papel_milimetrado_triangular_azul_palido_1008",
 "tx:tileables/papel/papel_pautado_musical_1009"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r08",
@@ -1476,7 +1476,7 @@
 "tx:tileables/papel/textura_papel_acuarela_marfil_0407",
 "tx:tileables/papel/textura_papel_acuarela_marfil_fina_1022"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r09",
@@ -1497,7 +1497,7 @@
 "tx:tileables/papel/textura_papel_encerado_arrugado_1037",
 "tx:tileables/papel/textura_papel_encerado_arrugado_1038"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r10",
@@ -1518,7 +1518,7 @@
 "tx:tileables/papel/textura_papel_reciclado_fibroso_1050",
 "tx:tileables/papel/textura_papel_reciclado_fibroso_1051"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r11",
@@ -1539,7 +1539,7 @@
 "tx:tileables/papel/textura_sutil_papel_verjurado_marfil_1066",
 "tx:tileables/papel/textura_uniforme_papel_acuarela_blanco_calido_1067"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r12",
@@ -1560,7 +1560,7 @@
 "tx:tileables/pintura/acuarela_grano_4_basecolor_1081",
 "tx:tileables/pintura/acuarela_grano_5_basecolor_1082"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r13",
@@ -1581,7 +1581,7 @@
 "tx:tileables/pintura/acuarelas_base_7_basecolor_0440",
 "tx:tileables/pintura/aguada_gris_1164"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r14",
@@ -1602,7 +1602,7 @@
 "tx:tileables/pintura/color_azul_1187",
 "tx:tileables/pintura/color_azul_1204"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r15",
@@ -1623,7 +1623,7 @@
 "tx:tileables/pintura/color_naranja_1198",
 "tx:tileables/pintura/color_naranja_1203"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r16",
@@ -1644,7 +1644,7 @@
 "tx:tileables/pintura/gris_gris_1168",
 "tx:tileables/pintura/gris_gris_1169"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r17",
@@ -1665,7 +1665,7 @@
 "tx:tileables/pintura/guache_pinceladas_calidas_13_basecolor_1094",
 "tx:tileables/pintura/guache_pinceladas_calidas_14_basecolor_1095"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r18",
@@ -1686,7 +1686,7 @@
 "tx:tileables/pintura/guache_pinceladas_frias_2_basecolor_1109",
 "tx:tileables/pintura/guache_pinceladas_frias_3_basecolor_1110"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r19",
@@ -1707,7 +1707,7 @@
 "tx:tileables/pintura/guache_pinceladas_grises_8_basecolor_1124",
 "tx:tileables/pintura/guache_pinceladas_grises_9_basecolor_1125"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r20",
@@ -1728,7 +1728,7 @@
 "tx:tileables/superficies/pavimento_piedra_gris_texturizada_0614",
 "tx:tileables/superficies/pintura_grumos_1_0605"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r21",
@@ -1749,7 +1749,7 @@
 "tx:tileables/superficies/textura_asfalto_rugoso_0628",
 "tx:tileables/superficies/textura_asfalto_rugoso_grava_0627"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r22",
@@ -1770,7 +1770,7 @@
 "tx:tileables/superficies/textura_hormigon_gris_desgastado_0642",
 "tx:tileables/superficies/textura_hormigon_gris_desgastado_0643"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r23",
@@ -1791,7 +1791,7 @@
 "tx:tileables/superficies/textura_muro_piedra_caliza_envejecida_0655",
 "tx:tileables/superficies/textura_pared_blanca_rugosa_0657"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r24",
@@ -1812,7 +1812,7 @@
 "tx:tileables/superficies/textura_terrazo_gris_fragmentos_minerales_0666",
 "tx:tileables/superficies/textura_terrazo_gris_piedras_incrustadas_0667"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r25",
@@ -1833,7 +1833,7 @@
 "tx:tileables/vidrios_y_plasticos/gotas_lluvia_cristal_negro_0810",
 "tx:tileables/vidrios_y_plasticos/gotas_lluvia_cristal_negro_0811"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r26",
@@ -1854,7 +1854,7 @@
 "tx:tileables/vidrios_y_plasticos/textura_abstracta_vidrio_acanalado_oscuro_0825",
 "tx:tileables/vidrios_y_plasticos/textura_abstracta_vidrio_ondulado_0826"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r27",
@@ -1875,7 +1875,7 @@
 "tx:tileables/vidrios_y_plasticos/textura_vidrio_estriado_translucido_0837",
 "tx:tileables/vidrios_y_plasticos/textura_vidrio_martillado_brillante_0838"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_tileables-r28",
@@ -1892,7 +1892,7 @@
 "tx:tileables/vidrios_y_plasticos/vidrio_martillado_relieve_0851",
 "tx:tileables/vidrios_y_plasticos/vidrio_ondulado_blanco_negro_0852"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_trazos-r01",

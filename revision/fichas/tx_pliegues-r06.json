@@ -1,0 +1,35 @@
+{
+"tx:pliegues/muy_arrugado/textura_papel_gris_arrugado_0750": {
+"que_es": "papel estrujado de facetas medias con arruga horizontal oscura",
+"calidad": 5,
+"defectos": "ninguno",
+"familia": "arrugado_fuerte",
+"variante": 20,
+"diferencia": "arruga horizontal",
+"mejor_de_familia": false,
+"uso": "papel arrugado",
+"modo": "superponer",
+"usar_si": "-",
+"evitar_si": "-",
+"color": "gris 50 %",
+"orient": "vertical A4",
+"escala": "1055×1491",
+"estilo": "papel estrujado",
+"contenido": "sin texto",
+"medidas": {
+"w": 1055,
+"h": 1491,
+"color_medio": "#7b7b7b",
+"luminancia": 0.484,
+"contraste": 0.107,
+"saturacion": 0.0,
+"phash": "9a62fb1ae3888778"
+},
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"nivel": "completo",
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/tx_pliegues-r06.jpg"
+}
+}
