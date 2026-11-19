@@ -2311,7 +2311,7 @@
 "tx:video/elementos/espuma/espuma_de_burbujas_blancas_041d",
 "tx:video/elementos/fuego_y_humo/llamas_y_humo_blancos_monocromo_que_ocup_0006"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_video-02",
@@ -2323,7 +2323,7 @@
 "tx:video/elementos/spray/t2",
 "tx:video/elementos/spray/t3"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_video-03",
@@ -2335,7 +2335,7 @@
 "tx:video/elementos/tinta_en_agua/tinta_en_agua_6056",
 "tx:video/elementos/tinta_en_agua/tinta_en_agua_a014"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_video-04",
@@ -2347,7 +2347,7 @@
 "tx:video/texturas_animadas/lineas/texture12_white_paper_horizontal_lines",
 "tx:video/texturas_animadas/lineas/texture9_black_paper_vertical_lines"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_video-05",
@@ -2359,7 +2359,7 @@
 "tx:video/texturas_animadas/salpicaduras/texture6_white_paper_splashes",
 "tx:video/texturas_animadas/sellos/texture7_black_paper_stamps"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_video-06",
@@ -2371,7 +2371,7 @@
 "tx:video/transiciones/tinta_4k/diagonal/diagonal_2",
 "tx:video/transiciones/tinta_4k/diagonal/diagonal_3"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_video-07",
@@ -2383,7 +2383,7 @@
 "tx:video/transiciones/tinta_4k/diagonal/diagonal_textura",
 "tx:video/transiciones/tinta_4k/horizontal/horizontal_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_video-08",
@@ -2395,7 +2395,7 @@
 "tx:video/transiciones/tinta_4k/horizontal/horizontal_6",
 "tx:video/transiciones/tinta_4k/horizontal/horizontal_7"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_video-09",
@@ -2407,7 +2407,7 @@
 "tx:video/transiciones/tinta_4k/vertical/vertical_4",
 "tx:video/transiciones/tinta_4k/vertical/vertical_5"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "tx_video-10",
@@ -2416,7 +2416,7 @@
 "tx:video/transiciones/tinta_4k/vertical/vertical_7",
 "tx:video/transiciones/tinta_4k/vertical/vertical_textura"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_cintas_trazo-r01",

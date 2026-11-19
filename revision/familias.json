@@ -2597,5 +2597,122 @@
 "modo": "normal",
 "usar_si": "subrayado infantil o artesanal en color",
 "evitar_si": "quieres trazo limpio"
+},
+"video_agua": {
+"miembros": [
+"tx:video/elementos/agua_y_espuma/agua_negra_con_burbujas_y_espuma_0002",
+"tx:video/elementos/agua_y_espuma/espuma_de_mar_blanca_sobre_agua_oscura_9571",
+"tx:video/elementos/agua_y_espuma/espuma_oscura_sobre_agua_d53f",
+"tx:video/elementos/burbujas/hilera_de_burbujas_que_aparece_y_sube_po_0005",
+"tx:video/elementos/espuma/espuma_de_burbujas_blancas_041d"
+],
+"uso": "vídeo de superficie de agua/espuma/burbujas sobre negro (IA, Gemini/Kling)",
+"modo": "trama",
+"usar_si": "superponer agua o espuma animada sobre arte",
+"evitar_si": "fondo blanco",
+"mejor": "tx:video/elementos/agua_y_espuma/espuma_de_mar_blanca_sobre_agua_oscura_9571"
+},
+"video_fuego_humo": {
+"miembros": [
+"tx:video/elementos/fuego_y_humo/llamas_y_humo_blancos_monocromo_que_ocup_0006",
+"tx:video/elementos/humo/columna_de_humo_blanco_sobre_negro_0004",
+"tx:video/elementos/humo/dos_columnas_de_humo_blanco_que_suben_y_4cfd",
+"tx:video/elementos/humo/humo_que_nace_abajo_y_sube_hasta_llenar_0003"
+],
+"uso": "vídeo de fuego o humo monocromo (IA)",
+"modo": "trama si fondo negro",
+"usar_si": "llamas o humo animados por encima",
+"evitar_si": "quieres color de fuego real",
+"mejor": "tx:video/elementos/humo/columna_de_humo_blanco_sobre_negro_0004"
+},
+"video_spray": {
+"miembros": [
+"tx:video/elementos/spray/t1",
+"tx:video/elementos/spray/t2",
+"tx:video/elementos/spray/t3",
+"tx:video/elementos/spray/t4"
+],
+"uso": "clip corto de manchas de spray negro sobre papel blanco a saltos (stop motion, Gumroad: no redistribuir)",
+"modo": "multiplicar",
+"usar_si": "animación de grafiti/spray a saltos, transición sucia",
+"evitar_si": "necesitas duración larga (0,32 s)"
+},
+"video_tinta_agua": {
+"miembros": [
+"tx:video/elementos/tinta_en_agua/remolinos_de_tinta_clara_en_agua_0f62",
+"tx:video/elementos/tinta_en_agua/tinta_blanca_en_agua_oscura_380b",
+"tx:video/elementos/tinta_en_agua/tinta_blanca_y_negra_en_agua_7423",
+"tx:video/elementos/tinta_en_agua/tinta_en_agua_6056",
+"tx:video/elementos/tinta_en_agua/tinta_en_agua_a014"
+],
+"uso": "vídeo vertical de tinta en agua (remolinos tipo mármol, IA)",
+"modo": "trama si fondo oscuro, multiplicar si claro",
+"usar_si": "fondo líquido abstracto para reels, transición orgánica",
+"evitar_si": "4K (son 720 px)"
+},
+"video_papel_animado": {
+"miembros": [
+"tx:video/texturas_animadas/grunge/texture3_black_paper_grunge",
+"tx:video/texturas_animadas/grunge/texture4_white_paper_grunge",
+"tx:video/texturas_animadas/lineas/texture10_white_paper_vertical_lines",
+"tx:video/texturas_animadas/lineas/texture11_black_paper_horizontal_lines",
+"tx:video/texturas_animadas/lineas/texture12_white_paper_horizontal_lines",
+"tx:video/texturas_animadas/lineas/texture9_black_paper_vertical_lines",
+"tx:video/texturas_animadas/manchas/texture13_paint_leaks",
+"tx:video/texturas_animadas/papel/texture1_black_paper",
+"tx:video/texturas_animadas/papel/texture2_white_paper",
+"tx:video/texturas_animadas/salpicaduras/texture5_black_paper_splashes",
+"tx:video/texturas_animadas/salpicaduras/texture6_white_paper_splashes",
+"tx:video/texturas_animadas/sellos/texture7_black_paper_stamps",
+"tx:video/texturas_animadas/sellos/texture8_black_paper_stamps"
+],
+"uso": "textura de papel animada a 12 fps en loop (cada fotograma es otra hoja escaneada), Gumroad: no redistribuir",
+"modo": "multiplicar (papel blanco) o trama (papel negro)",
+"usar_si": "dar vida stop-motion a un fondo o a un arte estático",
+"evitar_si": "quieres fondo quieto",
+"mejor": "tx:video/texturas_animadas/sellos/texture7_black_paper_stamps"
+},
+"video_transicion_tinta": {
+"miembros": [
+"tx:video/transiciones/pintura/transition_texture2",
+"tx:video/transiciones/pintura/transition_texture_1",
+"tx:video/transiciones/tinta_4k/diagonal/diagonal_1",
+"tx:video/transiciones/tinta_4k/diagonal/diagonal_2",
+"tx:video/transiciones/tinta_4k/diagonal/diagonal_3",
+"tx:video/transiciones/tinta_4k/diagonal/diagonal_4",
+"tx:video/transiciones/tinta_4k/diagonal/diagonal_5",
+"tx:video/transiciones/tinta_4k/diagonal/diagonal_6",
+"tx:video/transiciones/tinta_4k/diagonal/diagonal_7",
+"tx:video/transiciones/tinta_4k/horizontal/horizontal_1",
+"tx:video/transiciones/tinta_4k/horizontal/horizontal_2",
+"tx:video/transiciones/tinta_4k/horizontal/horizontal_3",
+"tx:video/transiciones/tinta_4k/horizontal/horizontal_4",
+"tx:video/transiciones/tinta_4k/horizontal/horizontal_5",
+"tx:video/transiciones/tinta_4k/horizontal/horizontal_6",
+"tx:video/transiciones/tinta_4k/horizontal/horizontal_7",
+"tx:video/transiciones/tinta_4k/vertical/vertical_1",
+"tx:video/transiciones/tinta_4k/vertical/vertical_2",
+"tx:video/transiciones/tinta_4k/vertical/vertical_3",
+"tx:video/transiciones/tinta_4k/vertical/vertical_4",
+"tx:video/transiciones/tinta_4k/vertical/vertical_5",
+"tx:video/transiciones/tinta_4k/vertical/vertical_6",
+"tx:video/transiciones/tinta_4k/vertical/vertical_7"
+],
+"uso": "transición de tinta/pincel negro sobre papel que cubre toda la pantalla y la descubre (Gumroad: no redistribuir)",
+"modo": "máscara de luminancia / mate (negro tapa, blanco deja ver) o multiplicar",
+"usar_si": "cambio de plano con tinta o pincel",
+"evitar_si": "quieres transición limpia",
+"mejor": "tx:video/transiciones/tinta_4k/vertical/vertical_5"
+},
+"video_textura_transicion": {
+"miembros": [
+"tx:video/transiciones/tinta_4k/diagonal/diagonal_textura",
+"tx:video/transiciones/tinta_4k/horizontal/horizontal_textura",
+"tx:video/transiciones/tinta_4k/vertical/vertical_textura"
+],
+"uso": "capa de textura de papel sobre negro que acompaña a las transiciones 4K (va encima)",
+"modo": "trama",
+"usar_si": "añadir grano de papel a la transición",
+"evitar_si": "se usa sola (casi no aporta)"
 }
 }
