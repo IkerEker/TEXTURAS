@@ -11961,7 +11961,7 @@
 "or:68db9f2f5e10b8dfe607490bf4ef2b5c",
 "or:6b322a626e4f27523118abad553e2669"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "or_papelator_texturas_tileables-r02",
@@ -11982,7 +11982,7 @@
 "or:6481b3b7f7593641cdfc4eb5bc9dd64e",
 "or:460efd0223d1af3e35141e6df0a6b3e6"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "or_papelator_texturas_tileables-r03",
@@ -12003,7 +12003,7 @@
 "or:6dc8575161fa09c5d880acf31d828670",
 "or:a612b5a9ed30531d4e23f35a36756502"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "or_papelator_texturas_tileables-r04",
@@ -12024,7 +12024,7 @@
 "or:0bb870a74da572ade69c04227a5e5138",
 "or:e5c3e3e9df113d79cb5be81d328d6df1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "or_papelator_texturas_tileables-r05",
@@ -12045,7 +12045,7 @@
 "or:3b4117772d2644e1d2a22743d0aa0656",
 "or:60007e80445ad651d5817d5e38be6ffc"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "or_papelator_texturas_tileables-r06",
@@ -12054,14 +12054,14 @@
 "or:9a19ea0333a6589a3409692b765e60f3",
 "or:2271f67ab0cb8be8171faa3bd736fba9"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "or_trazo_TEXTURES-r01",
 "ids": [
 "or:65cceff325c86de21e456ea96d7f405b"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "or_heredado_neonizador-r01",

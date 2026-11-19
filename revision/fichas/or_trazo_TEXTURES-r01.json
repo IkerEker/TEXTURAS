@@ -1,0 +1,36 @@
+{
+"or:65cceff325c86de21e456ea96d7f405b": {
+"que_es": "gouache gris 8: pinceladas empastadas gris azulado (la que falta en textures-src)",
+"calidad": 5,
+"defectos": "ninguno",
+"familia": "or_guache_gris",
+"variante": 10,
+"diferencia": "-",
+"mejor_de_familia": false,
+"uso": "fondo pictórico neutro tileable",
+"modo": "multiplicar",
+"usar_si": "-",
+"evitar_si": "-",
+"escala": "2048×2048",
+"color": "gris azulado",
+"orient": "-",
+"estilo": "gouache empastado",
+"contenido": "sin texto",
+"medidas": {
+"fuente_medida": "tira",
+"w": 2048,
+"h": 2048,
+"color_medio": "#878e90",
+"luminancia": 0.552,
+"contraste": 0.044,
+"saturacion": 0.064,
+"phash": "a4a56be56a29d40f"
+},
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"nivel": "completo",
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/or_trazo_TEXTURES-r01.jpg"
+}
+}
