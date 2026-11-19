@@ -1,0 +1,2145 @@
+{
+ "Analog Video Look.prproj": {
+  "MagicCompHD": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.0,
+     "fin_s": 300.3,
+     "clip": "_Footage goes here",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Lumetri"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.0,
+     "fin_s": 300.3,
+     "clip": "_Footage goes here",
+     "anidada": true,
+     "modo": "linear dodge (add)",
+     "opacidad": 100.0,
+     "efectos": [
+      "Lumetri"
+     ]
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.0,
+     "fin_s": 300.3,
+     "clip": "_Footage goes here",
+     "anidada": true,
+     "modo": "linear dodge (add)",
+     "opacidad": 100.0,
+     "efectos": [
+      "Lumetri"
+     ]
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.0,
+     "fin_s": 300.3,
+     "clip": "Adjustment LayerHD",
+     "anidada": false,
+     "modo": "color dodge",
+     "opacidad": 50.0,
+     "efectos": [
+      "Gaussian Blur 2"
+     ]
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.0,
+     "fin_s": 300.3,
+     "clip": "Adjustment LayerHD",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp",
+      "Color Emboss",
+      "Motion Blur",
+      "Lumetri",
+      "Lumetri"
+     ]
+    }
+   ],
+   "corte_s": null
+  },
+  "MagicComp4K": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.0,
+     "fin_s": 300.3,
+     "clip": "_Footage goes here_",
+     "anidada": true,
+     "modo": "linear dodge (add)",
+     "opacidad": 100.0,
+     "efectos": [
+      "Lumetri"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.0,
+     "fin_s": 300.3,
+     "clip": "_Footage goes here_",
+     "anidada": true,
+     "modo": "linear dodge (add)",
+     "opacidad": 100.0,
+     "efectos": [
+      "Lumetri"
+     ]
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.0,
+     "fin_s": 300.3,
+     "clip": "_Footage goes here_",
+     "anidada": true,
+     "modo": "linear dodge (add)",
+     "opacidad": 100.0,
+     "efectos": [
+      "Lumetri"
+     ]
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.0,
+     "fin_s": 300.3,
+     "clip": "Adjustment Layer4K",
+     "anidada": false,
+     "modo": "color dodge",
+     "opacidad": 50.0,
+     "efectos": [
+      "Gaussian Blur 2"
+     ]
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.0,
+     "fin_s": 300.3,
+     "clip": "Adjustment Layer4K",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp",
+      "Color Emboss",
+      "Motion Blur",
+      "Lumetri",
+      "Lumetri"
+     ]
+    }
+   ],
+   "corte_s": null
+  },
+  "_FINAL RESULT HD": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.0,
+     "fin_s": 300.3,
+     "clip": "MagicCompHD",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.0,
+     "fin_s": 300.3,
+     "clip": "Mask 1,85 to 1,33 rounded.png",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    }
+   ],
+   "corte_s": null
+  },
+  "_FINAL RESULT 4K": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.0,
+     "fin_s": 300.3,
+     "clip": "MagicComp4K",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.0,
+     "fin_s": 300.3,
+     "clip": "Mask 1,85 to 1,33 rounded.png",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    }
+   ],
+   "corte_s": null
+  }
+ },
+ "PUNCHHOLE TRANSITIONS 2024.prproj": {
+  "Warp01": {
+   "capas": [
+    {
+     "pista": 5,
+     "inicio_s": 0.042,
+     "fin_s": 0.292,
+     "clip": "Key_Transition05.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": [
+      "Invert"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.125,
+     "fin_s": 0.959,
+     "clip": "NEST IT, FREEZE IT, APPLY PRESET",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.125,
+     "fin_s": 0.959,
+     "clip": "Filmburn03.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": [
+      "Lens Distortion",
+      "Invert"
+     ]
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.292,
+     "fin_s": 0.626,
+     "clip": "Filmburn03.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": [
+      "Lens Distortion",
+      "Invert"
+     ]
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.792,
+     "fin_s": 0.959,
+     "clip": "Key_Transition02.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.792,
+     "fin_s": 0.959,
+     "clip": "Key_Transition02.mov",
+     "anidada": false,
+     "modo": "color dodge",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "copia visible"
+    }
+   ],
+   "corte_s": null
+  },
+  "Warp02": {
+   "capas": [
+    {
+     "pista": 6,
+     "inicio_s": 0.083,
+     "fin_s": 0.125,
+     "clip": "FRAME_difference.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.125,
+     "fin_s": 0.584,
+     "clip": "NEST IT, FREEZE IT, APPLY PRESET, NEST AGAIN, APPLY TRACKMATTE PRESET",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.125,
+     "fin_s": 0.584,
+     "clip": "Filmburn03.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.375,
+     "fin_s": 0.626,
+     "clip": "Filmburn03.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.375,
+     "fin_s": 0.584,
+     "clip": "Key_Transition12.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 6,
+     "inicio_s": 0.375,
+     "fin_s": 0.584,
+     "clip": "Key_Transition12.mov",
+     "anidada": false,
+     "modo": "linear dodge (add)",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "copia visible"
+    },
+    {
+     "pista": 6,
+     "inicio_s": 0.584,
+     "fin_s": 0.626,
+     "clip": "Key_Transition11.mov",
+     "anidada": false,
+     "modo": "linear dodge (add)",
+     "opacidad": 100.0,
+     "efectos": []
+    }
+   ],
+   "corte_s": null
+  },
+  "Warp03": {
+   "capas": [
+    {
+     "pista": 5,
+     "inicio_s": 0.042,
+     "fin_s": 0.25,
+     "clip": "Key_Transition14.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": [
+      "Invert"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.209,
+     "fin_s": 0.709,
+     "clip": "NEST IT, FREEZE IT, APPLY PRESET",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.209,
+     "fin_s": 0.292,
+     "clip": "Filmburn01.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": [
+      "Invert"
+     ]
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.292,
+     "fin_s": 0.709,
+     "clip": "Filmburn01.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": [
+      "Spherize",
+      "Invert"
+     ]
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.542,
+     "fin_s": 0.709,
+     "clip": "Key_Transition08.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.542,
+     "fin_s": 0.709,
+     "clip": "Key_Transition08.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "copia visible"
+    }
+   ],
+   "corte_s": null
+  },
+  "Warp04": {
+   "capas": [
+    {
+     "pista": 2,
+     "inicio_s": 0.083,
+     "fin_s": 0.167,
+     "clip": "PUNCHHOLE01_maskout.png",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.083,
+     "fin_s": 0.709,
+     "clip": "Filmburn02.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": [
+      "Invert",
+      "Spherize"
+     ]
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.125,
+     "fin_s": 0.209,
+     "clip": "PUNCHHOLE01_maskout.png",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Invert"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.167,
+     "fin_s": 0.709,
+     "clip": "NEST IT, FREEZE IT, APPLY PRESET",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.5,
+     "fin_s": 0.709,
+     "clip": "Key_Transition13.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.5,
+     "fin_s": 0.709,
+     "clip": "Key_Transition13.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "copia visible"
+    }
+   ],
+   "corte_s": null
+  },
+  "Warp05": {
+   "capas": [
+    {
+     "pista": 5,
+     "inicio_s": 0.083,
+     "fin_s": 0.5,
+     "clip": "BLACKWHITE_difference.mov",
+     "anidada": false,
+     "modo": "multiply",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.417,
+     "fin_s": 1.084,
+     "clip": "NEST IT, FREEZE IT, APPLY PRESET",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.417,
+     "fin_s": 1.084,
+     "clip": "Filmburn03.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": [
+      "Lens Distortion"
+     ]
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.876,
+     "fin_s": 1.084,
+     "clip": "Key_Transition12.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Horizontal Flip"
+     ],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.876,
+     "fin_s": 1.084,
+     "clip": "Key_Transition12.mov",
+     "anidada": false,
+     "modo": "lighter color",
+     "opacidad": 100.0,
+     "efectos": [
+      "Horizontal Flip"
+     ],
+     "rol": "copia visible"
+    },
+    {
+     "pista": 3,
+     "inicio_s": 1.084,
+     "fin_s": 1.126,
+     "clip": "Filmburn03.mov",
+     "anidada": false,
+     "modo": "overlay",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 5,
+     "inicio_s": 1.084,
+     "fin_s": 1.126,
+     "clip": "Key_Transition11.mov",
+     "anidada": false,
+     "modo": "linear dodge (add)",
+     "opacidad": 100.0,
+     "efectos": [
+      "Invert",
+      "Horizontal Flip"
+     ]
+    }
+   ],
+   "corte_s": null
+  },
+  "Warp06": {
+   "capas": [
+    {
+     "pista": 5,
+     "inicio_s": 0.125,
+     "fin_s": 0.375,
+     "clip": "Key_Transition05.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.209,
+     "fin_s": 0.292,
+     "clip": "Filmburn01.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.209,
+     "fin_s": 0.792,
+     "clip": "NEST IT, FREEZE IT, APPLY PRESET",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.209,
+     "fin_s": 0.918,
+     "clip": "Filmburn02.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": [
+      "Spherize"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.292,
+     "fin_s": 0.375,
+     "clip": "Filmburn01.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.709,
+     "fin_s": 0.792,
+     "clip": "Key_Transition06.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 6,
+     "inicio_s": 0.709,
+     "fin_s": 0.792,
+     "clip": "Key_Transition06.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "copia visible"
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.792,
+     "fin_s": 0.918,
+     "clip": "Key_Transition09.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 6,
+     "inicio_s": 0.792,
+     "fin_s": 0.918,
+     "clip": "Key_Transition09.mov",
+     "anidada": false,
+     "modo": "linear dodge (add)",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "copia visible"
+    }
+   ],
+   "corte_s": null
+  },
+  "Warp07": {
+   "capas": [
+    {
+     "pista": 5,
+     "inicio_s": 0.083,
+     "fin_s": 0.459,
+     "clip": "FRAME_difference.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.375,
+     "fin_s": 0.876,
+     "clip": "NEST IT, FREEZE IT, APPLY PRESET, NEST AGAIN, APPLY TRACKMATTE PRESET",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.375,
+     "fin_s": 0.667,
+     "clip": "Filmburn01.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": [
+      "Spherize",
+      "Invert"
+     ]
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.667,
+     "fin_s": 0.876,
+     "clip": "Filmburn01.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": [
+      "Spherize",
+      "Invert"
+     ]
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.667,
+     "fin_s": 0.876,
+     "clip": "Key_Transition12.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Horizontal Flip"
+     ],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.667,
+     "fin_s": 0.876,
+     "clip": "Key_Transition12.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": [
+      "Horizontal Flip"
+     ],
+     "rol": "copia visible"
+    },
+    {
+     "pista": 6,
+     "inicio_s": 0.834,
+     "fin_s": 0.876,
+     "clip": "FRAME_difference.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 5.339,
+     "fin_s": 5.839,
+     "clip": "NEST IT, FREEZE IT, APPLY PRESET, NEST AGAIN, APPLY TRACKMATE PRESET",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    }
+   ],
+   "corte_s": null
+  },
+  "Warp08": {
+   "capas": [
+    {
+     "pista": 4,
+     "inicio_s": 0.0,
+     "fin_s": 0.167,
+     "clip": "COLLAGE07_alpha.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.167,
+     "fin_s": 0.709,
+     "clip": "NEST IT, FREEZE IT, APPLY PRESET, NEST AGAIN, APPLY TRACKMATTE PRESET",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.167,
+     "fin_s": 0.709,
+     "clip": "Filmburn02.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": [
+      "Spherize"
+     ]
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.459,
+     "fin_s": 0.709,
+     "clip": "Key_Transition12.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.459,
+     "fin_s": 0.709,
+     "clip": "Key_Transition12.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "copia visible"
+    }
+   ],
+   "corte_s": null
+  }
+ },
+ "Pre-built Textile Transitions.prproj": {
+  "Textile Transition 1": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.0,
+     "fin_s": 0.375,
+     "clip": "Shot 1",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 6,
+     "inicio_s": 0.0,
+     "fin_s": 1.0,
+     "clip": "Grunge Texture 5.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.292,
+     "fin_s": 0.875,
+     "clip": "Textile Texture Animation 4.mov",
+     "anidada": false,
+     "modo": "multiply",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.375,
+     "fin_s": 0.792,
+     "clip": "Shot 1, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.375,
+     "fin_s": 0.792,
+     "clip": "Shot 2, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.375,
+     "fin_s": 0.792,
+     "clip": "Transition 1 Frame.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.375,
+     "fin_s": 0.792,
+     "clip": "Transition 1 Frame.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "copia visible"
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.792,
+     "fin_s": 1.0,
+     "clip": "Shot 2",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    }
+   ],
+   "corte_s": 0.375
+  },
+  "Textile Transition 2": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.0,
+     "fin_s": 0.25,
+     "clip": "Shot 1",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 6,
+     "inicio_s": 0.0,
+     "fin_s": 0.958,
+     "clip": "Paper Texture 1.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.083,
+     "fin_s": 0.833,
+     "clip": "Textile Texture Animation 5.mov",
+     "anidada": false,
+     "modo": "soft light",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.25,
+     "fin_s": 0.583,
+     "clip": "Shot 1, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.25,
+     "fin_s": 0.583,
+     "clip": "Shot 2, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.25,
+     "fin_s": 0.583,
+     "clip": "Transition 2 Frame.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.25,
+     "fin_s": 0.583,
+     "clip": "Transition 2 Frame.mov",
+     "anidada": false,
+     "modo": "lighten",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "copia visible"
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.583,
+     "fin_s": 0.958,
+     "clip": "Shot 2",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    }
+   ],
+   "corte_s": 0.25
+  },
+  "Textile Transition 3": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.0,
+     "fin_s": 0.083,
+     "clip": "Shot 1",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 6,
+     "inicio_s": 0.0,
+     "fin_s": 0.667,
+     "clip": "Grunge Texture 3.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.083,
+     "fin_s": 0.5,
+     "clip": "Shot 1, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.083,
+     "fin_s": 0.5,
+     "clip": "Shot 2, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.083,
+     "fin_s": 0.5,
+     "clip": "Transition 3 Frame.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.083,
+     "fin_s": 0.5,
+     "clip": "Transition 3 Frame.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "copia visible"
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.125,
+     "fin_s": 0.417,
+     "clip": "Textile Punch Hole.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.5,
+     "fin_s": 0.667,
+     "clip": "Shot 2",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    }
+   ],
+   "corte_s": 0.083
+  },
+  "Textile Transition 4": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.0,
+     "fin_s": 0.083,
+     "clip": "Shot 1",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.0,
+     "fin_s": 0.667,
+     "clip": "Textile Texture Animation 1.mov",
+     "anidada": false,
+     "modo": "multiply",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.083,
+     "fin_s": 0.5,
+     "clip": "Shot 1, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.083,
+     "fin_s": 0.5,
+     "clip": "Shot 2, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.083,
+     "fin_s": 0.5,
+     "clip": "Transition 4 Frame.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.083,
+     "fin_s": 0.5,
+     "clip": "Transition 4 Frame.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "copia visible"
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.5,
+     "fin_s": 0.667,
+     "clip": "Shot 2",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    }
+   ],
+   "corte_s": 0.083
+  },
+  "Textile Transition 5": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.0,
+     "fin_s": 0.083,
+     "clip": "Shot 1",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.0,
+     "fin_s": 0.542,
+     "clip": "Textile Texture Animation 8.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 6,
+     "inicio_s": 0.0,
+     "fin_s": 0.542,
+     "clip": "Grunge Texture 2.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.083,
+     "fin_s": 0.5,
+     "clip": "Shot 1, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.083,
+     "fin_s": 0.5,
+     "clip": "Shot 2, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.083,
+     "fin_s": 0.5,
+     "clip": "Transition 5 Frame.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.083,
+     "fin_s": 0.5,
+     "clip": "Transition 5 Frame.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "copia visible"
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.5,
+     "fin_s": 0.542,
+     "clip": "Shot 2",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    }
+   ],
+   "corte_s": 0.083
+  },
+  "Textile Transition 6": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.0,
+     "fin_s": 0.208,
+     "clip": "Shot 1",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.125,
+     "fin_s": 0.542,
+     "clip": "Paper Texture 3.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.125,
+     "fin_s": 0.542,
+     "clip": "Transition 6 Frame 1.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.208,
+     "fin_s": 0.458,
+     "clip": "Shot 1, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.208,
+     "fin_s": 0.458,
+     "clip": "Shot 2, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.208,
+     "fin_s": 0.458,
+     "clip": "Transition 6 Frame 2.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 6,
+     "inicio_s": 0.208,
+     "fin_s": 0.458,
+     "clip": "Transition 6 Frame 2.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "copia visible"
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.458,
+     "fin_s": 0.542,
+     "clip": "Shot 2",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    }
+   ],
+   "corte_s": 0.208
+  },
+  "Textile Transition 7": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.0,
+     "fin_s": 0.208,
+     "clip": "Shot 1",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.042,
+     "fin_s": 0.667,
+     "clip": "Grunge Texture 4.mov",
+     "anidada": false,
+     "modo": "lighten",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.208,
+     "fin_s": 0.542,
+     "clip": "Shot 1, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.208,
+     "fin_s": 0.542,
+     "clip": "Shot 2, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.208,
+     "fin_s": 0.542,
+     "clip": "Transition 7 Frame.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.208,
+     "fin_s": 0.542,
+     "clip": "Transition 7 Frame.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "copia visible"
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.542,
+     "fin_s": 0.708,
+     "clip": "Shot 2",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    }
+   ],
+   "corte_s": 0.208
+  },
+  "Textile Transition 8": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.0,
+     "fin_s": 0.125,
+     "clip": "Shot 1",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.083,
+     "fin_s": 0.625,
+     "clip": "Textile Texture Animation 3.mov",
+     "anidada": false,
+     "modo": "multiply",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.125,
+     "fin_s": 0.625,
+     "clip": "Shot 1, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.125,
+     "fin_s": 0.625,
+     "clip": "Shot 2, Apply Preset",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.125,
+     "fin_s": 0.625,
+     "clip": "Transition 8 Frame.mov",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "mate (Track Matte del plano entrante)"
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.125,
+     "fin_s": 0.625,
+     "clip": "Transition 8 Frame.mov",
+     "anidada": false,
+     "modo": "difference",
+     "opacidad": 100.0,
+     "efectos": [],
+     "rol": "copia visible"
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.625,
+     "fin_s": 0.708,
+     "clip": "Shot 2",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    }
+   ],
+   "corte_s": 0.125
+  }
+ },
+ "Pre-built VHS Transitions 4K.prproj": {
+  "01_FINAL RESULT": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.083,
+     "fin_s": 0.209,
+     "clip": "01_First_Shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.083,
+     "fin_s": 0.209,
+     "clip": "01_First_Shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.083,
+     "fin_s": 0.417,
+     "clip": "Shadow Mask.png",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.083,
+     "fin_s": 0.417,
+     "clip": "Scanlines.png",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.083,
+     "fin_s": 0.5,
+     "clip": "01_VHS_TRANSITION_screen.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.25,
+     "fin_s": 0.417,
+     "clip": "01_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.25,
+     "fin_s": 0.417,
+     "clip": "01_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    }
+   ],
+   "corte_s": 0.25
+  },
+  "02_FINAL RESULT": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.125,
+     "fin_s": 0.25,
+     "clip": "02_first_Shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.125,
+     "fin_s": 0.25,
+     "clip": "02_first_Shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.125,
+     "fin_s": 0.417,
+     "clip": "Shadow Mask.png",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.125,
+     "fin_s": 0.417,
+     "clip": "Scanlines.png",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 5,
+     "inicio_s": 0.125,
+     "fin_s": 0.417,
+     "clip": "02_VHS_TRANSITION_screen.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.25,
+     "fin_s": 0.417,
+     "clip": "02_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.25,
+     "fin_s": 0.417,
+     "clip": "02_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    }
+   ],
+   "corte_s": 0.25
+  },
+  "03_FINAL RESULT": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.083,
+     "fin_s": 0.334,
+     "clip": "03_first_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.083,
+     "fin_s": 0.334,
+     "clip": "03_first_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.083,
+     "fin_s": 0.792,
+     "clip": "Shadow Mask.png",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.083,
+     "fin_s": 0.792,
+     "clip": "03_VHS_TRANSITION_screen.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.334,
+     "fin_s": 0.792,
+     "clip": "03_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.334,
+     "fin_s": 0.792,
+     "clip": "03_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    }
+   ],
+   "corte_s": 0.334
+  },
+  "04_FINAL RESULT": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.209,
+     "fin_s": 0.709,
+     "clip": "04_first_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.209,
+     "fin_s": 0.709,
+     "clip": "04_first_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.209,
+     "fin_s": 1.168,
+     "clip": "Shadow Mask.png",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.209,
+     "fin_s": 1.168,
+     "clip": "04_VHS_TRANSITION_overlay.mov",
+     "anidada": false,
+     "modo": "overlay",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.709,
+     "fin_s": 1.168,
+     "clip": "04_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.709,
+     "fin_s": 1.168,
+     "clip": "04_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    }
+   ],
+   "corte_s": 0.709
+  },
+  "05_FINAL RESULT": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.042,
+     "fin_s": 0.542,
+     "clip": "05_first_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.042,
+     "fin_s": 0.542,
+     "clip": "05_first_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.042,
+     "fin_s": 1.001,
+     "clip": "Scanlines.png",
+     "anidada": false,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.042,
+     "fin_s": 1.21,
+     "clip": "05_VHS_TRANSITION_screen.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.542,
+     "fin_s": 1.001,
+     "clip": "05_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp",
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.542,
+     "fin_s": 1.001,
+     "clip": "05_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    }
+   ],
+   "corte_s": 0.542
+  },
+  "06_FINAL RESULT": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.042,
+     "fin_s": 0.834,
+     "clip": "06_first_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.042,
+     "fin_s": 0.834,
+     "clip": "06_first_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.042,
+     "fin_s": 0.834,
+     "clip": "06_first_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 4,
+     "inicio_s": 0.042,
+     "fin_s": 1.835,
+     "clip": "06_GLITCH_TRANSITION_screen.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.834,
+     "fin_s": 1.835,
+     "clip": "06_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.834,
+     "fin_s": 1.835,
+     "clip": "06_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    }
+   ],
+   "corte_s": 0.834
+  },
+  "07_FINAL RESULT": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.042,
+     "fin_s": 0.834,
+     "clip": "07_first_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.042,
+     "fin_s": 0.834,
+     "clip": "07_first_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.042,
+     "fin_s": 1.752,
+     "clip": "07_GLITCH_TRANSITION_screen.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.834,
+     "fin_s": 1.752,
+     "clip": "07_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.834,
+     "fin_s": 1.752,
+     "clip": "07_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    }
+   ],
+   "corte_s": 0.834
+  },
+  "08_FINAL RESULT": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.083,
+     "fin_s": 0.876,
+     "clip": "08_first_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.083,
+     "fin_s": 0.876,
+     "clip": "08_first_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.083,
+     "fin_s": 1.71,
+     "clip": "08_GLITCH_TRANSITION_screen.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 0.876,
+     "fin_s": 1.71,
+     "clip": "08_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.876,
+     "fin_s": 1.71,
+     "clip": "08_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    }
+   ],
+   "corte_s": 0.876
+  },
+  "09_FINAL RESULT": {
+   "capas": [
+    {
+     "pista": 1,
+     "inicio_s": 0.25,
+     "fin_s": 1.043,
+     "clip": "09_first_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 0.25,
+     "fin_s": 1.043,
+     "clip": "09_first_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 3,
+     "inicio_s": 0.25,
+     "fin_s": 1.877,
+     "clip": "09_GLITCH_TRANSITION_screen.mov",
+     "anidada": false,
+     "modo": "screen",
+     "opacidad": 100.0,
+     "efectos": []
+    },
+    {
+     "pista": 1,
+     "inicio_s": 1.043,
+     "fin_s": 1.877,
+     "clip": "09_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    },
+    {
+     "pista": 2,
+     "inicio_s": 1.043,
+     "fin_s": 1.877,
+     "clip": "09_second_shot",
+     "anidada": true,
+     "modo": "normal",
+     "opacidad": 100.0,
+     "efectos": [
+      "Wave Warp"
+     ]
+    }
+   ],
+   "corte_s": 1.043
+  }
+ }
+}
