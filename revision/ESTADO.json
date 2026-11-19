@@ -4514,7 +4514,7 @@
 "tx:productos/sellos_relieve/grumo_M_05",
 "tx:productos/sellos_relieve/grumo_M_06"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_sellos_relieve-r02",
@@ -4535,7 +4535,7 @@
 "tx:productos/sellos_relieve/grumo_S_02",
 "tx:productos/sellos_relieve/grumo_S_03"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_sellos_relieve-r03",
@@ -4556,7 +4556,7 @@
 "tx:productos/sellos_relieve/grumo_S_17",
 "tx:productos/sellos_relieve/grumo_S_18"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_sellos_relieve-r04",
@@ -4567,7 +4567,7 @@
 "tx:productos/sellos_relieve/grumo_S_22",
 "tx:productos/sellos_relieve/grumo_S_23"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r01",
@@ -4588,7 +4588,7 @@
 "tx:collage/adhesivos/gel/gel_0151_2",
 "tx:collage/adhesivos/gel/gel_0151_3"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r02",
@@ -4609,7 +4609,7 @@
 "tx:collage/adhesivos/residuos/residuo_0161_2",
 "tx:collage/adhesivos/residuos/residuo_0162_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r03",
@@ -4630,7 +4630,7 @@
 "tx:collage/adhesivos/residuos/residuo_0167_2",
 "tx:collage/adhesivos/residuos/residuo_0167_3"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r04",
@@ -4651,7 +4651,7 @@
 "tx:collage/cintas/aislante_negra/cinta_negra_0088_2",
 "tx:collage/cintas/aislante_negra/cinta_negra_0088_3"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r05",
@@ -4672,7 +4672,7 @@
 "tx:collage/cintas/aislante_negra/cinta_negra_0191_2",
 "tx:collage/cintas/aislante_negra/cinta_negra_0191_3"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r06",
@@ -4693,7 +4693,7 @@
 "tx:collage/cintas/ambar/cinta_ambar_0069_2",
 "tx:collage/cintas/ambar/cinta_ambar_0101_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r07",
@@ -4714,7 +4714,7 @@
 "tx:collage/cintas/americana/cinta_plata_0065_1",
 "tx:collage/cintas/americana/cinta_plata_0065_2"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r08",
@@ -4735,7 +4735,7 @@
 "tx:collage/cintas/americana/cinta_plata_0211_2",
 "tx:collage/cintas/carrocero/carrocero_0096_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r09",
@@ -4756,7 +4756,7 @@
 "tx:collage/cintas/carrocero/carrocero_0185_3",
 "tx:collage/cintas/carrocero/carrocero_0186_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r10",
@@ -4777,7 +4777,7 @@
 "tx:collage/cintas/correctora/correctora_0178_3",
 "tx:collage/cintas/correctora/correctora_0179_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r11",
@@ -4798,7 +4798,7 @@
 "tx:collage/cintas/correctora/correctora_0208_3",
 "tx:collage/cintas/tela_blanca/cinta_tela_0085_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r12",
@@ -4819,7 +4819,7 @@
 "tx:collage/cintas/transparente/cinta_transp_0066_3",
 "tx:collage/cintas/transparente/cinta_transp_0070_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r13",
@@ -4840,7 +4840,7 @@
 "tx:collage/cintas/washi/washi_0196_3",
 "tx:collage/cintas/washi/washi_0197_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r14",
@@ -4861,7 +4861,7 @@
 "tx:collage/etiquetas/arrancadas/etiq_rota_0112_2",
 "tx:collage/etiquetas/arrancadas/etiq_rota_0119_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r15",
@@ -4882,7 +4882,7 @@
 "tx:collage/etiquetas/blancas/etiq_blanca_0076_1",
 "tx:collage/etiquetas/blancas/etiq_blanca_0076_2"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r16",
@@ -4903,7 +4903,7 @@
 "tx:collage/etiquetas/envejecidas/etiq_vieja_0091_2",
 "tx:collage/etiquetas/envejecidas/etiq_vieja_0106_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r17",
@@ -4924,7 +4924,7 @@
 "tx:collage/grafito/grafito_0239",
 "tx:collage/grafito/grafito_0240"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r18",
@@ -4945,7 +4945,7 @@
 "tx:collage/notas/amarillas/postit_0143_2",
 "tx:collage/notas/amarillas/postit_0144_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r19",
@@ -4966,7 +4966,7 @@
 "tx:collage/notas/colores/notas_0114_2",
 "tx:collage/notas/colores/notas_0114_3"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r20",
@@ -4987,7 +4987,7 @@
 "tx:collage/papeles/blanco/papel_blanco_0005_1",
 "tx:collage/papeles/blanco/papel_blanco_0006_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r21",
@@ -5008,7 +5008,7 @@
 "tx:collage/papeles/cartulina_azul/cartulina_azul_0037_1",
 "tx:collage/papeles/cartulina_azul/cartulina_azul_0040_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r22",
@@ -5029,7 +5029,7 @@
 "tx:collage/papeles/cuaderno/cuaderno_0058_1",
 "tx:collage/papeles/cuaderno/cuaderno_0059_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r23",
@@ -5050,7 +5050,7 @@
 "tx:collage/papeles/estampado/estampado_0043_1",
 "tx:collage/papeles/estampado/estampado_0050_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r24",
@@ -5071,7 +5071,7 @@
 "tx:collage/papeles/periodico/periodico_0035_1",
 "tx:collage/papeles/periodico/periodico_0036_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r25",
@@ -5092,7 +5092,7 @@
 "tx:collage/papeles/seda/seda_0061_1",
 "tx:collage/papeles/seda/seda_0222_1"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r26",
@@ -5113,7 +5113,7 @@
 "tx:collage/pegatinas/blancas/peg_blanca_0107_1",
 "tx:collage/pegatinas/blancas/peg_blanca_0107_2"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r27",
@@ -5134,7 +5134,7 @@
 "tx:collage/pegatinas/kraft/peg_kraft_0084_1",
 "tx:collage/pegatinas/kraft/peg_kraft_0084_2"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r28",
@@ -5155,7 +5155,7 @@
 "tx:collage/pegatinas/vinilo/peg_vinilo_0125_1",
 "tx:collage/pegatinas/vinilo/peg_vinilo_0125_2"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r29",
@@ -5176,7 +5176,7 @@
 "tx:collage/pegatinas/vinilo/peg_vinilo_0159_1",
 "tx:collage/pegatinas/vinilo/peg_vinilo_0159_2"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r30",
@@ -5197,7 +5197,7 @@
 "tx:collage/pintura/blanca/pintura_0141_1",
 "tx:collage/pintura/blanca/pintura_0141_2"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r31",
@@ -5218,7 +5218,7 @@
 "tx:collage/pintura/blanca/pintura_0202_1",
 "tx:collage/pintura/blanca/pintura_0202_2"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "co-r32",
@@ -5234,7 +5234,7 @@
 "tx:collage/pintura/blanca/pintura_0205_2",
 "tx:collage/pintura/blanca/pintura_0205_3"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "or_collage-r01",
