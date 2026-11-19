@@ -2437,7 +2437,7 @@
 "tx:productos/cintas_trazo/boligrafo_81",
 "tx:productos/cintas_trazo/boligrafo_82"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_cintas_trazo-r02",
@@ -2458,7 +2458,7 @@
 "tx:productos/cintas_trazo/carbon_52",
 "tx:productos/cintas_trazo/carbon_53"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_cintas_trazo-r03",
@@ -2479,7 +2479,7 @@
 "tx:productos/cintas_trazo/cera_23",
 "tx:productos/cintas_trazo/gouache_24"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_cintas_trazo-r04",
@@ -2500,7 +2500,7 @@
 "tx:productos/cintas_trazo/lapiz_38",
 "tx:productos/cintas_trazo/lapiz_39"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_cintas_trazo-r05",
@@ -2521,7 +2521,7 @@
 "tx:productos/cintas_trazo/pincel_63",
 "tx:productos/cintas_trazo/pincel_64"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_cintas_trazo-r06",
@@ -2540,7 +2540,7 @@
 "tx:productos/cintas_trazo/rotulador_78",
 "tx:productos/cintas_trazo/rotulador_79"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_mates_tinta_4k-01",
@@ -2552,7 +2552,7 @@
 "tx:productos/mates_tinta_4k/diagonal/diagonal_5_mate",
 "tx:productos/mates_tinta_4k/diagonal/diagonal_6_mate"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_mates_tinta_4k-02",
@@ -2564,7 +2564,7 @@
 "tx:productos/mates_tinta_4k/horizontal/horizontal_4_mate",
 "tx:productos/mates_tinta_4k/horizontal/horizontal_5_mate"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_mates_tinta_4k-03",
@@ -2576,7 +2576,7 @@
 "tx:productos/mates_tinta_4k/vertical/vertical_3_mate",
 "tx:productos/mates_tinta_4k/vertical/vertical_4_mate"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_mates_tinta_4k-04",
@@ -2585,7 +2585,7 @@
 "tx:productos/mates_tinta_4k/vertical/vertical_6_mate",
 "tx:productos/mates_tinta_4k/vertical/vertical_7_mate"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_papel_gris-r01",
@@ -2606,7 +2606,7 @@
 "tx:productos/papel_gris/textura_papel_blanco_uniforme_1030_gris",
 "tx:productos/papel_gris/textura_papel_encerado_arrugado_1036_gris"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_papel_gris-r02",
@@ -2627,7 +2627,7 @@
 "tx:productos/papel_gris/textura_uniforme_papel_acuarela_blanco_calido_1067_gris",
 "tx:productos/papel_gris/textura_uniforme_papel_gris_reciclado_1071_gris"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_papel_gris-r03",
@@ -2635,7 +2635,7 @@
 "tx:productos/papel_gris/textura_uniforme_papel_periodico_1069_gris",
 "tx:productos/papel_gris/textura_uniforme_papel_periodico_1070_gris"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r01",
@@ -2656,7 +2656,7 @@
 "tx:productos/piezas_neonizador/burbujas/burbujas_229_01",
 "tx:productos/piezas_neonizador/burbujas/burbujas_229_02"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r02",
@@ -2677,7 +2677,7 @@
 "tx:productos/piezas_neonizador/burbujas/burbujas_230_04",
 "tx:productos/piezas_neonizador/burbujas/burbujas_230_05"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r03",
@@ -2698,7 +2698,7 @@
 "tx:productos/piezas_neonizador/burbujas_foto/manchas/mancha_08",
 "tx:productos/piezas_neonizador/burbujas_foto/manchas/mancha_09"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r04",
@@ -2719,7 +2719,7 @@
 "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_07",
 "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_08"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r05",
@@ -2740,7 +2740,7 @@
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_012",
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_013"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r06",
@@ -2761,7 +2761,7 @@
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_027",
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_028"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r07",
@@ -2782,7 +2782,7 @@
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_042",
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_043"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r08",
@@ -2803,7 +2803,7 @@
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_057",
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_058"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r09",
@@ -2824,7 +2824,7 @@
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_072",
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_073"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r10",
@@ -2845,7 +2845,7 @@
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_087",
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_088"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r11",
@@ -2866,7 +2866,7 @@
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_102",
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_103"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r12",
@@ -2887,7 +2887,7 @@
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_117",
 "tx:productos/piezas_neonizador/fuego/chispas/chispa_118"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r13",
@@ -2908,7 +2908,7 @@
 "tx:productos/piezas_neonizador/fuego/humo/humo_04",
 "tx:productos/piezas_neonizador/fuego/llamas/base_01"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r14",
@@ -2929,7 +2929,7 @@
 "tx:productos/piezas_neonizador/fuego/llamas/lengua_12",
 "tx:productos/piezas_neonizador/fuego/llamas/lengua_13"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r15",
@@ -2950,7 +2950,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_006",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_007"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r16",
@@ -2971,7 +2971,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_021",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_022"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r17",
@@ -2992,7 +2992,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_036",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_037"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r18",
@@ -3013,7 +3013,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_051",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_052"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r19",
@@ -3034,7 +3034,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_066",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_067"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r20",
@@ -3055,7 +3055,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_081",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_082"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r21",
@@ -3076,7 +3076,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_096",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_097"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r22",
@@ -3097,7 +3097,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_111",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_112"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r23",
@@ -3118,7 +3118,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_126",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_127"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r24",
@@ -3139,7 +3139,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_141",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_142"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r25",
@@ -3160,7 +3160,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_156",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_157"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r26",
@@ -3181,7 +3181,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_171",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_172"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r27",
@@ -3202,7 +3202,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_186",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_187"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r28",
@@ -3223,7 +3223,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_201",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_202"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r29",
@@ -3244,7 +3244,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_216",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_217"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r30",
@@ -3265,7 +3265,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_231",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_232"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r31",
@@ -3286,7 +3286,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_246",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_247"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r32",
@@ -3307,7 +3307,7 @@
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_261",
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_262"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r33",
@@ -3328,7 +3328,7 @@
 "tx:productos/piezas_neonizador/gotas/gotas_009",
 "tx:productos/piezas_neonizador/gotas/gotas_010"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r34",
@@ -3349,7 +3349,7 @@
 "tx:productos/piezas_neonizador/gotas/gotas_024",
 "tx:productos/piezas_neonizador/gotas/gotas_025"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r35",
@@ -3370,7 +3370,7 @@
 "tx:productos/piezas_neonizador/gotas/gotas_039",
 "tx:productos/piezas_neonizador/gotas/gotas_040"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r36",
@@ -3391,7 +3391,7 @@
 "tx:productos/piezas_neonizador/gotas/gotas_054",
 "tx:productos/piezas_neonizador/gotas/gotas_055"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r37",
@@ -3412,7 +3412,7 @@
 "tx:productos/piezas_neonizador/gotas/gotas_069",
 "tx:productos/piezas_neonizador/gotas/gotas_070"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r38",
@@ -3433,7 +3433,7 @@
 "tx:productos/piezas_neonizador/gotas/gotas_084",
 "tx:productos/piezas_neonizador/gotas/gotas_085"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r39",
@@ -3454,7 +3454,7 @@
 "tx:productos/piezas_neonizador/gotas/gotas_099",
 "tx:productos/piezas_neonizador/gotas/gotas_100"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r40",
@@ -3475,7 +3475,7 @@
 "tx:productos/piezas_neonizador/gotas/gotas_114",
 "tx:productos/piezas_neonizador/gotas/gotas_115"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r41",
@@ -3496,7 +3496,7 @@
 "tx:productos/piezas_neonizador/gotas/gotas_129",
 "tx:productos/piezas_neonizador/gotas/gotas_130"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r42",
@@ -3517,7 +3517,7 @@
 "tx:productos/piezas_neonizador/goteos/agrietada/goteo_agrietada_004",
 "tx:productos/piezas_neonizador/goteos/agrietada/goteo_agrietada_005"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r43",
@@ -3538,7 +3538,7 @@
 "tx:productos/piezas_neonizador/goteos/agrietada/goteo_agrietada_019",
 "tx:productos/piezas_neonizador/goteos/agrietada/goteo_agrietada_020"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r44",
@@ -3559,7 +3559,7 @@
 "tx:productos/piezas_neonizador/goteos/fina/goteo_fina_007",
 "tx:productos/piezas_neonizador/goteos/fina/goteo_fina_008"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r45",
@@ -3580,7 +3580,7 @@
 "tx:productos/piezas_neonizador/goteos/fina/goteo_fina_022",
 "tx:productos/piezas_neonizador/goteos/fina/goteo_fina_023"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r46",
@@ -3601,7 +3601,7 @@
 "tx:productos/piezas_neonizador/goteos/fina/goteo_fina_037",
 "tx:productos/piezas_neonizador/goteos/fina/goteo_fina_038"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r47",
@@ -3622,7 +3622,7 @@
 "tx:productos/piezas_neonizador/goteos/gruesa/goteo_gruesa_005",
 "tx:productos/piezas_neonizador/goteos/gruesa/goteo_gruesa_006"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r48",
@@ -3643,7 +3643,7 @@
 "tx:productos/piezas_neonizador/goteos/gruesa/goteo_gruesa_020",
 "tx:productos/piezas_neonizador/goteos/gruesa/goteo_gruesa_021"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r49",
@@ -3664,7 +3664,7 @@
 "tx:productos/piezas_neonizador/goteos/gruesa/goteo_gruesa_035",
 "tx:productos/piezas_neonizador/goteos/gruesa/goteo_gruesa_036"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r50",
@@ -3685,7 +3685,7 @@
 "tx:productos/piezas_neonizador/goteos/gruesa/goteo_gruesa_050",
 "tx:productos/piezas_neonizador/goteos/gruesa/goteo_gruesa_051"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r51",
@@ -3706,7 +3706,7 @@
 "tx:productos/piezas_neonizador/goteos/ondulada/goteo_ondulada_010",
 "tx:productos/piezas_neonizador/goteos/ondulada/goteo_ondulada_011"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r52",
@@ -3727,7 +3727,7 @@
 "tx:productos/piezas_neonizador/goteos/ondulada/goteo_ondulada_025",
 "tx:productos/piezas_neonizador/goteos/ondulada/goteo_ondulada_026"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r53",
@@ -3748,7 +3748,7 @@
 "tx:productos/piezas_neonizador/goteos/ondulada/goteo_ondulada_040",
 "tx:productos/piezas_neonizador/goteos/ondulada/goteo_ondulada_041"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r54",
@@ -3769,7 +3769,7 @@
 "tx:productos/piezas_neonizador/goteos/suelta/goteo_suelta_001",
 "tx:productos/piezas_neonizador/goteos/suelta/goteo_suelta_002"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r55",
@@ -3790,7 +3790,7 @@
 "tx:productos/piezas_neonizador/goteos/suelta/goteo_suelta_016",
 "tx:productos/piezas_neonizador/goteos/suelta/goteo_suelta_017"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r56",
@@ -3811,7 +3811,7 @@
 "tx:productos/piezas_neonizador/goteos/suelta/goteo_suelta_031",
 "tx:productos/piezas_neonizador/goteos/suelta/goteo_suelta_032"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r57",
@@ -3832,7 +3832,7 @@
 "tx:productos/piezas_neonizador/goteos/sueltos/goteo_239_02",
 "tx:productos/piezas_neonizador/goteos/sueltos/goteo_239_03"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r58",
@@ -3853,7 +3853,7 @@
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_010",
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_011"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r59",
@@ -3874,7 +3874,7 @@
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_025",
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_026"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r60",
@@ -3895,7 +3895,7 @@
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_040",
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_041"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r61",
@@ -3916,7 +3916,7 @@
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_055",
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_056"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r62",
@@ -3937,7 +3937,7 @@
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_070",
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_071"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r63",
@@ -3958,7 +3958,7 @@
 "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_005",
 "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_006"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r64",
@@ -3979,7 +3979,7 @@
 "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_020",
 "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_021"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r65",
@@ -4000,7 +4000,7 @@
 "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_035",
 "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_036"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r66",
@@ -4021,7 +4021,7 @@
 "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_050",
 "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_051"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r67",
@@ -4042,7 +4042,7 @@
 "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_065",
 "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_066"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r68",
@@ -4063,7 +4063,7 @@
 "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_080",
 "tx:productos/piezas_neonizador/moho/colonias/colonia_01"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r69",
@@ -4084,7 +4084,7 @@
 "tx:productos/piezas_neonizador/moho/manchitas/manchita_009",
 "tx:productos/piezas_neonizador/moho/manchitas/manchita_010"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r70",
@@ -4105,7 +4105,7 @@
 "tx:productos/piezas_neonizador/moho/manchitas/manchita_024",
 "tx:productos/piezas_neonizador/moho/manchitas/manchita_025"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r71",
@@ -4126,7 +4126,7 @@
 "tx:productos/piezas_neonizador/moho/texturas/moho_tile_03",
 "tx:productos/piezas_neonizador/moho/texturas/moho_tile_04"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r72",
@@ -4147,7 +4147,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_005",
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_006"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r73",
@@ -4168,7 +4168,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_020",
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_021"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r74",
@@ -4189,7 +4189,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_035",
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_036"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r75",
@@ -4210,7 +4210,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_050",
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_051"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r76",
@@ -4231,7 +4231,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_065",
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_066"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r77",
@@ -4252,7 +4252,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_080",
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_081"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r78",
@@ -4273,7 +4273,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_095",
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_096"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r79",
@@ -4294,7 +4294,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_110",
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_111"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r80",
@@ -4315,7 +4315,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_125",
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_126"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r81",
@@ -4336,7 +4336,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_140",
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_141"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r82",
@@ -4357,7 +4357,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_005",
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_006"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r83",
@@ -4378,7 +4378,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_020",
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_021"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r84",
@@ -4399,7 +4399,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_035",
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_036"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r85",
@@ -4420,7 +4420,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_050",
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_051"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r86",
@@ -4441,7 +4441,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_065",
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_066"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r87",
@@ -4462,7 +4462,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_080",
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_081"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r88",
@@ -4483,7 +4483,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_095",
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_096"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_piezas-r89",
@@ -4493,7 +4493,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_099",
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_100"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "pr_sellos_relieve-r01",
