@@ -1,8 +1,8 @@
 {
 "ab:2d076ee7aa21": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Blackmagic; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Blackmagic; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Blackmagic.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 105,
 "diferencia": "-",
@@ -31,12 +31,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:eac523379f0e",
+"md5": "ebb93353107eab263c68cf8e7c0e90c9",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:4083df97e646": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709; en la prueba la más natural y suave de las cálidas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709; en la prueba la más natural y suave de las cálidas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 106,
 "diferencia": "-",
@@ -65,12 +68,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:d313e6550166",
+"md5": "627bdfbb1c95c813efccc7fccef412ef",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:a1d37b04aea2": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 CanonLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 CanonLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_CanonLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 107,
 "diferencia": "-",
@@ -99,12 +105,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:3d79a740b58b",
+"md5": "36508b26fa000cf20fc2febbcc61d371",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:2cd105e5ef6c": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 CanonLog2; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 CanonLog2; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_CanonLog2.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 108,
 "diferencia": "-",
@@ -133,12 +142,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:a015b1b03a44",
+"md5": "a3120f2f880b8e6aa1f1a3a1031ab074",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:d9b327bc9338": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 CanonLog3; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 CanonLog3; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_CanonLog3.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 109,
 "diferencia": "-",
@@ -167,12 +179,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:43dbbba37596",
+"md5": "ee19cfb39953dfde760bfaf82373af54",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:111a34324ed4": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 DLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 DLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_DLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 110,
 "diferencia": "-",
@@ -201,12 +216,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:f3c43b101295",
+"md5": "b76d7cab75021984763e4c0b114d3a07",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:dba23c60658d": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 FLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 FLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_FLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 111,
 "diferencia": "-",
@@ -235,12 +253,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:ef78b2bf89c5",
+"md5": "4c48863a18061caf454a8ae1eea1ff9e",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:19e6efd2b4db": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 FLog2; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 FLog2; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_FLog2.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 112,
 "diferencia": "-",
@@ -269,12 +290,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:37dde433b451",
+"md5": "4c48863a18061caf454a8ae1eea1ff9e",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:8831ba127e1b": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 REDLog3G10; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 REDLog3G10; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_REDLog3G10.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 113,
 "diferencia": "-",
@@ -303,12 +327,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:3de530e34125",
+"md5": "e1e808c61caee4dab0491d8cf175a3ad",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:959f466ccb4e": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 SLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 SLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_SLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 114,
 "diferencia": "-",
@@ -337,12 +364,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:c9d714a9d960",
+"md5": "737e1d2b3af9b7fd386ed76e50d198d2",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:1c012aa3497b": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 SLog2; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 SLog2; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_SLog2.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 115,
 "diferencia": "-",
@@ -371,12 +401,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:ca4a3798f5e5",
+"md5": "1e23e347e571b3c8cfbb172c73ebe758",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:afe16f05a396": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje SLog3; en la prueba satura mucho los rojos (es para S-Log3); dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje SLog3; en la prueba satura mucho los rojos (es para S-Log3)",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_SLog3.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 116,
 "diferencia": "-",
@@ -405,12 +438,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:2e2b4200ae86",
+"md5": "7d213d2e4ede97f2291cee31bc152379",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:e176fe5fe866": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje V-Log; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje V-Log; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_V-Log.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 117,
 "diferencia": "-",
@@ -439,12 +475,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:ab4801e41b43",
+"md5": "10cfd693a3ff05aa3b11012c8ab83ada",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:40fd75fde404": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje ARRILog-C; en la prueba neutra: colores naturales con algo de contraste; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje ARRILog-C; en la prueba neutra: colores naturales con algo de contraste",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_ARRILog-C.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 118,
 "diferencia": "-",
@@ -473,12 +512,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:defbf65d2d02",
+"md5": "8173790f8f9e4650874582f27de4e9b6",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:531771c8bdc5": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Blackmagic; en la prueba neutra con amarillos dorados y blancos limpios; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Blackmagic; en la prueba neutra con amarillos dorados y blancos limpios",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Blackmagic.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 119,
 "diferencia": "-",
@@ -507,6 +549,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:3097bd98ea48",
+"md5": "8cb7daeac10368928524505ad5b69358",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 }

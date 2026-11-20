@@ -105,9 +105,9 @@
 "hoja": "revision/hojas/ab_Punch_Hole_Transitions-05.jpg"
 },
 "ab:99dc4823a3dd": {
-"que_es": "foto Polaroid clara con agujero que se perfora; texto pequeño ilegible al pie",
+"que_es": "foto Polaroid en blanco que se perfora con un agujero redondo; al pie, código de borde de película en espejo (ilegible, no es una marca)",
 "calidad": 4,
-"defectos": "dudoso: texto pequeño ilegible en la foto",
+"defectos": "ninguno",
 "familia": "ab_ponchado_collage",
 "variante": 9,
 "diferencia": "-",
@@ -120,7 +120,7 @@
 "color": "colores con agujeros (alfa)",
 "orient": "16:9",
 "estilo": "papel perforado real, collage",
-"contenido": "texto pequeño ilegible",
+"contenido": "código de borde de película en espejo",
 "comportamiento": "color y agujeros cambian a saltos cada pocos fotogramas",
 "medidas": {
 "fuente_medida": "tira",
@@ -137,7 +137,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Punch_Hole_Transitions-05.jpg"
+"hoja": "revision/hojas/ab_Punch_Hole_Transitions-05.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 },
 "ab:ea421135a59d": {
 "que_es": "textura naranja-violeta semitransparente con agujero que salta y crece",

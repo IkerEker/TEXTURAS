@@ -175,9 +175,9 @@
 "hoja": "revision/hojas/ab_DynamiXXX-06.jpg"
 },
 "ab:f9c47375cff5": {
-"que_es": "negro con formas pequeñas naranjas sueltas y luego mancha incandescente que crece",
+"que_es": "cintas incandescentes naranjas sobre negro: estrellas, letras sueltas (S, 2, x) y figuras; luego manchas que arden y perforaciones de película",
 "calidad": 4,
-"defectos": "dudoso: una de las formas pequeñas del inicio parece una esvástica; revisar antes de usar",
+"defectos": "hacia 0,04 s una de las figuras de cinta (cruz con brazos curvados) recuerda a una esvástica: evitar ese tramo en trabajos visibles",
 "familia": "ab_dynamixxx",
 "variante": 36,
 "diferencia": "-",
@@ -190,7 +190,7 @@
 "color": "colores invertidos",
 "orient": "16:9",
 "estilo": "película pintada y raspada, macro",
-"contenido": "posible símbolo sensible",
+"contenido": "símbolo sensible (parecido a esvástica) en 0,04 s",
 "comportamiento": "cambia a saltos cada fotograma",
 "medidas": {
 "fuente_medida": "tira",
@@ -207,6 +207,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_DynamiXXX-06.jpg"
+"hoja": "revision/hojas/ab_DynamiXXX-06.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "hacia 0,04 s una de las figuras de cinta (cruz con brazos curvados) recuerda a una esvástica: evitar ese tramo en trabajos visibles"
 }
 }

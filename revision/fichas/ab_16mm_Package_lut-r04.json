@@ -31,7 +31,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:95d3b351f38b"
+],
+"md5": "25f7dae8d36a0eb6f631f3df823e6908"
 },
 "ab:fcf9bbd14272": {
 "que_es": "LUT técnica de conversión: Canon Log2 a REC709 - Cinema Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log (sobre imagen normal no se usa)",
@@ -65,7 +69,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:83b6aab06748"
+],
+"md5": "659fc19da34dcb892bb6bb8c9bbfdba9"
 },
 "ab:fed7561cdec5": {
 "que_es": "LUT técnica de conversión: Canon Log3 a REC709 - Cinema Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log (sobre imagen normal no se usa)",
@@ -99,7 +107,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:a20911cd8b6b"
+],
+"md5": "f4af710d7b4609beb193d92c1f40b4c8"
 },
 "ab:5372c2fe3dca": {
 "que_es": "LUT técnica de conversión: DJI D-Log a REC709 - DJI D-Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log (sobre imagen normal no se usa)",
@@ -133,7 +145,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:7e421aa2292f"
+],
+"md5": "b997e98dab02f6b2ced94aeab0c9af40"
 },
 "ab:860f1b99ed6b": {
 "que_es": "LUT técnica de conversión: Fuji FLog a REC709 - FGamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log (sobre imagen normal no se usa)",
@@ -167,7 +183,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:d232484bb1a7"
+],
+"md5": "236d8521b39e52c06a152a607bb8e05b"
 },
 "ab:edb2ca03e89d": {
 "que_es": "LUT técnica de conversión: Fuji FLog2 a REC709 - FGamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log (sobre imagen normal no se usa)",
@@ -201,7 +221,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:f53a6a4a220d"
+],
+"md5": "236d8521b39e52c06a152a607bb8e05b"
 },
 "ab:a9d7152636aa": {
 "que_es": "LUT técnica de conversión: Nikon N-Log a REC709 (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log (sobre imagen normal no se usa)",
@@ -235,7 +259,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:8e96c8908a14"
+],
+"md5": "c363acb001514e140112ff05611e0917"
 },
 "ab:1267a5a67dff": {
 "que_es": "LUT técnica de conversión: Panasonic V-Log a REC709 - V-Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log (sobre imagen normal no se usa)",
@@ -269,7 +297,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:7873775297ac"
+],
+"md5": "8d80c9ca2d22b6cc037ab6bbeacf4d93"
 },
 "ab:d396bab1f170": {
 "que_es": "LUT técnica de conversión: RED Log3G10 a REC709 - REDWideGamutRGB (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log (sobre imagen normal no se usa)",
@@ -303,7 +335,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:6f8048bb1aea"
+],
+"md5": "f23b8e72c632cb2fda39e6e73ca8f420"
 },
 "ab:a814b66c7c1d": {
 "que_es": "LUT técnica de conversión: REDgamma4 a REC709 - REDWideGamutRGB (normaliza el metraje log antes de etalonar); en la prueba más apagada y con azul en el papel milimetrado",
@@ -337,7 +373,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:f38a52efde6c"
+],
+"md5": "c2e578f9420710db4b9008c4740e10e9"
 },
 "ab:b1886fbd7e5f": {
 "que_es": "LUT técnica de conversión: REDlogFilm a REC709 - REDWideGamutRGB (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log (sobre imagen normal no se usa)",
@@ -371,7 +411,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:54d9e5dba49b"
+],
+"md5": "41b3a629265c9acb87cc4ff631472bc3"
 },
 "ab:becf7201159c": {
 "que_es": "LUT técnica de conversión: Sony S-Log a REC709 - Sony S-Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log (sobre imagen normal no se usa)",
@@ -405,7 +449,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:385be7055056"
+],
+"md5": "c37a996056c2c99d76fff6f9dfbc9df7"
 },
 "ab:9f0cadce8ce9": {
 "que_es": "LUT técnica de conversión: Sony S-Log2 a REC709 - Sony S-Gamut3.Cine (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log (sobre imagen normal no se usa)",
@@ -439,7 +487,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:1ff03d45487c"
+],
+"md5": "69102d6093a4985e6769299b06713de6"
 },
 "ab:1b01f0f97cdc": {
 "que_es": "LUT técnica de conversión: Sony S-Log3 a REC709 - Sony S-Gamut3.Cine (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log (sobre imagen normal no se usa)",
@@ -473,6 +525,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:9e880caebeb1"
+],
+"md5": "9a2e9d2ce48d36563d9964e7588887b2"
 }
 }

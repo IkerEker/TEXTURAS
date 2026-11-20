@@ -38854,15 +38854,15 @@
 "revision": {
 "que_es": "goteo 3D con zona translúcida/agujereada arriba",
 "calidad": 3,
-"defectos": "dudoso: huecos internos en la mitad superior (puede ser pintura fina translúcida o fallo de recorte)",
+"defectos": "la parte alta (unos 150–250 px) es una película de pintura fina y moteada REAL de la foto (comprobado en el original), no un fallo de recorte; para una raíz sólida, recorta esa parte",
 "familia": "goteo_lagrima",
 "variante": 35,
 "diferencia": "huecos",
 "mejor_de_familia": true,
 "uso": "goteo",
 "modo": "normal recoloreado",
-"usar_si": "revisar antes",
-"evitar_si": "si se ven los huecos",
+"usar_si": "goteo que nace de una capa fina de pintura",
+"evitar_si": "si necesitas raíz maciza: usa goteo_064 o recorta arriba",
 "color": "gris",
 "orient": "raíz arriba",
 "escala": "76×808",
@@ -38884,7 +38884,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_manchas-06.jpg"
+"hoja": "revision/hojas/tx_manchas-06.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "la parte alta (unos 150–250 px) es una película de pintura fina y moteada REAL de la foto (comprobado en el original), no un fallo de recorte; para una raíz sólida, recorta esa parte"
 }
 },
 {
@@ -38925,15 +38927,15 @@
 "revision": {
 "que_es": "goteo 3D con parte alta muy rota y translúcida",
 "calidad": 3,
-"defectos": "dudoso: huecos internos arriba (posible fallo de recorte)",
+"defectos": "la parte alta (unos 150–250 px) es una película de pintura fina y moteada REAL de la foto (comprobado en el original), no un fallo de recorte; para una raíz sólida, recorta esa parte",
 "familia": "goteo_lagrima",
 "variante": 36,
 "diferencia": "roto arriba",
 "mejor_de_familia": true,
 "uso": "goteo",
 "modo": "normal recoloreado",
-"usar_si": "revisar",
-"evitar_si": "-",
+"usar_si": "goteo que nace de una capa fina de pintura",
+"evitar_si": "si necesitas raíz maciza: usa goteo_064 o recorta arriba",
 "color": "gris",
 "orient": "raíz arriba",
 "escala": "63×505",
@@ -38955,7 +38957,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_manchas-06.jpg"
+"hoja": "revision/hojas/tx_manchas-06.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "la parte alta (unos 150–250 px) es una película de pintura fina y moteada REAL de la foto (comprobado en el original), no un fallo de recorte; para una raíz sólida, recorta esa parte"
 }
 },
 {
@@ -38996,7 +39000,7 @@
 "revision": {
 "que_es": "goteo 3D que se afina con raíz translúcida",
 "calidad": 3,
-"defectos": "dudoso: zona translúcida arriba",
+"defectos": "raíz algo translúcida, real de la foto (comprobado en el original)",
 "familia": "goteo_lagrima",
 "variante": 37,
 "diferencia": "raíz translúcida",
@@ -39026,7 +39030,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_manchas-06.jpg"
+"hoja": "revision/hojas/tx_manchas-06.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "raíz algo translúcida, real de la foto (comprobado en el original)"
 }
 },
 {
@@ -61400,15 +61406,15 @@
 "revision": {
 "que_es": "degradado horizontal de grises: claro arriba, banda oscura, gris abajo (tipo horizonte o tubo metálico)",
 "calidad": 3,
-"defectos": "dudoso: parece foto desenfocada de metal/horizonte; poco uso como textura",
+"defectos": "ninguno",
 "familia": "degradado_horizonte",
 "variante": 1,
 "diferencia": "degradado",
 "mejor_de_familia": false,
 "uso": "fondo de gradiente, reflejo metálico",
 "modo": "multiplicar o superponer",
-"usar_si": "fondo de producto",
-"evitar_si": "quieres textura",
+"usar_si": "fondo degradado gris o luz de horizonte",
+"evitar_si": "como textura con detalle (no lo tiene)",
 "color": "gris azulado",
 "orient": "bandas horizontales",
 "escala": "1254 px",
@@ -61428,7 +61434,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_superposiciones-r07.jpg"
+"hoja": "revision/hojas/tx_superposiciones-r07.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 }
 },
 {
@@ -112868,13 +112875,13 @@
 "revision": {
 "que_es": "remolinos densos de tinta clara (gris) en agua",
 "calidad": 4,
-"defectos": "dudoso: el fondo se ve gris medio; en multiplicar oscurece todo el cuadro",
+"defectos": "ocupa todo el cuadro en gris medio (mediana 128, no es sobre negro): úsalo en Superponer o Luz suave, donde el gris medio es neutro; en Multiplicar oscurece y en Trama aclara todo",
 "familia": "video_tinta_agua",
 "variante": 1,
 "diferencia": "claro",
 "mejor_de_familia": false,
 "uso": "fondo líquido",
-"modo": "multiplicar",
+"modo": "superponer / luz suave",
 "usar_si": "-",
 "evitar_si": "arte claro (oscurece)",
 "color": "gris medio/blanco",
@@ -112892,6 +112899,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/tx_video-03.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "ocupa todo el cuadro en gris medio (mediana 128, no es sobre negro): úsalo en Superponer o Luz suave, donde el gris medio es neutro; en Multiplicar oscurece y en Trama aclara todo",
 "audio_conocido": {
 "incrustado": false
 },
@@ -237793,9 +237802,9 @@
 "incrustado": true
 },
 "revision": {
-"que_es": "película gris clara con letras pálidas borrosas que desaparecen",
+"que_es": "cola de película gris clara con perforación y trozos de números grandes pintados a mano (marcas de cola: 7, 2, 4, 8…) que pasan; luego zona clara rayada y empalme",
 "calidad": 4,
-"defectos": "dudoso: las letras no se leen",
+"defectos": "ninguno",
 "familia": "ab_cine_snip",
 "variante": 66,
 "diferencia": "-",
@@ -237808,7 +237817,7 @@
 "color": "gris claro",
 "orient": "4:3 (4096×3072)",
 "estilo": "película real escaneada",
-"contenido": "sin texto",
+"contenido": "números de cola de película recortados, no forman palabras",
 "comportamiento": "fotogramas de película que pasan a saltos (uno distinto cada pocos fotogramas)",
 "medidas": {
 "fuente_medida": "tira",
@@ -237826,6 +237835,7 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Cine_Snip_Transitions-13.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
 "audio_conocido": {
 "incrustado": true
 },
@@ -241353,9 +241363,9 @@
 "incrustado": true
 },
 "revision": {
-"que_es": "pantallazos oscuros azul-violeta con una palabra borrosa (parece «PICTURE»)",
+"que_es": "pantallazos CRT azul oscuro con palabras grandes muy borrosas (ilegibles) y una franja naranja con letras ilegibles; luego gris, verde y negro",
 "calidad": 4,
-"defectos": "dudoso: se intuye texto PICTURE en un fotograma",
+"defectos": "ninguno",
 "familia": "ab_cyber",
 "variante": 2,
 "diferencia": "-",
@@ -241368,7 +241378,7 @@
 "color": "multicolor",
 "orient": "16:9",
 "estilo": "pantalla de vídeo retro con trama RGB",
-"contenido": "palabra PICTURE borrosa",
+"contenido": "texto de pantalla ilegible (no se lee ninguna marca)",
 "comportamiento": "pantallazos de color a pantalla completa que cambian cada 1-2 fotogramas",
 "medidas": {
 "fuente_medida": "tira",
@@ -241386,6 +241396,7 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Cyber_Transitions-01.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
 "audio_conocido": {
 "incrustado": true
 },
@@ -245329,9 +245340,9 @@
 "incrustado": true
 },
 "revision": {
-"que_es": "glitch con texto técnico ilegible (HUD o esquema) en rojo, verde y violeta",
+"que_es": "glitch de pantalla sobre planos técnicos antiguos (engranajes, tuberías) con anotaciones manuscritas en alemán que se leen a ratos («Rohr…», «G.G.»); colores rojo, violeta y verde",
 "calidad": 4,
-"defectos": "dudoso: hay texto o números pequeños ilegibles",
+"defectos": "ninguno",
 "familia": "ab_cyber",
 "variante": 48,
 "diferencia": "-",
@@ -245344,7 +245355,7 @@
 "color": "multicolor",
 "orient": "16:9",
 "estilo": "pantalla de vídeo retro con trama RGB, glitch",
-"contenido": "texto técnico ilegible",
+"contenido": "planos técnicos con anotaciones en alemán, sin marcas ni personas",
 "comportamiento": "pantallazos con glitch que cambian cada 1-2 fotogramas",
 "medidas": {
 "fuente_medida": "tira",
@@ -245362,6 +245373,7 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Cyber_Transitions-08.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
 "audio_conocido": {
 "incrustado": true
 },
@@ -269390,9 +269402,9 @@
 }
 ],
 "revision": {
-"que_es": "foto Polaroid clara con agujero que se perfora; texto pequeño ilegible al pie",
+"que_es": "foto Polaroid en blanco que se perfora con un agujero redondo; al pie, código de borde de película en espejo (ilegible, no es una marca)",
 "calidad": 4,
-"defectos": "dudoso: texto pequeño ilegible en la foto",
+"defectos": "ninguno",
 "familia": "ab_ponchado_collage",
 "variante": 9,
 "diferencia": "-",
@@ -269405,7 +269417,7 @@
 "color": "colores con agujeros (alfa)",
 "orient": "16:9",
 "estilo": "papel perforado real, collage",
-"contenido": "texto pequeño ilegible",
+"contenido": "código de borde de película en espejo",
 "comportamiento": "color y agujeros cambian a saltos cada pocos fotogramas",
 "medidas": {
 "fuente_medida": "tira",
@@ -269423,6 +269435,7 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Punch_Hole_Transitions-05.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
 "audio_conocido": {
 "incrustado": true,
 "sfx_familia": [
@@ -283098,9 +283111,9 @@
 "incrustado": true
 },
 "revision": {
-"que_es": "barrido por escalera mecánica con una persona difusa y luego negro",
+"que_es": "barrido movido por una escalera mecánica; a 0,27 s pasa una persona totalmente desenfocada (irreconocible), luego negro",
 "calidad": 4,
-"defectos": "dudoso: se intuye una persona desenfocada",
+"defectos": "ninguno",
 "familia": "ab_wipe_luz",
 "variante": 55,
 "diferencia": "-",
@@ -283113,7 +283126,7 @@
 "color": "gris y beige",
 "orient": "16:9",
 "estilo": "cámara movida real por la calle",
-"contenido": "sin texto",
+"contenido": "persona irreconocible por el movimiento",
 "comportamiento": "barrido rápido desenfocado que termina en negro",
 "medidas": {
 "fuente_medida": "tira",
@@ -283131,6 +283144,7 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Wipe_and_Light_Transitions-10.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
 "audio_conocido": {
 "incrustado": true
 },
@@ -283440,9 +283454,9 @@
 "incrustado": true
 },
 "revision": {
-"que_es": "barrido por fachadas con letras grandes ilegibles",
+"que_es": "barrido movido por fachadas con columnas y un rótulo ovalado; las letras del rótulo no se leen (sin marcas reconocibles)",
 "calidad": 4,
-"defectos": "dudoso: letras de un rótulo de tienda",
+"defectos": "ninguno",
 "familia": "ab_wipe_luz",
 "variante": 59,
 "diferencia": "-",
@@ -283455,7 +283469,7 @@
 "color": "gris y beige",
 "orient": "16:9",
 "estilo": "cámara movida real por la calle",
-"contenido": "grafitis o rótulos ilegibles",
+"contenido": "rótulo ilegible",
 "comportamiento": "barrido rápido desenfocado que termina en negro",
 "medidas": {
 "fuente_medida": "tira",
@@ -283473,6 +283487,7 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Wipe_and_Light_Transitions-10.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
 "audio_conocido": {
 "incrustado": true
 },
@@ -286216,7 +286231,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg",
+"copias_identicas": [
+"ab:9b4ee059dacd"
+],
+"md5": "efe768fd6986a7726b41a2f28cd1134e"
 }
 },
 {
@@ -286272,7 +286291,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg",
+"copias_identicas": [
+"ab:8166b8fc9136"
+],
+"md5": "8191d161dafc8153f836029fe00d304d"
 }
 },
 {
@@ -286328,7 +286351,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg",
+"copias_identicas": [
+"ab:e6b245c208ec"
+],
+"md5": "ef6216cc384a1e5b30a6b40854140b0e"
 }
 },
 {
@@ -286384,7 +286411,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg",
+"copias_identicas": [
+"ab:4d0219eb2827"
+],
+"md5": "505ffb494859b33d4769363405dc5147"
 }
 },
 {
@@ -286440,7 +286471,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg",
+"copias_identicas": [
+"ab:c7d4f332df6d"
+],
+"md5": "2e04d2595e2c1aa97dadaae0b69761b2"
 }
 },
 {
@@ -286496,7 +286531,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg",
+"copias_identicas": [
+"ab:34ee4217fd0b"
+],
+"md5": "e317bba9e0e1f77467b5f84916ba2894"
 }
 },
 {
@@ -286552,7 +286591,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg",
+"copias_identicas": [
+"ab:546ac648371b"
+],
+"md5": "07658e8b39693847a79eb8314cc6a4d0"
 }
 },
 {
@@ -286608,7 +286651,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg",
+"copias_identicas": [
+"ab:6cbdaaf13719"
+],
+"md5": "4c0569a861be367c0cac22109f363107"
 }
 },
 {
@@ -286664,7 +286711,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg",
+"copias_identicas": [
+"ab:c40b63f2e205"
+],
+"md5": "4c0569a861be367c0cac22109f363107"
 }
 },
 {
@@ -286720,7 +286771,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg",
+"copias_identicas": [
+"ab:cdd950acaad5"
+],
+"md5": "31fdb3c0f9803df3324a2d1e2e2f34e5"
 }
 },
 {
@@ -286776,7 +286831,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg",
+"copias_identicas": [
+"ab:b445a9ba9c5f"
+],
+"md5": "d7ac7832a12ae1469e45aced58d4226d"
 }
 },
 {
@@ -286832,7 +286891,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg",
+"copias_identicas": [
+"ab:b843be5b3483"
+],
+"md5": "c433ca8101cc02881c969e381a4f28dc"
 }
 },
 {
@@ -286888,7 +286951,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg",
+"copias_identicas": [
+"ab:69ef62eff263"
+],
+"md5": "be9f000ab893aa9d42948fdf4a7c2002"
 }
 },
 {
@@ -286944,7 +287011,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg",
+"copias_identicas": [
+"ab:cc29234ea3f2"
+],
+"md5": "0d316659d01c61c8d786a064ef3d21fb"
 }
 },
 {
@@ -287000,7 +287071,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r01.jpg",
+"copias_identicas": [
+"ab:9a04ed6adbdc"
+],
+"md5": "16e148e1530a608485764a06aab9b91d"
 }
 },
 {
@@ -287056,7 +287131,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:2d076ee7aa21"
+],
+"md5": "ebb93353107eab263c68cf8e7c0e90c9"
 }
 },
 {
@@ -287112,7 +287191,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:4083df97e646"
+],
+"md5": "627bdfbb1c95c813efccc7fccef412ef"
 }
 },
 {
@@ -287168,7 +287251,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:a1d37b04aea2"
+],
+"md5": "36508b26fa000cf20fc2febbcc61d371"
 }
 },
 {
@@ -287224,7 +287311,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:2cd105e5ef6c"
+],
+"md5": "a3120f2f880b8e6aa1f1a3a1031ab074"
 }
 },
 {
@@ -287280,7 +287371,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:d9b327bc9338"
+],
+"md5": "ee19cfb39953dfde760bfaf82373af54"
 }
 },
 {
@@ -287336,7 +287431,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:111a34324ed4"
+],
+"md5": "b76d7cab75021984763e4c0b114d3a07"
 }
 },
 {
@@ -287392,7 +287491,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:dba23c60658d"
+],
+"md5": "4c48863a18061caf454a8ae1eea1ff9e"
 }
 },
 {
@@ -287448,7 +287551,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:19e6efd2b4db"
+],
+"md5": "4c48863a18061caf454a8ae1eea1ff9e"
 }
 },
 {
@@ -287504,7 +287611,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:8831ba127e1b"
+],
+"md5": "e1e808c61caee4dab0491d8cf175a3ad"
 }
 },
 {
@@ -287560,7 +287671,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:959f466ccb4e"
+],
+"md5": "737e1d2b3af9b7fd386ed76e50d198d2"
 }
 },
 {
@@ -287616,7 +287731,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:1c012aa3497b"
+],
+"md5": "1e23e347e571b3c8cfbb172c73ebe758"
 }
 },
 {
@@ -287672,7 +287791,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:afe16f05a396"
+],
+"md5": "7d213d2e4ede97f2291cee31bc152379"
 }
 },
 {
@@ -287728,7 +287851,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:e176fe5fe866"
+],
+"md5": "10cfd693a3ff05aa3b11012c8ab83ada"
 }
 },
 {
@@ -287784,7 +287911,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:40fd75fde404"
+],
+"md5": "8173790f8f9e4650874582f27de4e9b6"
 }
 },
 {
@@ -287840,7 +287971,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:531771c8bdc5"
+],
+"md5": "8cb7daeac10368928524505ad5b69358"
 }
 },
 {
@@ -287896,7 +288031,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg",
+"copias_identicas": [
+"ab:15c4f65a3f5c"
+],
+"md5": "6c35a81b3a474365f29d40bcce08f611"
 }
 },
 {
@@ -287952,7 +288091,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg",
+"copias_identicas": [
+"ab:8327b7427684"
+],
+"md5": "ac93661352054d3c0609b6cf7c45966f"
 }
 },
 {
@@ -288008,7 +288151,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg",
+"copias_identicas": [
+"ab:ee6af5bcc4e1"
+],
+"md5": "6d635abec6dec47c08ae94b0c9bfdd81"
 }
 },
 {
@@ -288064,7 +288211,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg",
+"copias_identicas": [
+"ab:792942e12ce2"
+],
+"md5": "feb83ef94ea113e2f256d2c3879f2153"
 }
 },
 {
@@ -288120,7 +288271,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg",
+"copias_identicas": [
+"ab:37dea81c7c7a"
+],
+"md5": "daa735e47087f373f9d711b40782d160"
 }
 },
 {
@@ -288176,7 +288331,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg",
+"copias_identicas": [
+"ab:987129cae093"
+],
+"md5": "85a39fb106d101ba7700b8d48ef45499"
 }
 },
 {
@@ -288232,7 +288391,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg",
+"copias_identicas": [
+"ab:be2961b34d23"
+],
+"md5": "85a39fb106d101ba7700b8d48ef45499"
 }
 },
 {
@@ -288288,7 +288451,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg",
+"copias_identicas": [
+"ab:aa216a92162a"
+],
+"md5": "848d82a55cb74d66fc6ccafa62802ac3"
 }
 },
 {
@@ -288344,7 +288511,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg",
+"copias_identicas": [
+"ab:fef85cf0d6ee"
+],
+"md5": "01650880275e3a7b16e9aafe80bca9ed"
 }
 },
 {
@@ -288400,7 +288571,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg",
+"copias_identicas": [
+"ab:a1b9d1fbbd22"
+],
+"md5": "34509ac6ee853b3ba25b0496d303491b"
 }
 },
 {
@@ -288456,7 +288631,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg",
+"copias_identicas": [
+"ab:3c067c13b74d"
+],
+"md5": "113d656780d848644c68074511a5d993"
 }
 },
 {
@@ -288512,7 +288691,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg",
+"copias_identicas": [
+"ab:88669d1981fc"
+],
+"md5": "4a3b7eabc90968884e3520fc7155fe44"
 }
 },
 {
@@ -288568,7 +288751,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg",
+"copias_identicas": [
+"ab:f03b7d12d7ea"
+],
+"md5": "1270fd039dc25bb1471e1f8fd3132949"
 }
 },
 {
@@ -288624,7 +288811,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg",
+"copias_identicas": [
+"ab:31eb1e6dbab0"
+],
+"md5": "4285683c4e085f2cbf0a6446ee97b406"
 }
 },
 {
@@ -288680,7 +288871,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r03.jpg",
+"copias_identicas": [
+"ab:6527134e35bc"
+],
+"md5": "51901d2460fca357b4d49b418abf3934"
 }
 },
 {
@@ -288736,7 +288931,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:95d3b351f38b"
+],
+"md5": "25f7dae8d36a0eb6f631f3df823e6908"
 }
 },
 {
@@ -288792,7 +288991,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:83b6aab06748"
+],
+"md5": "659fc19da34dcb892bb6bb8c9bbfdba9"
 }
 },
 {
@@ -288848,7 +289051,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:a20911cd8b6b"
+],
+"md5": "f4af710d7b4609beb193d92c1f40b4c8"
 }
 },
 {
@@ -288904,7 +289111,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:7e421aa2292f"
+],
+"md5": "b997e98dab02f6b2ced94aeab0c9af40"
 }
 },
 {
@@ -288960,7 +289171,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:d232484bb1a7"
+],
+"md5": "236d8521b39e52c06a152a607bb8e05b"
 }
 },
 {
@@ -289016,7 +289231,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:f53a6a4a220d"
+],
+"md5": "236d8521b39e52c06a152a607bb8e05b"
 }
 },
 {
@@ -289072,7 +289291,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:8e96c8908a14"
+],
+"md5": "c363acb001514e140112ff05611e0917"
 }
 },
 {
@@ -289128,7 +289351,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:7873775297ac"
+],
+"md5": "8d80c9ca2d22b6cc037ab6bbeacf4d93"
 }
 },
 {
@@ -289184,7 +289411,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:6f8048bb1aea"
+],
+"md5": "f23b8e72c632cb2fda39e6e73ca8f420"
 }
 },
 {
@@ -289240,7 +289471,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:f38a52efde6c"
+],
+"md5": "c2e578f9420710db4b9008c4740e10e9"
 }
 },
 {
@@ -289296,7 +289531,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:54d9e5dba49b"
+],
+"md5": "41b3a629265c9acb87cc4ff631472bc3"
 }
 },
 {
@@ -289352,7 +289591,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:385be7055056"
+],
+"md5": "c37a996056c2c99d76fff6f9dfbc9df7"
 }
 },
 {
@@ -289408,7 +289651,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:1ff03d45487c"
+],
+"md5": "69102d6093a4985e6769299b06713de6"
 }
 },
 {
@@ -289464,7 +289711,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r04.jpg",
+"copias_identicas": [
+"ab:9e880caebeb1"
+],
+"md5": "9a2e9d2ce48d36563d9964e7588887b2"
 }
 },
 {
@@ -308566,9 +308817,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película frío de Super 8 Package para metraje ARRILog-C; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película frío de Super 8 Package para metraje ARRILog-C; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-cooler_ARRILog-C.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 90,
 "diferencia": "-",
@@ -308597,7 +308848,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg",
+"duplicado_de": "ab:609e6e482731",
+"md5": "efe768fd6986a7726b41a2f28cd1134e",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -308622,9 +308876,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película frío de Super 8 Package para metraje Blackmagic; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película frío de Super 8 Package para metraje Blackmagic; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-cooler_Blackmagic.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 91,
 "diferencia": "-",
@@ -308653,7 +308907,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg",
+"duplicado_de": "ab:87053eb67388",
+"md5": "8191d161dafc8153f836029fe00d304d",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -308678,9 +308935,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película frío de Super 8 Package para metraje Rec709; en la prueba es la más suave y natural, sin virar; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película frío de Super 8 Package para metraje Rec709; en la prueba es la más suave y natural, sin virar",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-cooler_Rec709.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 92,
 "diferencia": "-",
@@ -308709,7 +308966,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg",
+"duplicado_de": "ab:22099f404541",
+"md5": "ef6216cc384a1e5b30a6b40854140b0e",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -308734,9 +308994,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 CanonLog; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 CanonLog; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-cooler_Rec709_CanonLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 93,
 "diferencia": "-",
@@ -308765,7 +309025,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg",
+"duplicado_de": "ab:e070c30e3c3b",
+"md5": "505ffb494859b33d4769363405dc5147",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -308790,9 +309053,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 CanonLog2; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 CanonLog2; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-cooler_Rec709_CanonLog2.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 94,
 "diferencia": "-",
@@ -308821,7 +309084,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg",
+"duplicado_de": "ab:221fb7082aa2",
+"md5": "2e04d2595e2c1aa97dadaae0b69761b2",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -308846,9 +309112,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 CanonLog3; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 CanonLog3; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-cooler_Rec709_CanonLog3.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 95,
 "diferencia": "-",
@@ -308877,7 +309143,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg",
+"duplicado_de": "ab:3d877c6c89b5",
+"md5": "e317bba9e0e1f77467b5f84916ba2894",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -308902,9 +309171,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 DLog; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 DLog; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-cooler_Rec709_DLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 96,
 "diferencia": "-",
@@ -308933,7 +309202,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg",
+"duplicado_de": "ab:83548b8833ad",
+"md5": "07658e8b39693847a79eb8314cc6a4d0",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -308958,9 +309230,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 FLog; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 FLog; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-cooler_Rec709_FLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 97,
 "diferencia": "-",
@@ -308989,7 +309261,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg",
+"duplicado_de": "ab:1de5ebf8e456",
+"md5": "4c0569a861be367c0cac22109f363107",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309014,9 +309289,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 FLog2; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 FLog2; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-cooler_Rec709_FLog2.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 98,
 "diferencia": "-",
@@ -309045,7 +309320,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg",
+"duplicado_de": "ab:230ac5b86473",
+"md5": "4c0569a861be367c0cac22109f363107",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309070,9 +309348,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 REDLog3G10; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 REDLog3G10; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-cooler_Rec709_REDLog3G10.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 99,
 "diferencia": "-",
@@ -309101,7 +309379,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg",
+"duplicado_de": "ab:9a718d819a8f",
+"md5": "31fdb3c0f9803df3324a2d1e2e2f34e5",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309126,9 +309407,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 SLog; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 SLog; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-cooler_Rec709_SLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 100,
 "diferencia": "-",
@@ -309157,7 +309438,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg",
+"duplicado_de": "ab:45073ae9be7a",
+"md5": "d7ac7832a12ae1469e45aced58d4226d",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309182,9 +309466,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 SLog2; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película frío de Super 8 Package para metraje Rec709 SLog2; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-cooler_Rec709_SLog2.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 101,
 "diferencia": "-",
@@ -309213,7 +309497,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg",
+"duplicado_de": "ab:2307d70b4f78",
+"md5": "c433ca8101cc02881c969e381a4f28dc",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309238,9 +309525,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película frío de Super 8 Package para metraje SLog3; en la prueba satura y contrasta mucho (es para S-Log3); dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película frío de Super 8 Package para metraje SLog3; en la prueba satura y contrasta mucho (es para S-Log3)",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-cooler_SLog3.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 102,
 "diferencia": "-",
@@ -309269,7 +309556,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg",
+"duplicado_de": "ab:dd8316018344",
+"md5": "be9f000ab893aa9d42948fdf4a7c2002",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309294,9 +309584,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película frío de Super 8 Package para metraje V-Log; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película frío de Super 8 Package para metraje V-Log; en la prueba: verdes y cian más fríos, rojos algo apagados, sombras azuladas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-cooler_V-Log.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 103,
 "diferencia": "-",
@@ -309325,7 +309615,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg",
+"duplicado_de": "ab:d32379ffd575",
+"md5": "0d316659d01c61c8d786a064ef3d21fb",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309350,9 +309643,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje ARRILog-C; en la prueba vira a naranja, amarillo y magenta; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje ARRILog-C; en la prueba vira a naranja, amarillo y magenta",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_ARRILog-C.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 104,
 "diferencia": "-",
@@ -309381,7 +309674,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r01.jpg",
+"duplicado_de": "ab:f3ae84fc854e",
+"md5": "16e148e1530a608485764a06aab9b91d",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309406,9 +309702,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Blackmagic; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Blackmagic; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Blackmagic.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 105,
 "diferencia": "-",
@@ -309437,7 +309733,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:eac523379f0e",
+"md5": "ebb93353107eab263c68cf8e7c0e90c9",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309462,9 +309761,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709; en la prueba la más natural y suave de las cálidas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709; en la prueba la más natural y suave de las cálidas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 106,
 "diferencia": "-",
@@ -309493,7 +309792,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:d313e6550166",
+"md5": "627bdfbb1c95c813efccc7fccef412ef",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309518,9 +309820,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 CanonLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 CanonLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_CanonLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 107,
 "diferencia": "-",
@@ -309549,7 +309851,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:3d79a740b58b",
+"md5": "36508b26fa000cf20fc2febbcc61d371",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309574,9 +309879,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 CanonLog2; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 CanonLog2; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_CanonLog2.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 108,
 "diferencia": "-",
@@ -309605,7 +309910,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:a015b1b03a44",
+"md5": "a3120f2f880b8e6aa1f1a3a1031ab074",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309630,9 +309938,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 CanonLog3; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 CanonLog3; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_CanonLog3.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 109,
 "diferencia": "-",
@@ -309661,7 +309969,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:43dbbba37596",
+"md5": "ee19cfb39953dfde760bfaf82373af54",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309686,9 +309997,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 DLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 DLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_DLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 110,
 "diferencia": "-",
@@ -309717,7 +310028,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:f3c43b101295",
+"md5": "b76d7cab75021984763e4c0b114d3a07",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309742,9 +310056,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 FLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 FLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_FLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 111,
 "diferencia": "-",
@@ -309773,7 +310087,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:ef78b2bf89c5",
+"md5": "4c48863a18061caf454a8ae1eea1ff9e",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309798,9 +310115,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 FLog2; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 FLog2; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_FLog2.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 112,
 "diferencia": "-",
@@ -309829,7 +310146,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:37dde433b451",
+"md5": "4c48863a18061caf454a8ae1eea1ff9e",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309854,9 +310174,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 REDLog3G10; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 REDLog3G10; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_REDLog3G10.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 113,
 "diferencia": "-",
@@ -309885,7 +310205,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:3de530e34125",
+"md5": "e1e808c61caee4dab0491d8cf175a3ad",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309910,9 +310233,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 SLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 SLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_SLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 114,
 "diferencia": "-",
@@ -309941,7 +310264,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:c9d714a9d960",
+"md5": "737e1d2b3af9b7fd386ed76e50d198d2",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -309966,9 +310292,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 SLog2; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje Rec709 SLog2; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_Rec709_SLog2.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 115,
 "diferencia": "-",
@@ -309997,7 +310323,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:ca4a3798f5e5",
+"md5": "1e23e347e571b3c8cfbb172c73ebe758",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310022,9 +310351,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje SLog3; en la prueba satura mucho los rojos (es para S-Log3); dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje SLog3; en la prueba satura mucho los rojos (es para S-Log3)",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_SLog3.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 116,
 "diferencia": "-",
@@ -310053,7 +310382,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:2e2b4200ae86",
+"md5": "7d213d2e4ede97f2291cee31bc152379",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310078,9 +310410,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película cálido de Super 8 Package para metraje V-Log; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película cálido de Super 8 Package para metraje V-Log; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT-warmer_V-Log.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 117,
 "diferencia": "-",
@@ -310109,7 +310441,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:ab4801e41b43",
+"md5": "10cfd693a3ff05aa3b11012c8ab83ada",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310134,9 +310469,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje ARRILog-C; en la prueba neutra: colores naturales con algo de contraste; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje ARRILog-C; en la prueba neutra: colores naturales con algo de contraste",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_ARRILog-C.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 118,
 "diferencia": "-",
@@ -310165,7 +310500,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:defbf65d2d02",
+"md5": "8173790f8f9e4650874582f27de4e9b6",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310190,9 +310528,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Blackmagic; en la prueba neutra con amarillos dorados y blancos limpios; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Blackmagic; en la prueba neutra con amarillos dorados y blancos limpios",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Blackmagic.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 119,
 "diferencia": "-",
@@ -310221,7 +310559,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r02.jpg",
+"duplicado_de": "ab:3097bd98ea48",
+"md5": "8cb7daeac10368928524505ad5b69358",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310246,9 +310587,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709; en la prueba la más suave, apaga el espectro; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709; en la prueba la más suave, apaga el espectro",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 120,
 "diferencia": "-",
@@ -310277,7 +310618,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:387e253f8136",
+"md5": "6c35a81b3a474365f29d40bcce08f611",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310302,9 +310646,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 CanonLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 CanonLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_CanonLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 121,
 "diferencia": "-",
@@ -310333,7 +310677,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:3890eab9a4b5",
+"md5": "ac93661352054d3c0609b6cf7c45966f",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310358,9 +310705,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 CanonLog2; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 CanonLog2; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_CanonLog2.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 122,
 "diferencia": "-",
@@ -310389,7 +310736,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:5f7288ee46c9",
+"md5": "6d635abec6dec47c08ae94b0c9bfdd81",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310414,9 +310764,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 CanonLog3; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 CanonLog3; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_CanonLog3.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 123,
 "diferencia": "-",
@@ -310445,7 +310795,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:f90188f7ba7c",
+"md5": "feb83ef94ea113e2f256d2c3879f2153",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310470,9 +310823,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 DLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 DLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_DLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 124,
 "diferencia": "-",
@@ -310501,7 +310854,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:1335ade3a344",
+"md5": "daa735e47087f373f9d711b40782d160",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310526,9 +310882,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 FLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 FLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_FLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 125,
 "diferencia": "-",
@@ -310557,7 +310913,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:4af175b2c611",
+"md5": "85a39fb106d101ba7700b8d48ef45499",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310582,9 +310941,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 FLog2; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 FLog2; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_FLog2.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 126,
 "diferencia": "-",
@@ -310613,7 +310972,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:50de886c858e",
+"md5": "85a39fb106d101ba7700b8d48ef45499",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310638,9 +311000,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 REDLog3G10; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 REDLog3G10; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_REDLog3G10.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 127,
 "diferencia": "-",
@@ -310669,7 +311031,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:9c5ffa970f91",
+"md5": "848d82a55cb74d66fc6ccafa62802ac3",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310694,9 +311059,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 SLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 SLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_SLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 128,
 "diferencia": "-",
@@ -310725,7 +311090,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:43de32d4a49f",
+"md5": "01650880275e3a7b16e9aafe80bca9ed",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310750,9 +311118,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 SLog2; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 SLog2; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_SLog2.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 129,
 "diferencia": "-",
@@ -310781,7 +311149,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:17163e0e59ef",
+"md5": "34509ac6ee853b3ba25b0496d303491b",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310806,9 +311177,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje SLog3; en la prueba satura mucho los rojos (es para S-Log3); dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje SLog3; en la prueba satura mucho los rojos (es para S-Log3)",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_SLog3.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 130,
 "diferencia": "-",
@@ -310837,7 +311208,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:ac2ba4698354",
+"md5": "113d656780d848644c68074511a5d993",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310862,9 +311236,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje V-Log; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje V-Log; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_V-Log.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 131,
 "diferencia": "-",
@@ -310893,7 +311267,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:fee927576917",
+"md5": "4a3b7eabc90968884e3520fc7155fe44",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310918,9 +311295,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: Arri Log-C a REC709 - WideGamut (normaliza el metraje log antes de etalonar); en la prueba satura todo muy fuerte porque espera metraje log; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Arri Log-C a REC709 - WideGamut (normaliza el metraje log antes de etalonar); en la prueba satura todo muy fuerte porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Arri Log-C to REC709 - WideGamut.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 132,
 "diferencia": "-",
@@ -310949,7 +311326,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:ad2930270a41",
+"md5": "1270fd039dc25bb1471e1f8fd3132949",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -310974,9 +311354,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: Blackmagic Design Film Gen 5 a Blackmagic Design Video Gen 5 (normaliza el metraje log antes de etalonar); en la prueba satura al máximo porque espera metraje log; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Blackmagic Design Film Gen 5 a Blackmagic Design Video Gen 5 (normaliza el metraje log antes de etalonar); en la prueba satura al máximo porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Blackmagic Design Film Gen 5 to Blackmagic Design Video Gen 5.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 133,
 "diferencia": "-",
@@ -311005,7 +311385,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:64dc5dcf4a75",
+"md5": "4285683c4e085f2cbf0a6446ee97b406",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -311030,9 +311413,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: Blackmagic Design Film Gen 5 a REC709 - Wide Gamut Gen 4-5 (normaliza el metraje log antes de etalonar); en la prueba satura mucho porque espera metraje log; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Blackmagic Design Film Gen 5 a REC709 - Wide Gamut Gen 4-5 (normaliza el metraje log antes de etalonar); en la prueba satura mucho porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Blackmagic Design Film Gen 5 to REC709 - Wide Gamut Gen 4-5.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 134,
 "diferencia": "-",
@@ -311061,7 +311444,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:31a9f2184586",
+"md5": "51901d2460fca357b4d49b418abf3934",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -311086,9 +311472,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: Canon Log a REC709 - Cinema Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log; dudoso: igual que la del mismo nombre en 16mm Package (LUT técnica estándar, probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Canon Log a REC709 - Cinema Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Canon Log to REC709 - Cinema Gamut.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 135,
 "diferencia": "-",
@@ -311117,7 +311503,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg",
+"duplicado_de": "ab:c96cccbf0892",
+"md5": "25f7dae8d36a0eb6f631f3df823e6908",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -311142,9 +311531,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: Canon Log2 a REC709 - Cinema Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log; dudoso: igual que la del mismo nombre en 16mm Package (LUT técnica estándar, probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Canon Log2 a REC709 - Cinema Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Canon Log2 to REC709 - Cinema Gamut.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 136,
 "diferencia": "-",
@@ -311173,7 +311562,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg",
+"duplicado_de": "ab:fcf9bbd14272",
+"md5": "659fc19da34dcb892bb6bb8c9bbfdba9",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -311198,9 +311590,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: Canon Log3 a REC709 - Cinema Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log; dudoso: igual que la del mismo nombre en 16mm Package (LUT técnica estándar, probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Canon Log3 a REC709 - Cinema Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Canon Log3 to REC709 - Cinema Gamut.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 137,
 "diferencia": "-",
@@ -311229,7 +311621,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg",
+"duplicado_de": "ab:fed7561cdec5",
+"md5": "f4af710d7b4609beb193d92c1f40b4c8",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -311254,9 +311649,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: DJI D-Log a REC709 - DJI D-Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log; dudoso: igual que la del mismo nombre en 16mm Package (LUT técnica estándar, probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: DJI D-Log a REC709 - DJI D-Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de DJI D-Log to REC709 - DJI D-Gamut.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 138,
 "diferencia": "-",
@@ -311285,7 +311680,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg",
+"duplicado_de": "ab:5372c2fe3dca",
+"md5": "b997e98dab02f6b2ced94aeab0c9af40",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -311310,9 +311708,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: Fuji FLog a REC709 - FGamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log; dudoso: igual que la del mismo nombre en 16mm Package (LUT técnica estándar, probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Fuji FLog a REC709 - FGamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Fuji FLog to REC709 - FGamut.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 139,
 "diferencia": "-",
@@ -311341,7 +311739,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg",
+"duplicado_de": "ab:860f1b99ed6b",
+"md5": "236d8521b39e52c06a152a607bb8e05b",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -311366,9 +311767,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: Fuji FLog2 a REC709 - FGamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log; dudoso: igual que la del mismo nombre en 16mm Package (LUT técnica estándar, probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Fuji FLog2 a REC709 - FGamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Fuji FLog2 to REC709 - FGamut.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 140,
 "diferencia": "-",
@@ -311397,7 +311798,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg",
+"duplicado_de": "ab:edb2ca03e89d",
+"md5": "236d8521b39e52c06a152a607bb8e05b",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -311422,9 +311826,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: Nikon N-Log a REC709 (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log; dudoso: igual que la del mismo nombre en 16mm Package (LUT técnica estándar, probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Nikon N-Log a REC709 (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Nikon N-Log to REC709.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 141,
 "diferencia": "-",
@@ -311453,7 +311857,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg",
+"duplicado_de": "ab:a9d7152636aa",
+"md5": "c363acb001514e140112ff05611e0917",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -311478,9 +311885,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: Panasonic V-Log a REC709 - V-Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log; dudoso: igual que la del mismo nombre en 16mm Package (LUT técnica estándar, probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Panasonic V-Log a REC709 - V-Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Panasonic V-Log to REC709 - V-Gamut.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 142,
 "diferencia": "-",
@@ -311509,7 +311916,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg",
+"duplicado_de": "ab:1267a5a67dff",
+"md5": "8d80c9ca2d22b6cc037ab6bbeacf4d93",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -311534,9 +311944,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: RED Log3G10 a REC709 - REDWideGamutRGB (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log; dudoso: igual que la del mismo nombre en 16mm Package (LUT técnica estándar, probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: RED Log3G10 a REC709 - REDWideGamutRGB (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de RED Log3G10 to REC709 - REDWideGamutRGB.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 143,
 "diferencia": "-",
@@ -311565,7 +311975,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg",
+"duplicado_de": "ab:d396bab1f170",
+"md5": "f23b8e72c632cb2fda39e6e73ca8f420",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -311590,9 +312003,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: REDgamma4 a REC709 - REDWideGamutRGB (normaliza el metraje log antes de etalonar); en la prueba más apagada y con azul en el papel milimetrado; dudoso: igual que la del mismo nombre en 16mm Package (LUT técnica estándar, probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: REDgamma4 a REC709 - REDWideGamutRGB (normaliza el metraje log antes de etalonar); en la prueba más apagada y con azul en el papel milimetrado",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de REDgamma4 to REC709 - REDWideGamutRGB.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 144,
 "diferencia": "-",
@@ -311621,7 +312034,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg",
+"duplicado_de": "ab:a814b66c7c1d",
+"md5": "c2e578f9420710db4b9008c4740e10e9",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -311646,9 +312062,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: REDlogFilm a REC709 - REDWideGamutRGB (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log; dudoso: igual que la del mismo nombre en 16mm Package (LUT técnica estándar, probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: REDlogFilm a REC709 - REDWideGamutRGB (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de REDlogFilm to REC709 - REDWideGamutRGB.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 145,
 "diferencia": "-",
@@ -311677,7 +312093,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg",
+"duplicado_de": "ab:b1886fbd7e5f",
+"md5": "41b3a629265c9acb87cc4ff631472bc3",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -311702,9 +312121,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: Sony S-Log a REC709 - Sony S-Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log; dudoso: igual que la del mismo nombre en 16mm Package (LUT técnica estándar, probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Sony S-Log a REC709 - Sony S-Gamut (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Sony S-Log to REC709 - Sony S-Gamut.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 146,
 "diferencia": "-",
@@ -311733,7 +312152,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg",
+"duplicado_de": "ab:becf7201159c",
+"md5": "c37a996056c2c99d76fff6f9dfbc9df7",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -311758,9 +312180,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: Sony S-Log2 a REC709 - Sony S-Gamut3.Cine (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log; dudoso: igual que la del mismo nombre en 16mm Package (LUT técnica estándar, probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Sony S-Log2 a REC709 - Sony S-Gamut3.Cine (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Sony S-Log2 to REC709 - Sony S-Gamut3.Cine.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 147,
 "diferencia": "-",
@@ -311789,7 +312211,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg",
+"duplicado_de": "ab:9f0cadce8ce9",
+"md5": "69102d6093a4985e6769299b06713de6",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -311814,9 +312239,9 @@
 "tamano": null
 },
 "revision": {
-"que_es": "LUT técnica de conversión: Sony S-Log3 a REC709 - Sony S-Gamut3.Cine (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log; dudoso: igual que la del mismo nombre en 16mm Package (LUT técnica estándar, probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Sony S-Log3 a REC709 - Sony S-Gamut3.Cine (normaliza el metraje log antes de etalonar); en la prueba satura y contrasta mucho porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Sony S-Log3 to REC709 - Sony S-Gamut3.Cine.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 148,
 "diferencia": "-",
@@ -311845,7 +312270,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r04.jpg",
+"duplicado_de": "ab:1b01f0f97cdc",
+"md5": "9a2e9d2ce48d36563d9964e7588887b2",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 },
 {
@@ -341123,9 +341551,9 @@
 "confianza": "familia de sonidos del pack (ACIDBITE no los empareja uno a uno)"
 },
 "revision": {
-"que_es": "negro y luego barrido por una habitación con ventanas (se ve un interior)",
+"que_es": "negro → destello blanco → barrido movido por un interior con ventanas (sin personas ni texto) → negro",
 "calidad": 4,
-"defectos": "dudoso: parece filmar un interior real más que la pantalla",
+"defectos": "ninguno",
 "familia": "ab_crt_wipe",
 "variante": 26,
 "diferencia": "-",
@@ -341156,6 +341584,7 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_CRT_Elements-21.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
 "audio_conocido": {
 "incrustado": false,
 "sfx_familia": [
@@ -351546,9 +351975,9 @@
 "incrustado": true
 },
 "revision": {
-"que_es": "negro con formas pequeñas naranjas sueltas y luego mancha incandescente que crece",
+"que_es": "cintas incandescentes naranjas sobre negro: estrellas, letras sueltas (S, 2, x) y figuras; luego manchas que arden y perforaciones de película",
 "calidad": 4,
-"defectos": "dudoso: una de las formas pequeñas del inicio parece una esvástica; revisar antes de usar",
+"defectos": "hacia 0,04 s una de las figuras de cinta (cruz con brazos curvados) recuerda a una esvástica: evitar ese tramo en trabajos visibles",
 "familia": "ab_dynamixxx",
 "variante": 36,
 "diferencia": "-",
@@ -351561,7 +351990,7 @@
 "color": "colores invertidos",
 "orient": "16:9",
 "estilo": "película pintada y raspada, macro",
-"contenido": "posible símbolo sensible",
+"contenido": "símbolo sensible (parecido a esvástica) en 0,04 s",
 "comportamiento": "cambia a saltos cada fotograma",
 "medidas": {
 "fuente_medida": "tira",
@@ -351579,6 +352008,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_DynamiXXX-06.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "hacia 0,04 s una de las figuras de cinta (cruz con brazos curvados) recuerda a una esvástica: evitar ese tramo en trabajos visibles",
 "audio_conocido": {
 "incrustado": true
 },
@@ -362312,7 +362743,7 @@
 "revision": {
 "que_es": "papel azul y verde con cruz; ventanas que se dividen; recortes de OJOS de una foto",
 "calidad": 4,
-"defectos": "dudoso: recortes de ojos de una persona real en dos fotogramas",
+"defectos": "incluye recortes de OJOS de una foto real de una persona: no usar si no se quiere un rostro real",
 "familia": "ab_mixed_marco",
 "variante": 8,
 "diferencia": "-",
@@ -362325,7 +362756,7 @@
 "color": "papeles de colores (alfa en la ventana)",
 "orient": "16:9",
 "estilo": "collage de papel escaneado, stop motion",
-"contenido": "recortes de ojos de foto",
+"contenido": "ojos recortados de una foto de persona real",
 "comportamiento": "papeles y ventana cambian a saltos (stop motion)",
 "medidas": {
 "fuente_medida": "tira",
@@ -362343,6 +362774,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Super_Mixed_Media_Pack-02.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "incluye recortes de OJOS de una foto real de una persona: no usar si no se quiere un rostro real",
 "audio_conocido": {
 "incrustado": true
 },
@@ -364955,9 +365388,9 @@
 "incrustado": true
 },
 "revision": {
-"que_es": "collage de estrellas azules, cruces blancas, garabatos y papeles con firma",
+"que_es": "collage animado: papeles turquesa, cruces de pintura blanca, garabatos y papelitos con firmas garabateadas (inventadas, ilegibles) sobre fondo transparente",
 "calidad": 4,
-"defectos": "dudoso: papeles con firmas o garabatos manuscritos",
+"defectos": "ninguno",
 "familia": "ab_mixed_alfa",
 "variante": 11,
 "diferencia": "-",
@@ -364970,7 +365403,7 @@
 "color": "negro con collage (alfa en el hueco)",
 "orient": "16:9",
 "estilo": "collage de papel escaneado, stop motion",
-"contenido": "garabatos manuscritos",
+"contenido": "firmas garabateadas inventadas, no identificables",
 "comportamiento": "el hueco crece a saltos hasta cubrir el cuadro",
 "medidas": {
 "fuente_medida": "tira",
@@ -364988,6 +365421,7 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Super_Mixed_Media_Pack-07.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
 "audio_conocido": {
 "incrustado": true
 },
@@ -365313,9 +365747,9 @@
 "incrustado": true
 },
 "revision": {
-"que_es": "papeles rosa moteado y negro que cubren a saltos; texto manuscrito ilegible",
+"que_es": "papeles negros y rosa moteado que cubren a saltos, con líneas a tinta y un renglón de letra manuscrita inventada (asémica, no dice nada)",
 "calidad": 4,
-"defectos": "dudoso: texto manuscrito ilegible en un fotograma",
+"defectos": "ninguno",
 "familia": "ab_mixed_overlay",
 "variante": 3,
 "diferencia": "-",
@@ -365328,7 +365762,7 @@
 "color": "papeles de colores sobre negro",
 "orient": "16:9",
 "estilo": "collage de papel escaneado, stop motion",
-"contenido": "texto manuscrito ilegible",
+"contenido": "escritura asémica (imita letra, no se lee)",
 "comportamiento": "collage que cubre el cuadro a saltos y vuelve a negro",
 "medidas": {
 "fuente_medida": "tira",
@@ -365346,6 +365780,7 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Super_Mixed_Media_Pack-08.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
 "audio_conocido": {
 "incrustado": true
 },
@@ -366794,17 +367229,17 @@
 "confianza": "por duración: el nombre apunta a «Collage.03.wav», pero dura 2.08 s y el clip 2.42 s; «Collage.02.wav» dura exactamente lo mismo (ACIDBITE cruzó los nombres)"
 },
 "revision": {
-"que_es": "papel negro cortado en rectángulos (sin ventanas visibles), casi quieto",
+"que_es": "fondo casi quieto de papel negro texturado partido en 4–5 rectángulos con filos claros; a 1,96 s cambia la trama (parpadeo)",
 "calidad": 4,
-"defectos": "dudoso: no se ven huecos transparentes claros",
+"defectos": "ninguno",
 "familia": "ab_papel_collage",
 "variante": 3,
 "diferencia": "-",
 "mejor_de_familia": false,
 "uso": "marco de collage con varias ventanas",
 "modo": "normal (alfa)",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "fondo oscuro de collage casi quieto",
+"evitar_si": "si buscas movimiento",
 "escala": "3840×2160, 2.42 s a 24.0 fps, sin loop",
 "color": "papel con ventanas (alfa)",
 "orient": "16:9",
@@ -366827,6 +367262,7 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Ultimate_Paper_Pack-02.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
 "audio_conocido": {
 "incrustado": true,
 "sfx": [
@@ -367379,9 +367815,9 @@
 "confianza": "nombre y duración coinciden"
 },
 "revision": {
-"que_es": "clips metálicos, garabatos azules y rayas sobre negro",
+"que_es": "papel negro arrugado con grietas blancas, clips metálicos y garabatos azules de escritura inventada (asémica) que aparecen a saltos",
 "calidad": 4,
-"defectos": "dudoso: garabatos manuscritos ilegibles",
+"defectos": "ninguno",
 "familia": "ab_papel_opener",
 "variante": 3,
 "diferencia": "-",
@@ -367394,7 +367830,7 @@
 "color": "blanco y color sobre negro",
 "orient": "16:9",
 "estilo": "objetos de papelería escaneados, stop motion",
-"contenido": "garabatos manuscritos",
+"contenido": "escritura asémica, sin texto real",
 "comportamiento": "los elementos aparecen y desaparecen a saltos",
 "medidas": {
 "fuente_medida": "tira",
@@ -367412,6 +367848,7 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Ultimate_Paper_Pack-03.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
 "audio_conocido": {
 "incrustado": true,
 "sfx": [
@@ -367764,9 +368201,9 @@
 "confianza": "nombre y duración coinciden"
 },
 "revision": {
-"que_es": "papel blanco con garabatos y texto manuscrito ilegible en negro, celo",
+"que_es": "papel blanco arrugado con garabatos y renglones de escritura inventada (asémica, imita letra manuscrita, no dice nada), celo y roturas",
 "calidad": 4,
-"defectos": "CORRECCIÓN: el índice dice trama pero es negro sobre blanco: usar multiplicar; dudoso: texto manuscrito ilegible",
+"defectos": "ninguno",
 "familia": "ab_papel_opener",
 "variante": 7,
 "diferencia": "-",
@@ -367779,7 +368216,7 @@
 "color": "negro sobre blanco",
 "orient": "16:9",
 "estilo": "objetos de papelería escaneados, stop motion",
-"contenido": "texto manuscrito ilegible",
+"contenido": "escritura asémica, sin texto real",
 "comportamiento": "los elementos aparecen y desaparecen a saltos",
 "medidas": {
 "fuente_medida": "tira",
@@ -367797,6 +368234,7 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Ultimate_Paper_Pack-04.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
 "audio_conocido": {
 "incrustado": true,
 "sfx": [
@@ -376832,9 +377270,9 @@
 "licencia": "ACIDBITE: pago, uso propio, no redistribuir",
 "hoja": "TEXTURAS/acidbite/hojas/ebd4678aed63.jpg",
 "revision": {
-"que_es": "símbolo rojo: D con raya en medio (parece un plano)",
+"que_es": "letra D tachada en horizontal (como Đ) a rotulador rojo; sirve como marca de corrección o nota",
 "calidad": 4,
-"defectos": "dudoso: símbolo poco claro (D o puerta)",
+"defectos": "ninguno",
 "familia": "ab_pincelada",
 "variante": 59,
 "diferencia": "-",
@@ -376847,7 +377285,7 @@
 "color": "rojo (alfa)",
 "orient": "según la pieza",
 "estilo": "rotulador real escaneado",
-"contenido": "sin texto",
+"contenido": "letra Đ (D tachada)",
 "medidas": {
 "fuente_medida": "tira",
 "w": 1480,
@@ -376863,7 +377301,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Ultimate_Paper_Pack_imagen-r04.jpg"
+"hoja": "revision/hojas/ab_Ultimate_Paper_Pack_imagen-r04.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 }
 },
 {
@@ -385793,17 +386232,17 @@
 "incrustado": false
 },
 "revision": {
-"que_es": "minúscula «r» con el gancho hacia la izquierda (parece r en espejo o un 7)",
+"que_es": "trazo de tiza en forma de «r» minúscula pero con el gancho hacia la IZQUIERDA (r en espejo); animado a saltos",
 "calidad": 3,
-"defectos": "dudoso: la r está dibujada como en espejo",
+"defectos": "leída como letra es una r en espejo: voltéala en horizontal para una r normal",
 "familia": "ab_marcador_letra",
 "variante": 44,
 "diferencia": "-",
 "mejor_de_familia": false,
 "uso": "letra a mano animada",
 "modo": "normal (alfa)",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "trazo suelto, o r volteada",
+"evitar_si": "como «r» tal cual",
 "escala": "2000×2000, 2.00 s a 10.0 fps, sin loop",
 "color": "blanco granulado (alfa)",
 "orient": "cuadrado",
@@ -385826,6 +386265,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Animated_Markers-10.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "leída como letra es una r en espejo: voltéala en horizontal para una r normal",
 "audio_conocido": {
 "incrustado": false
 },
@@ -406416,9 +406857,9 @@
 "incrustado": true
 },
 "revision": {
-"que_es": "letras amarillas rayadas que cambian cada fotograma (texto en vertical)",
+"que_es": "garabatos amarillos rayados que cambian cada fotograma (trazos sueltos, no forman palabras legibles)",
 "calidad": 4,
-"defectos": "dudoso: las letras no forman una palabra clara",
+"defectos": "ninguno",
 "familia": "ab_cinemarker2",
 "variante": 1,
 "diferencia": "-",
@@ -406431,7 +406872,7 @@
 "color": "de colores sobre negro",
 "orient": "16:9",
 "estilo": "película rayada a mano",
-"contenido": "letras rayadas",
+"contenido": "garabatos, sin texto legible",
 "comportamiento": "la marca vibra a saltos (boiling)",
 "medidas": {
 "fuente_medida": "tira",
@@ -406449,6 +406890,7 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Cinemarkers_2-01.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
 "audio_conocido": {
 "incrustado": true
 },
@@ -406765,9 +407207,9 @@
 "incrustado": true
 },
 "revision": {
-"que_es": "letras «ab» rojas rayadas (probable logo de ACIDBITE)",
-"calidad": 4,
-"defectos": "dudoso: firma de la marca",
+"que_es": "letras «ab» rojas rayadas a saltos: LOGO de ACIDBITE; al final garabatos amarillos",
+"calidad": 2,
+"defectos": "logo de ACIDBITE: no usar en trabajos propios salvo que se quiera la marca",
 "familia": "ab_cinemarker2",
 "variante": 5,
 "diferencia": "-",
@@ -406780,7 +407222,7 @@
 "color": "de colores sobre negro",
 "orient": "16:9",
 "estilo": "película rayada a mano",
-"contenido": "letras ab (marca)",
+"contenido": "logo «ab» de ACIDBITE",
 "comportamiento": "la marca vibra a saltos (boiling)",
 "medidas": {
 "fuente_medida": "tira",
@@ -406798,6 +407240,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Cinemarkers_2-01.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "logo de ACIDBITE: no usar en trabajos propios salvo que se quiera la marca",
 "audio_conocido": {
 "incrustado": true
 },
@@ -411911,9 +412355,9 @@
 "incrustado": true
 },
 "revision": {
-"que_es": "letras «ab» blancas en vertical (probable logo de ACIDBITE)",
-"calidad": 4,
-"defectos": "dudoso: firma de la marca",
+"que_es": "letras «ab» blancas en vertical sobre película negra rayada: LOGO de ACIDBITE; al final garabatos amarillos",
+"calidad": 2,
+"defectos": "logo de ACIDBITE: no usar en trabajos propios salvo que se quiera la marca",
 "familia": "ab_cinemarker2",
 "variante": 63,
 "diferencia": "-",
@@ -411926,7 +412370,7 @@
 "color": "de colores sobre negro",
 "orient": "16:9",
 "estilo": "pintura sobre película",
-"contenido": "letras ab (marca)",
+"contenido": "logo «ab» de ACIDBITE",
 "comportamiento": "vibra a saltos (boiling)",
 "medidas": {
 "fuente_medida": "tira",
@@ -411944,6 +412388,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Cinemarkers_2-11.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "logo de ACIDBITE: no usar en trabajos propios salvo que se quiera la marca",
 "audio_conocido": {
 "incrustado": true
 },
@@ -416732,9 +417178,9 @@
 "incrustado": true
 },
 "revision": {
-"que_es": "letras «ab» pintadas en crema (probable logo de ACIDBITE)",
-"calidad": 4,
-"defectos": "dudoso: parece la firma o logo de la marca, no usar como texto propio",
+"que_es": "letras «ab» pintadas en crema que tiemblan a saltos: es el LOGO de ACIDBITE",
+"calidad": 2,
+"defectos": "logo de ACIDBITE: no usar en trabajos propios salvo que se quiera la marca",
 "familia": "ab_cinemarker",
 "variante": 41,
 "diferencia": "-",
@@ -416747,7 +417193,7 @@
 "color": "de colores sobre negro",
 "orient": "16:9",
 "estilo": "película real pintada",
-"contenido": "letras ab (marca)",
+"contenido": "logo «ab» de ACIDBITE",
 "comportamiento": "se redibuja a saltos (stop motion)",
 "medidas": {
 "fuente_medida": "tira",
@@ -416765,6 +417211,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Cinemarkers-09.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "logo de ACIDBITE: no usar en trabajos propios salvo que se quiera la marca",
 "audio_conocido": {
 "incrustado": true
 },
@@ -460852,15 +461300,15 @@
 "revision": {
 "que_es": "media burbuja: solo la mitad inferior visible",
 "calidad": 3,
-"defectos": "dudoso: la parte superior es tan transparente que desaparece; se ve como un cuenco",
+"defectos": "es media pompa; la pompa entera está en burbujas_229_07 (rehecha 20-11-2026)",
 "familia": "pieza_burbuja",
 "variante": 7,
 "diferencia": "media",
 "mejor_de_familia": false,
 "uso": "reflejo parcial, burbuja muy tenue",
 "modo": "trama",
-"usar_si": "sobre fondo con luz",
-"evitar_si": "si esperas una esfera completa",
+"usar_si": "pompa asomando por un borde",
+"evitar_si": "si necesitas la pompa entera: usa burbujas_229_07",
 "color": "arcoíris",
 "orient": "arco abajo",
 "escala": "media",
@@ -460882,7 +461330,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r01.jpg"
+"hoja": "revision/hojas/pr_piezas-r01.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "es media pompa; la pompa entera está en burbujas_229_07 (rehecha 20-11-2026)"
 }
 },
 {
@@ -460903,15 +461353,15 @@
 "revision": {
 "que_es": "media burbuja: solo el arco superior visible",
 "calidad": 3,
-"defectos": "dudoso: la mitad inferior apenas existe",
+"defectos": "es media pompa; la pompa entera está en burbujas_229_07 (rehecha 20-11-2026)",
 "familia": "pieza_burbuja",
 "variante": 8,
 "diferencia": "media",
 "mejor_de_familia": false,
 "uso": "burbuja tenue",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "si esperas esfera completa",
+"usar_si": "pompa asomando por un borde",
+"evitar_si": "si necesitas la pompa entera: usa burbujas_229_07",
 "color": "arcoíris",
 "orient": "arco arriba",
 "escala": "media",
@@ -460933,7 +461383,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r01.jpg"
+"hoja": "revision/hojas/pr_piezas-r01.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "es media pompa; la pompa entera está en burbujas_229_07 (rehecha 20-11-2026)"
 }
 },
 {

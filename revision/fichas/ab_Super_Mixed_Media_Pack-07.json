@@ -70,9 +70,9 @@
 "hoja": "revision/hojas/ab_Super_Mixed_Media_Pack-07.jpg"
 },
 "ab:79cd59a95518": {
-"que_es": "collage de estrellas azules, cruces blancas, garabatos y papeles con firma",
+"que_es": "collage animado: papeles turquesa, cruces de pintura blanca, garabatos y papelitos con firmas garabateadas (inventadas, ilegibles) sobre fondo transparente",
 "calidad": 4,
-"defectos": "dudoso: papeles con firmas o garabatos manuscritos",
+"defectos": "ninguno",
 "familia": "ab_mixed_alfa",
 "variante": 11,
 "diferencia": "-",
@@ -85,7 +85,7 @@
 "color": "negro con collage (alfa en el hueco)",
 "orient": "16:9",
 "estilo": "collage de papel escaneado, stop motion",
-"contenido": "garabatos manuscritos",
+"contenido": "firmas garabateadas inventadas, no identificables",
 "comportamiento": "el hueco crece a saltos hasta cubrir el cuadro",
 "medidas": {
 "fuente_medida": "tira",
@@ -102,7 +102,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_Mixed_Media_Pack-07.jpg"
+"hoja": "revision/hojas/ab_Super_Mixed_Media_Pack-07.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 },
 "ab:49e6a04203e2": {
 "que_es": "papel oscuro con garabatos naranjas; huecos redondos que crecen",

@@ -35,9 +35,9 @@
 "hoja": "revision/hojas/ab_CRT_Elements-21.jpg"
 },
 "ab:acbd63eb8467": {
-"que_es": "negro y luego barrido por una habitación con ventanas (se ve un interior)",
+"que_es": "negro → destello blanco → barrido movido por un interior con ventanas (sin personas ni texto) → negro",
 "calidad": 4,
-"defectos": "dudoso: parece filmar un interior real más que la pantalla",
+"defectos": "ninguno",
 "familia": "ab_crt_wipe",
 "variante": 26,
 "diferencia": "-",
@@ -67,7 +67,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_CRT_Elements-21.jpg"
+"hoja": "revision/hojas/ab_CRT_Elements-21.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 },
 "ab:f2ee8afba67b": {
 "que_es": "barrido diagonal gris con líneas oscuras",

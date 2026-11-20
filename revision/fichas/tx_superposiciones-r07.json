@@ -299,15 +299,15 @@
 "tx:superposiciones/degradados/horizonte_abstracto_tonos_grisaceos_0367": {
 "que_es": "degradado horizontal de grises: claro arriba, banda oscura, gris abajo (tipo horizonte o tubo metálico)",
 "calidad": 3,
-"defectos": "dudoso: parece foto desenfocada de metal/horizonte; poco uso como textura",
+"defectos": "ninguno",
 "familia": "degradado_horizonte",
 "variante": 1,
 "diferencia": "degradado",
 "mejor_de_familia": false,
 "uso": "fondo de gradiente, reflejo metálico",
 "modo": "multiplicar o superponer",
-"usar_si": "fondo de producto",
-"evitar_si": "quieres textura",
+"usar_si": "fondo degradado gris o luz de horizonte",
+"evitar_si": "como textura con detalle (no lo tiene)",
 "color": "gris azulado",
 "orient": "bandas horizontales",
 "escala": "1254 px",
@@ -327,7 +327,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_superposiciones-r07.jpg"
+"hoja": "revision/hojas/tx_superposiciones-r07.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 },
 "tx:superposiciones/fotocopia/textura_fotocopia_sucia_blanco_negro_0406": {
 "que_es": "fotocopia sucia blanca con motas negras y nubes grises",

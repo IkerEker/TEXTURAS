@@ -31,7 +31,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:2d076ee7aa21"
+],
+"md5": "ebb93353107eab263c68cf8e7c0e90c9"
 },
 "ab:d313e6550166": {
 "que_es": "LUT de película cálido de 16mm Package para metraje Rec709; en la prueba la más natural y suave de las cálidas",
@@ -65,7 +69,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:4083df97e646"
+],
+"md5": "627bdfbb1c95c813efccc7fccef412ef"
 },
 "ab:3d79a740b58b": {
 "que_es": "LUT de película cálido de 16mm Package para metraje Rec709 CanonLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
@@ -99,7 +107,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:a1d37b04aea2"
+],
+"md5": "36508b26fa000cf20fc2febbcc61d371"
 },
 "ab:a015b1b03a44": {
 "que_es": "LUT de película cálido de 16mm Package para metraje Rec709 CanonLog2; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
@@ -133,7 +145,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:2cd105e5ef6c"
+],
+"md5": "a3120f2f880b8e6aa1f1a3a1031ab074"
 },
 "ab:43dbbba37596": {
 "que_es": "LUT de película cálido de 16mm Package para metraje Rec709 CanonLog3; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
@@ -167,7 +183,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:d9b327bc9338"
+],
+"md5": "ee19cfb39953dfde760bfaf82373af54"
 },
 "ab:f3c43b101295": {
 "que_es": "LUT de película cálido de 16mm Package para metraje Rec709 DLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
@@ -201,7 +221,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:111a34324ed4"
+],
+"md5": "b76d7cab75021984763e4c0b114d3a07"
 },
 "ab:ef78b2bf89c5": {
 "que_es": "LUT de película cálido de 16mm Package para metraje Rec709 FLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
@@ -235,7 +259,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:dba23c60658d"
+],
+"md5": "4c48863a18061caf454a8ae1eea1ff9e"
 },
 "ab:37dde433b451": {
 "que_es": "LUT de película cálido de 16mm Package para metraje Rec709 FLog2; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
@@ -269,7 +297,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:19e6efd2b4db"
+],
+"md5": "4c48863a18061caf454a8ae1eea1ff9e"
 },
 "ab:3de530e34125": {
 "que_es": "LUT de película cálido de 16mm Package para metraje Rec709 REDLog3G10; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
@@ -303,7 +335,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:8831ba127e1b"
+],
+"md5": "e1e808c61caee4dab0491d8cf175a3ad"
 },
 "ab:c9d714a9d960": {
 "que_es": "LUT de película cálido de 16mm Package para metraje Rec709 SLog; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
@@ -337,7 +373,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:959f466ccb4e"
+],
+"md5": "737e1d2b3af9b7fd386ed76e50d198d2"
 },
 "ab:ca4a3798f5e5": {
 "que_es": "LUT de película cálido de 16mm Package para metraje Rec709 SLog2; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
@@ -371,7 +411,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:1c012aa3497b"
+],
+"md5": "1e23e347e571b3c8cfbb172c73ebe758"
 },
 "ab:2e2b4200ae86": {
 "que_es": "LUT de película cálido de 16mm Package para metraje SLog3; en la prueba satura mucho los rojos (es para S-Log3)",
@@ -405,7 +449,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:afe16f05a396"
+],
+"md5": "7d213d2e4ede97f2291cee31bc152379"
 },
 "ab:ab4801e41b43": {
 "que_es": "LUT de película cálido de 16mm Package para metraje V-Log; en la prueba: tono cálido, naranjas y crema, blancos amarillentos, sombras verdosas",
@@ -439,7 +487,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:e176fe5fe866"
+],
+"md5": "10cfd693a3ff05aa3b11012c8ab83ada"
 },
 "ab:defbf65d2d02": {
 "que_es": "LUT de película neutro de 16mm Package para metraje ARRILog-C; en la prueba neutra: colores naturales con algo de contraste",
@@ -473,7 +525,11 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:40fd75fde404"
+],
+"md5": "8173790f8f9e4650874582f27de4e9b6"
 },
 "ab:3097bd98ea48": {
 "que_es": "LUT de película neutro de 16mm Package para metraje Blackmagic; en la prueba neutra con amarillos dorados y blancos limpios",
@@ -507,6 +563,10 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg"
+"hoja": "revision/hojas/ab_16mm_Package_lut-r02.jpg",
+"copias_identicas": [
+"ab:531771c8bdc5"
+],
+"md5": "8cb7daeac10368928524505ad5b69358"
 }
 }

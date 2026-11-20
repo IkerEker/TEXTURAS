@@ -140,9 +140,9 @@
 "hoja": "revision/hojas/ab_Ultimate_Paper_Pack-03.jpg"
 },
 "ab:42ab8ef97da9": {
-"que_es": "clips metálicos, garabatos azules y rayas sobre negro",
+"que_es": "papel negro arrugado con grietas blancas, clips metálicos y garabatos azules de escritura inventada (asémica) que aparecen a saltos",
 "calidad": 4,
-"defectos": "dudoso: garabatos manuscritos ilegibles",
+"defectos": "ninguno",
 "familia": "ab_papel_opener",
 "variante": 3,
 "diferencia": "-",
@@ -155,7 +155,7 @@
 "color": "blanco y color sobre negro",
 "orient": "16:9",
 "estilo": "objetos de papelería escaneados, stop motion",
-"contenido": "garabatos manuscritos",
+"contenido": "escritura asémica, sin texto real",
 "comportamiento": "los elementos aparecen y desaparecen a saltos",
 "medidas": {
 "fuente_medida": "tira",
@@ -172,7 +172,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Ultimate_Paper_Pack-03.jpg"
+"hoja": "revision/hojas/ab_Ultimate_Paper_Pack-03.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 },
 "ab:d671b6623cd3": {
 "que_es": "pinceladas blancas grandes y rayas sobre negro",

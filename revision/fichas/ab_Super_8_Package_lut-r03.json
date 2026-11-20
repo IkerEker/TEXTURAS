@@ -1,8 +1,8 @@
 {
 "ab:15c4f65a3f5c": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709; en la prueba la más suave, apaga el espectro; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709; en la prueba la más suave, apaga el espectro",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 120,
 "diferencia": "-",
@@ -31,12 +31,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:387e253f8136",
+"md5": "6c35a81b3a474365f29d40bcce08f611",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:8327b7427684": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 CanonLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 CanonLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_CanonLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 121,
 "diferencia": "-",
@@ -65,12 +68,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:3890eab9a4b5",
+"md5": "ac93661352054d3c0609b6cf7c45966f",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:ee6af5bcc4e1": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 CanonLog2; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 CanonLog2; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_CanonLog2.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 122,
 "diferencia": "-",
@@ -99,12 +105,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:5f7288ee46c9",
+"md5": "6d635abec6dec47c08ae94b0c9bfdd81",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:792942e12ce2": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 CanonLog3; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 CanonLog3; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_CanonLog3.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 123,
 "diferencia": "-",
@@ -133,12 +142,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:f90188f7ba7c",
+"md5": "feb83ef94ea113e2f256d2c3879f2153",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:37dea81c7c7a": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 DLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 DLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_DLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 124,
 "diferencia": "-",
@@ -167,12 +179,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:1335ade3a344",
+"md5": "daa735e47087f373f9d711b40782d160",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:987129cae093": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 FLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 FLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_FLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 125,
 "diferencia": "-",
@@ -201,12 +216,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:4af175b2c611",
+"md5": "85a39fb106d101ba7700b8d48ef45499",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:be2961b34d23": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 FLog2; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 FLog2; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_FLog2.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 126,
 "diferencia": "-",
@@ -235,12 +253,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:50de886c858e",
+"md5": "85a39fb106d101ba7700b8d48ef45499",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:aa216a92162a": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 REDLog3G10; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 REDLog3G10; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_REDLog3G10.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 127,
 "diferencia": "-",
@@ -269,12 +290,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:9c5ffa970f91",
+"md5": "848d82a55cb74d66fc6ccafa62802ac3",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:fef85cf0d6ee": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 SLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 SLog; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_SLog.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 128,
 "diferencia": "-",
@@ -303,12 +327,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:43de32d4a49f",
+"md5": "01650880275e3a7b16e9aafe80bca9ed",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:a1b9d1fbbd22": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 SLog2; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje Rec709 SLog2; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_Rec709_SLog2.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 129,
 "diferencia": "-",
@@ -337,12 +364,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:17163e0e59ef",
+"md5": "34509ac6ee853b3ba25b0496d303491b",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:3c067c13b74d": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje SLog3; en la prueba satura mucho los rojos (es para S-Log3); dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje SLog3; en la prueba satura mucho los rojos (es para S-Log3)",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_SLog3.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 130,
 "diferencia": "-",
@@ -371,12 +401,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:ac2ba4698354",
+"md5": "113d656780d848644c68074511a5d993",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:88669d1981fc": {
-"que_es": "LUT de película neutro de Super 8 Package para metraje V-Log; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT de película neutro de Super 8 Package para metraje V-Log; en la prueba neutra: colores naturales, algo de contraste y amarillos dorados",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de FilmLUT_V-Log.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 131,
 "diferencia": "-",
@@ -405,12 +438,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:fee927576917",
+"md5": "4a3b7eabc90968884e3520fc7155fe44",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:f03b7d12d7ea": {
-"que_es": "LUT técnica de conversión: Arri Log-C a REC709 - WideGamut (normaliza el metraje log antes de etalonar); en la prueba satura todo muy fuerte porque espera metraje log; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Arri Log-C a REC709 - WideGamut (normaliza el metraje log antes de etalonar); en la prueba satura todo muy fuerte porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Arri Log-C to REC709 - WideGamut.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 132,
 "diferencia": "-",
@@ -439,12 +475,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:ad2930270a41",
+"md5": "1270fd039dc25bb1471e1f8fd3132949",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:31eb1e6dbab0": {
-"que_es": "LUT técnica de conversión: Blackmagic Design Film Gen 5 a Blackmagic Design Video Gen 5 (normaliza el metraje log antes de etalonar); en la prueba satura al máximo porque espera metraje log; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Blackmagic Design Film Gen 5 a Blackmagic Design Video Gen 5 (normaliza el metraje log antes de etalonar); en la prueba satura al máximo porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Blackmagic Design Film Gen 5 to Blackmagic Design Video Gen 5.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 133,
 "diferencia": "-",
@@ -473,12 +512,15 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:64dc5dcf4a75",
+"md5": "4285683c4e085f2cbf0a6446ee97b406",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 },
 "ab:6527134e35bc": {
-"que_es": "LUT técnica de conversión: Blackmagic Design Film Gen 5 a REC709 - Wide Gamut Gen 4-5 (normaliza el metraje log antes de etalonar); en la prueba satura mucho porque espera metraje log; dudoso: en la prueba se ve igual que la del mismo nombre en 16mm Package (probablemente el mismo archivo)",
+"que_es": "LUT técnica de conversión: Blackmagic Design Film Gen 5 a REC709 - Wide Gamut Gen 4-5 (normaliza el metraje log antes de etalonar); en la prueba satura mucho porque espera metraje log",
 "calidad": 5,
-"defectos": "ninguno",
+"defectos": "ninguno (copia idéntica byte a byte de Blackmagic Design Film Gen 5 to REC709 - Wide Gamut Gen 4-5.cube de 16mm Package)",
 "familia": "ab_lut",
 "variante": 134,
 "diferencia": "-",
@@ -507,6 +549,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg"
+"hoja": "revision/hojas/ab_Super_8_Package_lut-r03.jpg",
+"duplicado_de": "ab:31a9f2184586",
+"md5": "51901d2460fca357b4d49b418abf3934",
+"nota_pendiente": "resuelto 20-11-2026: md5 idéntico, se usa una sola"
 }
 }

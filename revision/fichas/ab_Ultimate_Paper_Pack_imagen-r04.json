@@ -442,9 +442,9 @@
 "hoja": "revision/hojas/ab_Ultimate_Paper_Pack_imagen-r04.jpg"
 },
 "ab:ebd4678aed63": {
-"que_es": "símbolo rojo: D con raya en medio (parece un plano)",
+"que_es": "letra D tachada en horizontal (como Đ) a rotulador rojo; sirve como marca de corrección o nota",
 "calidad": 4,
-"defectos": "dudoso: símbolo poco claro (D o puerta)",
+"defectos": "ninguno",
 "familia": "ab_pincelada",
 "variante": 59,
 "diferencia": "-",
@@ -457,7 +457,7 @@
 "color": "rojo (alfa)",
 "orient": "según la pieza",
 "estilo": "rotulador real escaneado",
-"contenido": "sin texto",
+"contenido": "letra Đ (D tachada)",
 "medidas": {
 "fuente_medida": "tira",
 "w": 1480,
@@ -473,7 +473,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Ultimate_Paper_Pack_imagen-r04.jpg"
+"hoja": "revision/hojas/ab_Ultimate_Paper_Pack_imagen-r04.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 },
 "ab:0302c95a41a6": {
 "que_es": "triángulo rojo abierto de rotulador grueso",

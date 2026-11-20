@@ -102,7 +102,7 @@ for e in idx:
     if a.donde and not all(cumple(e, c) for c in a.donde): continue
     if a.alfa and not e.get('alfa'): continue
     if a.tileable and not (e.get('tileable') or v.get('tileable')): continue
-    if not a.todo and (v.get('rehacer') or e.get('sustituido_por') or v.get('dudoso')): continue
+    if not a.todo and (v.get('rehacer') or e.get('sustituido_por') or v.get('dudoso') or v.get('duplicado_de')): continue
     if (v.get('calidad') or 0) < a.min: continue
     if a.mejor and not v.get('mejor_de_familia'): continue
     txt = ' '.join([str(e.get(k, '')) for k in ('id', 'desc', 'clase', 'sub', 'pack', 'archivo', 'familia')] +
@@ -124,6 +124,7 @@ if a.json:
 for e in r[:a.n]:
     v = e.get('revision', {})
     print(f"{v.get('calidad', '-')}{'*' if v.get('mejor_de_familia') else ' '} {e['id']:66} {(e.get('modo') or ''):10} {v.get('que_es', '')[:70]}")
+    if v.get('aviso'): print(f"      AVISO: {v['aviso']}")
     if v.get('usar_si') not in (None, '-') or v.get('evitar_si') not in (None, '-'):
         print(f"      usar si: {v.get('usar_si', '-')} · evitar si: {v.get('evitar_si', '-')} · hoja: {v.get('hoja') or e.get('hoja')}")
-print(f'— {len(r)} resultados (nota, * = mejor de su familia)' + ('' if a.todo else '; ocultos REHACER/sustituidos/dudosos: --todo'))
+print(f'— {len(r)} resultados (nota, * = mejor de su familia)' + ('' if a.todo else '; ocultos REHACER/sustituidos/dudosos/copias idénticas: --todo'))

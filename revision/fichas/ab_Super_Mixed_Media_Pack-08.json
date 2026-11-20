@@ -1,8 +1,8 @@
 {
 "ab:4e1a19216c85": {
-"que_es": "papeles rosa moteado y negro que cubren a saltos; texto manuscrito ilegible",
+"que_es": "papeles negros y rosa moteado que cubren a saltos, con líneas a tinta y un renglón de letra manuscrita inventada (asémica, no dice nada)",
 "calidad": 4,
-"defectos": "dudoso: texto manuscrito ilegible en un fotograma",
+"defectos": "ninguno",
 "familia": "ab_mixed_overlay",
 "variante": 3,
 "diferencia": "-",
@@ -15,7 +15,7 @@
 "color": "papeles de colores sobre negro",
 "orient": "16:9",
 "estilo": "collage de papel escaneado, stop motion",
-"contenido": "texto manuscrito ilegible",
+"contenido": "escritura asémica (imita letra, no se lee)",
 "comportamiento": "collage que cubre el cuadro a saltos y vuelve a negro",
 "medidas": {
 "fuente_medida": "tira",
@@ -32,7 +32,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_Mixed_Media_Pack-08.jpg"
+"hoja": "revision/hojas/ab_Super_Mixed_Media_Pack-08.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 },
 "ab:b219b26e67fb": {
 "que_es": "cara dibujada monstruosa (ojos rojos, dientes) en papel cuadriculado, collage",

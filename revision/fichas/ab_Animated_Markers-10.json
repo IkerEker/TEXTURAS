@@ -175,17 +175,17 @@
 "hoja": "revision/hojas/ab_Animated_Markers-10.jpg"
 },
 "ab:4b8c95cdbb22": {
-"que_es": "minúscula «r» con el gancho hacia la izquierda (parece r en espejo o un 7)",
+"que_es": "trazo de tiza en forma de «r» minúscula pero con el gancho hacia la IZQUIERDA (r en espejo); animado a saltos",
 "calidad": 3,
-"defectos": "dudoso: la r está dibujada como en espejo",
+"defectos": "leída como letra es una r en espejo: voltéala en horizontal para una r normal",
 "familia": "ab_marcador_letra",
 "variante": 44,
 "diferencia": "-",
 "mejor_de_familia": false,
 "uso": "letra a mano animada",
 "modo": "normal (alfa)",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "trazo suelto, o r volteada",
+"evitar_si": "como «r» tal cual",
 "escala": "2000×2000, 2.00 s a 10.0 fps, sin loop",
 "color": "blanco granulado (alfa)",
 "orient": "cuadrado",
@@ -207,6 +207,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Animated_Markers-10.jpg"
+"hoja": "revision/hojas/ab_Animated_Markers-10.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "leída como letra es una r en espejo: voltéala en horizontal para una r normal"
 }
 }

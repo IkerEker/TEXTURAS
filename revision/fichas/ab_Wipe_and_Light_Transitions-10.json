@@ -1,8 +1,8 @@
 {
 "ab:22a1d355869e": {
-"que_es": "barrido por escalera mecánica con una persona difusa y luego negro",
+"que_es": "barrido movido por una escalera mecánica; a 0,27 s pasa una persona totalmente desenfocada (irreconocible), luego negro",
 "calidad": 4,
-"defectos": "dudoso: se intuye una persona desenfocada",
+"defectos": "ninguno",
 "familia": "ab_wipe_luz",
 "variante": 55,
 "diferencia": "-",
@@ -15,7 +15,7 @@
 "color": "gris y beige",
 "orient": "16:9",
 "estilo": "cámara movida real por la calle",
-"contenido": "sin texto",
+"contenido": "persona irreconocible por el movimiento",
 "comportamiento": "barrido rápido desenfocado que termina en negro",
 "medidas": {
 "fuente_medida": "tira",
@@ -32,7 +32,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Wipe_and_Light_Transitions-10.jpg"
+"hoja": "revision/hojas/ab_Wipe_and_Light_Transitions-10.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 },
 "ab:6aea705b1922": {
 "que_es": "barrido muy oscuro por túnel o andén con luces bajas",
@@ -140,9 +141,9 @@
 "hoja": "revision/hojas/ab_Wipe_and_Light_Transitions-10.jpg"
 },
 "ab:6106cc6e9c09": {
-"que_es": "barrido por fachadas con letras grandes ilegibles",
+"que_es": "barrido movido por fachadas con columnas y un rótulo ovalado; las letras del rótulo no se leen (sin marcas reconocibles)",
 "calidad": 4,
-"defectos": "dudoso: letras de un rótulo de tienda",
+"defectos": "ninguno",
 "familia": "ab_wipe_luz",
 "variante": 59,
 "diferencia": "-",
@@ -155,7 +156,7 @@
 "color": "gris y beige",
 "orient": "16:9",
 "estilo": "cámara movida real por la calle",
-"contenido": "grafitis o rótulos ilegibles",
+"contenido": "rótulo ilegible",
 "comportamiento": "barrido rápido desenfocado que termina en negro",
 "medidas": {
 "fuente_medida": "tira",
@@ -172,7 +173,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Wipe_and_Light_Transitions-10.jpg"
+"hoja": "revision/hojas/ab_Wipe_and_Light_Transitions-10.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 },
 "ab:8176a1e8e5c4": {
 "que_es": "barrido por escaparates y coche blanco breve y luego negro",

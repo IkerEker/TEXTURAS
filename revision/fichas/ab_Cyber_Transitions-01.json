@@ -35,9 +35,9 @@
 "hoja": "revision/hojas/ab_Cyber_Transitions-01.jpg"
 },
 "ab:76167a7b15d0": {
-"que_es": "pantallazos oscuros azul-violeta con una palabra borrosa (parece «PICTURE»)",
+"que_es": "pantallazos CRT azul oscuro con palabras grandes muy borrosas (ilegibles) y una franja naranja con letras ilegibles; luego gris, verde y negro",
 "calidad": 4,
-"defectos": "dudoso: se intuye texto PICTURE en un fotograma",
+"defectos": "ninguno",
 "familia": "ab_cyber",
 "variante": 2,
 "diferencia": "-",
@@ -50,7 +50,7 @@
 "color": "multicolor",
 "orient": "16:9",
 "estilo": "pantalla de vídeo retro con trama RGB",
-"contenido": "palabra PICTURE borrosa",
+"contenido": "texto de pantalla ilegible (no se lee ninguna marca)",
 "comportamiento": "pantallazos de color a pantalla completa que cambian cada 1-2 fotogramas",
 "medidas": {
 "fuente_medida": "tira",
@@ -67,7 +67,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Cyber_Transitions-01.jpg"
+"hoja": "revision/hojas/ab_Cyber_Transitions-01.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 },
 "ab:695fe8767b40": {
 "que_es": "pantallazos rojos, verdes y azules con distorsión de señal",

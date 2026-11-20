@@ -175,9 +175,9 @@
 "hoja": "revision/hojas/ab_Cine_Snip_Transitions-13.jpg"
 },
 "ab:46096c0f9dde": {
-"que_es": "película gris clara con letras pálidas borrosas que desaparecen",
+"que_es": "cola de película gris clara con perforación y trozos de números grandes pintados a mano (marcas de cola: 7, 2, 4, 8…) que pasan; luego zona clara rayada y empalme",
 "calidad": 4,
-"defectos": "dudoso: las letras no se leen",
+"defectos": "ninguno",
 "familia": "ab_cine_snip",
 "variante": 66,
 "diferencia": "-",
@@ -190,7 +190,7 @@
 "color": "gris claro",
 "orient": "4:3 (4096×3072)",
 "estilo": "película real escaneada",
-"contenido": "sin texto",
+"contenido": "números de cola de película recortados, no forman palabras",
 "comportamiento": "fotogramas de película que pasan a saltos (uno distinto cada pocos fotogramas)",
 "medidas": {
 "fuente_medida": "tira",
@@ -207,6 +207,7 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Cine_Snip_Transitions-13.jpg"
+"hoja": "revision/hojas/ab_Cine_Snip_Transitions-13.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 }
 }

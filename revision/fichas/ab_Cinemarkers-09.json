@@ -105,9 +105,9 @@
 "hoja": "revision/hojas/ab_Cinemarkers-09.jpg"
 },
 "ab:8451f5499636": {
-"que_es": "letras «ab» pintadas en crema (probable logo de ACIDBITE)",
-"calidad": 4,
-"defectos": "dudoso: parece la firma o logo de la marca, no usar como texto propio",
+"que_es": "letras «ab» pintadas en crema que tiemblan a saltos: es el LOGO de ACIDBITE",
+"calidad": 2,
+"defectos": "logo de ACIDBITE: no usar en trabajos propios salvo que se quiera la marca",
 "familia": "ab_cinemarker",
 "variante": 41,
 "diferencia": "-",
@@ -120,7 +120,7 @@
 "color": "de colores sobre negro",
 "orient": "16:9",
 "estilo": "película real pintada",
-"contenido": "letras ab (marca)",
+"contenido": "logo «ab» de ACIDBITE",
 "comportamiento": "se redibuja a saltos (stop motion)",
 "medidas": {
 "fuente_medida": "tira",
@@ -137,6 +137,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Cinemarkers-09.jpg"
+"hoja": "revision/hojas/ab_Cinemarkers-09.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "logo de ACIDBITE: no usar en trabajos propios salvo que se quiera la marca"
 }
 }

@@ -62,7 +62,7 @@ def main():
     dudosos = [k for k in vistos if fichas[k].get('dudoso') or 'dudoso' in str(fichas[k].get('defectos', '')).lower()
                or 'dudoso' in str(fichas[k].get('que_es', '')).lower()]
     no_rec = [k for k in vistos if int(fichas[k].get('calidad') or 0) <= 2]
-    sensibles = [k for k in vistos if re.search(r'sangre|radiograf|esvástica|símbolo sensible|NOTAR|oficial|persona real|presentador|visceral',
+    sensibles = [k for k in vistos if re.search(r'sangre|radiograf|esvástica|símbolo sensible|NOTAR|oficial|persona real|presentador|visceral|logo de ACIDBITE',
                                                  json.dumps(fichas[k], ensure_ascii=False), re.I)]
     mejores = [k for k in vistos if fichas[k].get('mejor_de_familia')]
     top = sorted([k for k in vistos if int(fichas[k].get('calidad') or 0) == 5 and fichas[k].get('mejor_de_familia')],

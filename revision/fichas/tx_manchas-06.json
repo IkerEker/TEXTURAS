@@ -387,15 +387,15 @@
 "tx:manchas/goteos/lagrima/goteo_061": {
 "que_es": "goteo 3D con zona translúcida/agujereada arriba",
 "calidad": 3,
-"defectos": "dudoso: huecos internos en la mitad superior (puede ser pintura fina translúcida o fallo de recorte)",
+"defectos": "la parte alta (unos 150–250 px) es una película de pintura fina y moteada REAL de la foto (comprobado en el original), no un fallo de recorte; para una raíz sólida, recorta esa parte",
 "familia": "goteo_lagrima",
 "variante": 35,
 "diferencia": "huecos",
 "mejor_de_familia": true,
 "uso": "goteo",
 "modo": "normal recoloreado",
-"usar_si": "revisar antes",
-"evitar_si": "si se ven los huecos",
+"usar_si": "goteo que nace de una capa fina de pintura",
+"evitar_si": "si necesitas raíz maciza: usa goteo_064 o recorta arriba",
 "color": "gris",
 "orient": "raíz arriba",
 "escala": "76×808",
@@ -417,20 +417,22 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_manchas-06.jpg"
+"hoja": "revision/hojas/tx_manchas-06.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "la parte alta (unos 150–250 px) es una película de pintura fina y moteada REAL de la foto (comprobado en el original), no un fallo de recorte; para una raíz sólida, recorta esa parte"
 },
 "tx:manchas/goteos/lagrima/goteo_062": {
 "que_es": "goteo 3D con parte alta muy rota y translúcida",
 "calidad": 3,
-"defectos": "dudoso: huecos internos arriba (posible fallo de recorte)",
+"defectos": "la parte alta (unos 150–250 px) es una película de pintura fina y moteada REAL de la foto (comprobado en el original), no un fallo de recorte; para una raíz sólida, recorta esa parte",
 "familia": "goteo_lagrima",
 "variante": 36,
 "diferencia": "roto arriba",
 "mejor_de_familia": true,
 "uso": "goteo",
 "modo": "normal recoloreado",
-"usar_si": "revisar",
-"evitar_si": "-",
+"usar_si": "goteo que nace de una capa fina de pintura",
+"evitar_si": "si necesitas raíz maciza: usa goteo_064 o recorta arriba",
 "color": "gris",
 "orient": "raíz arriba",
 "escala": "63×505",
@@ -452,12 +454,14 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_manchas-06.jpg"
+"hoja": "revision/hojas/tx_manchas-06.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "la parte alta (unos 150–250 px) es una película de pintura fina y moteada REAL de la foto (comprobado en el original), no un fallo de recorte; para una raíz sólida, recorta esa parte"
 },
 "tx:manchas/goteos/lagrima/goteo_064": {
 "que_es": "goteo 3D que se afina con raíz translúcida",
 "calidad": 3,
-"defectos": "dudoso: zona translúcida arriba",
+"defectos": "raíz algo translúcida, real de la foto (comprobado en el original)",
 "familia": "goteo_lagrima",
 "variante": 37,
 "diferencia": "raíz translúcida",
@@ -487,7 +491,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_manchas-06.jpg"
+"hoja": "revision/hojas/tx_manchas-06.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "raíz algo translúcida, real de la foto (comprobado en el original)"
 },
 "tx:manchas/goteos/lagrima/goteo_065": {
 "que_es": "goteo 3D ancho corto con lágrima enorme muy brillante",

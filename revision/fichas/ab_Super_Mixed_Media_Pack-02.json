@@ -37,7 +37,7 @@
 "ab:97c03c8e64f3": {
 "que_es": "papel azul y verde con cruz; ventanas que se dividen; recortes de OJOS de una foto",
 "calidad": 4,
-"defectos": "dudoso: recortes de ojos de una persona real en dos fotogramas",
+"defectos": "incluye recortes de OJOS de una foto real de una persona: no usar si no se quiere un rostro real",
 "familia": "ab_mixed_marco",
 "variante": 8,
 "diferencia": "-",
@@ -50,7 +50,7 @@
 "color": "papeles de colores (alfa en la ventana)",
 "orient": "16:9",
 "estilo": "collage de papel escaneado, stop motion",
-"contenido": "recortes de ojos de foto",
+"contenido": "ojos recortados de una foto de persona real",
 "comportamiento": "papeles y ventana cambian a saltos (stop motion)",
 "medidas": {
 "fuente_medida": "tira",
@@ -67,7 +67,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Super_Mixed_Media_Pack-02.jpg"
+"hoja": "revision/hojas/ab_Super_Mixed_Media_Pack-02.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "incluye recortes de OJOS de una foto real de una persona: no usar si no se quiere un rostro real"
 },
 "ab:4df691239153": {
 "que_es": "borde negro fino casi invisible alrededor de toda la imagen",

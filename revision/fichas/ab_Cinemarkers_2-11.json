@@ -70,9 +70,9 @@
 "hoja": "revision/hojas/ab_Cinemarkers_2-11.jpg"
 },
 "ab:d6314b38a3f1": {
-"que_es": "letras «ab» blancas en vertical (probable logo de ACIDBITE)",
-"calidad": 4,
-"defectos": "dudoso: firma de la marca",
+"que_es": "letras «ab» blancas en vertical sobre película negra rayada: LOGO de ACIDBITE; al final garabatos amarillos",
+"calidad": 2,
+"defectos": "logo de ACIDBITE: no usar en trabajos propios salvo que se quiera la marca",
 "familia": "ab_cinemarker2",
 "variante": 63,
 "diferencia": "-",
@@ -85,7 +85,7 @@
 "color": "de colores sobre negro",
 "orient": "16:9",
 "estilo": "pintura sobre película",
-"contenido": "letras ab (marca)",
+"contenido": "logo «ab» de ACIDBITE",
 "comportamiento": "vibra a saltos (boiling)",
 "medidas": {
 "fuente_medida": "tira",
@@ -102,7 +102,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Cinemarkers_2-11.jpg"
+"hoja": "revision/hojas/ab_Cinemarkers_2-11.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo",
+"aviso": "logo de ACIDBITE: no usar en trabajos propios salvo que se quiera la marca"
 },
 "ab:6ceeef2af4f8": {
 "que_es": "trazos verdes verticales con mancha blanca",

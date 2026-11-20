@@ -140,17 +140,17 @@
 "hoja": "revision/hojas/ab_Ultimate_Paper_Pack-02.jpg"
 },
 "ab:82e63eb168b1": {
-"que_es": "papel negro cortado en rectángulos (sin ventanas visibles), casi quieto",
+"que_es": "fondo casi quieto de papel negro texturado partido en 4–5 rectángulos con filos claros; a 1,96 s cambia la trama (parpadeo)",
 "calidad": 4,
-"defectos": "dudoso: no se ven huecos transparentes claros",
+"defectos": "ninguno",
 "familia": "ab_papel_collage",
 "variante": 3,
 "diferencia": "-",
 "mejor_de_familia": false,
 "uso": "marco de collage con varias ventanas",
 "modo": "normal (alfa)",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "fondo oscuro de collage casi quieto",
+"evitar_si": "si buscas movimiento",
 "escala": "3840×2160, 2.42 s a 24.0 fps, sin loop",
 "color": "papel con ventanas (alfa)",
 "orient": "16:9",
@@ -172,7 +172,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Ultimate_Paper_Pack-02.jpg"
+"hoja": "revision/hojas/ab_Ultimate_Paper_Pack-02.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 },
 "ab:948456c59c92": {
 "que_es": "papel blanco arrugado con cinco ventanas rectangulares",

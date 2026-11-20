@@ -175,9 +175,9 @@
 "hoja": "revision/hojas/ab_Cyber_Transitions-08.jpg"
 },
 "ab:4646a1fa1dfe": {
-"que_es": "glitch con texto técnico ilegible (HUD o esquema) en rojo, verde y violeta",
+"que_es": "glitch de pantalla sobre planos técnicos antiguos (engranajes, tuberías) con anotaciones manuscritas en alemán que se leen a ratos («Rohr…», «G.G.»); colores rojo, violeta y verde",
 "calidad": 4,
-"defectos": "dudoso: hay texto o números pequeños ilegibles",
+"defectos": "ninguno",
 "familia": "ab_cyber",
 "variante": 48,
 "diferencia": "-",
@@ -190,7 +190,7 @@
 "color": "multicolor",
 "orient": "16:9",
 "estilo": "pantalla de vídeo retro con trama RGB, glitch",
-"contenido": "texto técnico ilegible",
+"contenido": "planos técnicos con anotaciones en alemán, sin marcas ni personas",
 "comportamiento": "pantallazos con glitch que cambian cada 1-2 fotogramas",
 "medidas": {
 "fuente_medida": "tira",
@@ -207,6 +207,7 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Cyber_Transitions-08.jpg"
+"hoja": "revision/hojas/ab_Cyber_Transitions-08.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 }
 }

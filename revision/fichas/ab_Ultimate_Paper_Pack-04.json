@@ -70,9 +70,9 @@
 "hoja": "revision/hojas/ab_Ultimate_Paper_Pack-04.jpg"
 },
 "ab:408d4803ec4c": {
-"que_es": "papel blanco con garabatos y texto manuscrito ilegible en negro, celo",
+"que_es": "papel blanco arrugado con garabatos y renglones de escritura inventada (asémica, imita letra manuscrita, no dice nada), celo y roturas",
 "calidad": 4,
-"defectos": "CORRECCIÓN: el índice dice trama pero es negro sobre blanco: usar multiplicar; dudoso: texto manuscrito ilegible",
+"defectos": "ninguno",
 "familia": "ab_papel_opener",
 "variante": 7,
 "diferencia": "-",
@@ -85,7 +85,7 @@
 "color": "negro sobre blanco",
 "orient": "16:9",
 "estilo": "objetos de papelería escaneados, stop motion",
-"contenido": "texto manuscrito ilegible",
+"contenido": "escritura asémica, sin texto real",
 "comportamiento": "los elementos aparecen y desaparecen a saltos",
 "medidas": {
 "fuente_medida": "tira",
@@ -102,7 +102,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Ultimate_Paper_Pack-04.jpg"
+"hoja": "revision/hojas/ab_Ultimate_Paper_Pack-04.jpg",
+"nota_pendiente": "resuelto 20-11-2026 viendo fotogramas a tamaño completo"
 },
 "ab:cf4249cbe724": {
 "que_es": "trazos gruesos verde oscuro y negro (pincel seco) sobre blanco",
