@@ -20,6 +20,10 @@ Montar o comprobar en un ordenador: `python TEXTURAS/tools/atlas/montar_bibliote
 **Método completo y reglas de variedad: `biblioteca_raiz/CLAUDE.md`** (se copia a `Biblioteca/CLAUDE.md`, que cada
 plugin carga solo al abrir la carpeta).
 
+0. **`buscar.py --necesidades`** → 78 necesidades (fondos, superposiciones, relieves, piezas, trazos, luz, vídeo,
+   sonido, LUT) con su lista curada a ojo (5–16 opciones variadas) y su hoja ya hecha (`indice/necesidades.json`,
+   `indice/necesidades_hojas/`). `--necesidad NOMBRE`. Se regeneran con `tools/atlas/necesidades.py` desde
+   `indice/necesidades_spec.json` (ahí se fijan a mano los elegidos: `poner`).
 1. `python3 tools/atlas/buscar.py <2–4 palabras> --ver` → abanico de 12 opciones buenas y **distintas** (una por
    familia, repartidas entre TEXTURAS, ACIDBITE y originales, con algo de azar) + hoja JPG con miniaturas numeradas.
    Ordena por lo que encaja con la ficha (qué es, familia, clase, uso, color, estilo…), con sinónimos
@@ -29,6 +33,11 @@ plugin carga solo al abrir la carpeta).
 3. Mira la hoja con Read y elige mirando. `--mas` (otra tanda) · `--familia` · `--parecidos ID` · `--ficha ID`.
 4. Varias variantes por efecto, de familias distintas; marca «ya lo usa: …» = evita repetir lo de otro plugin.
 5. `--plugin X --apuntar ID…` deja constancia en `Biblioteca/_uso/`.
+6. Cada recurso tiene **papel** (fondo repetible, superposición, pieza, relieve, transición, máscara, elemento/superposición/
+   fondo animado, sonido, LUT…) y **fondo** (transparente, sobre negro, sobre blanco, gris neutro): `--papel`, `--fondo`,
+   `--papeles`. Varias formas a la vez: `"goteo | chorreon | drip"`. Lo que nadie usa: `--sin-usar`.
+La lógica está en `tools/atlas/biblioteca.py`; los scripts de construcción pueden importarla (`Biblioteca().buscar(…)`,
+`.necesidad(…)`, `.ruta(id)`) en vez de leer el índice a mano.
 
 `buscar.py --mapa` = qué hay en toda la biblioteca. Índice: `indice/indice.json` (esquema en `indice/ESQUEMA.md`).
 Nombres de plugins y alias: `indice/nombres.json`. **No elijas leyendo `catalogo.json` o el índice a mano y cogiendo

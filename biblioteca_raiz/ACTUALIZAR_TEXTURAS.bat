@@ -12,5 +12,5 @@ echo Actualizando TEXTURAS (si se abre el navegador, inicia sesion en GitHub)...
 python "%~dp0TEXTURAS\tools\atlas\buscar.py" --version >> %L% 2>&1
 type %L%
 echo.
-echo Si arriba pone "buscar.py v2", ya esta. Si no, dile a Claude que lo mire (queda en _ESTADO_ACTUALIZAR.txt).
+echo Si arriba pone "buscar.py v3", ya esta. Si no, dile a Claude que lo mire (queda en _ESTADO_ACTUALIZAR.txt).
 pause

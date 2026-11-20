@@ -40,6 +40,17 @@ exactas: «papel viejo» no encontraba «antiguo», «envejecido» ni «vintage�
 - **Más opciones:** `--mapa` (qué hay en toda la biblioteca), `--resumen`, `--familia`, `--parecidos`, `--ficha`,
   `--donde`, `--explicar`.
 
+### 1 bis. Necesidades ya resueltas (lo más rápido, v3)
+
+- **78 necesidades** (fondos, superposiciones, relieves, piezas, trazos, luz, vídeo, sonido, LUT) con su lista hecha:
+  5–16 opciones **elegidas mirando una a una**, variadas, y su **hoja de miniaturas ya hecha**.
+- `buscar.py --necesidades` (catálogo) · `buscar.py --necesidad pieza_goteo` (opciones + hoja). En scripts:
+  `indice/necesidades.json` o `from biblioteca import Biblioteca; Biblioteca().necesidad('pieza_goteo')`.
+- Cada recurso tiene ahora **papel** (fondo repetible, superposición, pieza, relieve, transición, máscara, animado,
+  sonido, LUT…) y **fondo** (transparente / sobre negro / sobre blanco): `--papel`, `--fondo`, `--papeles`.
+- `"goteo | chorreon | drip"` busca varias formas a la vez; `--sin-usar` enseña lo que no usa ningún plugin, y lo
+  bueno sin usar sube un poco en todos los abanicos (para darle vida).
+
 ### 2. Instrucción en la raíz: `Biblioteca/CLAUDE.md`
 
 Se carga sola al abrir la carpeta Biblioteca. Trae el método de búsqueda, las reglas de variedad, cómo leer un
@@ -78,20 +89,20 @@ directamente los `tx:` mejorados.
    - En el PC, ejecuta `git -C <Biblioteca>/TEXTURAS pull --ff-only` (o haz doble clic en
      `Biblioteca/ACTUALIZAR_TEXTURAS.bat`).
    - Si trabajas con el repo en la nube, haz `git pull` de `IkerEker/TEXTURAS`, rama `atlas`.
-   - `buscar.py --version` tiene que decir **v2**. Si no, para y díselo a Iker.
+   - `buscar.py --version` tiene que decir **v3**. Si no, para y díselo a Iker.
 2. **Lee entero `Biblioteca/CLAUDE.md`** (o `biblioteca_raiz/CLAUDE.md`). Después ejecuta `buscar.py --mapa` una vez
    para ver todo lo que hay.
 3. **Actualiza tu `CLAUDE.md`.** En tu bloque «Biblioteca y velocidad», cambia la línea de cómo buscar por estas,
    tal cual:
    ```
-   - Buscar SIEMPRE con TEXTURAS/tools/atlas/buscar.py v2 y el método de Biblioteca/CLAUDE.md: 2–4 palabras --ver →
+   - Buscar SIEMPRE con TEXTURAS/tools/atlas/buscar.py v3 y el método de Biblioteca/CLAUDE.md: 2–4 palabras --ver →
      ≥3 búsquedas desde lados distintos + filtro de papel (--tileable/--alfa/--clase) → mirar la hoja → elegir con
      VARIEDAD (6–12 variantes por efecto, ≥3 familias, una por familia, ACIDBITE cuenta, no copiar lo que «ya lo usa»
      otro plugin) → --plugin <yo> --apuntar ids. Nunca carpetas, catalogo.json ni el índice a mano cogiendo los primeros.
    - Para lo nuevo, usar los tx: con recorte_mejorado. Pasar un efecto existente de or: a tx: = cambia el resultado
      → antes/después y sí de Iker.
    ```
-4. **Usa las mejoras desde ya en todo lo nuevo.** Cualquier efecto, función o variante que estés construyendo o
+4. **Usa las mejoras desde ya en todo lo nuevo, empezando por `--necesidades`.** Cualquier efecto, función o variante que estés construyendo o
    vayas a construir se busca y se elige con el método nuevo. No hace falta preguntar.
 5. **Repasa lo que ya tienes**, efecto por efecto:
    1. Rehaz la búsqueda con el método nuevo y `--ver`.
@@ -106,7 +117,7 @@ directamente los `tx:` mejorados.
 
 ## Informe para Iker (al terminar, corto)
 
-1. **Comprobación:** «buscar.py v2 ✓» y «CLAUDE.md actualizado ✓».
+1. **Comprobación:** «buscar.py v3 ✓» y «CLAUDE.md actualizado ✓».
 2. **Tabla por efecto** que use material de la biblioteca:
 
    | Efecto | Antes: variantes / familias / colecciones | Propuesta: variantes / familias / colecciones | Búsquedas hechas | Hoja mirada (`_busquedas/…jpg`) |

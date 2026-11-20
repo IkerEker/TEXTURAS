@@ -1,0 +1,2089 @@
+{
+ "nota": "Definición del catálogo de necesidades. tools/atlas/necesidades.py lo convierte en indice/necesidades.json (ids elegidos) + indice/necesidades_hojas/<nombre>.jpg. 'quitar' = ids revisados a ojo que no valen para esa necesidad; 'poner' = ids que se fijan primero.",
+ "necesidades": [
+  {
+   "grupo": "FONDOS (texturas que se repiten)",
+   "nombre": "papel_fondo_blanco",
+   "titulo": "papel blanco o crema limpio de fondo, repetible",
+   "consulta": "papel blanco | papel crema | folio | papel arroz",
+   "f": {
+    "papel": "fondo repetible",
+    "estricto": true,
+    "campos": [
+     "que_es"
+    ]
+   },
+   "como": "Normal como fondo o Multiplicar sobre el arte; tile_mm da la escala real",
+   "poner": [
+    "tx:tileables/papel/textura_papel_arroz_fibroso_1033",
+    "tx:tileables/papel/lienzo_blanco_texturizado_minimalista_0996",
+    "tx:tileables/papel/textura_papel_arroz_fibroso_1034",
+    "tx:tileables/papel/textura_papel_arroz_artesanal_1032",
+    "tx:tileables/papel/textura_papel_acuarela_blanco_vesm_1020",
+    "tx:tileables/papel/textura_uniforme_papel_acuarela_blanco_calido_1067",
+    "tx:tileables/papel/papel_blanco_0995",
+    "tx:tileables/papel/textura_papel_blanco_fino_1028",
+    "tx:tileables/papel/textura_papel_acuarela_blanco_rugoso_1018",
+    "tx:tileables/papel/papel_translucido_texturizado_blanco_roto_1013",
+    "tx:tileables/papel/textura_papel_acuarela_blanco_1021",
+    "tx:tileables/papel/textura_sutil_papel_blanco_uniforme_1063",
+    "tx:tileables/papel/textura_sutil_papel_blanco_1062",
+    "tx:tileables/papel/textura_arrugada_papel_translucido_blanco_1014",
+    "tx:tileables/papel/textura_sutil_papel_blanco_1064",
+    "tx:tileables/papel/textura_papel_verjurado_color_crema_1055"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "FONDOS (texturas que se repiten)",
+   "nombre": "papel_fondo_calido",
+   "titulo": "papel viejo, pergamino, crema o amarillento, repetible",
+   "consulta": "papel viejo | pergamino | papel envejecido | papel amarillento | papel crema | papel antiguo",
+   "f": {
+    "papel": "fondo repetible",
+    "estricto": true,
+    "campos": [
+     "que_es"
+    ]
+   },
+   "como": "Normal de fondo o Multiplicar para envejecer",
+   "poner": [
+    "tx:tileables/papel/textura_pergamino_envejecido_1058",
+    "tx:tileables/papel/textura_pergamino_antiguo_1056",
+    "tx:tileables/papel/textura_papel_verjurado_color_crema_1055",
+    "tx:tileables/papel/textura_pergamino_envejecido_1059",
+    "tx:tileables/papel/textura_papel_artesanal_crema_suave_1023",
+    "tx:tileables/papel/textura_papel_arroz_fibroso_1033",
+    "tx:tileables/papel/textura_pergamino_envejecido_1060",
+    "tx:tileables/papel/textura_papel_reciclado_fibroso_1052",
+    "tx:tileables/papel/textura_papel_reciclado_multicolor_1054",
+    "tx:tileables/papel/textura_papel_marfil_estriado_1046",
+    "tx:tileables/papel/textura_sutil_papel_verjurado_marfil_1066",
+    "tx:tileables/papel/textura_papel_reciclado_fibroso_1051",
+    "tx:tileables/papel/textura_papel_acuarela_marfil_fina_1022"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "FONDOS (texturas que se repiten)",
+   "nombre": "papel_fondo_kraft_carton",
+   "titulo": "kraft, cartón, cartón corrugado, repetible",
+   "consulta": "kraft | carton | corrugado",
+   "f": {
+    "papel": "fondo repetible",
+    "campos": [
+     "que_es"
+    ]
+   },
+   "como": "Normal de fondo",
+   "poner": [
+    "tx:tileables/madera_y_carton/textura_carton_corrugado_marron_0780",
+    "tx:tileables/papel/textura_papel_kraft_marron_fibroso_1042",
+    "tx:tileables/papel/textura_carton_corrugado_kraft_unerquicklich_1015",
+    "tx:tileables/madera_y_carton/textura_carton_corrugado_reciclado_0781",
+    "tx:tileables/papel/textura_papel_kraft_reciclado_1044",
+    "tx:tileables/papel/textura_carton_corrugado_ondulado_1017",
+    "tx:tileables/madera_y_carton/textura_carton_kraft_corrugado_0784",
+    "tx:tileables/papel/textura_carton_corrugado_kraft_1016",
+    "tx:tileables/madera_y_carton/textura_carton_kraft_corrugado_0785",
+    "tx:tileables/madera_y_carton/textura_uniforme_carton_kraft_marron_0799",
+    "tx:tileables/madera_y_carton/textura_carton_corrugado_kraft_0777",
+    "tx:tileables/madera_y_carton/textura_carton_corrugado_marron_0778"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "FONDOS (texturas que se repiten)",
+   "nombre": "papel_fondo_pauta",
+   "titulo": "papel cuadriculado, milimetrado, isométrico, pautado, pentagrama",
+   "consulta": "cuadricula | milimetrado | isometrico | pauta | pentagrama | rayado",
+   "f": {
+    "papel": "fondo repetible",
+    "campos": [
+     "que_es",
+     "sub"
+    ]
+   },
+   "como": "Normal de fondo; las líneas casan al repetir",
+   "poner": [
+    "tx:tileables/papel/papel_pautado_musical_1009",
+    "tx:tileables/papel/textura_papel_rayado_azul_tenue_1048",
+    "tx:tileables/papel/papel_cuadriculado_azul_rojo_0999",
+    "tx:tileables/papel/papel_milimetrado_azul_1006",
+    "tx:tileables/papel/papel_milimetrado_triangular_azul_palido_1008",
+    "tx:tileables/papel/cuadricula_papel_milimetrado_azul_0994",
+    "tx:tileables/papel/papel_cuadriculado_isometrico_azul_palido_1001",
+    "tx:tileables/papel/papel_cuadriculado_azul_rojo_1000",
+    "tx:tileables/papel/papel_cuadriculado_isometrico_azul_palido_1002",
+    "tx:tileables/papel/papel_rayado_azul_minimalista_1012",
+    "tx:tileables/papel/papel_cuadriculado_azul_claro_0997",
+    "tx:tileables/papel/papel_cuadriculado_naranja_uniforme_1004",
+    "tx:tileables/papel/papel_cuadriculado_azul_uniforme_0998",
+    "tx:tileables/papel/papel_milimetrado_azul_crema_1007",
+    "tx:tileables/grunge/cuadricula_sucia_gris_claro_1202",
+    "tx:tileables/grunge/cuadricula_sucia_gris_claro_1176"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "FONDOS (texturas que se repiten)",
+   "nombre": "papel_fondo_acuarela_grano",
+   "titulo": "papel de acuarela, arroz, con grano o fibras, repetible",
+   "consulta": "acuarela | papel arroz | papel grano | papel fibra",
+   "f": {
+    "papel": "fondo repetible",
+    "campos": [
+     "que_es",
+     "sub"
+    ]
+   },
+   "como": "Multiplicar sobre el arte",
+   "poner": [
+    "tx:tileables/papel/textura_papel_arroz_fibroso_1033",
+    "tx:tileables/papel/textura_papel_acuarela_blanco_rugoso_1018",
+    "tx:tileables/papel/textura_papel_arroz_artesanal_1032",
+    "tx:tileables/papel/textura_papel_artesanal_marfil_1027",
+    "tx:tileables/papel/textura_papel_acuarela_marfil_0407",
+    "tx:tileables/papel/textura_papel_arroz_fibroso_1034",
+    "tx:tileables/papel/textura_papel_acuarela_blanco_vesm_1020",
+    "tx:tileables/papel/textura_papel_marfil_artesanal_1045",
+    "tx:tileables/pintura/acuarela_base_1_basecolor_1072",
+    "tx:tileables/pintura/acuarela_grano_8_basecolor_1085",
+    "tx:tileables/pintura/acuarela_grano_5_basecolor_1082",
+    "tx:tileables/pintura/acuarelas_base_3_basecolor_0437",
+    "tx:tileables/pintura/acuarelas_base_6_basecolor_0439",
+    "tx:tileables/pintura/acuarela_manchas_3_basecolor_1089",
+    "tx:tileables/pintura/acuarela_grano_7_basecolor_1084",
+    "tx:tileables/pintura/acuarela_manchas_1_basecolor_1087"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "FONDOS (texturas que se repiten)",
+   "nombre": "superficie_pared",
+   "titulo": "pared, muro, ladrillo, yeso, azulejo, repetible",
+   "consulta": "pared | muro | ladrillo | azulejo | yeso",
+   "f": {
+    "papel": "fondo repetible",
+    "campos": [
+     "que_es",
+     "sub"
+    ]
+   },
+   "como": "Normal de fondo; aparejos con nº entero de piezas",
+   "poner": [
+    "tx:tileables/superficies/textura_pared_ladrillo_rojo_envejecido_0661",
+    "tx:tileables/superficies/textura_muro_piedra_caliza_0654",
+    "tx:tileables/superficies/pared_azulejos_blancos_cuadricula_0610",
+    "tx:tileables/superficies/textura_rugosa_estuco_blanco_0671",
+    "tx:tileables/superficies/textura_abstracta_estuco_beige_gris_0619",
+    "tx:tileables/superficies/textura_muro_bloques_hormigon_0652",
+    "tx:tileables/superficies/textura_muro_piedra_caliza_envejecida_0655",
+    "tx:tileables/superficies/pared_ladrillo_rojo_desgastado_0611",
+    "tx:tileables/superficies/superficie_azulejos_blancos_envejecidos_0615",
+    "tx:tileables/superficies/textura_yeso_veneciano_beige_0668",
+    "tx:tileables/superficies/textura_pared_bloques_hormigon_encadenados_0658",
+    "tx:tileables/superficies/textura_sutil_pared_estuco_0675",
+    "tx:tileables/superficies/textura_muro_piedra_caliza_0656",
+    "tx:tileables/superficies/textura_pared_ladrillo_envejecido_0660",
+    "tx:tileables/superficies/textura_estuco_blanco_rugoso_0631",
+    "tx:tileables/superficies/textura_sutil_pared_blanca_0674"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "FONDOS (texturas que se repiten)",
+   "nombre": "superficie_piedra_hormigon",
+   "titulo": "hormigón, cemento, granito, asfalto, piedra, repetible",
+   "consulta": "hormigon | cemento | granito | asfalto | piedra | adoquin",
+   "f": {
+    "papel": "fondo repetible",
+    "campos": [
+     "que_es",
+     "sub"
+    ]
+   },
+   "como": "Normal o Multiplicar",
+   "poner": [
+    "tx:tileables/superficies/textura_hormigon_gris_poros_vetas_0640",
+    "tx:tileables/superficies/textura_granito_gris_moteado_0633",
+    "tx:tileables/superficies/textura_terrazo_gris_piedras_incrustadas_0667",
+    "tx:tileables/superficies/textura_asfalto_rugoso_grava_0627",
+    "tx:tileables/superficies/pavimento_adoquines_granito_envejecido_0612",
+    "tx:tileables/superficies/textura_adoquines_granito_gris_0625",
+    "tx:tileables/superficies/pintura_grumos_2_0606",
+    "tx:tileables/superficies/textura_hormigon_gris_industrial_0644",
+    "tx:tileables/superficies/textura_granular_asfalto_oscuro_0670",
+    "tx:tileables/superficies/superficie_terrazo_tonos_neutros_0618",
+    "tx:tileables/superficies/textura_granito_gris_moteado_0635",
+    "tx:tileables/superficies/textura_asfalto_granulado_0626",
+    "tx:tileables/superficies/pavimento_adoquines_granito_envejecido_0613",
+    "tx:tileables/superficies/textura_hormigon_gris_desgastado_0641",
+    "tx:tileables/superficies/textura_hormigon_industrial_envejecido_0646",
+    "tx:tileables/superficies/textura_granito_gris_moteado_0634"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "FONDOS (texturas que se repiten)",
+   "nombre": "superficie_madera",
+   "titulo": "madera, OSB, aglomerado, repetible",
+   "consulta": "madera",
+   "f": {
+    "papel": "fondo repetible",
+    "campos": [
+     "que_es",
+     "sub"
+    ]
+   },
+   "como": "Normal de fondo",
+   "poner": [
+    "tx:tileables/madera_y_carton/textura_detallada_tablero_osb_0793",
+    "tx:tileables/madera_y_carton/textura_natural_madera_abedul_0795",
+    "tx:tileables/madera_y_carton/textura_uniforme_virutas_madera_0803",
+    "tx:tileables/madera_y_carton/textura_aglomerado_madera_marron_0776",
+    "tx:tileables/madera_y_carton/textura_tablero_osb_madera_natural_0789",
+    "tx:tileables/madera_y_carton/textura_madera_abedul_claro_0788",
+    "tx:tileables/madera_y_carton/textura_uniforme_tablero_particulas_madera_0802",
+    "tx:tileables/madera_y_carton/textura_tablero_osb_madera_prensada_0790",
+    "tx:tileables/madera_y_carton/textura_realista_aglomerado_madera_0796",
+    "tx:tileables/madera_y_carton/textura_uniforme_aglomerado_madera_0798",
+    "tx:tileables/madera_y_carton/textura_detallada_tablero_osb_madera_0792",
+    "tx:tileables/madera_y_carton/textura_madera_clara_vetas_onduladas_0786",
+    "tx:tileables/madera_y_carton/textura_realista_tablero_osb_madera_0797",
+    "tx:tileables/madera_y_carton/textura_granular_aglomerado_madera_0794",
+    "tx:tileables/madera_y_carton/textura_madera_clara_natural_0787",
+    "tx:tileables/madera_y_carton/osb_a_intemperie_0775"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "FONDOS (texturas que se repiten)",
+   "nombre": "superficie_metal_oxido",
+   "titulo": "metal, acero, óxido, chapa, repetible",
+   "consulta": "metal | oxido | acero | chapa",
+   "f": {
+    "papel": "fondo repetible",
+    "campos": [
+     "que_es",
+     "sub"
+    ]
+   },
+   "como": "Normal o Multiplicar",
+   "poner": [
+    "tx:tileables/superficies/textura_acero_cepillado_horizont_0621",
+    "tx:tileables/superficies/textura_metal_oxidado_0651",
+    "tx:tileables/superficies/textura_metal_oxidado_0648",
+    "tx:tileables/superficies/textura_acero_inoxidable_cepillado_0623",
+    "tx:tileables/superficies/textura_metal_oxidado_0649",
+    "tx:tileables/superficies/textura_metal_oxidado_0650",
+    "tx:tileables/superficies/textura_acero_inoxidable_cepillado_0624",
+    "tx:tileables/superficies/textura_acero_cepillado_0622"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "FONDOS (texturas que se repiten)",
+   "nombre": "fondo_pintura_frotado",
+   "titulo": "frotado de pintura, gouache, aguada como textura de fondo",
+   "consulta": "pintura",
+   "f": {
+    "papel": "fondo repetible",
+    "campos": [
+     "que_es",
+     "sub"
+    ]
+   },
+   "como": "Normal o Multiplicar",
+   "poner": [
+    "tx:tileables/pintura/guache_pinceladas_calidas_11_basecolor_1092",
+    "tx:tileables/pintura/guache_pinceladas_frias_2_basecolor_1109",
+    "tx:tileables/pintura/guache_pinceladas_frias_4_basecolor_1111",
+    "tx:tileables/pintura/guache_pinceladas_frias_9_basecolor_1116",
+    "tx:tileables/pintura/guache_pinceladas_calidas_8_basecolor_1103",
+    "tx:tileables/pintura/gris_gris_1208",
+    "tx:tileables/grafito_y_carbon/grafito_gris_claro_1162",
+    "tx:tileables/pintura/bruchazos_guache_2_basecolor_0441",
+    "tx:tileables/pintura/bruchazos_guache_8_basecolor_0446",
+    "tx:tileables/pintura/guache_pinceladas_calidas_13_basecolor_1094",
+    "tx:tileables/pintura/bruchazos_guache_5_basecolor_0443",
+    "tx:tileables/pintura/guache_pinceladas_frias_11_basecolor_1106",
+    "tx:tileables/pintura/guache_pinceladas_calidas_14_basecolor_1095",
+    "tx:tileables/pintura/bruchazos_guache_7_basecolor_0445",
+    "tx:tileables/pintura/guache_pinceladas_grises_5_basecolor_1122",
+    "tx:tileables/pintura/acuarela_grano_7_basecolor_1084"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "FONDOS (texturas que se repiten)",
+   "nombre": "fondo_grunge",
+   "titulo": "grunge, sucio, fotocopia, ruido impreso, repetible",
+   "consulta": "grunge | fotocopia | ruido | tinta impresa",
+   "f": {
+    "papel": "fondo repetible",
+    "campos": [
+     "que_es",
+     "sub"
+    ]
+   },
+   "como": "Multiplicar",
+   "poner": [
+    "tx:tileables/grunge/textura_fotocopia_sucia_blanco_negro_0406",
+    "tx:tileables/grunge/grunge_gris_1141",
+    "tx:tileables/grunge/textura_monocroma_suciedad_grano_tinta_0080",
+    "tx:tileables/grunge/textura_papel_fotocopiado_envejecido_0408",
+    "tx:tileables/grunge/grunge_gris_claro_1181",
+    "tx:tileables/grunge/grunge_gris_1144",
+    "tx:tileables/grunge/grunge_gris_1222",
+    "tx:tileables/grunge/grunge_gris_1140",
+    "tx:tileables/grunge/cuadricula_sucia_gris_claro_1175",
+    "tx:tileables/grunge/cuadricula_sucia_gris_claro_1136",
+    "tx:tileables/pintura/textura_abstracta_tinta_granulada_1232",
+    "tx:tileables/pintura/acuarela_grano_10_basecolor_1077",
+    "tx:tileables/pintura/textura_abstracta_acuarela_gris_1231",
+    "tx:tileables/pintura/acuarela_grano_4_basecolor_1081",
+    "tx:tileables/pintura/acuarela_grano_5_basecolor_1082",
+    "tx:tileables/superficies/textura_asfalto_granulado_0626"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "FONDOS (texturas que se repiten)",
+   "nombre": "fondo_grafito_carbon",
+   "titulo": "rayado de grafito o carbón a toda la superficie",
+   "consulta": "grafito | carbon | rayado de lapiz",
+   "f": {
+    "papel": "fondo repetible,superposicion"
+   },
+   "como": "Multiplicar",
+   "poner": [
+    "tx:superposiciones/9x16/grafito/grafito_1213",
+    "tx:superposiciones/9x16/carbon/carbon_1205",
+    "tx:superposiciones/9x16/grafito/grafito_1156",
+    "tx:superposiciones/9x16/carbon/carbon_1211",
+    "tx:tileables/grafito_y_carbon/carbon_gris_1205",
+    "tx:superposiciones/9x16/grafito/grafito_1193",
+    "tx:tileables/grafito_y_carbon/grafito_gris_1190",
+    "tx:superposiciones/9x16/grafito/grafito_1154",
+    "tx:tileables/grafito_y_carbon/grafito_gris_1156",
+    "tx:superposiciones/9x16/grafito/grafito_1162",
+    "tx:superposiciones/9x16/grafito/grafito_1179",
+    "tx:tileables/grafito_y_carbon/grafito_gris_1179",
+    "tx:tileables/grafito_y_carbon/grafito_gris_1154",
+    "tx:tileables/grafito_y_carbon/grafito_gris_1193",
+    "tx:tileables/grafito_y_carbon/carbon_gris_oscuro_1211",
+    "tx:superposiciones/9x16/grafito/grafito_1190"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "SUPERPOSICIONES (imagen encima, a pantalla completa)",
+   "nombre": "sup_grunge_manchas",
+   "titulo": "grunge, manchas, suciedad encima del arte",
+   "consulta": "grunge | mancha | sucio",
+   "f": {
+    "papel": "superposicion"
+   },
+   "como": "Multiplicar (fondo blanco) o Trama (fondo negro)",
+   "poner": [
+    "tx:superposiciones/fotocopia/textura_fotocopia_sucia_blanco_negro_0406",
+    "tx:superposiciones/9x16/goteos/goteos_1214",
+    "tx:superposiciones/9x16/grunge/grunge_1144",
+    "or:a9359472ffb98d9ee0d98994ed482012",
+    "tx:superposiciones/9x16/aguada/aguada_1173",
+    "or:4840f09a81096180c05e592c2c7ce20b",
+    "tx:superposiciones/9x16/goteos/goteos_1153",
+    "tx:superposiciones/9x16/aguada/aguada_1164",
+    "or:ba2fe2c6e163a8c6b0cae9c8cfa165c8",
+    "tx:superposiciones/9x16/grunge/grunge_1178",
+    "tx:superposiciones/9x16/goteos/goteos_1138",
+    "tx:superposiciones/9x16/aguada/aguada_1184",
+    "tx:superposiciones/9x16/grunge/grunge_1181",
+    "or:3413ce4d593cab4e715ffac721423fe8",
+    "tx:superposiciones/9x16/grunge_cuadricula/grunge_cuadricula_1176",
+    "or:9e3e8abb96480540be006c830c602c13"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "SUPERPOSICIONES (imagen encima, a pantalla completa)",
+   "nombre": "sup_fotocopia_semitono",
+   "titulo": "fotocopia, semitono, impresión, riso",
+   "consulta": "fotocopia | semitono | impresion",
+   "f": {
+    "papel": "superposicion,fondo repetible"
+   },
+   "como": "Multiplicar",
+   "poner": [
+    "tx:superposiciones/fotocopia/textura_papel_fotocopiado_envejecido_0408",
+    "tx:tileables/grunge/textura_fotocopia_sucia_blanco_negro_0406",
+    "or:3dfc21c9368389d7bbd0c57baf64ba96",
+    "tx:superposiciones/fotocopia/textura_fotocopia_sucia_blanco_negro_0406",
+    "tx:tileables/grunge/textura_papel_fotocopiado_envejecido_0408",
+    "tx:superposiciones/9x16/grunge/grunge_1212",
+    "tx:superposiciones/9x16/grunge/grunge_1178",
+    "tx:superposiciones/9x16/grunge_cuadricula/grunge_cuadricula_1175",
+    "tx:tileables/grunge/cuadricula_sucia_gris_claro_1175",
+    "tx:tileables/papel/textura_papel_cuadriculado_punteado_1031",
+    "tx:tileables/papel/textura_papel_punteado_minimalista_1047",
+    "tx:tileables/pintura/bruchazos_guache_puntos_basecolor_0449"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "SUPERPOSICIONES (imagen encima, a pantalla completa)",
+   "nombre": "sup_polvo_rayas",
+   "titulo": "polvo, pelos, arañazos de película (imagen fija)",
+   "consulta": "polvo",
+   "f": {
+    "papel": "superposicion,pieza"
+   },
+   "como": "Trama si es sobre negro; Normal si es PNG con alfa",
+   "poner": [
+    "ab:f42543d7658f",
+    "tx:superposiciones/pelicula_polvo_y_rayas/textura_pelicula_negra_polvo_aranazos_0410_trama",
+    "or:ea8f232fbfb4f4717b1ed63ff09fceab",
+    "or:463e1c89cc42defd95af0e274fa8cef5",
+    "tx:imperfecciones/polvo/textura_polvo_0989",
+    "tx:superposiciones/fotocopia/textura_fotocopia_sucia_blanco_negro_0406",
+    "tx:superposiciones/9x16/grunge_cuadricula/grunge_cuadricula_1176",
+    "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_074",
+    "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_023",
+    "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_059",
+    "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_006",
+    "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_028",
+    "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_001",
+    "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_076",
+    "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_076"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "SUPERPOSICIONES (imagen encima, a pantalla completa)",
+   "nombre": "sup_aguada_tinta",
+   "titulo": "aguada, acuarela, tinta corrida a pantalla completa",
+   "consulta": "aguada",
+   "f": {
+    "papel": "superposicion"
+   },
+   "como": "Multiplicar",
+   "poner": [
+    "or:f54c8a87da92540087885c6cc5c7f82c",
+    "or:8af7f9671574ca0f30459f4170ef7953",
+    "tx:superposiciones/9x16/aguada/aguada_1173",
+    "tx:superposiciones/9x16/pintura_gris/pintura_gris_1182",
+    "tx:superposiciones/9x16/grunge/grunge_1157",
+    "tx:superposiciones/9x16/aguada/textura_abstracta_acuarela_escala_grises_1228",
+    "or:0dc6d857caa9128b2600b209aafd8d1c",
+    "or:6c402e978e8eb179d23e82b50dbaf547",
+    "tx:superposiciones/9x16/aguada/aguada_1184",
+    "tx:superposiciones/9x16/aguada/textura_abstracta_acuarela_gris_tormentosa_1230",
+    "or:b03d7deda6348899824cb95517798e44",
+    "tx:superposiciones/9x16/aguada/aguada_1164",
+    "tx:superposiciones/9x16/aguada/textura_abstracta_tinta_granulada_1232",
+    "tx:superposiciones/9x16/aguada/aguada_1223",
+    "tx:superposiciones/9x16/aguada/textura_acuarela_escala_grises_1234",
+    "or:6f49a6fd054c61bbf49fbb3a557b258c"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "SUPERPOSICIONES (imagen encima, a pantalla completa)",
+   "nombre": "sup_vidrio_plastico",
+   "titulo": "vidrio, plástico, celofán, reflejos por DELANTE",
+   "consulta": "vidrio | plastico | celofan",
+   "f": {
+    "papel": "superposicion,fondo repetible"
+   },
+   "como": "Trama (están sobre negro)",
+   "poner": [
+    "or:92837ee6771c97950fb3a6999853634f",
+    "or:f6246885e04ebd2151f7d5056bbc911d",
+    "or:12dff0dad29aa500044a0e58507956e0",
+    "or:ad615f8bcd67eec9d9c0487730ad11a1",
+    "or:8d9de9d45dad52a1229e5f0f4501d324",
+    "or:ac57cb0e42ae2ef650aa654d71004172",
+    "or:82c868c781a7dc6c58c89d23206e43bb",
+    "or:def50e7542d65691ecdadf1701c86146",
+    "or:5c7129c5025d9f0a62931ee74ca324c7"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "SUPERPOSICIONES (imagen encima, a pantalla completa)",
+   "nombre": "sup_lluvia_gotas",
+   "titulo": "lluvia y gotas de agua sobre cristal",
+   "consulta": "lluvia | gotas cristal | gota agua",
+   "f": {
+    "papel": "superposicion,fondo repetible,pieza"
+   },
+   "como": "Trama o Superponer",
+   "poner": [
+    "or:12dff0dad29aa500044a0e58507956e0",
+    "tx:productos/piezas_neonizador/gotas/gotas_048",
+    "tx:manchas/goteos/suelta/goteo_031",
+    "tx:productos/piezas_neonizador/goteos/suelta/goteo_suelta_011",
+    "tx:luz_y_elementos/burbujas_y_espuma/burbuja_jabon_iridiscente_blanco_negro_0164",
+    "tx:collage/adhesivos/gel/gel_0150_2",
+    "tx:productos/piezas_neonizador/gotas/gotas_101",
+    "tx:productos/piezas_neonizador/gotas/gotas_035"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "SUPERPOSICIONES (imagen encima, a pantalla completa)",
+   "nombre": "sup_agua_causticas",
+   "titulo": "agua, espuma, cáusticas, mármol líquido",
+   "consulta": "agua | espuma | caustica | marmol liquido",
+   "f": {
+    "papel": "superposicion,fondo repetible"
+   },
+   "como": "Trama / Superponer",
+   "poner": [
+    "tx:tileables/liquidos/marmol_liquido_blanco_negro_0375",
+    "or:9da3800788bb04c3c1aa7d1899694c30",
+    "or:dc21b822df12bdbcb2a3d6baa8d951dc",
+    "tx:tileables/liquidos/reflejos_agua_escala_grises_0379",
+    "tx:tileables/liquidos/marmol_liquido_monocromatico_espiral_0376",
+    "tx:tileables/liquidos/remolino_marmol_liquido_blanco_negro_0380",
+    "or:04478e69280e9151516aad9d8a7f6eec",
+    "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_02",
+    "or:805cdefea17da8c87ecbb2e48bba5ee1",
+    "or:62edc4fc53a6fe2a1e071577b562d8c9",
+    "or:e74bc21499505dee7f45040353d3591c",
+    "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_03",
+    "or:6c0a2c1382b4ec17d82ef301055d7bde",
+    "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_09",
+    "or:acee9f3c670f2b6fe88121c072ed1ac5",
+    "or:523cb20d5b75b554bac69dd5a907f7b8"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "SUPERPOSICIONES (imagen encima, a pantalla completa)",
+   "nombre": "sup_luz_fuga_bokeh",
+   "titulo": "fugas de luz, destellos, bokeh (imagen)",
+   "consulta": "fuga de luz | bokeh | destello",
+   "f": {
+    "papel": "superposicion,pieza",
+    "tipo": "imagen"
+   },
+   "como": "Trama",
+   "poner": [
+    "tx:luz_y_elementos/fugas_de_luz/fuga_luz_ambar_0395",
+    "tx:luz_y_elementos/fugas_de_luz/fuga_luz_roja_0393",
+    "tx:luz_y_elementos/fugas_de_luz/fuga_luz_roja_0394",
+    "tx:luz_y_elementos/fugas_de_luz/fuga_luz_dorada_0391",
+    "tx:luz_y_elementos/fugas_de_luz/fuga_luz_analogica_naranja_0390",
+    "tx:luz_y_elementos/fugas_de_luz/fuga_luz_dorada_vintage_0392",
+    "tx:luz_y_elementos/fugas_de_luz/fuga_luz_dorada_0391_trama"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "SUPERPOSICIONES (imagen encima, a pantalla completa)",
+   "nombre": "sup_visor_camara",
+   "titulo": "visor de cámara, REC, marco de grabación",
+   "consulta": "visor",
+   "f": {},
+   "como": "Normal (con alfa) encima de todo",
+   "poner": [
+    "ab:a4e9f0eaa71a",
+    "ab:cf4d9d5b8e78",
+    "ab:069aedde9bb4",
+    "ab:efba834ddc42",
+    "ab:1ab375e25673",
+    "ab:0430e212a9c8",
+    "ab:fb403c8db738",
+    "ab:364d1808309b",
+    "ab:bd737f4cd600",
+    "ab:89827efba454",
+    "ab:9769b2e92231",
+    "ab:9be320566102"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "RELIEVES (gris 50 % = neutro)",
+   "nombre": "relieve_pliegues",
+   "titulo": "hoja doblada 1–6 veces (pliegues)",
+   "consulta": "pliegue | doblez | doblado",
+   "f": {
+    "papel": "relieve"
+   },
+   "como": "Superponer / Luz suave; 50 % = plano",
+   "poner": [
+    "tx:pliegues/4_pliegues/papel_gris_plegado_textura_sutil_0687",
+    "ab:caee23b21ab1",
+    "tx:pliegues/1_pliegues/textura_papel_arrugado_pliegue_central_0676",
+    "tx:pliegues/2_pliegues/papel_gris_plegado_cruces_arrugas_0686",
+    "tx:pliegues/2_pliegues/textura_papel_gris_pliegues_cruzados_0709",
+    "tx:pliegues/3_pliegues/textura_papel_gris_plegado_0714",
+    "tx:pliegues/5_pliegues/textura_papel_plegado_cuadricula_0719",
+    "tx:pliegues/2_pliegues/papel_arrugado_pliegues_cruzados_0677",
+    "ab:1609bff1b11b",
+    "tx:pliegues/6_pliegues/pliegues_geometricos_papel_gris_palido_0696",
+    "tx:pliegues/1_pliegues/pliegue_horizontal_papel_gris_claro_0693",
+    "tx:pliegues/2_pliegues/textura_papel_plegado_cruz_0717",
+    "or:d7648848cc8d9f5187bbc185344e624f",
+    "or:127e10e28d0a6f72ca12a913c4c86f31",
+    "ab:b351da9d5e53",
+    "tx:pliegues/1_pliegues/pliegue_papel_desgastado_0692"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "RELIEVES (gris 50 % = neutro)",
+   "nombre": "relieve_arrugado",
+   "titulo": "papel arrugado o muy arrugado",
+   "consulta": "arrugado | arrugas",
+   "f": {
+    "papel": "relieve"
+   },
+   "como": "Superponer / Luz suave",
+   "poner": [
+    "tx:pliegues/arrugado/pliegues_papel_gris_arrugado_0722",
+    "tx:pliegues/muy_arrugado/textura_papel_arrugado_0731",
+    "ab:4e018355fd6c",
+    "tx:productos/papel_gris/textura_pergamino_blanco_arrugado_1057_gris",
+    "tx:tileables/papel/textura_papel_encerado_arrugado_1036",
+    "tx:pliegues/arrugado/textura_papel_arrugado_0728",
+    "tx:pliegues/arrugado/textura_papel_gris_arrugado_0748",
+    "ab:394148ebc0f4",
+    "tx:productos/papel_gris/textura_papel_encerado_arrugado_1036_gris",
+    "tx:pliegues/arrugado/textura_papel_arrugado_0729",
+    "tx:pliegues/arrugado/superficie_papel_gris_arrugado_0723",
+    "tx:productos/papel_gris/textura_papel_horno_arrugado_1035_gris",
+    "ab:081c37eca81c",
+    "tx:pliegues/muy_arrugado/textura_papel_gris_arrugado_0743",
+    "tx:pliegues/arrugado/textura_papel_gris_arrugado_0740",
+    "tx:productos/papel_gris/textura_arrugada_papel_translucido_blanco_1014_gris"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "RELIEVES (gris 50 % = neutro)",
+   "nombre": "relieve_marcas",
+   "titulo": "grapas, clip, sello en seco, hendiduras, escritura en relieve",
+   "consulta": "grapa | clip | sello seco | hendidura | escritura | pinza | mecano",
+   "f": {
+    "papel": "relieve",
+    "sin_clase": [
+     "pliegues"
+    ]
+   },
+   "como": "Superponer / Luz suave",
+   "poner": [
+    "tx:imperfecciones/sello_seco/sello_notarial_oficial_relieve_blanco_0968_relieve",
+    "tx:imperfecciones/mecano/impresiones_maquina_escribir_relieve_0925_relieve",
+    "tx:imperfecciones/grapa_marca/sutiles_marcas_rectangulares_0771_relieve",
+    "tx:imperfecciones/escritura/textura_escritura_relieve_blanco_0976_relieve",
+    "tx:imperfecciones/clip_huella/huella_sutil_clip_papel_0759_relieve",
+    "tx:imperfecciones/grapa_agujero/agujeros_grapa_0757_relieve",
+    "tx:imperfecciones/escritura/textura_escritura_cursiva_relieve_0975_relieve",
+    "tx:imperfecciones/arruguita/sutiles_marcas_0770_relieve",
+    "tx:imperfecciones/mecano/texto_fantasma_mecanografiado_relieve_0969_relieve",
+    "tx:imperfecciones/pinza/sutiles_huellas_clip_0769_relieve",
+    "tx:imperfecciones/mecano/huellas_maquina_escribir_0923_relieve",
+    "tx:imperfecciones/clip_huella/relieve_sutil_pinza_papel_0763_relieve",
+    "tx:imperfecciones/pinza/impresiones_sutiles_0760_relieve",
+    "tx:imperfecciones/clip_huella/sutil_huella_clip_0767_relieve",
+    "tx:imperfecciones/grapa_agujero/primer_plano_dos_perforaciones_0762_relieve",
+    "tx:imperfecciones/escritura/impresiones_caligrafia_relieve_0924_relieve"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "RELIEVES (gris 50 % = neutro)",
+   "nombre": "relieve_textura_material",
+   "titulo": "relieve de papel, pintura, pared para dar volumen",
+   "consulta": "relieve papel | relieve pintura | relieve pared | relieve pergamino",
+   "f": {
+    "papel": "relieve"
+   },
+   "como": "Superponer, o como mapa de desplazamiento",
+   "poner": [
+    "tx:productos/papel_gris/textura_pergamino_envejecido_1059_gris",
+    "or:831b99f6a72ed4b20a52af4e2c100d15",
+    "or:48b8f89e08094e65da81b1ccc275a307",
+    "tx:imperfecciones/descamacion/textura_recubrimiento_desgastado_raspado_0991_relieve",
+    "tx:imperfecciones/huella_grasa/huellas_dactilares_tenues_0873_relieve",
+    "tx:productos/papel_gris/papel_translucido_texturizado_blanco_roto_1013_gris",
+    "tx:imperfecciones/mecano/impresion_mecanografiada_relieve_0926_relieve",
+    "tx:imperfecciones/escritura/textura_escritura_relieve_blanco_0976_relieve",
+    "tx:imperfecciones/mecano/impresiones_maquina_escribir_relieve_0925_relieve",
+    "tx:imperfecciones/escritura/impresiones_caligrafia_relieve_0924_relieve",
+    "tx:superposiciones/9x16/aguada/aguada_1192",
+    "tx:tileables/superficies/textura_pintura_gris_grumos_relieves_0664",
+    "tx:imperfecciones/arruguita/textura_papel_sutil_pliegue_curvo_0773_relieve",
+    "tx:imperfecciones/grapa_agujero/primer_plano_dos_perforaciones_0762_relieve",
+    "tx:imperfecciones/clip_huella/huella_sutil_clip_papel_0759_relieve",
+    "tx:pliegues/arrugado/textura_papel_gris_arrugado_0741"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_mancha_tinta",
+   "titulo": "manchas de tinta",
+   "consulta": "mancha tinta",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal; recolorear con transparencia bloqueada",
+   "poner": [
+    "tx:manchas/tinta/mancha_tinta_negra_papel_texturizado_0369",
+    "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_079",
+    "tx:imperfecciones/sangrado/sangrado_rotulador_0868",
+    "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_084",
+    "ab:6ea34657333b",
+    "tx:manchas/tinta/mancha_tinta_papel_texturizado_0370",
+    "tx:imperfecciones/sangrado/sangrado_rotulador_0911",
+    "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_085",
+    "ab:98c9f18a8ab4",
+    "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_003",
+    "tx:imperfecciones/sangrado/sangrado_rotulador_0900",
+    "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_025",
+    "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_071",
+    "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_087",
+    "tx:imperfecciones/matasellos/mancha_abstracta_acuarela_violeta_0927",
+    "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_070"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_mancha_pincel",
+   "titulo": "manchas y brochazos de pincel",
+   "consulta": "mancha pincel",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal; recolorear",
+   "poner": [
+    "tx:manchas/pincel/pincel_gris_0414",
+    "tx:collage/pintura/blanca/pintura_0173_1",
+    "ab:98c9f18a8ab4",
+    "tx:collage/pintura/blanca/pintura_0202_2",
+    "tx:manchas/pincel_grandes/macnha_1128",
+    "tx:manchas/pincel/pincel_gris_0418",
+    "tx:manchas/pincel/pincel_gris_0411",
+    "tx:manchas/pincel_grandes/macnha_1130",
+    "tx:collage/pintura/blanca/pintura_0202_3",
+    "tx:collage/pintura/blanca/pintura_0097_1",
+    "tx:manchas/pincel/pincel_gris_0426",
+    "tx:manchas/pincel/pincel_gris_0412",
+    "tx:collage/pintura/blanca/pintura_0160_1",
+    "ab:6ea34657333b",
+    "tx:manchas/pincel/pincel_gris_0419",
+    "ab:c338dc54f937"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_salpicadura",
+   "titulo": "salpicaduras de tinta o pintura",
+   "consulta": "salpicadura",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal; recolorear",
+   "poner": [
+    "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_023",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_004",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_129",
+    "ab:d898f7598606",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_092",
+    "tx:imperfecciones/salp_tinta/salpicaduras_tinta_0891",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_005",
+    "tx:collage/pintura/blanca/pintura_0087_3",
+    "tx:imperfecciones/salp_cafe/salpicaduras_cafe_0875",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_009",
+    "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_002",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_014",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_001",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_077",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_063",
+    "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_022"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_goteo",
+   "titulo": "goteos y chorreones de pintura (raíz arriba)",
+   "consulta": "goteo",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal; recolorear; la raíz va ARRIBA",
+   "poner": [
+    "tx:productos/piezas_neonizador/goteos/gruesa/goteo_gruesa_043",
+    "tx:productos/piezas_neonizador/goteos/agrietada/goteo_agrietada_002",
+    "tx:manchas/goteos/seca/goteo_037",
+    "tx:productos/piezas_neonizador/goteos/sueltos/goteo_238_05",
+    "tx:manchas/goteos/lagrima/goteo_017",
+    "tx:productos/piezas_neonizador/goteos/suelta/goteo_suelta_015",
+    "tx:productos/piezas_neonizador/goteos/fina/goteo_fina_020",
+    "tx:productos/piezas_neonizador/goteos/borde/goteo_239_borde_01",
+    "tx:productos/piezas_neonizador/gotas/gotas_063",
+    "tx:manchas/goteos/fina/goteo_055",
+    "tx:manchas/goteos/lagrima/goteo_200",
+    "tx:productos/piezas_neonizador/goteos/suelta/goteo_suelta_007",
+    "tx:manchas/goteos/suelta/goteo_067",
+    "tx:manchas/goteos/serpenteante/goteo_101",
+    "tx:productos/piezas_neonizador/goteos/suelta/goteo_suelta_010",
+    "tx:manchas/goteos/serpenteante/goteo_115"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_gotas_agua",
+   "titulo": "gotas de agua sueltas",
+   "consulta": "gota agua",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal",
+   "poner": [
+    "tx:productos/piezas_neonizador/goteos/suelta/goteo_suelta_014",
+    "tx:manchas/goteos/suelta/goteo_069",
+    "tx:productos/piezas_neonizador/gotas/gotas_102",
+    "tx:productos/piezas_neonizador/gotas/gotas_110",
+    "tx:productos/piezas_neonizador/burbujas_foto/sueltas/suelta_03",
+    "tx:manchas/goteos/fina/goteo_159",
+    "tx:productos/piezas_neonizador/gotas/gotas_036",
+    "tx:productos/piezas_neonizador/gotas/gotas_015",
+    "tx:productos/piezas_neonizador/goteos/agrietada/goteo_agrietada_012"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_cafe_cerco",
+   "titulo": "cercos y salpicaduras de café o té",
+   "consulta": "cafe",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Multiplicar o Normal",
+   "poner": [
+    "tx:imperfecciones/cafe/cerco_cafe_0853",
+    "tx:imperfecciones/cafe/cerco_cafe_0857",
+    "tx:imperfecciones/agua/mancha_agua_seca_0855",
+    "tx:imperfecciones/agua/mancha_agua_seca_0904",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_012",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_109",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_130",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_090",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_064",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_034",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_083",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_035",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_068",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_133",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_063",
+    "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_031"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_humedad_moho",
+   "titulo": "humedad, agua seca, moho, foxing, migración ácida",
+   "consulta": "humedad | moho | foxing | agua seca | acida",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Multiplicar",
+   "poner": [
+    "tx:productos/piezas_neonizador/moho/manchitas/manchita_007",
+    "tx:imperfecciones/foxing/foxing_oxido_moho_0893",
+    "tx:imperfecciones/agua/mancha_agua_seca_0878",
+    "tx:imperfecciones/humedad/mancha_humedad_0885",
+    "tx:imperfecciones/acida/migracion_acida_0894",
+    "tx:luz_y_elementos/moho/colonia_moho_multicolor_0176",
+    "tx:imperfecciones/humedad/mancha_humedad_0880",
+    "tx:imperfecciones/acida/migracion_acida_0909",
+    "tx:imperfecciones/agua/mancha_agua_seca_0899",
+    "tx:imperfecciones/foxing/foxing_oxido_moho_0907",
+    "tx:imperfecciones/acida/migracion_acida_0863",
+    "tx:productos/piezas_neonizador/moho/colonias/colonia_04",
+    "tx:imperfecciones/agua/mancha_agua_seca_0890",
+    "tx:imperfecciones/humedad/mancha_humedad_0886",
+    "tx:productos/piezas_neonizador/moho/colonias/colonia_02",
+    "tx:imperfecciones/foxing/foxing_oxido_moho_0898"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_quemadura",
+   "titulo": "quemaduras y agujeros quemados",
+   "consulta": "quemado | quemadura",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal",
+   "poner": [
+    "tx:productos/piezas_neonizador/quemado/mancha_circular_de_quemadura_c_02",
+    "tx:imperfecciones/quemadura/mancha_quemadura_0951",
+    "tx:productos/piezas_neonizador/quemado/mancha_circular_de_quemadura_c_08",
+    "tx:imperfecciones/quemadura_grande/marca_quemadura_0372",
+    "tx:productos/piezas_neonizador/quemado/mancha_circular_de_quemadura_c_03",
+    "tx:imperfecciones/quemadura/mancha_quemadura_0949",
+    "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_030",
+    "tx:bordes/carton/borde_naranja_0552",
+    "tx:bordes/viejo_roto/borde_papel_envejecido_0461",
+    "tx:bordes/carton/borde_naranja_0530",
+    "tx:imperfecciones/calor/mancha_calida_papel_envejecido_0930",
+    "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_033",
+    "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_089",
+    "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_010"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_borde_rasgado",
+   "titulo": "bordes de papel rasgado (blanco, gris, de color)",
+   "consulta": "borde rasgado",
+   "f": {
+    "papel": "pieza",
+    "clase": "bordes"
+   },
+   "como": "Normal, en el canto del papel",
+   "poner": [
+    "tx:bordes/blanco/borde_papel_rasgado_0471",
+    "tx:bordes/carton/carton_corrugado_rasgado_0480",
+    "tx:bordes/periodico/borde_papel_rasgado_0464",
+    "tx:bordes/gris/carton_gris_rasgado_0485",
+    "tx:bordes/bisel/borde_papel_rasgado_verde_azul_0473",
+    "tx:bordes/kraft/papel_kraft_rasgado_0586",
+    "tx:bordes/vegetal/borde_papel_translucido_rasgado_0474",
+    "tx:bordes/blanco/borde_gris_claro_0524",
+    "tx:bordes/acuarela/borde_papel_rasgado_0467",
+    "tx:bordes/acuarela/borde_gris_claro_0508",
+    "tx:bordes/espiral/borde_cuaderno_rasgado_0456",
+    "tx:bordes/carton/borde_naranja_0505",
+    "tx:bordes/blanco/papel_blanco_rasgado_0579",
+    "tx:bordes/blanco/borde_gris_claro_0517",
+    "tx:bordes/gris/cartulina_gris_rasgada_0477",
+    "tx:bordes/bisel/borde_azul_0538"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_borde_viejo",
+   "titulo": "bordes viejos, quemados o de cartón",
+   "consulta": "borde viejo",
+   "f": {
+    "papel": "pieza",
+    "clase": "bordes"
+   },
+   "como": "Normal",
+   "poner": [
+    "tx:bordes/carton/borde_naranja_0527",
+    "tx:bordes/viejo/pergamino_antiguo_0593",
+    "tx:bordes/carton/primer_plano_carton_desgastado_0594",
+    "tx:bordes/carton/borde_naranja_0509",
+    "tx:bordes/carton/borde_naranja_0552",
+    "tx:bordes/blanco/borde_gris_claro_0517",
+    "tx:bordes/viejo/borde_papel_rasgado_0451",
+    "tx:bordes/carton/borde_carton_desgastado_0454",
+    "tx:bordes/viejo_roto/papel_antiguo_rasgado_0575",
+    "tx:bordes/carton/borde_naranja_0563",
+    "tx:bordes/blanco/borde_gris_claro_0512",
+    "tx:bordes/carton/carton_kraft_desgastado_0487",
+    "tx:bordes/viejo/papel_antiguo_rasgado_0576",
+    "tx:bordes/carton/borde_naranja_0530",
+    "tx:bordes/carton/borde_naranja_0544",
+    "tx:bordes/viejo_roto/papel_rasgado_0574"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_esquinas",
+   "titulo": "esquinas de papel (dobladas, viejas, rotas) — láminas con varias esquinas",
+   "consulta": "esquina",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal, en las esquinas",
+   "poner": [
+    "tx:bordes/C_vieja/fragmentos_papel_envejecido_cuadricula_0499",
+    "tx:bordes/C_oreja/esquinas_papel_plegadas_0494",
+    "tx:bordes/blanco/borde_gris_claro_0562",
+    "tx:bordes/C_vieja/borde_naranja_0519",
+    "tx:bordes/C_vieja/esquinas_papel_vintage_0498",
+    "tx:bordes/C_oreja_rota/esquinas_papel_rasgado_0493",
+    "tx:bordes/C_vieja/cuatro_esquinas_papel_envejecido_0491",
+    "tx:bordes/C_oreja_rota/borde_gris_claro_0529",
+    "tx:bordes/C_vieja/borde_naranja_0531",
+    "tx:bordes/C_oreja_rota/esquinas_papel_rasgado_0497"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_cinta_adhesiva",
+   "titulo": "cinta adhesiva: celo, carrocero, americana, washi",
+   "consulta": "cinta adhesiva | celo | carrocero | americana | washi | cinta",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal (las transparentes con su sombra)",
+   "poner": [
+    "tx:collage/cintas/americana/cinta_plata_0118_1",
+    "tx:collage/cintas/carrocero/carrocero_0096_1",
+    "ab:bcf34e3eb2b5",
+    "tx:collage/cintas/washi/washi_0196_2",
+    "tx:collage/cintas/aislante_negra/cinta_negra_0192_2",
+    "ab:f980236560a0",
+    "tx:collage/cintas/ambar/cinta_ambar_0068_2",
+    "tx:collage/cintas/tela_blanca/cinta_tela_0085_1",
+    "ab:21d4f3617ce6",
+    "ab:4fc3066ce986",
+    "ab:85c0aaa8982d",
+    "ab:081fe3e249db",
+    "tx:collage/cintas/carrocero/carrocero_0207_1",
+    "tx:collage/cintas/washi/washi_0196_3",
+    "tx:collage/cintas/americana/cinta_plata_0132_1",
+    "ab:bf42dbc113e1"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_pegatina_etiqueta",
+   "titulo": "pegatinas y etiquetas (nuevas, viejas, arrancadas)",
+   "consulta": "pegatina | etiqueta",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal",
+   "poner": [
+    "tx:collage/etiquetas/arrancadas/etiq_rota_0134_1",
+    "tx:collage/pegatinas/blancas/peg_blanca_0153_2",
+    "tx:collage/etiquetas/envejecidas/etiq_vieja_0091_1",
+    "tx:collage/etiquetas/blancas/etiq_blanca_0128_1",
+    "tx:collage/pegatinas/kraft/peg_kraft_0084_1",
+    "tx:collage/pegatinas/vinilo/peg_vinilo_0125_1",
+    "tx:collage/notas/colores/notas_0111_3",
+    "tx:collage/notas/amarillas/postit_0089_1",
+    "ab:584bc5e64051",
+    "ab:407874c29a89",
+    "tx:collage/etiquetas/arrancadas/etiq_rota_0083_2",
+    "tx:collage/etiquetas/envejecidas/etiq_vieja_0071_2"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_notas_papeles",
+   "titulo": "post-it, notas y trozos de papel para collage",
+   "consulta": "nota | postit | papel collage | trozo papel",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal",
+   "poner": [
+    "tx:collage/notas/colores/notas_0108_3",
+    "tx:collage/papeles/blanco/papel_blanco_0005_1",
+    "tx:collage/papeles/cuaderno/cuaderno_0030_1",
+    "tx:collage/papeles/seda/seda_0038_1",
+    "tx:collage/papeles/cartulina_azul/cartulina_azul_0229_1",
+    "tx:collage/papeles/tiras/tira_papel_0249_1",
+    "tx:collage/papeles/envejecido/envejecido_0223_1",
+    "tx:collage/cintas/washi/washi_0197_1",
+    "tx:collage/notas/amarillas/postit_0143_1",
+    "tx:collage/cintas/carrocero/carrocero_0098_3",
+    "tx:collage/papeles/kraft/kraft_0055_1",
+    "tx:collage/papeles/periodico/periodico_0035_1",
+    "tx:collage/papeles/estampado/estampado_0050_1",
+    "tx:bordes/periodico/borde_papel_rasgado_0465",
+    "tx:bordes/bisel/borde_papel_azul_rasgado_0459",
+    "tx:bordes/gris/textura_papel_gris_rasgado_0599"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_fibras_pelos",
+   "titulo": "fibras, pelos y motas sueltas",
+   "consulta": "fibra | pelo | mota",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal o Multiplicar, pequeño y disperso",
+   "poner": [
+    "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_016",
+    "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_037",
+    "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_075",
+    "tx:imperfecciones/fibras/textura_fibras_papel_dispersas_0979",
+    "tx:imperfecciones/polvo/textura_polvo_0989",
+    "tx:productos/piezas_neonizador/imperfecciones/polvo/polvo_076",
+    "tx:superposiciones/pelicula_polvo_y_rayas/textura_pelicula_antigua_polvo_rayas_0409"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_huella",
+   "titulo": "huellas dactilares y de grasa",
+   "consulta": "huella",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Multiplicar",
+   "poner": [
+    "tx:imperfecciones/huella_tinta/huella_dactilar_monocromatica_0922",
+    "tx:imperfecciones/huella_tinta/huella_dactilar_tinta_gris_0916",
+    "tx:imperfecciones/huella_tinta/huella_dactilar_tinta_gris_0919",
+    "tx:imperfecciones/huella_tinta/huella_dactilar_forense_gris_0921",
+    "tx:imperfecciones/huella_tinta/huella_dactilar_tinta_gris_0920",
+    "tx:imperfecciones/huella_grasa/huellas_grasientas_0892",
+    "tx:imperfecciones/huella_grasa/huellas_grasientas_0864",
+    "tx:imperfecciones/otras/otras_gris_claro_0915",
+    "tx:imperfecciones/huella_grasa/huellas_grasientas_0883",
+    "tx:imperfecciones/huella_tinta/huella_dactilar_tinta_0917"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_sello_tampon",
+   "titulo": "sellos, matasellos, tampones de tinta",
+   "consulta": "sello | matasellos | tampon | estampa",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Multiplicar",
+   "poner": [
+    "tx:imperfecciones/matasellos/mancha_tinta_postal_difuminada_0953",
+    "tx:imperfecciones/matasellos/mancha_tinta_postal_difuminada_0954",
+    "tx:imperfecciones/matasellos/mancha_tinta_postal_difuminada_0955",
+    "tx:imperfecciones/matasellos/mancha_tinta_azul_lavanda_0952",
+    "tx:imperfecciones/matasellos/mancha_abstracta_acuarela_violeta_0927"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "PIEZAS SUELTAS (con transparencia)",
+   "nombre": "pieza_adhesivo_residuo",
+   "titulo": "restos de adhesivo y etiquetas arrancadas",
+   "consulta": "adhesivo",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal o Multiplicar",
+   "poner": [
+    "tx:collage/adhesivos/residuos/residuo_0170_2",
+    "tx:collage/adhesivos/gel/gel_0206_2",
+    "tx:collage/adhesivos/residuos/residuo_0165_1",
+    "tx:collage/adhesivos/gel/gel_0149_2",
+    "tx:collage/adhesivos/gel/gel_0082_2",
+    "tx:collage/adhesivos/residuos/residuo_0162_2",
+    "tx:collage/adhesivos/gel/gel_0198_3",
+    "tx:imperfecciones/adhesivo/residuo_adhesivo_envejecido_0964",
+    "tx:collage/adhesivos/residuos/residuo_0162_1",
+    "tx:imperfecciones/adhesivo/mancha_adhesivo_envejecido_0932",
+    "tx:collage/adhesivos/gel/gel_0150_2",
+    "tx:collage/adhesivos/residuos/residuo_0164_1"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "TRAZOS A MANO (PNG con color real)",
+   "nombre": "trazo_lapiz",
+   "titulo": "trazos de lápiz y grafito",
+   "consulta": "lapiz",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal o Multiplicar; recolorear",
+   "poner": [
+    "tx:trazos/lapiz/doodles_grafito_0019_03",
+    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0032_04",
+    "tx:trazos/boligrafo/cuatro_lineas_rojas_dibujadas_a_mano_0015_01",
+    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0046_01",
+    "tx:trazos/lapiz/hoja_garabatos_grafito_texturizado_0041_01",
+    "tx:trazos/lapiz/doodles_grafito_0020_09",
+    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0032_02",
+    "tx:trazos/lapiz/composicion_minimalista_garabatos_abstractos_0014_10",
+    "tx:trazos/lapiz/composicion_minimalista_garabatos_abstractos_0014_08",
+    "tx:trazos/lapiz/composicion_minimalista_garabatos_abstractos_0014_06",
+    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0039_06",
+    "tx:trazos/lapiz/composicion_minimalista_garabatos_abstractos_0014_05",
+    "tx:trazos/lapiz/composicion_minimalista_garabatos_abstractos_0014_01",
+    "tx:trazos/lapiz/composicion_minimalista_garabatos_abstractos_0014_07",
+    "tx:trazos/lapiz/hoja_garabatos_grafito_texturizado_0041_02",
+    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0047_01"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "TRAZOS A MANO (PNG con color real)",
+   "nombre": "trazo_carbon_cera",
+   "titulo": "carbón, cera, pastel",
+   "consulta": "cera | carbon | pastel | carboncillo",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal",
+   "poner": [
+    "tx:trazos/rotulador_gastado/cinco_trazos_azules_0012_02",
+    "tx:trazos/carbon/trazo_carboncillo_gris_oscuro_0033",
+    "tx:trazos/cera/trazo_cera_gris_oscuro_0008_01",
+    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0050_03",
+    "tx:trazos/rotulador_gastado/cinco_trazos_rojos_0013_02",
+    "tx:trazos/carbon/trazo_carboncillo_gris_oscuro_0045",
+    "tx:imperfecciones/cera/mancha_cera_translucida_0936",
+    "tx:trazos/cera/trazo_cera_gris_oscuro_0009_03",
+    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0047_01",
+    "tx:trazos/carbon/garabato_carbon_curva_0027",
+    "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0046_01",
+    "tx:trazos/carbon/trazo_carboncillo_gris_oscuro_0048_02",
+    "tx:trazos/rotulador_gastado/cinco_trazos_rojos_0013_01",
+    "tx:trazos/lapiz/garabatos_abstractos_grafito_0028_04",
+    "tx:trazos/rotulador_gastado/tres_trazos_azules_texturizados_0071_03",
+    "tx:collage/grafito/grafito_0246"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "TRAZOS A MANO (PNG con color real)",
+   "nombre": "trazo_rotulador",
+   "titulo": "rotulador (nuevo y gastado)",
+   "consulta": "rotulador",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal; recolorear",
+   "poner": [
+    "tx:trazos/rotulador/hoja_pruebas_garabatos_tinta_0043_12",
+    "tx:trazos/rotulador/pruebas_abstractas_rotulador_seco_0066_01",
+    "tx:trazos/rotulador/tres_lineas_negras_0070_03",
+    "tx:trazos/boligrafo/lineas_azules_0053_02",
+    "tx:trazos/rotulador/hoja_pruebas_garabatos_tinta_0043_08",
+    "ab:1da6b9b1c4c9",
+    "tx:trazos/rotulador/garabatos_abstractos_tinta_negra_0029_07",
+    "tx:trazos/rotulador/hoja_pruebas_garabatos_tinta_0043_11",
+    "tx:trazos/lapiz/composicion_minimalista_garabatos_abstractos_0014_02",
+    "tx:trazos/rotulador/hoja_pruebas_garabatos_tinta_0043_04",
+    "tx:trazos/rotulador/hoja_pruebas_garabatos_tinta_0043_10",
+    "tx:trazos/lapiz/composicion_minimalista_garabatos_abstractos_0014_03",
+    "tx:trazos/rotulador/hoja_pruebas_garabatos_tinta_0043_05",
+    "tx:trazos/rotulador/hoja_pruebas_garabatos_tinta_0043_01",
+    "ab:4cc84af7d8c9",
+    "ab:81077fc966da"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "TRAZOS A MANO (PNG con color real)",
+   "nombre": "trazo_boligrafo",
+   "titulo": "bolígrafo",
+   "consulta": "boligrafo",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal",
+   "poner": [
+    "tx:trazos/boligrafo/lineas_horizontales_dibujadas_a_mano_0054_03",
+    "tx:trazos/boligrafo/lineas_horizontales_dibujadas_a_mano_0054_04",
+    "tx:trazos/boligrafo/cinco_lineas_azules_0011_02",
+    "tx:trazos/boligrafo/cinco_lineas_azules_0011_03",
+    "tx:trazos/boligrafo/cuatro_lineas_rojas_dibujadas_a_mano_0015_03",
+    "tx:trazos/boligrafo/cuatro_lineas_rojas_dibujadas_a_mano_0015_02",
+    "tx:trazos/boligrafo/cinco_lineas_azules_0011_05",
+    "tx:trazos/boligrafo/lineas_horizontales_dibujadas_a_mano_0054_02"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "TRAZOS A MANO (PNG con color real)",
+   "nombre": "trazo_pincel",
+   "titulo": "pinceladas: pincel, gouache, óleo, pincel seco",
+   "consulta": "pincel | gouache | oleo | pincel seco | brochazo",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Normal; recolorear",
+   "poner": [
+    "tx:collage/pintura/blanca/pintura_0202_2",
+    "tx:collage/pintura/blanca/pintura_0205_1",
+    "tx:manchas/pincel/pincel_gris_0411",
+    "tx:trazos/pincel/trazos_azules_0069_02",
+    "ab:8c8443e2026c",
+    "tx:trazos/pincel_seco/muestras_abstractas_pincel_seco_grises_0056_01",
+    "tx:trazos/oleo/trazo_oleo_gris_oscuro_0059_01",
+    "tx:trazos/cera/trazo_cera_gris_oscuro_0007_01",
+    "tx:manchas/pincel/pincel_gris_0415",
+    "tx:trazos/pincel/ocho_pinceladas_azules_0061_01",
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0004_01",
+    "tx:manchas/pincel_grandes/macnha_1127",
+    "ab:98c9f18a8ab4",
+    "tx:manchas/pincel/pincelada_gouache_gris_texturizada_0432",
+    "tx:trazos/brocha/pincelada_gris_0062",
+    "ab:ead320365bc0"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "TRAZOS A MANO (PNG con color real)",
+   "nombre": "trazo_acuarela_aguada",
+   "titulo": "aguadas y acuarela",
+   "consulta": "aguada | acuarela",
+   "f": {
+    "papel": "pieza"
+   },
+   "como": "Multiplicar o Normal",
+   "poner": [
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0000_03",
+    "tx:trazos/aguada/trazo_aguada_gris_0005_02",
+    "tx:trazos/aguada/trazo_aguada_gris_0001_02",
+    "tx:trazos/aguada/trazo_aguada_gris_0000_02",
+    "tx:trazos/aguada/trazo_aguada_gris_0006_01",
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0005_01",
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0003_01",
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0003_02",
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0004_01",
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0002_01",
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0002_02",
+    "tx:trazos/aguada/trazo_aguada_gris_0001_01",
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0006_02",
+    "tx:trazos/aguada/trazo_aguada_gris_0001_03",
+    "tx:trazos/aguada/trazo_aguada_gris_0004_02",
+    "tx:trazos/aguada/trazo_aguada_gris_oscuro_0000_01"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "TRAZOS A MANO (PNG con color real)",
+   "nombre": "trazo_anotacion",
+   "titulo": "subrayados, flechas, círculos, tachones de anotación",
+   "consulta": "subrayado | flecha | circulo | tachon | anotacion",
+   "f": {
+    "tipo": "imagen"
+   },
+   "como": "Normal",
+   "poner": [
+    "ab:4cc84af7d8c9",
+    "ab:617941b70b84",
+    "ab:c21a8fc9ac25",
+    "ab:41066b520c7c",
+    "ab:6584b8f17b79",
+    "ab:b46be1e673b6",
+    "ab:abb276099024",
+    "ab:bf70ad2b4cb3",
+    "ab:5c52758ee51e",
+    "ab:921a0cdf7e70",
+    "ab:855889a8f571",
+    "ab:2e6ff2108e02",
+    "tx:trazos/rotulador/hoja_pruebas_garabatos_tinta_0043_04",
+    "ab:708e28bbde84",
+    "ab:58ec423cae55",
+    "tx:trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_04"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "TRAZOS A MANO (PNG con color real)",
+   "nombre": "trazo_cinta_estirable",
+   "titulo": "cintas de trazo (cabeza, cuerpo, cola) para estirar a lo largo de un recorrido",
+   "consulta": "cinta trazo",
+   "f": {
+    "clase": "productos",
+    "sub": "cintas_trazo"
+   },
+   "como": "Gris: se estira por un camino y se colorea en el motor",
+   "poner": [
+    "tx:productos/cintas_trazo/lapiz_43",
+    "tx:productos/cintas_trazo/rotulador_78",
+    "tx:productos/cintas_trazo/boligrafo_84",
+    "tx:productos/cintas_trazo/cera_15",
+    "tx:productos/cintas_trazo/carbon_50",
+    "tx:productos/cintas_trazo/cera_17",
+    "tx:productos/cintas_trazo/pincel_56",
+    "tx:productos/cintas_trazo/lapiz_45",
+    "tx:productos/cintas_trazo/aguada_08",
+    "tx:productos/cintas_trazo/carbon_52",
+    "tx:productos/cintas_trazo/aguada_05",
+    "tx:productos/cintas_trazo/brocha_71",
+    "tx:productos/cintas_trazo/aguada_00",
+    "tx:productos/cintas_trazo/carbon_48",
+    "tx:productos/cintas_trazo/pincel_66",
+    "tx:productos/cintas_trazo/carbon_53"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "LUZ Y ELEMENTOS (imagen)",
+   "nombre": "elem_fuego",
+   "titulo": "llamas y fuego",
+   "consulta": "fuego",
+   "f": {
+    "papel": "pieza,superposicion",
+    "tipo": "imagen"
+   },
+   "como": "Normal (PNG) o el _trama en Trama",
+   "poner": [
+    "tx:luz_y_elementos/fuego/llama_ardiente_espiral_0094_trama",
+    "tx:productos/piezas_neonizador/fuego/llamas/base_01",
+    "tx:luz_y_elementos/fuego/llamas_naranjas_0400",
+    "or:39fb44e82965cd5d2781a484b7f91f14",
+    "tx:luz_y_elementos/fuego/llama_danzante_0102",
+    "tx:luz_y_elementos/fuego/llama_fuego_espiral_0104",
+    "tx:luz_y_elementos/fuego/llama_fuego_arremolinada_0103",
+    "tx:luz_y_elementos/fuego/explosion_fuego_incandescente_0091",
+    "tx:luz_y_elementos/fuego/llama_ardiente_espiral_0094",
+    "tx:productos/piezas_neonizador/fuego/llamas/lengua_04",
+    "tx:luz_y_elementos/fuego/llamas_doradas_0111_trama",
+    "tx:luz_y_elementos/fuego/llama_arremolinada_0100",
+    "tx:luz_y_elementos/chispas/chispas_ardientes_0383",
+    "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_100",
+    "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_055",
+    "tx:luz_y_elementos/chispas/brasas_flotando_0082"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "LUZ Y ELEMENTOS (imagen)",
+   "nombre": "elem_chispas_pavesas",
+   "titulo": "chispas, pavesas, brasas",
+   "consulta": "chispa",
+   "f": {
+    "papel": "pieza,superposicion",
+    "tipo": "imagen"
+   },
+   "como": "Trama o Normal; --relleno para usar muchas pequeñas",
+   "poner": [
+    "tx:luz_y_elementos/chispas/chispas_ardientes_0383_trama",
+    "tx:luz_y_elementos/chispas/brasas_flotando_0082_trama",
+    "tx:luz_y_elementos/chispas/chispas_ardientes_0383",
+    "tx:luz_y_elementos/chispas/brasas_flotando_0082",
+    "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_227",
+    "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_100",
+    "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_077",
+    "tx:productos/piezas_neonizador/fuego/chispas/chispa_063",
+    "tx:productos/piezas_neonizador/fuego/chispas/chispa_082",
+    "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_253",
+    "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_030",
+    "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_264",
+    "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_266",
+    "tx:productos/piezas_neonizador/fuego/chispas/chispa_102",
+    "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_192",
+    "tx:productos/piezas_neonizador/fuego/chispas/chispa_006"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "LUZ Y ELEMENTOS (imagen)",
+   "nombre": "elem_humo",
+   "titulo": "humo y niebla",
+   "consulta": "humo | niebla | vapor",
+   "f": {
+    "papel": "pieza,superposicion",
+    "tipo": "imagen"
+   },
+   "como": "Trama o Normal",
+   "poner": [
+    "tx:luz_y_elementos/humo/remolino_humo_0115_trama",
+    "tx:luz_y_elementos/humo/espirales_vapor_0389_trama",
+    "tx:luz_y_elementos/humo/espirales_humo_0388",
+    "tx:luz_y_elementos/humo/espiral_humo_0386_trama",
+    "tx:luz_y_elementos/humo/espiral_humo_0090_trama",
+    "tx:luz_y_elementos/humo/espiral_humo_0386",
+    "tx:luz_y_elementos/humo/remolino_humo_0114_trama",
+    "tx:luz_y_elementos/humo/espirales_humo_etereo_0387",
+    "tx:luz_y_elementos/humo/espirales_humo_0388_trama",
+    "tx:luz_y_elementos/humo/espirales_humo_etereo_0387_trama",
+    "tx:luz_y_elementos/humo/remolino_humo_0113_trama",
+    "tx:luz_y_elementos/humo/remolino_humo_0114",
+    "tx:productos/piezas_neonizador/fuego/humo/humo_03",
+    "tx:luz_y_elementos/humo/espirales_vapor_0389",
+    "tx:luz_y_elementos/humo/remolino_humo_0113",
+    "tx:luz_y_elementos/humo/espiral_humo_0090"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "LUZ Y ELEMENTOS (imagen)",
+   "nombre": "elem_burbujas",
+   "titulo": "burbujas y espuma",
+   "consulta": "burbuja",
+   "f": {
+    "papel": "pieza,superposicion",
+    "tipo": "imagen"
+   },
+   "como": "Trama o Normal",
+   "poner": [
+    "tx:luz_y_elementos/burbujas_y_espuma/burbujas_espuma_0169",
+    "tx:productos/piezas_neonizador/burbujas/burbujas_230_03",
+    "tx:productos/piezas_neonizador/burbujas_foto/sueltas/suelta_02",
+    "tx:productos/piezas_neonizador/burbujas/burbujas_229_01",
+    "tx:luz_y_elementos/burbujas_y_espuma/burbuja_jabon_perlada_0166",
+    "tx:productos/piezas_neonizador/burbujas_foto/manchas/mancha_08",
+    "tx:luz_y_elementos/burbujas_y_espuma/burbujas_iridiscentes_flotando_0360",
+    "tx:productos/piezas_neonizador/burbujas/burbujas_229_02",
+    "tx:productos/piezas_neonizador/burbujas/burbujas_228_08",
+    "tx:productos/piezas_neonizador/burbujas/burbujas_230_05",
+    "tx:productos/piezas_neonizador/burbujas/burbujas_228_05",
+    "tx:luz_y_elementos/burbujas_y_espuma/espuma_monocromatica_0178",
+    "tx:luz_y_elementos/burbujas_y_espuma/burbuja_jabon_brillante_0163_trama",
+    "tx:productos/piezas_neonizador/burbujas_foto/sueltas/suelta_01",
+    "tx:productos/piezas_neonizador/burbujas_foto/manchas/mancha_10",
+    "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_08"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "VÍDEO",
+   "nombre": "video_transicion_papel",
+   "titulo": "transiciones de papel (rasgado, collage, hojas)",
+   "consulta": "papel",
+   "f": {
+    "papel": "transicion"
+   },
+   "como": "Encima del corte; ver `transicion` (cuándo cubre y descubre)",
+   "poner": [
+    "ab:2d6d9b996953",
+    "ab:baeed2a1f761",
+    "ab:360a5ee56ffa",
+    "ab:561ab4ed5c83",
+    "ab:1fd42646f315",
+    "ab:24e96afa9a95",
+    "ab:6ae8d80f8465",
+    "ab:cad87da9db7c",
+    "ab:7c0ce0645984",
+    "ab:4e09c8e1a902",
+    "ab:58fa041c926e",
+    "ab:4ee015b4c67a",
+    "ab:25a7fd8b2e75",
+    "ab:fd24aa639942",
+    "ab:836752fc3702",
+    "ab:3591f7e77150"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "VÍDEO",
+   "nombre": "video_transicion_tinta",
+   "titulo": "transiciones de tinta, pincel, spray",
+   "consulta": "tinta | pincel | spray | brocha",
+   "f": {
+    "papel": "transicion,mascara"
+   },
+   "como": "Mate de luminancia o encima del corte",
+   "poner": [
+    "tx:video/transiciones/tinta_4k/diagonal/diagonal_7",
+    "tx:video/transiciones/tinta_4k/horizontal/horizontal_4",
+    "tx:video/transiciones/tinta_4k/horizontal/horizontal_7",
+    "tx:video/transiciones/tinta_4k/vertical/vertical_2",
+    "tx:video/elementos/spray/t1",
+    "or:33295827d6674053a65dca7e6af02d36",
+    "or:dd37c0e11117bfed835b4b26784ff744",
+    "or:530600ca5c20fab13279d35f774a4263",
+    "or:e57f3934873906e819a80f915841f643",
+    "tx:productos/mates_tinta_4k/diagonal/diagonal_1_mate",
+    "or:eda496b1ef235f24dcd9c44c5ec1994d",
+    "or:57115dd23a95b3488a89b2a9b05a0df2",
+    "ab:8e12584e9eed"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "VÍDEO",
+   "nombre": "video_transicion_quemado",
+   "titulo": "transiciones de papel/película quemada",
+   "consulta": "quemado | burn | fuego",
+   "f": {
+    "papel": "transicion"
+   },
+   "como": "Encima del corte (Trama) o mate",
+   "poner": [
+    "ab:c2e2df37a4fc",
+    "ab:997395dfb3f6",
+    "ab:fb586f7d436d",
+    "ab:55158d38e3c4",
+    "ab:051348d7c448",
+    "ab:230dda3b96f2",
+    "ab:d31d54cfa292",
+    "ab:bb185a48949b",
+    "ab:31d1a880de5a",
+    "ab:4c54ec3b2139",
+    "ab:2a9e90192791",
+    "ab:7ddb91f9c879",
+    "ab:68bc67da6ca9",
+    "ab:928f63189a2a",
+    "ab:1f45e8c1d8ab",
+    "ab:470472ff9b4d"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "VÍDEO",
+   "nombre": "video_transicion_luz",
+   "titulo": "transiciones de luz, destellos, fugas",
+   "consulta": "luz",
+   "f": {
+    "papel": "transicion"
+   },
+   "como": "Trama encima del corte",
+   "poner": [
+    "ab:1eeb027673c8",
+    "ab:91f8881423ef",
+    "ab:1975a0f5a028",
+    "ab:cf1d5f3e2817",
+    "ab:7ddb91f9c879",
+    "ab:9a025dd3f093",
+    "ab:f87e3906790e",
+    "ab:bbdf4e405137",
+    "ab:b1a18795363c",
+    "ab:31975cc466fd",
+    "ab:599f3709ec1e",
+    "ab:1da5c3f4a747",
+    "ab:555a60faace9",
+    "ab:7a0f640151ff",
+    "ab:49bbd99112d3",
+    "ab:55158d38e3c4"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "VÍDEO",
+   "nombre": "video_transicion_glitch",
+   "titulo": "transiciones glitch, digitales, VHS",
+   "consulta": "glitch | digital | vhs | interferencia",
+   "f": {
+    "papel": "transicion,superposicion animada"
+   },
+   "como": "Encima del corte",
+   "poner": [
+    "ab:03f2c46b39f5",
+    "ab:3c4e4e8c8704",
+    "ab:d4ac99ae8ad2",
+    "ab:267ad5e4ad62",
+    "ab:54156eca8269",
+    "ab:76167a7b15d0",
+    "ab:6cc81d0eaeed",
+    "ab:3829112b51dc",
+    "ab:8e7d040a7ce8",
+    "ab:fbd3f8972ef8",
+    "ab:fc4d7064db5f",
+    "ab:5ddedc785506",
+    "ab:76a85d020c16",
+    "ab:695fe8767b40",
+    "ab:0969add545ea",
+    "ab:d5b03a13b233"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "VÍDEO",
+   "nombre": "video_transicion_tela_formas",
+   "titulo": "transiciones de tela, formas, barridos gráficos",
+   "consulta": "tela | textil | formas | barrido",
+   "f": {
+    "papel": "transicion"
+   },
+   "como": "Encima del corte",
+   "poner": [
+    "ab:c4845186d179",
+    "ab:4630f3b74d36",
+    "ab:9fdf402c8d7e",
+    "ab:fd1b7b903f32",
+    "ab:75d0e8d11612",
+    "ab:3cdfcc0a3c2f",
+    "ab:5cdda8d9ed97",
+    "ab:5280e7a8b27b",
+    "ab:99530e924d5b",
+    "ab:6d3ac721bf89",
+    "ab:e6728bc6b6fb",
+    "ab:e3dab221f2d1",
+    "ab:3d7fcd65e8cb",
+    "ab:ac250c6f2ac7",
+    "ab:a7f4f5685867",
+    "ab:245d897285cc"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "VÍDEO",
+   "nombre": "video_mascara_mate",
+   "titulo": "mates y máscaras (luma/alfa) para revelar",
+   "consulta": "mascara mate",
+   "f": {
+    "tipo": "video"
+   },
+   "como": "Track Matte de luminancia o alfa",
+   "poner": [
+    "ab:de6fe2ee111f",
+    "ab:5249350e9862",
+    "or:c64ae23db3c92707a12744b7081f82b8",
+    "tx:productos/mates_tinta_4k/diagonal/diagonal_3_mate",
+    "ab:a0d48e8fa021",
+    "ab:00c50899b570",
+    "ab:8fd9d8265d69",
+    "ab:ff216b8bd759",
+    "ab:d2a9df28c972",
+    "ab:13bf9cc60aa6",
+    "ab:99542c3141e6",
+    "ab:8616916ff16e",
+    "tx:video/transiciones/tinta_4k/horizontal/horizontal_3",
+    "tx:video/transiciones/tinta_4k/diagonal/diagonal_4",
+    "or:3df549c8454bef1f42876e6056cb27c9",
+    "ab:11171eae6c28"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "VÍDEO",
+   "nombre": "video_pelicula_polvo",
+   "titulo": "película: polvo, rayas, quemado de película, grano (animado)",
+   "consulta": "pelicula",
+   "f": {
+    "papel": "superposicion animada"
+   },
+   "como": "Trama encima de todo, o encima del corte",
+   "poner": [
+    "ab:8ae04a856b03",
+    "ab:4c2ab375f1b0",
+    "ab:1b48406df064",
+    "ab:ffa3faa4f274",
+    "ab:c57a46a45f05",
+    "ab:0418d52ac0b3",
+    "ab:a94fac71b276",
+    "ab:ca5055436fa0",
+    "ab:155beec48943",
+    "ab:b504018cdb9b",
+    "ab:576362753874",
+    "ab:086c00c48051",
+    "ab:deffb5098e1a",
+    "ab:8da7fb8a8479",
+    "ab:4c2223f7f3b4",
+    "ab:68232f0d6a28"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "VÍDEO",
+   "nombre": "video_vhs_crt",
+   "titulo": "VHS, CRT, pantalla, analógico (animado)",
+   "consulta": "vhs | crt | analogico | pantalla | television",
+   "f": {
+    "papel": "superposicion animada,transicion"
+   },
+   "como": "Trama o Superponer",
+   "poner": [
+    "ab:9aa4cf3ba2a7",
+    "ab:8e7d040a7ce8",
+    "ab:dffc699ad52b",
+    "ab:01b5fc1c4863",
+    "ab:c6739160939c",
+    "ab:5d11bf6fea84",
+    "ab:b336f9095b51",
+    "ab:74cbec1af6f8",
+    "ab:86f9375d78c4",
+    "ab:5543d8c4e497",
+    "ab:10ba6f9b9dc8",
+    "ab:d2bafa44b727",
+    "ab:bfe304261975",
+    "ab:89036a87843f",
+    "ab:57507ca68c22",
+    "ab:1a2eabd26054"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "VÍDEO",
+   "nombre": "video_papel_animado",
+   "titulo": "papel y texturas animadas a saltos (stop motion)",
+   "consulta": "papel",
+   "f": {
+    "papel": "superposicion animada,fondo animado"
+   },
+   "como": "Multiplicar (blanco) / Trama (negro), en loop",
+   "poner": [
+    "ab:456e0ba1de43",
+    "ab:21b2856b06a3",
+    "ab:a5278c680475",
+    "ab:40af65df7af9",
+    "ab:f77d3a0db3ce",
+    "ab:60e1c736f9c9",
+    "ab:6579ffb28e60",
+    "ab:ed149a0570ba",
+    "ab:145175975ac6",
+    "ab:e4cc253f2914",
+    "ab:b7470a1aed8b",
+    "ab:3f7bb0aa834b",
+    "ab:f06bb10f4c87",
+    "ab:1905bbc5bae6",
+    "ab:ec51aa6bb974",
+    "ab:0bd4442bada3"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "VÍDEO",
+   "nombre": "video_humo_fuego",
+   "titulo": "humo y fuego animados",
+   "consulta": "humo | fuego | llama",
+   "f": {
+    "papel": "elemento animado,superposicion animada,fondo animado",
+    "tipo": "video"
+   },
+   "como": "Trama sobre negro",
+   "poner": [
+    "tx:video/elementos/humo/columna_de_humo_blanco_sobre_negro_0004",
+    "tx:video/elementos/humo/humo_que_nace_abajo_y_sube_hasta_llenar_0003",
+    "tx:video/elementos/fuego_y_humo/llamas_y_humo_blancos_monocromo_que_ocup_0006",
+    "tx:video/elementos/humo/dos_columnas_de_humo_blanco_que_suben_y_4cfd",
+    "ab:09610ed1d175"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "VÍDEO",
+   "nombre": "video_agua_tinta",
+   "titulo": "agua, tinta en agua, espuma, burbujas animadas",
+   "consulta": "agua | tinta | espuma | burbuja | ola",
+   "f": {
+    "papel": "elemento animado,superposicion animada,fondo animado",
+    "tipo": "video"
+   },
+   "como": "Trama sobre negro",
+   "poner": [
+    "tx:video/elementos/agua_y_espuma/agua_negra_con_burbujas_y_espuma_0002",
+    "tx:video/elementos/tinta_en_agua/tinta_en_agua_6056",
+    "tx:video/texturas_animadas/manchas/texture13_paint_leaks",
+    "ab:5efbf974c48b",
+    "ab:f5734500fb00",
+    "tx:video/elementos/agua_y_espuma/espuma_oscura_sobre_agua_d53f",
+    "tx:video/elementos/tinta_en_agua/remolinos_de_tinta_clara_en_agua_0f62",
+    "ab:eabf06fff256",
+    "tx:video/elementos/agua_y_espuma/espuma_de_mar_blanca_sobre_agua_oscura_9571",
+    "tx:video/elementos/tinta_en_agua/tinta_blanca_en_agua_oscura_380b",
+    "ab:58b19f4c9eb6",
+    "tx:video/elementos/espuma/espuma_de_burbujas_blancas_041d",
+    "tx:video/elementos/tinta_en_agua/tinta_blanca_y_negra_en_agua_7423",
+    "ab:e9952a7f9562",
+    "ab:b1d1e701a731",
+    "ab:572bf479b921"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "VÍDEO",
+   "nombre": "video_marcadores",
+   "titulo": "marcadores animados: flechas, círculos, subrayados, letras a mano",
+   "consulta": "flecha | circulo | subrayado | marcador | letra a mano | tachon",
+   "f": {
+    "tipo": "video"
+   },
+   "como": "Normal (alfa) o Multiplicar",
+   "poner": [
+    "ab:773aabb660b3",
+    "ab:e86649d44098",
+    "ab:7a8e9b8bbfc4",
+    "ab:cc65aff38561",
+    "ab:58180c019cbe",
+    "ab:e276ca158527",
+    "ab:b8336bfcf0e5",
+    "ab:8eff9d0e8116",
+    "ab:34b70d712952",
+    "ab:f873a9649948",
+    "ab:5b5b1801876a",
+    "ab:b241a4b6cc22",
+    "ab:785c1c7cf0b8",
+    "ab:78c286f5e1fe",
+    "ab:f60f32d739b4",
+    "ab:7a8d21b40dab"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "VÍDEO",
+   "nombre": "video_luz_elementos",
+   "titulo": "luces, destellos, bokeh animados",
+   "consulta": "luz | destello | bokeh",
+   "f": {
+    "papel": "elemento animado,superposicion animada"
+   },
+   "como": "Trama",
+   "poner": [
+    "ab:5b9018bdb76c",
+    "ab:0a8a2d2715c6",
+    "ab:83677ffc9631",
+    "ab:fc4870d68583",
+    "ab:3a61efdcfdeb",
+    "ab:a92674d026a1",
+    "ab:4b47eb208a96",
+    "ab:0418d52ac0b3",
+    "ab:04d51612f6a1",
+    "ab:2ff8b8c89648",
+    "ab:086c00c48051",
+    "ab:cdc58b86f814",
+    "ab:a9f80c893918",
+    "ab:e6e4d0b3a0bf",
+    "ab:f964578fd4c7",
+    "ab:51705069ac88"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "VÍDEO",
+   "nombre": "video_fondo",
+   "titulo": "fondos animados",
+   "consulta": "",
+   "f": {
+    "papel": "fondo animado"
+   },
+   "como": "Detrás de todo",
+   "poner": [
+    "ab:13f11f110a32",
+    "ab:f61c9b017164",
+    "ab:28acfc9453c2",
+    "ab:a9f798c97aca",
+    "ab:f0b9f8c93a99",
+    "ab:63d80cdcb655",
+    "ab:8e436bfd06b9",
+    "tx:video/elementos/tinta_en_agua/tinta_en_agua_a014",
+    "ab:8b1f51772270",
+    "ab:f33687e447ab",
+    "ab:77dd223aef8a",
+    "ab:64841134b9a7",
+    "ab:53866236da8c",
+    "ab:b85ddc325574",
+    "ab:d37dde4a86fa",
+    "ab:d2d19aca1b54"
+   ],
+   "cerrada": true
+  },
+  {
+   "grupo": "SONIDO",
+   "nombre": "sonido_whoosh",
+   "titulo": "whoosh y barridos",
+   "consulta": "whoosh | swoosh",
+   "f": {
+    "clase": "sonido",
+    "subs": [
+     "whoosh",
+     "transición"
+    ],
+    "min": 0
+   },
+   "como": "En la transición; audio_medido da duración y pico"
+  },
+  {
+   "grupo": "SONIDO",
+   "nombre": "sonido_papel",
+   "titulo": "papel: rasgar, arrugar, pasar hojas, collage",
+   "consulta": "",
+   "f": {
+    "clase": "sonido",
+    "subs": [
+     "papel_(collage)"
+    ],
+    "min": 0
+   },
+   "como": "Con transiciones de papel"
+  },
+  {
+   "grupo": "SONIDO",
+   "nombre": "sonido_golpe",
+   "titulo": "golpes, impactos, booms",
+   "consulta": "",
+   "f": {
+    "clase": "sonido",
+    "subs": [
+     "golpe",
+     "metal_y_escombros",
+     "puerta"
+    ],
+    "min": 0
+   },
+   "como": "En el corte"
+  },
+  {
+   "grupo": "SONIDO",
+   "nombre": "sonido_riser",
+   "titulo": "subidas (risers) y tensión",
+   "consulta": "",
+   "f": {
+    "clase": "sonido",
+    "subs": [
+     "subida_(riser)",
+     "warp"
+    ],
+    "min": 0
+   },
+   "como": "Antes del corte"
+  },
+  {
+   "grupo": "SONIDO",
+   "nombre": "sonido_glitch_analogico",
+   "titulo": "glitch, VHS, mecánica analógica, proyector",
+   "consulta": "",
+   "f": {
+    "clase": "sonido",
+    "subs": [
+     "glitch",
+     "mecánica_analógica_(VCR_/_cámara)",
+     "ruido_de_fondo_(bucle)",
+     "transición_digital_(morph)",
+     "arañazos"
+    ],
+    "min": 0
+   },
+   "como": "Con efectos analógicos"
+  },
+  {
+   "grupo": "SONIDO",
+   "nombre": "sonido_fuego_quemado",
+   "titulo": "fuego y película quemándose",
+   "consulta": "",
+   "f": {
+    "clase": "sonido",
+    "subs": [
+     "fuego",
+     "quemado_de_película"
+    ],
+    "min": 0
+   },
+   "como": "Con transiciones de quemado"
+  },
+  {
+   "grupo": "SONIDO",
+   "nombre": "sonido_ambiente",
+   "titulo": "ambientes",
+   "consulta": "",
+   "f": {
+    "clase": "sonido",
+    "subs": [
+     "ambiente",
+     "vehículos",
+     "pasos"
+    ],
+    "min": 0
+   },
+   "como": "De fondo"
+  },
+  {
+   "grupo": "COLOR",
+   "nombre": "lut_pelicula",
+   "titulo": "LUT de película y looks de color",
+   "consulta": "lut",
+   "f": {
+    "clase": "lut"
+   },
+   "como": "Capa de ajuste con la LUT; mira para qué cámara/log es"
+  }
+ ]
+}

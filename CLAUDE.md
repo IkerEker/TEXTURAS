@@ -11,7 +11,7 @@ Si no está, se añade aquí (ver «Añadir material») y luego se usa; no se cr
 
 ## Cómo encontrar algo
 
-> **PARA ELEGIR MATERIAL: `python3 tools/atlas/buscar.py <palabras> --ver`** (v2, 20-11-2026). Es lo único que ordena
+> **PARA ELEGIR MATERIAL: empieza por `python3 tools/atlas/buscar.py --necesidades`** (78 listas curadas a ojo); si no, `buscar.py <palabras> --ver` (v3, 20-11-2026). Es lo único que ordena
 > por lo que encaja, entiende sinónimos, cubre ACIDBITE y originales (9.031 recursos, no los 1.678 de abajo) y devuelve
 > un abanico variado. Método y reglas de variedad: `biblioteca_raiz/CLAUDE.md` (= `Biblioteca/CLAUDE.md` en el PC).
 > **No elijas filtrando `catalogo.json` y quedándote con los primeros**: es la causa de que los plugins repitan

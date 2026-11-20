@@ -53,9 +53,10 @@ herramientas la encuentran con la variable `TEXTURAS_ROOT`. Material, sonidos, v
 | `medidas` | tamaño, alfa, color medio, pHash… |
 | `hoja` | hoja de contactos donde se ve |
 
-**Método obligatorio para buscar (v2, 20-11-2026): el de `Biblioteca/CLAUDE.md`** (en el repo:
+**Método obligatorio para buscar (v3, 20-11-2026): el de `Biblioteca/CLAUDE.md`** (en el repo:
 `biblioteca_raiz/CLAUDE.md`). Resumen:
-1. `buscar.py --version` tiene que decir v2 (si no: `git -C TEXTURAS pull --ff-only`). La primera vez, `--mapa`.
+1. `buscar.py --version` tiene que decir v3 (si no: `git -C TEXTURAS pull --ff-only`).
+   **Empieza por `--necesidades`**: 78 necesidades con su lista curada a ojo y su hoja hecha (`--necesidad NOMBRE`).
 2. 2–4 palabras (objeto/material + aspecto + uso) con `--ver`: sale un ABANICO de 12 buenas y distintas (una por
    familia, repartidas entre TEXTURAS/ACIDBITE/originales, algo de azar) y una hoja JPG con miniaturas.
 3. Al menos 3 búsquedas desde lados distintos (otro nombre, el efecto, el material vecino) + el filtro del papel que
@@ -158,7 +159,8 @@ Corto y claro.
 ```
 ## Biblioteca y velocidad (orden de Iker, 20-11-2026; texto completo: TEXTURAS/plugins/ORDEN_PLUGINS.md)
 - Material SOLO de la biblioteca IkerEker/TEXTURAS (rama atlas) + Biblioteca/ local (TEXTURAS_ROOT). Nada de bancos propios.
-- Buscar SIEMPRE con TEXTURAS/tools/atlas/buscar.py v2 y el método de Biblioteca/CLAUDE.md: 2–4 palabras --ver →
+- Empezar por buscar.py --necesidades / --necesidad NOMBRE (listas curadas a ojo). Si no está, buscar libre con
+  TEXTURAS/tools/atlas/buscar.py v3 y el método de Biblioteca/CLAUDE.md: 2–4 palabras --ver (--papel/--fondo) →
   ≥3 búsquedas desde lados distintos + filtro de papel (--tileable/--alfa/--clase) → mirar la hoja → elegir con
   VARIEDAD (varias variantes por efecto, una por familia, ACIDBITE cuenta, no copiar lo que «ya lo usa» otro plugin)
   → --plugin X --apuntar ids. Nunca carpetas/catalogo.json/índice a mano cogiendo los primeros. Releer el índice cada vez.
