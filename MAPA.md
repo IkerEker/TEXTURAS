@@ -54,3 +54,11 @@ Material de pago (ACIDBITE, Gumroad): uso propio, **no redistribuir**; repo priv
 
 ## collage/ (19-11-2026)
 475 piezas recortadas para collage (papeles, cintas, etiquetas, pegatinas, notas, pintura, gel, restos de adhesivo, grafito). Ver `collage/README.md`.
+
+## revision/ (noche 19→20-11-2026): revisión 100 % a ojo
+Cada asset de `indice/indice.json` lleva ahora un campo `revision` con su ficha: qué es, nota 1–5, defectos,
+familia y variante, en qué se diferencia, uso, modo, usar si / evitar si, color, orientación, estilo, contenido,
+comportamiento (vídeo) y medidas. 8318 vistos a ojo; 713 con ficha sin vista (658 sonidos no escuchados,
+`audio_revisado: false`; 55 plantillas/proyectos de programa). Empieza por `revision/RESUMEN.md`;
+`A_REHACER.md` (21), `NO_VISTOS.md`, `FICHAS.json` (todas juntas) y `familias.json`.
+Regenerar: `tools/atlas/revision_sin_vista.py` y luego `tools/atlas/revision_resumen.py --indice`.
