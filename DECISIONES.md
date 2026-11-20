@@ -95,7 +95,7 @@ Reglas fijas que ninguna decisión toca:
 
 | | |
 |---|---|
-| **TEXTURAS** | Todo lo pesado debe poder ir por GPU (Iker tiene 2). La sandbox no tiene GPU. |
+| **TEXTURAS** | Todo lo pesado debe poder ir por GPU (Iker tiene **2 × RTX 4090**, 24 GB c/u; 64 GB RAM). La sandbox no tiene GPU. |
 | **AcidBite** | Análisis con ffmpeg en el PC de Iker (CPU). |
 | **Se decide** | Lo que **alimenta a un plugin** se procesa siempre en **CPU y de forma determinista** (numpy/Pillow con versiones fijadas): es lo único que permite comprobar bit a bit. La GPU queda para lo pesado que no entra en ninguna prueba exacta: proxies y versiones verticales de AcidBite (decodificación/codificación NVDEC/NVENC), extracción de fotogramas y análisis. Los scripts aceptan `--gpu` cuando ffmpeg tenga CUDA. |
 | **Por qué** | Dos GPU distintas no dan los mismos bytes en flotante (lo avisa la ficha de NEONIZADOR vídeo). |

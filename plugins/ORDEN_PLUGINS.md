@@ -90,11 +90,14 @@ resultado. Propónlo con el antes y el después y espera el sí de Iker.
 
 ## B. Autorrevisión: más rápido y por la gráfica, sin cambiar el resultado
 
-1. **Conoce el hardware.** Iker tiene **2 gráficas** en su PC (Windows). Tu sandbox no tiene GPU, así que no supongas
-   modelos.
-   - Pide a Iker que ejecute `nvidia-smi -L` y `powershell "Get-CimInstance Win32_VideoController | select Name,DriverVersion,AdapterRAM"`,
-     o hazlo tú si tienes la terminal de su PC.
-   - Apunta los modelos, la VRAM y el driver en tu `CLAUDE.md`.
+1. **El hardware de Iker (PC con Windows, captura del 20-11-2026):**
+   - **2 × NVIDIA GeForce RTX 4090** (GPU 0 y GPU 1, 24 GB de VRAM cada una);
+   - CPU a ~4,9 GHz y 64 GB de RAM;
+   - SSD NVMe.
+
+   Tu sandbox no tiene GPU, así que las medidas reales se hacen en su PC. Si necesitas la versión del driver, pide
+   `nvidia-smi`. Con dos gráficas: aprovecha que hay dos (por ejemplo, una calcula mientras la otra codifica vídeo o
+   prepara la siguiente tanda), pero el plugin tiene que funcionar bien con una sola y sin ninguna.
 2. **Mide antes de tocar.** Crea un banco de pruebas fijo: mismos documentos, tamaños, efectos e intensidades y misma
    semilla. Debe medir el tiempo por efecto y fase (cargar texturas, calcular, devolver a Photoshop/AE) y la memoria.
    - Tiene que poder ejecutarse en el PC de Iker con una sola orden (un `.bat`/`node …`) y escribir un JSON de
@@ -124,7 +127,7 @@ resultado. Propónlo con el antes y el después y espera el sí de Iker.
 
 1. Qué has leído y tu tabla de ids.
 2. Estado de la migración (de dónde lees ahora y qué carpetas de material puedes quitar ya).
-3. Los modelos de las gráficas.
+3. Qué partes van ya por GPU y cuáles podrían ir.
 4. Una tabla antes/después del banco de pruebas (tiempo por efecto).
 5. Qué has cambiado y la prueba exacta de cada cambio («idéntico» o la diferencia medida).
 6. Lo que necesita mi decisión, con imágenes.
@@ -143,7 +146,7 @@ Corto y claro.
 - Si falta algo: «PEDIDO PARA LA BIBLIOTECA:» al final de la respuesta; nunca dibujarlo/descargarlo dentro del plugin.
 - Prueba exacta antes y después de todo cambio; cualquier diferencia → Iker decide con antes/después.
 - Velocidad: medir con el banco de pruebas en el PC de Iker; GPU donde se pueda, con camino CPU de respaldo;
-  una versión GPU que no dé idéntico queda apagada hasta que Iker diga sí. Gráficas de Iker: <modelos>.
+  una versión GPU que no dé idéntico queda apagada hasta que Iker diga sí. Gráficas de Iker: 2 × RTX 4090 (24 GB c/u), 64 GB RAM.
 - El código, las herramientas y las pruebas se quedan en este repo; solo se quitan carpetas de material ya migradas.
 ```
 
