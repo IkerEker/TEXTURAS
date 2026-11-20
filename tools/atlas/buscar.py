@@ -40,17 +40,18 @@ EXTRA = {'fire': 'fuego', 'paper': 'papel', 'water': 'agua', 'ink': 'tinta', 'st
          'wood': 'madera', 'wall': 'pared', 'glass': 'vidrio', 'rain': 'lluvia', 'foam': 'espuma', 'mold': 'moho',
          'spark': 'chispa', 'bubble': 'burbuja', 'flame': 'llama', 'dust': 'polvo', 'pompa': 'burbuja', 'ember': 'brasa', 'sound': 'sonido', 'transition': 'transicion', 'fold': 'pliegue',
          'crumpled': 'arrugado', 'torn': 'rasgado', 'edge': 'borde', 'coffee': 'cafe', 'rust': 'oxido', 'drop': 'gota'}
-def raiz(w):  # plural → singular aproximado: llamas→llama, burbujas→burbuja, papeles→papel, luces→luz
-    if len(w) > 4 and w.endswith('ces'): return w[:-3] + 'z'
-    if len(w) > 4 and w.endswith('es') and w[-3] not in 'aeiou': return w[:-2]
-    if len(w) > 3 and w.endswith('s'): return w[:-1]
-    return w
+def raices(w):  # plural → singulares posibles: llamas→llama, papeles→papel, luces→luz, bubbles→bubble
+    r = {w}
+    if len(w) > 3 and w.endswith('s'): r.add(w[:-1])
+    if len(w) > 4 and w.endswith('es') and w[-3] not in 'aeiou': r.add(w[:-2])
+    if len(w) > 4 and w.endswith('ces'): r.add(w[:-3] + 'z')
+    return r
 pal = []  # cada palabra = conjunto de variantes (ella, su singular, su alias, su traducción); basta con una
 for p in a.palabras:
-    w = p.lower(); vs = {w, raiz(w)}
+    w = p.lower(); vs = raices(w)
     for x in list(vs):
         for t in (al.get(x), EXTRA.get(x)):
-            if t: vs |= {t, raiz(t)}
+            if t: vs |= raices(t)
     pal.append({norm(v) for v in vs})
 CAMPOS_FICHA = ('que_es', 'uso', 'usar_si', 'color', 'estilo', 'familia', 'diferencia', 'orient', 'escala', 'comportamiento')
 r = []
