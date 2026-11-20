@@ -11,6 +11,12 @@ Si no está, se añade aquí (ver «Añadir material») y luego se usa; no se cr
 
 ## Cómo encontrar algo
 
+> **PARA ELEGIR MATERIAL: `python3 tools/atlas/buscar.py <palabras> --ver`** (v2, 20-11-2026). Es lo único que ordena
+> por lo que encaja, entiende sinónimos, cubre ACIDBITE y originales (9.031 recursos, no los 1.678 de abajo) y devuelve
+> un abanico variado. Método y reglas de variedad: `biblioteca_raiz/CLAUDE.md` (= `Biblioteca/CLAUDE.md` en el PC).
+> **No elijas filtrando `catalogo.json` y quedándote con los primeros**: es la causa de que los plugins repitan
+> siempre lo mismo. Lo de abajo describe la parte TEXTURAS (`catalogo.json`) para quien procesa o regenera.
+
 1. `catalogo.json` → `items[]`: una ficha por archivo (1.678). Campos principales:
    - `archivo`, `id` (= archivo sin extensión), `cat`, `sub`, `carpeta`, `tipo` (`imagen` / `video`)
    - `desc` (qué es, en español), `color`, `color_medio` [r,g,b], `w`, `h`, `alfa` (PNG con transparencia)
@@ -27,6 +33,7 @@ Si no está, se añade aquí (ver «Añadir material») y luego se usa; no se cr
    **Mírala con Read antes de elegir**: la descripción no sustituye a ver la textura.
 
 ```python
+# SOLO para procesar/regenerar TEXTURAS. Para ELEGIR material usa tools/atlas/buscar.py.
 import json
 items = json.load(open('catalogo.json'))['items']
 papeles = [e for e in items if e['carpeta'] == 'tileables/papel']

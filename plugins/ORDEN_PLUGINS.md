@@ -53,37 +53,22 @@ herramientas la encuentran con la variable `TEXTURAS_ROOT`. Material, sonidos, v
 | `medidas` | tamaño, alfa, color medio, pHash… |
 | `hoja` | hoja de contactos donde se ve |
 
-**Método obligatorio para buscar (así no se salta nada y no hace falta revisar uno a uno).** El buscador
-`tools/atlas/buscar.py` funciona desde cualquier carpeta y entiende plurales, palabras sin tilde, inglés y sinónimos.
+**Método obligatorio para buscar (v2, 20-11-2026): el de `Biblioteca/CLAUDE.md`** (en el repo:
+`biblioteca_raiz/CLAUDE.md`). Resumen:
+1. `buscar.py --version` tiene que decir v2 (si no: `git -C TEXTURAS pull --ff-only`). La primera vez, `--mapa`.
+2. 2–4 palabras (objeto/material + aspecto + uso) con `--ver`: sale un ABANICO de 12 buenas y distintas (una por
+   familia, repartidas entre TEXTURAS/ACIDBITE/originales, algo de azar) y una hoja JPG con miniaturas.
+3. Al menos 3 búsquedas desde lados distintos (otro nombre, el efecto, el material vecino) + el filtro del papel que
+   cumple (`--tileable`, `--alfa`, `--clase video|sonido`, `--donde …`). `--resumen` = cuánto hay.
+4. Mirar la hoja con Read y elegir mirando. `--mas`, `--familia`, `--parecidos`, `--ficha`.
+5. Variedad: varias variantes por efecto (guía 6–12, ≥3 familias, más de una colección si las hay), una por familia,
+   ACIDBITE cuenta, no copiar lo que «ya lo usa» otro plugin. La nota no desempata (hay 4.000+ con nota 5).
+6. `--plugin <tú> --apuntar <ids>` y anotar en `uso_id.json` para qué y con qué búsquedas.
+**Nunca** elegir abriendo carpetas, con `catalogo.json` o leyendo el índice a mano y cogiendo los primeros.
 
-1. **Abre el abanico.** Busca la necesidad con 3–6 palabras distintas, **una búsqueda por palabra**: el objeto, el
-   material, el efecto y el uso. Por ejemplo, `goteo`, `chorreon`, `drip`, `gota`, `pintura`. Varias palabras en una
-   misma búsqueda tienen que aparecer todas, así que solo sirven para estrechar. Mira también la tabla «Qué hay» de `MAPA.md`
-   para saber qué clases pueden servir; incluye AcidBite (`ab:`), collage, vídeo y sonido.
-2. **Saca el mapa antes de elegir:** `buscar.py <palabra> --resumen`. Da cuántos hay en cada clase/sub y en cada
-   familia. Cada familia que pueda servir se abre entera con `--familia <nombre>`: dentro viene ordenada y con su
-   mejor marcada (`*`).
-3. **Recorre también sin palabras** las clases/sub que encaje: `--clase … --sub …`. Las palabras fallan a veces; las
-   categorías no.
-4. **Filtra por lo que de verdad necesitas** con las fichas:
-   - `--min 4`, `--mejor`, `--alfa`, `--tileable`, `--modo`;
-   - `--donde`, con cualquier campo: `'w>=2000'`, `'orient~vertical'`, `'color~rojo'`, `'escala~grande'`,
-     `'medidas.luminancia<0.3'`, `'medidas.alfa_parcial>0.5'`, `'fondo=transparente'`;
-   - para scripts, `--json`.
-5. **Amplía desde lo que ya te sirve:** `--parecidos <id>` da las alternativas más parecidas (misma familia y
-   aspecto).
-6. **Lee la ficha** (`--ficha <id>`): qué es, nota, defectos, cuándo usarla y cuándo evitarla, modo, escala.
-   Después **mira su `hoja`** con Read. Elige mirando, nunca solo por el texto.
-7. **Deja constancia de qué miraste:** búsquedas, familias abiertas y por qué elegiste cada id. Así la siguiente
-   conversación no repite el trabajo.
-
-Por defecto el buscador esconde lo marcado REHACER, lo sustituido y lo dudoso (`--todo` lo enseña) y pone delante
-la nota más alta. Recuerda dos huecos de la revisión:
-- los **sonidos** solo tienen la ficha de su nombre y su pack (no se han escuchado todavía);
-- las **plantillas de programas** no se han abierto.
-
-En esos dos casos, compruébalos tú antes de usarlos. Las fichas se corrigen en la biblioteca: **vuelve a leer el
-índice en cada conversación** (sin cachés viejas) y siempre verás la última revisión.
+Por defecto el buscador esconde lo marcado REHACER, lo sustituido, lo dudoso, las copias y las fuentes ya procesadas
+(`--todo`, `--fuentes`). Las plantillas de programas se han leído por dentro, sin abrir el programa: compruébalas
+antes de usarlas. Las fichas se corrigen en la biblioteca: **vuelve a leer el índice en cada conversación** (sin cachés).
 
 **Cómo se construye.** Tu herramienta de construcción lee cada archivo **por id**:
 - `or:<md5>` para originales bit a bit;
@@ -173,9 +158,10 @@ Corto y claro.
 ```
 ## Biblioteca y velocidad (orden de Iker, 20-11-2026; texto completo: TEXTURAS/plugins/ORDEN_PLUGINS.md)
 - Material SOLO de la biblioteca IkerEker/TEXTURAS (rama atlas) + Biblioteca/ local (TEXTURAS_ROOT). Nada de bancos propios.
-- Buscar SIEMPRE con el método de 7 pasos de ORDEN_PLUGINS.md (varias palabras → --resumen → abrir familias → recorrer
-  clases → filtrar con --donde/--min → --parecidos → ficha + mirar la `hoja`). Incluye ab:, collage, vídeo y sonido.
-  No revisar bancos enteros: las fichas ya están hechas. Releer el índice en cada conversación.
+- Buscar SIEMPRE con TEXTURAS/tools/atlas/buscar.py v2 y el método de Biblioteca/CLAUDE.md: 2–4 palabras --ver →
+  ≥3 búsquedas desde lados distintos + filtro de papel (--tileable/--alfa/--clase) → mirar la hoja → elegir con
+  VARIEDAD (varias variantes por efecto, una por familia, ACIDBITE cuenta, no copiar lo que «ya lo usa» otro plugin)
+  → --plugin X --apuntar ids. Nunca carpetas/catalogo.json/índice a mano cogiendo los primeros. Releer el índice cada vez.
 - Construir leyendo por id (or:/tx:/ab:) vía indice/indice.json. El plugin lleva dentro lo que usa: funciona sin Claude ni internet.
 - Si falta algo: «PEDIDO PARA LA BIBLIOTECA:» al final de la respuesta; nunca dibujarlo/descargarlo dentro del plugin.
 - Prueba exacta antes y después de todo cambio; cualquier diferencia → Iker decide con antes/después.

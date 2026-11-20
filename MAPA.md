@@ -17,12 +17,22 @@ Montar o comprobar en un ordenador: `python TEXTURAS/tools/atlas/montar_bibliote
 
 ## Cómo buscar
 
-1. **`indice/indice.json`** (8.154 assets: 3.172 TEXTURAS, 2.925 ACIDBITE, 2.057 originales). Esquema: `indice/ESQUEMA.md`.
-   `python3 tools/atlas/buscar.py <palabras> [--clase …] [--sub …] [--modo …] [--colocacion …] [--alfa] [--tileable]`
-   Usa las fichas de la revisión: `--min 4`, `--mejor`, `--familia …`, `--ficha <id>`, `--json`; oculta REHACER/sustituidos (`--todo`).
-2. **Mira la hoja** (`hoja` de cada asset) con Read antes de elegir. Ninguna textura se da por buena sin mirarla.
-3. **Cómo se usa:** `tecnicas/` (recetas) · `acidbite/COMO_LO_USA_ACIDBITE.md` · `CLAUDE.md` (tabla de TEXTURAS).
-4. **Nombres:** `indice/nombres.json` traduce alias (inglés de ACIDBITE, nombres de plugins) al nombre oficial.
+**Método completo y reglas de variedad: `biblioteca_raiz/CLAUDE.md`** (se copia a `Biblioteca/CLAUDE.md`, que cada
+plugin carga solo al abrir la carpeta).
+
+1. `python3 tools/atlas/buscar.py <2–4 palabras> --ver` → abanico de 12 opciones buenas y **distintas** (una por
+   familia, repartidas entre TEXTURAS, ACIDBITE y originales, con algo de azar) + hoja JPG con miniaturas numeradas.
+   Ordena por lo que encaja con la ficha (qué es, familia, clase, uso, color, estilo…), con sinónimos
+   (`indice/sinonimos.json`), inglés, plurales y género; la nota multiplica pero no decide sola.
+2. Por al menos 3 lados (otro nombre, el efecto, el material vecino) y con el filtro del papel que cumple:
+   `--tileable` · `--alfa` · `--clase video|sonido|lut` · `--donde 'orient~vertical'` · `--resumen` para ver cuánto hay.
+3. Mira la hoja con Read y elige mirando. `--mas` (otra tanda) · `--familia` · `--parecidos ID` · `--ficha ID`.
+4. Varias variantes por efecto, de familias distintas; marca «ya lo usa: …» = evita repetir lo de otro plugin.
+5. `--plugin X --apuntar ID…` deja constancia en `Biblioteca/_uso/`.
+
+`buscar.py --mapa` = qué hay en toda la biblioteca. Índice: `indice/indice.json` (esquema en `indice/ESQUEMA.md`).
+Nombres de plugins y alias: `indice/nombres.json`. **No elijas leyendo `catalogo.json` o el índice a mano y cogiendo
+los primeros** (salen siempre los mismos y nunca ACIDBITE).
 
 ## Qué hay (por necesidad)
 
