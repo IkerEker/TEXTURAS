@@ -19,6 +19,7 @@ Montar o comprobar en un ordenador: `python TEXTURAS/tools/atlas/montar_bibliote
 
 1. **`indice/indice.json`** (8.154 assets: 3.172 TEXTURAS, 2.925 ACIDBITE, 2.057 originales). Esquema: `indice/ESQUEMA.md`.
    `python3 tools/atlas/buscar.py <palabras> [--clase …] [--sub …] [--modo …] [--colocacion …] [--alfa] [--tileable]`
+   Usa las fichas de la revisión: `--min 4`, `--mejor`, `--familia …`, `--ficha <id>`, `--json`; oculta REHACER/sustituidos (`--todo`).
 2. **Mira la hoja** (`hoja` de cada asset) con Read antes de elegir. Ninguna textura se da por buena sin mirarla.
 3. **Cómo se usa:** `tecnicas/` (recetas) · `acidbite/COMO_LO_USA_ACIDBITE.md` · `CLAUDE.md` (tabla de TEXTURAS).
 4. **Nombres:** `indice/nombres.json` traduce alias (inglés de ACIDBITE, nombres de plugins) al nombre oficial.
@@ -40,6 +41,8 @@ Montar o comprobar en un ordenador: `python TEXTURAS/tools/atlas/montar_bibliote
 | mapas de relieve / desplazamiento (128 = neutro) | campo `desplazamiento` · `productos/sellos_relieve` |
 
 ## Para los plugins
+
+**Orden permanente para cada plugin (biblioteca única + velocidad/GPU): `plugins/ORDEN_PLUGINS.md`.**
 
 - La biblioteca **solo se usa al construir**; el `.ccx` lleva dentro lo que usa y funciona sin Claude ni internet.
 - Cada plugin lee por **id** con `TEXTURAS_ROOT`: su tabla exacta, en su orden, en `plugins/<plugin>/uso_id.json`.
