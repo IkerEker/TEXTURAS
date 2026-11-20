@@ -12,7 +12,7 @@ Funciona desde cualquier carpeta (lee el índice junto a este script).
 Por defecto: ordena por nota (5 → 1) y mejor de familia primero; oculta lo marcado REHACER y lo sustituido
 (usa --todo para verlo todo). Los alias en inglés/de plugins se traducen con indice/nombres.json.
 La ficha no sustituye a mirar: abre la `hoja` antes de elegir."""
-import json, sys, argparse
+import json, sys, argparse, unicodedata
 from pathlib import Path
 
 R = Path(__file__).resolve().parents[2]
@@ -32,7 +32,26 @@ if a.ficha:
         if e['id'] == a.ficha: print(json.dumps(e, ensure_ascii=False, indent=1))
     sys.exit()
 al = json.load(open(R / 'indice' / 'nombres.json', encoding='utf-8'))['alias']
-pal = [al.get(p.lower(), p.lower()).replace('_', ' ') for p in a.palabras]
+def norm(t):  # sin acentos, minúsculas, _ → espacio
+    return ''.join(c for c in unicodedata.normalize('NFD', t.lower()) if unicodedata.category(c) != 'Mn').replace('_', ' ')
+EXTRA = {'fire': 'fuego', 'paper': 'papel', 'water': 'agua', 'ink': 'tinta', 'stain': 'mancha', 'tape': 'cinta',
+         'texture': 'textura', 'light': 'luz', 'leak': 'fuga', 'film': 'pelicula', 'grain': 'grano', 'scratch': 'rayado',
+         'splash': 'salpicadura', 'splatter': 'salpicadura', 'brush': 'pincel', 'pencil': 'lapiz', 'charcoal': 'carbon',
+         'wood': 'madera', 'wall': 'pared', 'glass': 'vidrio', 'rain': 'lluvia', 'foam': 'espuma', 'mold': 'moho',
+         'spark': 'chispa', 'bubble': 'burbuja', 'flame': 'llama', 'dust': 'polvo', 'pompa': 'burbuja', 'ember': 'brasa', 'sound': 'sonido', 'transition': 'transicion', 'fold': 'pliegue',
+         'crumpled': 'arrugado', 'torn': 'rasgado', 'edge': 'borde', 'coffee': 'cafe', 'rust': 'oxido', 'drop': 'gota'}
+def raiz(w):  # plural → singular aproximado: llamas→llama, burbujas→burbuja, papeles→papel, luces→luz
+    if len(w) > 4 and w.endswith('ces'): return w[:-3] + 'z'
+    if len(w) > 4 and w.endswith('es') and w[-3] not in 'aeiou': return w[:-2]
+    if len(w) > 3 and w.endswith('s'): return w[:-1]
+    return w
+pal = []  # cada palabra = conjunto de variantes (ella, su singular, su alias, su traducción); basta con una
+for p in a.palabras:
+    w = p.lower(); vs = {w, raiz(w)}
+    for x in list(vs):
+        for t in (al.get(x), EXTRA.get(x)):
+            if t: vs |= {t, raiz(t)}
+    pal.append({norm(v) for v in vs})
 CAMPOS_FICHA = ('que_es', 'uso', 'usar_si', 'color', 'estilo', 'familia', 'diferencia', 'orient', 'escala', 'comportamiento')
 r = []
 for e in idx:
@@ -45,8 +64,9 @@ for e in idx:
     if (v.get('calidad') or 0) < a.min: continue
     if a.mejor and not v.get('mejor_de_familia'): continue
     txt = ' '.join([str(e.get(k, '')) for k in ('id', 'desc', 'clase', 'sub', 'pack', 'archivo', 'familia')] +
-                   [str(v.get(k, '')) for k in CAMPOS_FICHA]).lower().replace('_', ' ')
-    if all(p in txt for p in pal): r.append(e)
+                   [str(v.get(k, '')) for k in CAMPOS_FICHA])
+    txt = norm(txt)
+    if all(any(v in txt for v in vs) for vs in pal): r.append(e)
 r.sort(key=lambda e: (-(e.get('revision', {}).get('calidad') or 0), not e.get('revision', {}).get('mejor_de_familia')))
 if a.json:
     print(json.dumps(r[:a.n], ensure_ascii=False, indent=1)); sys.exit()
