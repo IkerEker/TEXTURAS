@@ -19,11 +19,11 @@
 "medidas": {
 "w": 105,
 "h": 641,
-"alfa_cobertura": 0.05,
-"alfa_parcial": 0.434,
-"color_medio": "#9a9a9a",
-"luminancia": 0.606,
-"contraste": 0.239,
+"alfa_cobertura": 0.043,
+"alfa_parcial": 0.713,
+"color_medio": "#b0b0b0",
+"luminancia": 0.693,
+"contraste": 0.218,
 "saturacion": 0.0,
 "phash": "9449d2e5e864f665"
 },
@@ -32,7 +32,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_manchas-r07.jpg"
+"hoja": "revision/hojas/tx_manchas-r07.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:manchas/goteos/suelta/goteo_030": {
 "que_es": "gota 3D en forma de lágrima con cuello (jarrón) muy brillante",
@@ -54,20 +55,21 @@
 "medidas": {
 "w": 67,
 "h": 207,
-"alfa_cobertura": 0.428,
-"alfa_parcial": 0.015,
-"color_medio": "#aaaaaa",
-"luminancia": 0.67,
-"contraste": 0.188,
+"alfa_cobertura": 0.413,
+"alfa_parcial": 0.143,
+"color_medio": "#b0b0b0",
+"luminancia": 0.693,
+"contraste": 0.172,
 "saturacion": 0.0,
-"phash": "9959a4964aa576d3"
+"phash": "9959a4964aad7693"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_manchas-r07.jpg"
+"hoja": "revision/hojas/tx_manchas-r07.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:manchas/goteos/suelta/goteo_031": {
 "que_es": "gota 3D lágrima con cuello algo más ancha",
@@ -89,20 +91,21 @@
 "medidas": {
 "w": 74,
 "h": 219,
-"alfa_cobertura": 0.425,
-"alfa_parcial": 0.012,
-"color_medio": "#b0b0b0",
-"luminancia": 0.693,
-"contraste": 0.184,
+"alfa_cobertura": 0.412,
+"alfa_parcial": 0.128,
+"color_medio": "#b5b5b5",
+"luminancia": 0.714,
+"contraste": 0.167,
 "saturacion": 0.0,
-"phash": "996965974aad64d2"
+"phash": "996965974aad44f2"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_manchas-r07.jpg"
+"hoja": "revision/hojas/tx_manchas-r07.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:manchas/goteos/suelta/goteo_066": {
 "que_es": "gotita esférica mínima (28×31)",
@@ -124,20 +127,21 @@
 "medidas": {
 "w": 28,
 "h": 31,
-"alfa_cobertura": 0.478,
-"alfa_parcial": 0.052,
-"color_medio": "#adadad",
-"luminancia": 0.679,
-"contraste": 0.192,
+"alfa_cobertura": 0.445,
+"alfa_parcial": 0.283,
+"color_medio": "#bababa",
+"luminancia": 0.731,
+"contraste": 0.131,
 "saturacion": 0.0,
-"phash": "c6693f943163b29a"
+"phash": "c6493fb42163703f"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_manchas-r07.jpg"
+"hoja": "revision/hojas/tx_manchas-r07.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:manchas/goteos/suelta/goteo_067": {
 "que_es": "gota gorda 3D con punta afilada arriba y reflejos",
@@ -159,11 +163,11 @@
 "medidas": {
 "w": 96,
 "h": 245,
-"alfa_cobertura": 0.382,
-"alfa_parcial": 0.017,
-"color_medio": "#bdbdbd",
-"luminancia": 0.743,
-"contraste": 0.149,
+"alfa_cobertura": 0.376,
+"alfa_parcial": 0.1,
+"color_medio": "#c0c0c0",
+"luminancia": 0.756,
+"contraste": 0.128,
 "saturacion": 0.0,
 "phash": "913b66c41ef103de"
 },
@@ -172,7 +176,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_manchas-r07.jpg"
+"hoja": "revision/hojas/tx_manchas-r07.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:manchas/goteos/suelta/goteo_068": {
 "que_es": "gotita esférica mínima (27×28)",
@@ -194,20 +199,21 @@
 "medidas": {
 "w": 27,
 "h": 28,
-"alfa_cobertura": 0.47,
-"alfa_parcial": 0.03,
-"color_medio": "#a9a9a9",
-"luminancia": 0.667,
-"contraste": 0.194,
+"alfa_cobertura": 0.433,
+"alfa_parcial": 0.174,
+"color_medio": "#b8b8b8",
+"luminancia": 0.722,
+"contraste": 0.135,
 "saturacion": 0.0,
-"phash": "c6693c9661f2b25a"
+"phash": "c0693f977176305a"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_manchas-r07.jpg"
+"hoja": "revision/hojas/tx_manchas-r07.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:manchas/goteos/suelta/goteo_069": {
 "que_es": "gota 3D alargada tipo pera con cabeza redonda arriba",
@@ -229,20 +235,21 @@
 "medidas": {
 "w": 94,
 "h": 286,
-"alfa_cobertura": 0.428,
-"alfa_parcial": 0.015,
-"color_medio": "#8e8e8e",
-"luminancia": 0.558,
-"contraste": 0.153,
+"alfa_cobertura": 0.417,
+"alfa_parcial": 0.102,
+"color_medio": "#929292",
+"luminancia": 0.573,
+"contraste": 0.138,
 "saturacion": 0.0,
-"phash": "cc3cf0c31ee003f7"
+"phash": "cc2cf0c31ee502f7"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_manchas-r07.jpg"
+"hoja": "revision/hojas/tx_manchas-r07.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:manchas/goteos/suelta/goteo_070": {
 "que_es": "gota 3D grande con gotita esférica separada encima",
@@ -264,20 +271,21 @@
 "medidas": {
 "w": 128,
 "h": 368,
-"alfa_cobertura": 0.395,
-"alfa_parcial": 0.011,
-"color_medio": "#a2a2a2",
-"luminancia": 0.636,
-"contraste": 0.155,
+"alfa_cobertura": 0.388,
+"alfa_parcial": 0.079,
+"color_medio": "#a4a4a4",
+"luminancia": 0.647,
+"contraste": 0.144,
 "saturacion": 0.0,
-"phash": "cd38a1c21ef0578f"
+"phash": "cd38a1c21ef8178f"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_manchas-r07.jpg"
+"hoja": "revision/hojas/tx_manchas-r07.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:manchas/goteos/suelta/goteo_153": {
 "que_es": "gotita irregular mínima (24×28)",
@@ -299,20 +307,21 @@
 "medidas": {
 "w": 24,
 "h": 28,
-"alfa_cobertura": 0.43,
-"alfa_parcial": 0.057,
-"color_medio": "#cfcfcf",
-"luminancia": 0.812,
-"contraste": 0.196,
+"alfa_cobertura": 0.396,
+"alfa_parcial": 0.372,
+"color_medio": "#e3e3e3",
+"luminancia": 0.892,
+"contraste": 0.087,
 "saturacion": 0.0,
-"phash": "963e68e125d2b798"
+"phash": "943e6ae125c3359b"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_manchas-r07.jpg"
+"hoja": "revision/hojas/tx_manchas-r07.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:manchas/goteos_pintura_blanca/gotas_pintura_blanca_0364": {
 "que_es": "cortina de pintura blanca espesa que cuelga del borde superior con muchos goteos",

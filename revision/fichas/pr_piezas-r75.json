@@ -21,18 +21,19 @@
 "h": null,
 "alfa_cobertura": 0.225,
 "alfa_parcial": 0.515,
-"color_medio": "#c28558",
-"luminancia": 0.545,
-"contraste": 0.165,
-"saturacion": 0.573,
-"phash": "b14c87939e394d8e"
+"color_medio": "#c07e4c",
+"luminancia": 0.517,
+"contraste": 0.139,
+"saturacion": 0.619,
+"phash": "cd993e61618736c6"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r75.jpg"
+"hoja": "revision/hojas/pr_piezas-r75.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_038": {
 "que_es": "mancha redonda rojiza difusa",
@@ -56,18 +57,19 @@
 "h": null,
 "alfa_cobertura": 0.353,
 "alfa_parcial": 0.596,
-"color_medio": "#aa7353",
-"luminancia": 0.483,
-"contraste": 0.154,
-"saturacion": 0.536,
-"phash": "b880c21a9be77c6e"
+"color_medio": "#a36541",
+"luminancia": 0.432,
+"contraste": 0.107,
+"saturacion": 0.614,
+"phash": "906b6f3d31f26492"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r75.jpg"
+"hoja": "revision/hojas/pr_piezas-r75.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_039": {
 "que_es": "mancha clara con dos gotas",
@@ -91,18 +93,19 @@
 "h": null,
 "alfa_cobertura": 0.304,
 "alfa_parcial": 0.811,
-"color_medio": "#c69368",
-"luminancia": 0.588,
-"contraste": 0.118,
-"saturacion": 0.486,
-"phash": "f254c2408c6bb5ef"
+"color_medio": "#bd8250",
+"luminancia": 0.524,
+"contraste": 0.09,
+"saturacion": 0.582,
+"phash": "c07b3f0f35b452d0"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r75.jpg"
+"hoja": "revision/hojas/pr_piezas-r75.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_040": {
 "que_es": "mancha con gotas claras arriba y abajo",
@@ -126,18 +129,19 @@
 "h": null,
 "alfa_cobertura": 0.284,
 "alfa_parcial": 0.487,
-"color_medio": "#d49e69",
-"luminancia": 0.623,
-"contraste": 0.148,
-"saturacion": 0.522,
-"phash": "bdecc5137af084b0"
+"color_medio": "#d2985e",
+"luminancia": 0.597,
+"contraste": 0.13,
+"saturacion": 0.567,
+"phash": "c1333ee961ce683c"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r75.jpg"
+"hoja": "revision/hojas/pr_piezas-r75.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_041": {
 "que_es": "mancha muy clara y difusa",
@@ -161,18 +165,19 @@
 "h": null,
 "alfa_cobertura": 0.223,
 "alfa_parcial": 0.878,
-"color_medio": "#e4b686",
-"luminancia": 0.713,
-"contraste": 0.08,
-"saturacion": 0.415,
-"phash": "b887c33e067134cf"
+"color_medio": "#dea66a",
+"luminancia": 0.647,
+"contraste": 0.078,
+"saturacion": 0.526,
+"phash": "846b3ed170979396"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r75.jpg"
+"hoja": "revision/hojas/pr_piezas-r75.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_042": {
 "que_es": "halo grisáceo con gotas alrededor",
@@ -196,18 +201,19 @@
 "h": null,
 "alfa_cobertura": 0.124,
 "alfa_parcial": 0.824,
-"color_medio": "#c48a61",
-"luminancia": 0.565,
-"contraste": 0.193,
-"saturacion": 0.543,
-"phash": "f455d1544eada90e"
+"color_medio": "#bd7947",
+"luminancia": 0.5,
+"contraste": 0.147,
+"saturacion": 0.647,
+"phash": "c3c63d2d343453f1"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r75.jpg"
+"hoja": "revision/hojas/pr_piezas-r75.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_043": {
 "que_es": "halo difuso con tres gotas",
@@ -231,18 +237,19 @@
 "h": null,
 "alfa_cobertura": 0.233,
 "alfa_parcial": 0.93,
-"color_medio": "#c79573",
-"luminancia": 0.606,
-"contraste": 0.124,
-"saturacion": 0.44,
-"phash": "b83ace31dac7e181"
+"color_medio": "#b46f40",
+"luminancia": 0.466,
+"contraste": 0.081,
+"saturacion": 0.651,
+"phash": "86e16a1e253e73b8"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r75.jpg"
+"hoja": "revision/hojas/pr_piezas-r75.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_044": {
 "que_es": "mancha redonda densa",
@@ -266,18 +273,19 @@
 "h": null,
 "alfa_cobertura": 0.328,
 "alfa_parcial": 0.561,
-"color_medio": "#a86e4f",
-"luminancia": 0.469,
-"contraste": 0.193,
-"saturacion": 0.572,
-"phash": "b0cfc2388df270cd"
+"color_medio": "#a3613e",
+"luminancia": 0.423,
+"contraste": 0.146,
+"saturacion": 0.643,
+"phash": "959c6b7160c7378c"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r75.jpg"
+"hoja": "revision/hojas/pr_piezas-r75.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_045": {
 "que_es": "mancha con núcleo oscuro a la izquierda",
@@ -301,18 +309,19 @@
 "h": null,
 "alfa_cobertura": 0.307,
 "alfa_parcial": 0.452,
-"color_medio": "#b0744e",
-"luminancia": 0.485,
-"contraste": 0.2,
-"saturacion": 0.604,
-"phash": "f8c3c6785ce05ad8"
+"color_medio": "#ad6e44",
+"luminancia": 0.462,
+"contraste": 0.178,
+"saturacion": 0.641,
+"phash": "946e6eb173972518"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r75.jpg"
+"hoja": "revision/hojas/pr_piezas-r75.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_046": {
 "que_es": "mancha gris apagada casi sin color",
@@ -371,18 +380,19 @@
 "h": null,
 "alfa_cobertura": 0.167,
 "alfa_parcial": 0.688,
-"color_medio": "#dca876",
-"luminancia": 0.664,
-"contraste": 0.127,
-"saturacion": 0.476,
-"phash": "ed1f92e460f1868e"
+"color_medio": "#d89d62",
+"luminancia": 0.617,
+"contraste": 0.114,
+"saturacion": 0.553,
+"phash": "93e169181d9e5a6d"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r75.jpg"
+"hoja": "revision/hojas/pr_piezas-r75.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_048": {
 "que_es": "mancha redonda densa marrón",
@@ -406,18 +416,19 @@
 "h": null,
 "alfa_cobertura": 0.223,
 "alfa_parcial": 0.54,
-"color_medio": "#855233",
-"luminancia": 0.35,
-"contraste": 0.163,
-"saturacion": 0.669,
-"phash": "e1619e9f790b6461"
+"color_medio": "#814a2a",
+"luminancia": 0.321,
+"contraste": 0.119,
+"saturacion": 0.707,
+"phash": "872778da257827b4"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r75.jpg"
+"hoja": "revision/hojas/pr_piezas-r75.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_049": {
 "que_es": "racimo de gotas en anillo",
@@ -441,18 +452,19 @@
 "h": null,
 "alfa_cobertura": 0.17,
 "alfa_parcial": 0.712,
-"color_medio": "#be835e",
-"luminancia": 0.545,
-"contraste": 0.212,
-"saturacion": 0.552,
-"phash": "b675854a8f387a85"
+"color_medio": "#ba774c",
+"luminancia": 0.499,
+"contraste": 0.174,
+"saturacion": 0.623,
+"phash": "c9ce3eb460f32465"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r75.jpg"
+"hoja": "revision/hojas/pr_piezas-r75.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_050": {
 "que_es": "gotas alargadas encadenadas",
@@ -476,18 +488,19 @@
 "h": null,
 "alfa_cobertura": 0.177,
 "alfa_parcial": 0.414,
-"color_medio": "#b37346",
-"luminancia": 0.477,
-"contraste": 0.22,
-"saturacion": 0.666,
-"phash": "fc118feec231710b"
+"color_medio": "#b26e3e",
+"luminancia": 0.459,
+"contraste": 0.199,
+"saturacion": 0.698,
+"phash": "91e1629b1d5e7cb0"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r75.jpg"
+"hoja": "revision/hojas/pr_piezas-r75.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_051": {
 "que_es": "mancha gris difusa sin color",

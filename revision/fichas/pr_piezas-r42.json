@@ -379,20 +379,21 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.34,
-"alfa_parcial": 0.102,
-"color_medio": "#6c6c6c",
-"luminancia": 0.424,
-"contraste": 0.108,
+"alfa_cobertura": 0.33,
+"alfa_parcial": 0.175,
+"color_medio": "#6f6f6f",
+"luminancia": 0.437,
+"contraste": 0.099,
 "saturacion": 0.0,
-"phash": "cc6c90cb6d927b85"
+"phash": "cc6c90cb69927ba5"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r42.jpg"
+"hoja": "revision/hojas/pr_piezas-r42.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/agrietada/goteo_agrietada_002": {
 "que_es": "goteo seco fino con lágrima",
@@ -414,20 +415,21 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.332,
-"alfa_parcial": 0.15,
-"color_medio": "#6b6b6b",
-"luminancia": 0.422,
-"contraste": 0.088,
+"alfa_cobertura": 0.317,
+"alfa_parcial": 0.244,
+"color_medio": "#707070",
+"luminancia": 0.441,
+"contraste": 0.069,
 "saturacion": 0.0,
-"phash": "9939861ae5ce29c7"
+"phash": "9839c61ae5ce39c3"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r42.jpg"
+"hoja": "revision/hojas/pr_piezas-r42.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/agrietada/goteo_agrietada_003": {
 "que_es": "goteo seco con borde roto arriba",
@@ -449,20 +451,21 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.336,
-"alfa_parcial": 0.138,
-"color_medio": "#656565",
-"luminancia": 0.396,
-"contraste": 0.082,
+"alfa_cobertura": 0.323,
+"alfa_parcial": 0.223,
+"color_medio": "#686868",
+"luminancia": 0.411,
+"contraste": 0.068,
 "saturacion": 0.0,
-"phash": "9233e74c694b69c6"
+"phash": "9233e54e694b68c7"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r42.jpg"
+"hoja": "revision/hojas/pr_piezas-r42.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/agrietada/goteo_agrietada_004": {
 "que_es": "goteo grueso muy agrietado con lágrima grande",
@@ -484,20 +487,21 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.493,
-"alfa_parcial": 0.065,
-"color_medio": "#8a8a8a",
-"luminancia": 0.542,
-"contraste": 0.119,
+"alfa_cobertura": 0.483,
+"alfa_parcial": 0.089,
+"color_medio": "#8c8c8c",
+"luminancia": 0.552,
+"contraste": 0.108,
 "saturacion": 0.0,
-"phash": "9c1ae5976a853ec4"
+"phash": "941ae19f6a853ee4"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r42.jpg"
+"hoja": "revision/hojas/pr_piezas-r42.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/agrietada/goteo_agrietada_005": {
 "que_es": "goteo seco con lágrima agrietada",
@@ -519,19 +523,20 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.318,
-"alfa_parcial": 0.114,
-"color_medio": "#878787",
-"luminancia": 0.531,
-"contraste": 0.144,
+"alfa_cobertura": 0.303,
+"alfa_parcial": 0.19,
+"color_medio": "#8d8d8d",
+"luminancia": 0.556,
+"contraste": 0.121,
 "saturacion": 0.0,
-"phash": "9939939b3cd21fc0"
+"phash": "9939b39a2dd21ee0"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r42.jpg"
+"hoja": "revision/hojas/pr_piezas-r42.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 }
 }

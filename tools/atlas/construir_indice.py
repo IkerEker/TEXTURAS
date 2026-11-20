@@ -289,6 +289,15 @@ if _reh.exists():
         elif a['id'].startswith('or:') and a['id'][3:] in _antes:
             a['sustituido_por'] = _antes[a['id'][3:]]
 
+# recortes mejorados (20-11-2026): misma silueta y tamaño, borde limpio (ver revision/recortes_mejorados.json)
+_rm = Path('revision/recortes_mejorados.json')
+if _rm.exists():
+    _RM = json.load(open(_rm, encoding='utf-8'))['recortes']
+    for a in idx:
+        if a['id'] in _RM:
+            v = _RM[a['id']]
+            a['recorte_mejorado'] = dict(fecha=v['fecha'], motivo=v['motivo'], arreglo=v['arreglo'])
+
 # correcciones de la revisión 100 % (lo visto contradice nombre o índice); los archivos no se renombran
 _cor = Path('indice/correcciones.json')
 if _cor.exists():

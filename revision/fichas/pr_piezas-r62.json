@@ -20,18 +20,19 @@
 "h": null,
 "alfa_cobertura": 0.023,
 "alfa_parcial": 0.842,
-"color_medio": "#c97876",
-"luminancia": 0.576,
-"contraste": 0.092,
-"saturacion": 0.422,
-"phash": "feca9234e51932c6"
+"color_medio": "#be5c59",
+"luminancia": 0.487,
+"contraste": 0.036,
+"saturacion": 0.537,
+"phash": "81356dc91ae6cd39"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r62.jpg"
+"hoja": "revision/hojas/pr_piezas-r62.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_058": {
 "que_es": "fibra gris en S",
@@ -54,18 +55,19 @@
 "h": null,
 "alfa_cobertura": 0.014,
 "alfa_parcial": 0.816,
-"color_medio": "#8c8582",
-"luminancia": 0.528,
-"contraste": 0.141,
-"saturacion": 0.08,
-"phash": "b964ce19b386bc61"
+"color_medio": "#78706b",
+"luminancia": 0.444,
+"contraste": 0.083,
+"saturacion": 0.108,
+"phash": "d09f32664c694b5e"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r62.jpg"
+"hoja": "revision/hojas/pr_piezas-r62.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_059": {
 "que_es": "fibra roja curva vertical",
@@ -88,18 +90,19 @@
 "h": null,
 "alfa_cobertura": 0.022,
 "alfa_parcial": 0.669,
-"color_medio": "#bc6565",
-"luminancia": 0.512,
-"contraste": 0.144,
-"saturacion": 0.493,
-"phash": "eb4b9a36a499b384"
+"color_medio": "#b24e4d",
+"luminancia": 0.438,
+"contraste": 0.072,
+"saturacion": 0.582,
+"phash": "94b465c97b664ce1"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r62.jpg"
+"hoja": "revision/hojas/pr_piezas-r62.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_060": {
 "que_es": "fibra gris en S",
@@ -122,18 +125,19 @@
 "h": null,
 "alfa_cobertura": 0.023,
 "alfa_parcial": 0.622,
-"color_medio": "#757170",
-"luminancia": 0.449,
-"contraste": 0.154,
-"saturacion": 0.06,
-"phash": "eab5944a8d46f293"
+"color_medio": "#696664",
+"luminancia": 0.402,
+"contraste": 0.103,
+"saturacion": 0.069,
+"phash": "94ca6f3532991d3c"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r62.jpg"
+"hoja": "revision/hojas/pr_piezas-r62.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_061": {
 "que_es": "fibra beige vertical",
@@ -156,18 +160,19 @@
 "h": null,
 "alfa_cobertura": 0.033,
 "alfa_parcial": 0.729,
-"color_medio": "#89827e",
-"luminancia": 0.515,
-"contraste": 0.151,
-"saturacion": 0.097,
-"phash": "e4929b6c9a4de662"
+"color_medio": "#746c66",
+"luminancia": 0.429,
+"contraste": 0.078,
+"saturacion": 0.124,
+"phash": "9b4d649367b23998"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r62.jpg"
+"hoja": "revision/hojas/pr_piezas-r62.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_062": {
 "que_es": "fibra gris en arco",
@@ -190,18 +195,19 @@
 "h": null,
 "alfa_cobertura": 0.022,
 "alfa_parcial": 0.777,
-"color_medio": "#86878c",
-"luminancia": 0.536,
-"contraste": 0.151,
-"saturacion": 0.064,
-"phash": "e93596cacdc52632"
+"color_medio": "#6e6f74",
+"luminancia": 0.443,
+"contraste": 0.084,
+"saturacion": 0.085,
+"phash": "94ca6b35323b99c9"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r62.jpg"
+"hoja": "revision/hojas/pr_piezas-r62.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_063": {
 "que_es": "fibra azul diagonal",
@@ -224,18 +230,19 @@
 "h": null,
 "alfa_cobertura": 0.019,
 "alfa_parcial": 0.84,
-"color_medio": "#7691b5",
-"luminancia": 0.582,
-"contraste": 0.109,
-"saturacion": 0.359,
-"phash": "e66d8913b6969127"
+"color_medio": "#5a7aa7",
+"luminancia": 0.497,
+"contraste": 0.059,
+"saturacion": 0.46,
+"phash": "999a66e419634f78"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r62.jpg"
+"hoja": "revision/hojas/pr_piezas-r62.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_064": {
 "que_es": "fibra gris horizontal",
@@ -326,18 +333,19 @@
 "h": null,
 "alfa_cobertura": 0.027,
 "alfa_parcial": 0.83,
-"color_medio": "#8f96a5",
-"luminancia": 0.6,
-"contraste": 0.102,
-"saturacion": 0.14,
-"phash": "e9ce9232cd49e6a4"
+"color_medio": "#70778b",
+"luminancia": 0.485,
+"contraste": 0.031,
+"saturacion": 0.196,
+"phash": "96b36dcd32361919"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r62.jpg"
+"hoja": "revision/hojas/pr_piezas-r62.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_067": {
 "que_es": "fibra gris vertical corta",
@@ -360,18 +368,19 @@
 "h": null,
 "alfa_cobertura": 0.038,
 "alfa_parcial": 0.667,
-"color_medio": "#7f7975",
-"luminancia": 0.48,
-"contraste": 0.156,
-"saturacion": 0.099,
-"phash": "b36699cccc193336"
+"color_medio": "#716a66",
+"luminancia": 0.421,
+"contraste": 0.108,
+"saturacion": 0.115,
+"phash": "9919669b33662ce3"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r62.jpg"
+"hoja": "revision/hojas/pr_piezas-r62.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_068": {
 "que_es": "fibra roja curva corta",
@@ -428,18 +437,19 @@
 "h": null,
 "alfa_cobertura": 0.029,
 "alfa_parcial": 0.787,
-"color_medio": "#7d91b0",
-"luminancia": 0.584,
-"contraste": 0.105,
-"saturacion": 0.301,
-"phash": "b166cc99d33232e6"
+"color_medio": "#60799e",
+"luminancia": 0.492,
+"contraste": 0.045,
+"saturacion": 0.393,
+"phash": "ce9833666c694d99"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r62.jpg"
+"hoja": "revision/hojas/pr_piezas-r62.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_070": {
 "que_es": "fibra roja larga con fibra azul cruzada",
@@ -462,18 +472,19 @@
 "h": null,
 "alfa_cobertura": 0.017,
 "alfa_parcial": 0.804,
-"color_medio": "#c97983",
-"luminancia": 0.594,
-"contraste": 0.1,
-"saturacion": 0.427,
-"phash": "8f87e078d6619c47"
+"color_medio": "#bd5d69",
+"luminancia": 0.507,
+"contraste": 0.052,
+"saturacion": 0.538,
+"phash": "f4780f85699e6331"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r62.jpg"
+"hoja": "revision/hojas/pr_piezas-r62.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 },
 "tx:productos/piezas_neonizador/imperfecciones/fibras/fibras_071": {
 "que_es": "fibra beige larga en S",
@@ -496,17 +507,18 @@
 "h": null,
 "alfa_cobertura": 0.024,
 "alfa_parcial": 0.52,
-"color_medio": "#66645d",
-"luminancia": 0.388,
-"contraste": 0.188,
-"saturacion": 0.14,
-"phash": "bb62ce989127606f"
+"color_medio": "#5d5a52",
+"luminancia": 0.348,
+"contraste": 0.143,
+"saturacion": 0.151,
+"phash": "c49d71674ec81fd0"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r62.jpg"
+"hoja": "revision/hojas/pr_piezas-r62.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro)"
 }
 }

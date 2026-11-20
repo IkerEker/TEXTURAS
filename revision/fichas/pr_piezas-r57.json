@@ -19,11 +19,11 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.311,
-"alfa_parcial": 0.098,
-"color_medio": "#c5c5c5",
-"luminancia": 0.775,
-"contraste": 0.079,
+"alfa_cobertura": 0.308,
+"alfa_parcial": 0.157,
+"color_medio": "#c9c9c9",
+"luminancia": 0.788,
+"contraste": 0.049,
 "saturacion": 0.0,
 "phash": "ce91d1b6b0b434cd"
 },
@@ -32,7 +32,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r57.jpg"
+"hoja": "revision/hojas/pr_piezas-r57.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/sueltos/goteo_237_02": {
 "que_es": "goteo blanco con lágrima",
@@ -54,20 +55,21 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.327,
-"alfa_parcial": 0.085,
-"color_medio": "#c8c8c8",
-"luminancia": 0.787,
-"contraste": 0.104,
+"alfa_cobertura": 0.322,
+"alfa_parcial": 0.185,
+"color_medio": "#cdcdcd",
+"luminancia": 0.807,
+"contraste": 0.057,
 "saturacion": 0.0,
-"phash": "9939b24d71923ec6"
+"phash": "9838b66d71933ec4"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r57.jpg"
+"hoja": "revision/hojas/pr_piezas-r57.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/sueltos/goteo_237_03": {
 "que_es": "goteo blanco corto con lágrima",
@@ -89,20 +91,21 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.274,
-"alfa_parcial": 0.126,
-"color_medio": "#c8c8c8",
-"luminancia": 0.786,
-"contraste": 0.119,
+"alfa_cobertura": 0.267,
+"alfa_parcial": 0.273,
+"color_medio": "#cfcfcf",
+"luminancia": 0.815,
+"contraste": 0.052,
 "saturacion": 0.0,
-"phash": "9b31b69c61867987"
+"phash": "9b39a6cc69c768c1"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r57.jpg"
+"hoja": "revision/hojas/pr_piezas-r57.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/sueltos/goteo_237_04": {
 "que_es": "lágrima blanca gruesa (solo el final del goteo, corte recto arriba)",
@@ -124,20 +127,21 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.34,
-"alfa_parcial": 0.093,
-"color_medio": "#cacaca",
-"luminancia": 0.792,
-"contraste": 0.124,
+"alfa_cobertura": 0.335,
+"alfa_parcial": 0.204,
+"color_medio": "#cfcfcf",
+"luminancia": 0.814,
+"contraste": 0.082,
 "saturacion": 0.0,
-"phash": "991931c33dd1619f"
+"phash": "9a3931c62fe46527"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r57.jpg"
+"hoja": "revision/hojas/pr_piezas-r57.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/sueltos/goteo_237_05": {
 "que_es": "lágrima blanca pequeña pixelada",
@@ -159,20 +163,21 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.346,
-"alfa_parcial": 0.11,
-"color_medio": "#c8c8c8",
-"luminancia": 0.786,
-"contraste": 0.1,
+"alfa_cobertura": 0.341,
+"alfa_parcial": 0.2,
+"color_medio": "#cdcdcd",
+"luminancia": 0.807,
+"contraste": 0.05,
 "saturacion": 0.0,
-"phash": "cb1c3cc235cf30cd"
+"phash": "cb1c3cf03743346d"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r57.jpg"
+"hoja": "revision/hojas/pr_piezas-r57.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/sueltos/goteo_238_01": {
 "que_es": "goteo blanco con lágrima",
@@ -194,20 +199,21 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.44,
-"alfa_parcial": 0.09,
-"color_medio": "#cecece",
-"luminancia": 0.808,
-"contraste": 0.102,
+"alfa_cobertura": 0.434,
+"alfa_parcial": 0.145,
+"color_medio": "#d1d1d1",
+"luminancia": 0.822,
+"contraste": 0.073,
 "saturacion": 0.0,
-"phash": "cbc3e2783c0d2787"
+"phash": "cbc2e0783c0f3787"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r57.jpg"
+"hoja": "revision/hojas/pr_piezas-r57.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/sueltos/goteo_238_02": {
 "que_es": "goteo blanco fino roto con gota",
@@ -229,20 +235,21 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.326,
-"alfa_parcial": 0.187,
-"color_medio": "#cecece",
-"luminancia": 0.811,
-"contraste": 0.162,
+"alfa_cobertura": 0.32,
+"alfa_parcial": 0.251,
+"color_medio": "#d6d6d6",
+"luminancia": 0.843,
+"contraste": 0.116,
 "saturacion": 0.0,
-"phash": "ced3196c69c19734"
+"phash": "ce93186e69e19734"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r57.jpg"
+"hoja": "revision/hojas/pr_piezas-r57.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/sueltos/goteo_238_03": {
 "que_es": "goteo blanco que sale de una mancha curva arriba",
@@ -264,11 +271,11 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.135,
-"alfa_parcial": 0.169,
-"color_medio": "#cecece",
-"luminancia": 0.812,
-"contraste": 0.106,
+"alfa_cobertura": 0.131,
+"alfa_parcial": 0.261,
+"color_medio": "#d6d6d6",
+"luminancia": 0.84,
+"contraste": 0.059,
 "saturacion": 0.0,
 "phash": "c1c7c49cdc9c9c9c"
 },
@@ -277,7 +284,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r57.jpg"
+"hoja": "revision/hojas/pr_piezas-r57.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/sueltos/goteo_238_04": {
 "que_es": "goteo blanco ondulado con lágrima",
@@ -299,20 +307,21 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.278,
-"alfa_parcial": 0.111,
-"color_medio": "#d4d4d4",
-"luminancia": 0.832,
-"contraste": 0.14,
+"alfa_cobertura": 0.267,
+"alfa_parcial": 0.25,
+"color_medio": "#dedede",
+"luminancia": 0.873,
+"contraste": 0.061,
 "saturacion": 0.0,
-"phash": "ccc6939986e36798"
+"phash": "ccc79219266367cd"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r57.jpg"
+"hoja": "revision/hojas/pr_piezas-r57.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/sueltos/goteo_238_05": {
 "que_es": "goteo blanco corto con lágrima",
@@ -334,20 +343,21 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.229,
-"alfa_parcial": 0.14,
-"color_medio": "#d3d3d3",
-"luminancia": 0.828,
-"contraste": 0.157,
+"alfa_cobertura": 0.215,
+"alfa_parcial": 0.332,
+"color_medio": "#e1e1e1",
+"luminancia": 0.886,
+"contraste": 0.056,
 "saturacion": 0.0,
-"phash": "9939969c309639d7"
+"phash": "9939e6cc24c62dc7"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r57.jpg"
+"hoja": "revision/hojas/pr_piezas-r57.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/sueltos/goteo_238_06": {
 "que_es": "goteo de pintura blanca fino y completo de la raíz a la punta, con un grumo arriba, cuerpo estrecho y gota gruesa abajo; sin halo de croma",
@@ -414,20 +424,21 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.157,
-"alfa_parcial": 0.206,
-"color_medio": "#cfcfcf",
-"luminancia": 0.814,
-"contraste": 0.187,
+"alfa_cobertura": 0.147,
+"alfa_parcial": 0.345,
+"color_medio": "#e1e1e1",
+"luminancia": 0.885,
+"contraste": 0.099,
 "saturacion": 0.0,
-"phash": "99996764648e32cf"
+"phash": "9933676466c63267"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r57.jpg"
+"hoja": "revision/hojas/pr_piezas-r57.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/goteos/sueltos/goteo_239_01": {
 "que_es": "goteo blanco grueso con lágrima redonda",
@@ -449,20 +460,21 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.48,
-"alfa_parcial": 0.119,
-"color_medio": "#bbbbbb",
-"luminancia": 0.735,
-"contraste": 0.142,
+"alfa_cobertura": 0.479,
+"alfa_parcial": 0.165,
+"color_medio": "#bebebe",
+"luminancia": 0.745,
+"contraste": 0.125,
 "saturacion": 0.0,
-"phash": "cf4bb09e70c33cd0"
+"phash": "c74bb09e70c73cd0"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r57.jpg"
+"hoja": "revision/hojas/pr_piezas-r57.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/sueltos/goteo_239_02": {
 "que_es": "goteo blanco con lágrima",
@@ -484,20 +496,21 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.366,
-"alfa_parcial": 0.136,
-"color_medio": "#bcbcbc",
-"luminancia": 0.74,
-"contraste": 0.137,
+"alfa_cobertura": 0.36,
+"alfa_parcial": 0.196,
+"color_medio": "#c1c1c1",
+"luminancia": 0.758,
+"contraste": 0.113,
 "saturacion": 0.0,
-"phash": "9996c611e3cc79c3"
+"phash": "9896c711e1cf79c2"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r57.jpg"
+"hoja": "revision/hojas/pr_piezas-r57.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 },
 "tx:productos/piezas_neonizador/goteos/sueltos/goteo_239_03": {
 "que_es": "goteo blanco fino",
@@ -519,19 +532,20 @@
 "medidas": {
 "w": null,
 "h": null,
-"alfa_cobertura": 0.29,
-"alfa_parcial": 0.225,
-"color_medio": "#b8b8b8",
-"luminancia": 0.724,
-"contraste": 0.136,
+"alfa_cobertura": 0.281,
+"alfa_parcial": 0.308,
+"color_medio": "#bfbfbf",
+"luminancia": 0.751,
+"contraste": 0.115,
 "saturacion": 0.0,
-"phash": "cc939366c369e331"
+"phash": "cc929367c369e239"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r57.jpg"
+"hoja": "revision/hojas/pr_piezas-r57.jpg",
+"recorte_mejorado": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)"
 }
 }

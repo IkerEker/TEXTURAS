@@ -20,19 +20,20 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.267,
-"alfa_parcial": 0.073,
-"color_medio": "#141414",
-"luminancia": 0.081,
-"contraste": 0.071,
+"alfa_parcial": 0.138,
+"color_medio": "#0f0f0f",
+"luminancia": 0.062,
+"contraste": 0.029,
 "saturacion": 0.0,
-"phash": "b0db8d7cc3e284b2"
+"phash": "cd6462cb35315b4e"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r89.jpg"
+"hoja": "revision/hojas/pr_piezas-r89.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_098": {
 "que_es": "gota con cuello y gota abajo",
@@ -55,19 +56,20 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.297,
-"alfa_parcial": 0.061,
-"color_medio": "#101010",
-"luminancia": 0.065,
-"contraste": 0.068,
+"alfa_parcial": 0.116,
+"color_medio": "#0c0c0c",
+"luminancia": 0.049,
+"contraste": 0.032,
 "saturacion": 0.0,
-"phash": "bc63c794c21cd93a"
+"phash": "c79831679cc334cd"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r89.jpg"
+"hoja": "revision/hojas/pr_piezas-r89.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_099": {
 "que_es": "gota en hoja horizontal",
@@ -90,19 +92,20 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.298,
-"alfa_parcial": 0.053,
-"color_medio": "#131313",
-"luminancia": 0.075,
-"contraste": 0.061,
+"alfa_parcial": 0.096,
+"color_medio": "#0f0f0f",
+"luminancia": 0.062,
+"contraste": 0.029,
 "saturacion": 0.0,
-"phash": "e5aa95be18e2610f"
+"phash": "983469cac73d1ee2"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r89.jpg"
+"hoja": "revision/hojas/pr_piezas-r89.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_100": {
 "que_es": "chorro diagonal largo con gota",
@@ -125,18 +128,19 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.093,
-"alfa_parcial": 0.146,
-"color_medio": "#282828",
-"luminancia": 0.158,
-"contraste": 0.085,
+"alfa_parcial": 0.198,
+"color_medio": "#242424",
+"luminancia": 0.143,
+"contraste": 0.059,
 "saturacion": 0.0,
-"phash": "9fc0ca3be7ac2107"
+"phash": "c13d25c719d35e70"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r89.jpg"
+"hoja": "revision/hojas/pr_piezas-r89.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 }

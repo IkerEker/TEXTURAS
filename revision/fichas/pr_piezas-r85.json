@@ -20,24 +20,25 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.382,
-"alfa_parcial": 0.055,
-"color_medio": "#323232",
-"luminancia": 0.199,
-"contraste": 0.055,
+"alfa_parcial": 0.084,
+"color_medio": "#313131",
+"luminancia": 0.193,
+"contraste": 0.046,
 "saturacion": 0.0,
-"phash": "fa78d042cb872dc9"
+"phash": "c3c76c3d303096bd"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r85.jpg"
+"hoja": "revision/hojas/pr_piezas-r85.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_038": {
 "que_es": "gota en lágrima con cola larga y satélite",
 "calidad": 3,
-"defectos": "pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 44,
 "diferencia": "-",
@@ -55,19 +56,20 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.187,
-"alfa_parcial": 0.082,
-"color_medio": "#1c1c1c",
-"luminancia": 0.112,
-"contraste": 0.083,
+"alfa_parcial": 0.12,
+"color_medio": "#191919",
+"luminancia": 0.098,
+"contraste": 0.063,
 "saturacion": 0.0,
-"phash": "bbc0cc3be42d8539"
+"phash": "c53534c45b5b5a5a"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r85.jpg"
+"hoja": "revision/hojas/pr_piezas-r85.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_039": {
 "que_es": "gota redonda gris con satélite",
@@ -90,24 +92,25 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.361,
-"alfa_parcial": 0.047,
-"color_medio": "#313131",
-"luminancia": 0.192,
-"contraste": 0.059,
+"alfa_parcial": 0.067,
+"color_medio": "#303030",
+"luminancia": 0.19,
+"contraste": 0.046,
 "saturacion": 0.0,
-"phash": "fdd5c22a8a305573"
+"phash": "c23c3dc164cbcb4d"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r85.jpg"
+"hoja": "revision/hojas/pr_piezas-r85.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_040": {
 "que_es": "gota negra con cola abajo",
 "calidad": 3,
-"defectos": "pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 46,
 "diferencia": "-",
@@ -125,24 +128,25 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.282,
-"alfa_parcial": 0.055,
-"color_medio": "#0e0e0e",
-"luminancia": 0.059,
-"contraste": 0.064,
+"alfa_parcial": 0.09,
+"color_medio": "#0b0b0b",
+"luminancia": 0.046,
+"contraste": 0.025,
 "saturacion": 0.0,
-"phash": "e9619796c19af027"
+"phash": "c39f606b1ee10fd0"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r85.jpg"
+"hoja": "revision/hojas/pr_piezas-r85.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_041": {
 "que_es": "gota negra dentada",
 "calidad": 3,
-"defectos": "pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 47,
 "diferencia": "-",
@@ -160,24 +164,25 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.368,
-"alfa_parcial": 0.045,
-"color_medio": "#1c1c1c",
-"luminancia": 0.111,
-"contraste": 0.056,
+"alfa_parcial": 0.07,
+"color_medio": "#1a1a1a",
+"luminancia": 0.103,
+"contraste": 0.033,
 "saturacion": 0.0,
-"phash": "f8a8971e8a752873"
+"phash": "973768c9354c939c"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r85.jpg"
+"hoja": "revision/hojas/pr_piezas-r85.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_042": {
 "que_es": "gota negra redonda",
 "calidad": 3,
-"defectos": "pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 48,
 "diferencia": "-",
@@ -195,19 +200,20 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.371,
-"alfa_parcial": 0.043,
-"color_medio": "#101010",
-"luminancia": 0.063,
-"contraste": 0.056,
+"alfa_parcial": 0.076,
+"color_medio": "#0d0d0d",
+"luminancia": 0.053,
+"contraste": 0.025,
 "saturacion": 0.0,
-"phash": "fd1cd3a28b8a685a"
+"phash": "8dcb6f24b0dc9325"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r85.jpg"
+"hoja": "revision/hojas/pr_piezas-r85.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_043": {
 "que_es": "gota en lágrima vertical con cola fina",
@@ -230,19 +236,20 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.222,
-"alfa_parcial": 0.07,
-"color_medio": "#161616",
-"luminancia": 0.087,
-"contraste": 0.075,
+"alfa_parcial": 0.104,
+"color_medio": "#121212",
+"luminancia": 0.074,
+"contraste": 0.046,
 "saturacion": 0.0,
-"phash": "a4cb9b34c63c99b2"
+"phash": "923624cd39cb4b6b"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r85.jpg"
+"hoja": "revision/hojas/pr_piezas-r85.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_044": {
 "que_es": "gota gris con cola arriba",
@@ -265,19 +272,20 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.259,
-"alfa_parcial": 0.071,
-"color_medio": "#333333",
-"luminancia": 0.202,
-"contraste": 0.06,
+"alfa_parcial": 0.093,
+"color_medio": "#323232",
+"luminancia": 0.199,
+"contraste": 0.049,
 "saturacion": 0.0,
-"phash": "e99c8e6b8561d86c"
+"phash": "8763719c1c1e2737"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r85.jpg"
+"hoja": "revision/hojas/pr_piezas-r85.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_045": {
 "que_es": "gota gris con cola a la derecha",
@@ -300,19 +308,20 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.211,
-"alfa_parcial": 0.116,
-"color_medio": "#383838",
-"luminancia": 0.223,
-"contraste": 0.061,
-"saturacion": 0.0,
-"phash": "9f02c01fb73e6dc0"
+"alfa_parcial": 0.147,
+"color_medio": "#363636",
+"luminancia": 0.213,
+"contraste": 0.047,
+"saturacion": 0.001,
+"phash": "c11d3f62c8cbd236"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r85.jpg"
+"hoja": "revision/hojas/pr_piezas-r85.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_046": {
 "que_es": "gota con cola y satélite",
@@ -335,19 +344,20 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.276,
-"alfa_parcial": 0.066,
-"color_medio": "#202020",
-"luminancia": 0.126,
-"contraste": 0.064,
+"alfa_parcial": 0.096,
+"color_medio": "#1e1e1e",
+"luminancia": 0.119,
+"contraste": 0.039,
 "saturacion": 0.0,
-"phash": "ba54c14ec6b53b68"
+"phash": "c56a3a959968e497"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r85.jpg"
+"hoja": "revision/hojas/pr_piezas-r85.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_047": {
 "que_es": "gota en lágrima diagonal",
@@ -370,19 +380,20 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.182,
-"alfa_parcial": 0.058,
-"color_medio": "#111111",
-"luminancia": 0.069,
-"contraste": 0.067,
+"alfa_parcial": 0.115,
+"color_medio": "#0e0e0e",
+"luminancia": 0.056,
+"contraste": 0.039,
 "saturacion": 0.0,
-"phash": "bbc2c83bf0a4c58d"
+"phash": "c5bd3de14a5a5252"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r85.jpg"
+"hoja": "revision/hojas/pr_piezas-r85.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_048": {
 "que_es": "gota gris con satélite",
@@ -405,19 +416,20 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.322,
-"alfa_parcial": 0.06,
-"color_medio": "#323232",
-"luminancia": 0.197,
-"contraste": 0.053,
+"alfa_parcial": 0.085,
+"color_medio": "#313131",
+"luminancia": 0.193,
+"contraste": 0.042,
 "saturacion": 0.0,
-"phash": "adca837c9f3034e2"
+"phash": "96343dc2e1cbcb68"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r85.jpg"
+"hoja": "revision/hojas/pr_piezas-r85.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_049": {
 "que_es": "gota gris con cola a la izquierda",
@@ -440,19 +452,20 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.286,
-"alfa_parcial": 0.236,
-"color_medio": "#414141",
-"luminancia": 0.258,
-"contraste": 0.065,
-"saturacion": 0.0,
-"phash": "eb61941c9ac36bf0"
+"alfa_parcial": 0.296,
+"color_medio": "#3a3a3a",
+"luminancia": 0.23,
+"contraste": 0.059,
+"saturacion": 0.005,
+"phash": "941f6be16d31d40e"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r85.jpg"
+"hoja": "revision/hojas/pr_piezas-r85.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_050": {
 "que_es": "gota en lágrima diagonal (parecida a la 047)",
@@ -475,24 +488,25 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.152,
-"alfa_parcial": 0.08,
-"color_medio": "#1e1e1e",
-"luminancia": 0.119,
-"contraste": 0.068,
+"alfa_parcial": 0.121,
+"color_medio": "#1b1b1b",
+"luminancia": 0.107,
+"contraste": 0.047,
 "saturacion": 0.0,
-"phash": "9ba3c03de28e8db8"
+"phash": "c13d3de40d5b52c6"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r85.jpg"
+"hoja": "revision/hojas/pr_piezas-r85.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_051": {
 "que_es": "gota negra redonda",
 "calidad": 3,
-"defectos": "pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 57,
 "diferencia": "-",
@@ -510,18 +524,19 @@
 "w": null,
 "h": null,
 "alfa_cobertura": 0.321,
-"alfa_parcial": 0.054,
-"color_medio": "#0f0f0f",
-"luminancia": 0.062,
-"contraste": 0.062,
+"alfa_parcial": 0.094,
+"color_medio": "#0c0c0c",
+"luminancia": 0.049,
+"contraste": 0.019,
 "saturacion": 0.0,
-"phash": "e1abd4ae1ac1611f"
+"phash": "909e6be0e53f16e0"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r85.jpg"
+"hoja": "revision/hojas/pr_piezas-r85.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 }
