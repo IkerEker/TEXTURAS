@@ -124,25 +124,26 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.548,
-"alfa_parcial": 0.029,
-"color_medio": "#dcd3c5",
-"luminancia": 0.822,
+"alfa_cobertura": 0.547,
+"alfa_parcial": 0.015,
+"color_medio": "#ddd3c5",
+"luminancia": 0.824,
 "contraste": 0.059,
-"saturacion": 0.107,
-"phash": "d52a2a99d5572aaa"
+"saturacion": 0.108,
+"phash": "d52a2ad5d5672a8a"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-10.jpg"
+"hoja": "revision/hojas/tx_bordes-10.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/viejo/borde_amarillo_claro_0568": {
 "que_es": "papel crema con inclusiones y fibras verdosas en la esquina",
 "calidad": 3,
-"defectos": "fibras verdosas (croma)",
+"defectos": "(corregido 20-11-2026: recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)) antes: fibras verdosas (croma)",
 "familia": "tira_borde_artesanal",
 "variante": 8,
 "diferencia": "inclusiones",
@@ -159,20 +160,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.545,
-"alfa_parcial": 0.037,
-"color_medio": "#e4d5bf",
-"luminancia": 0.829,
-"contraste": 0.052,
-"saturacion": 0.162,
-"phash": "d52a2ba7d5502a2f"
+"alfa_cobertura": 0.544,
+"alfa_parcial": 0.034,
+"color_medio": "#e5d6c0",
+"luminancia": 0.832,
+"contraste": 0.053,
+"saturacion": 0.163,
+"phash": "d52a2be7d5182a27"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-10.jpg"
+"hoja": "revision/hojas/tx_bordes-10.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/viejo/borde_papel_rasgado_0451": {
 "que_es": "papel blanco envejecido con canto amarillento y una grieta vertical",

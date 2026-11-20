@@ -45,7 +45,7 @@ def arreglar(p, out, despill=False, margen=4, fondo='auto', suavizar=False, cerc
     if fondo == 'auto':
         m = medir(p); hc = m.get('halo_claro', 0)
         fondo = 'blanco' if hc > 8 else 'negro' if hc < -8 else 'vecino'
-    if near is not None:
+    if near is not None and fondo != 'ninguno':
         aa = np.maximum(a, 1e-3)[..., None]
         if fondo == 'blanco':
             B = np.percentile(rgb[a < 0.05].reshape(-1, 3), 50, axis=0) if (a < 0.05).sum() > 50 and rgb[a < 0.05].mean() > 200 else np.array([250., 250, 248])
@@ -86,8 +86,11 @@ def arreglar(p, out, despill=False, margen=4, fondo='auto', suavizar=False, cerc
         a = x[..., 3] / 255
         if near is not None: rgb = np.where(((a > 0) & (rgb.sum(-1) == 0))[..., None], near, rgb)
     if despill:
+        # el verde del croma en fibras y filos: G no puede pasar de max(R, B) + 4 (solo donde no es macizo)
         lim = np.maximum(rgb[..., 0], rgb[..., 2])
-        rgb[..., 1] = np.where(a < 0.98, np.minimum(rgb[..., 1], lim + 4), rgb[..., 1])
+        zona = ndi.binary_dilation(a < 0.98, iterations=2) & (a > 0)
+        exceso = rgb[..., 1] - (lim + 4)
+        rgb[..., 1] = np.where(zona & (exceso > 0), lim + 4, rgb[..., 1])
     rgb[a <= 0] = 0
     o = np.dstack([np.clip(np.round(rgb), 0, 255), x[..., 3]]).astype(np.uint8)
     if margen is not None:

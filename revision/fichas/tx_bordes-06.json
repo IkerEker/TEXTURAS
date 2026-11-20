@@ -264,20 +264,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.313,
-"alfa_parcial": 0.125,
-"color_medio": "#a88262",
-"luminancia": 0.519,
-"contraste": 0.11,
-"saturacion": 0.425,
-"phash": "f3360ce5b3126c59"
+"alfa_cobertura": 0.306,
+"alfa_parcial": 0.098,
+"color_medio": "#aa8363",
+"luminancia": 0.525,
+"contraste": 0.104,
+"saturacion": 0.426,
+"phash": "f32f0ce573126c19"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-06.jpg"
+"hoja": "revision/hojas/tx_bordes-06.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/carton/borde_naranja_0540": {
 "que_es": "bloque de cartón con canto deshilachado (pieza suelta)",
@@ -299,20 +300,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.319,
-"alfa_parcial": 0.028,
+"alfa_cobertura": 0.318,
+"alfa_parcial": 0.031,
 "color_medio": "#ba9876",
 "luminancia": 0.599,
 "contraste": 0.126,
-"saturacion": 0.369,
-"phash": "807d3ac4911fd63b"
+"saturacion": 0.371,
+"phash": "c43b7ec4813f443b"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-06.jpg"
+"hoja": "revision/hojas/tx_bordes-06.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/carton/borde_naranja_0544": {
 "que_es": "papel tostado con canto en picos agrietado",
@@ -404,20 +406,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.517,
+"alfa_cobertura": 0.516,
 "alfa_parcial": 0.013,
 "color_medio": "#c49a6a",
 "luminancia": 0.598,
 "contraste": 0.146,
 "saturacion": 0.473,
-"phash": "d52a8af5d4620b9d"
+"phash": "d52a8ef5d4620a9d"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-06.jpg"
+"hoja": "revision/hojas/tx_bordes-06.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/carton/borde_naranja_0552": {
 "que_es": "papel tostado con canto en almenas oscurecidas y grietas",

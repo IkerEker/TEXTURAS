@@ -335,19 +335,20 @@
 "w": 1507,
 "h": 183,
 "alfa_cobertura": 0.573,
-"alfa_parcial": 0.118,
-"color_medio": "#002bb8",
-"luminancia": 0.298,
-"contraste": 0.037,
-"saturacion": 0.998,
-"phash": "c4ad3faa2b528770"
+"alfa_parcial": 0.125,
+"color_medio": "#002ab7",
+"luminancia": 0.296,
+"contraste": 0.036,
+"saturacion": 0.999,
+"phash": "c48d3fba3b528370"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r12.jpg"
+"hoja": "revision/hojas/tx_trazos-r12.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/pincel/pinceladas_azules_0064_02": {
 "que_es": "pincelada azul ultramar con final de cerdas abierto",
@@ -370,19 +371,20 @@
 "w": 1451,
 "h": 176,
 "alfa_cobertura": 0.615,
-"alfa_parcial": 0.155,
-"color_medio": "#002dbd",
-"luminancia": 0.307,
-"contraste": 0.041,
-"saturacion": 0.997,
-"phash": "85ac5a557e532672"
+"alfa_parcial": 0.166,
+"color_medio": "#002bbc",
+"luminancia": 0.303,
+"contraste": 0.038,
+"saturacion": 0.998,
+"phash": "85ac5a557ed22672"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r12.jpg"
+"hoja": "revision/hojas/tx_trazos-r12.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/pincel/pinceladas_azules_0064_03": {
 "que_es": "pincelada azul ultramar fina",
@@ -404,20 +406,21 @@
 "medidas": {
 "w": 1395,
 "h": 126,
-"alfa_cobertura": 0.486,
-"alfa_parcial": 0.275,
-"color_medio": "#0133c4",
-"luminancia": 0.326,
-"contraste": 0.05,
-"saturacion": 0.995,
-"phash": "c08f3f742f58c589"
+"alfa_cobertura": 0.485,
+"alfa_parcial": 0.288,
+"color_medio": "#002fc2",
+"luminancia": 0.317,
+"contraste": 0.044,
+"saturacion": 0.998,
+"phash": "c0863f756e58c5e8"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r12.jpg"
+"hoja": "revision/hojas/tx_trazos-r12.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/pincel/pinceladas_azules_0064_04": {
 "que_es": "pincelada azul ultramar ancha",
@@ -440,19 +443,20 @@
 "w": 1441,
 "h": 160,
 "alfa_cobertura": 0.568,
-"alfa_parcial": 0.15,
-"color_medio": "#0025ad",
-"luminancia": 0.276,
-"contraste": 0.035,
-"saturacion": 0.998,
-"phash": "958e4b452a53b87b"
+"alfa_parcial": 0.155,
+"color_medio": "#0024ac",
+"luminancia": 0.273,
+"contraste": 0.032,
+"saturacion": 0.999,
+"phash": "d58c4b543a52b87b"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r12.jpg"
+"hoja": "revision/hojas/tx_trazos-r12.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/pincel/pinceladas_azules_0064_05": {
 "que_es": "pincelada azul ultramar con salida de cerdas",
@@ -475,19 +479,20 @@
 "w": 1431,
 "h": 150,
 "alfa_cobertura": 0.502,
-"alfa_parcial": 0.219,
-"color_medio": "#002bb6",
-"luminancia": 0.297,
-"contraste": 0.047,
-"saturacion": 0.996,
-"phash": "95954ef17a62cc4a"
+"alfa_parcial": 0.231,
+"color_medio": "#0028b5",
+"luminancia": 0.292,
+"contraste": 0.041,
+"saturacion": 0.998,
+"phash": "95974bf16a62cc4a"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r12.jpg"
+"hoja": "revision/hojas/tx_trazos-r12.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/pincel/pinceladas_azules_0064_06": {
 "que_es": "pincelada azul ultramar ancha uniforme",
@@ -509,19 +514,20 @@
 "medidas": {
 "w": 1456,
 "h": 157,
-"alfa_cobertura": 0.488,
-"alfa_parcial": 0.146,
-"color_medio": "#0029be",
-"luminancia": 0.304,
-"contraste": 0.038,
-"saturacion": 0.998,
-"phash": "c44b3aae3fb4ca90"
+"alfa_cobertura": 0.487,
+"alfa_parcial": 0.151,
+"color_medio": "#0027be",
+"luminancia": 0.301,
+"contraste": 0.036,
+"saturacion": 0.999,
+"phash": "c44a3bae7bb4c294"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r12.jpg"
+"hoja": "revision/hojas/tx_trazos-r12.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 }

@@ -21,18 +21,19 @@
 "h": 249,
 "alfa_cobertura": 0.02,
 "alfa_parcial": 0.554,
-"color_medio": "#38343e",
-"luminancia": 0.224,
-"contraste": 0.132,
-"saturacion": 0.224,
-"phash": "83072ccb36ec593e"
+"color_medio": "#26222b",
+"luminancia": 0.153,
+"contraste": 0.12,
+"saturacion": 0.272,
+"phash": "d3063cc936ec493e"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r17.jpg"
+"hoja": "revision/hojas/tx_trazos-r17.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_04": {
 "que_es": "maraña de óvalos de tinta fina (tachón)",
@@ -56,18 +57,19 @@
 "h": 266,
 "alfa_cobertura": 0.057,
 "alfa_parcial": 0.618,
-"color_medio": "#3d3a41",
-"luminancia": 0.243,
-"contraste": 0.12,
-"saturacion": 0.156,
-"phash": "c13a7be135c691b2"
+"color_medio": "#28252c",
+"luminancia": 0.16,
+"contraste": 0.118,
+"saturacion": 0.208,
+"phash": "c13b7ee135c631b0"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r17.jpg"
+"hoja": "revision/hojas/tx_trazos-r17.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_05": {
 "que_es": "óvalo de tinta fina",
@@ -91,18 +93,19 @@
 "h": 246,
 "alfa_cobertura": 0.018,
 "alfa_parcial": 0.549,
-"color_medio": "#393440",
-"luminancia": 0.227,
-"contraste": 0.125,
-"saturacion": 0.273,
-"phash": "c123c71f0ed83ce9"
+"color_medio": "#27232e",
+"luminancia": 0.159,
+"contraste": 0.112,
+"saturacion": 0.329,
+"phash": "e927c11f0e583ce9"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r17.jpg"
+"hoja": "revision/hojas/tx_trazos-r17.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_06": {
 "que_es": "bucles (eee) de tinta fina",
@@ -126,10 +129,10 @@
 "h": 177,
 "alfa_cobertura": 0.029,
 "alfa_parcial": 0.524,
-"color_medio": "#34313a",
-"luminancia": 0.21,
-"contraste": 0.132,
-"saturacion": 0.249,
+"color_medio": "#242029",
+"luminancia": 0.145,
+"contraste": 0.117,
+"saturacion": 0.293,
 "phash": "d00737fa26dd6807"
 },
 "rehacer": false,
@@ -137,7 +140,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r17.jpg"
+"hoja": "revision/hojas/tx_trazos-r17.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_07": {
 "que_es": "símbolo infinito de tinta fina",
@@ -161,18 +165,19 @@
 "h": 184,
 "alfa_cobertura": 0.024,
 "alfa_parcial": 0.563,
-"color_medio": "#37333e",
-"luminancia": 0.221,
-"contraste": 0.135,
-"saturacion": 0.285,
-"phash": "c58965b7194c9eca"
+"color_medio": "#24202b",
+"luminancia": 0.146,
+"contraste": 0.119,
+"saturacion": 0.35,
+"phash": "8f0865b7194d9eca"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r17.jpg"
+"hoja": "revision/hojas/tx_trazos-r17.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/rotulador/hoja_pruebas_garabatos_tinta_0043_01": {
 "que_es": "onda de rotulador medio",

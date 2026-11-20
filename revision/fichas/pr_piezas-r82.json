@@ -326,7 +326,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_001": {
 "que_es": "salpicadura de tinta negra doble con gotas radiales",
 "calidad": 4,
-"defectos": "negra, se ve sobre fondo claro",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: negra, se ve sobre fondo claro",
 "familia": "salpicadura_tinta",
 "variante": 7,
 "diferencia": "-",

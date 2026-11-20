@@ -124,20 +124,21 @@
 "medidas": {
 "w": 1536,
 "h": 1024,
-"alfa_cobertura": 0.522,
-"alfa_parcial": 0.085,
+"alfa_cobertura": 0.519,
+"alfa_parcial": 0.073,
 "color_medio": "#e3e5e3",
 "luminancia": 0.895,
 "contraste": 0.022,
-"saturacion": 0.009,
-"phash": "8a0a75f58a0a76f5"
+"saturacion": 0.01,
+"phash": "aa6a55d58a2a66d5"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-11.jpg"
+"hoja": "revision/hojas/tx_bordes-11.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/washi/franja_fibras_0500": {
 "que_es": "franja de papel japonés blanco con fibras",

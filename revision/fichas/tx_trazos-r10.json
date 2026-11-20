@@ -20,19 +20,20 @@
 "w": 773,
 "h": 212,
 "alfa_cobertura": 0.087,
-"alfa_parcial": 0.69,
-"color_medio": "#575754",
-"luminancia": 0.34,
-"contraste": 0.045,
-"saturacion": 0.048,
-"phash": "853d6aca9fb0274c"
+"alfa_parcial": 0.727,
+"color_medio": "#4a4a47",
+"luminancia": 0.288,
+"contraste": 0.062,
+"saturacion": 0.055,
+"phash": "853f6ac29fb0274c"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r10.jpg"
+"hoja": "revision/hojas/tx_trazos-r10.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0039_05": {
 "que_es": "trazo horizontal corto y ancho de grafito",
@@ -90,19 +91,20 @@
 "w": 1154,
 "h": 293,
 "alfa_cobertura": 0.161,
-"alfa_parcial": 0.685,
-"color_medio": "#4f4f4c",
-"luminancia": 0.308,
-"contraste": 0.056,
-"saturacion": 0.051,
-"phash": "c4973a606f8cd15b"
+"alfa_parcial": 0.734,
+"color_medio": "#434340",
+"luminancia": 0.261,
+"contraste": 0.05,
+"saturacion": 0.054,
+"phash": "c4973a606fcc915b"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r10.jpg"
+"hoja": "revision/hojas/tx_trazos-r10.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0039_07": {
 "que_es": "trazo horizontal curvo que se desvanece",
@@ -195,19 +197,20 @@
 "w": 990,
 "h": 274,
 "alfa_cobertura": 0.077,
-"alfa_parcial": 0.802,
-"color_medio": "#545352",
-"luminancia": 0.328,
-"contraste": 0.041,
-"saturacion": 0.032,
-"phash": "c69730614f5953d6"
+"alfa_parcial": 0.837,
+"color_medio": "#444443",
+"luminancia": 0.267,
+"contraste": 0.052,
+"saturacion": 0.035,
+"phash": "c69f30614f5853d6"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r10.jpg"
+"hoja": "revision/hojas/tx_trazos-r10.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0046_01": {
 "que_es": "banda vertical de grafito muy oscura con grano",

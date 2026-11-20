@@ -91,18 +91,19 @@
 "h": 157,
 "alfa_cobertura": 0.041,
 "alfa_parcial": 0.575,
-"color_medio": "#807f80",
-"luminancia": 0.503,
-"contraste": 0.125,
-"saturacion": 0.02,
-"phash": "c3ad6b527455b921"
+"color_medio": "#717071",
+"luminancia": 0.443,
+"contraste": 0.123,
+"saturacion": 0.03,
+"phash": "c3ad2b567471b921"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r07.jpg"
+"hoja": "revision/hojas/tx_trazos-r07.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/lapiz/doodles_grafito_0019_06": {
 "que_es": "onda de grafito",

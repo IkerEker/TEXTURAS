@@ -20,19 +20,20 @@
 "w": 567,
 "h": 373,
 "alfa_cobertura": 0.135,
-"alfa_parcial": 0.813,
-"color_medio": "#656363",
-"luminancia": 0.392,
-"contraste": 0.089,
-"saturacion": 0.045,
-"phash": "92376ec837c41da5"
+"alfa_parcial": 0.821,
+"color_medio": "#514f4f",
+"luminancia": 0.315,
+"contraste": 0.1,
+"saturacion": 0.059,
+"phash": "92376ec833ce3ca4"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/lapiz/trazo_grafito_gris_0046_02": {
 "que_es": "banda vertical de grafito con grano",
@@ -195,19 +196,20 @@
 "w": 505,
 "h": 396,
 "alfa_cobertura": 0.132,
-"alfa_parcial": 0.65,
-"color_medio": "#666464",
-"luminancia": 0.395,
-"contraste": 0.121,
-"saturacion": 0.045,
-"phash": "d13b6bd0256d9266"
+"alfa_parcial": 0.66,
+"color_medio": "#4e4c4d",
+"luminancia": 0.304,
+"contraste": 0.136,
+"saturacion": 0.097,
+"phash": "c51b6bd03563d664"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0032_04": {
 "que_es": "garabato rápido en zigzag tipo firma",
@@ -229,20 +231,21 @@
 "medidas": {
 "w": 514,
 "h": 269,
-"alfa_cobertura": 0.065,
-"alfa_parcial": 0.562,
-"color_medio": "#515050",
-"luminancia": 0.316,
-"contraste": 0.108,
-"saturacion": 0.034,
-"phash": "c42f3bd898656c9a"
+"alfa_cobertura": 0.064,
+"alfa_parcial": 0.611,
+"color_medio": "#474645",
+"luminancia": 0.276,
+"contraste": 0.103,
+"saturacion": 0.038,
+"phash": "c42f33da98656c9a"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0032_06": {
 "que_es": "garabato tipo letra/firma corta",
@@ -265,11 +268,11 @@
 "w": 313,
 "h": 241,
 "alfa_cobertura": 0.077,
-"alfa_parcial": 0.488,
-"color_medio": "#5f5d5d",
-"luminancia": 0.37,
-"contraste": 0.128,
-"saturacion": 0.043,
+"alfa_parcial": 0.507,
+"color_medio": "#4e4c4c",
+"luminancia": 0.303,
+"contraste": 0.131,
+"saturacion": 0.078,
 "phash": "c81b36e44d39632f"
 },
 "rehacer": false,
@@ -277,7 +280,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0032_07": {
 "que_es": "rayado diagonal suave",
@@ -301,18 +305,19 @@
 "h": 278,
 "alfa_cobertura": 0.067,
 "alfa_parcial": 0.698,
-"color_medio": "#666465",
-"luminancia": 0.398,
-"contraste": 0.122,
-"saturacion": 0.043,
-"phash": "c11b7ce127ccf00f"
+"color_medio": "#4d4b4b",
+"luminancia": 0.3,
+"contraste": 0.14,
+"saturacion": 0.1,
+"phash": "c11b7ce137c4f00f"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0032_09": {
 "que_es": "zigzag vertical denso de grafito oscuro",
@@ -335,19 +340,20 @@
 "w": 332,
 "h": 250,
 "alfa_cobertura": 0.114,
-"alfa_parcial": 0.405,
-"color_medio": "#595857",
-"luminancia": 0.348,
-"contraste": 0.123,
-"saturacion": 0.039,
-"phash": "911f6ae135c19376"
+"alfa_parcial": 0.478,
+"color_medio": "#4d4b4b",
+"luminancia": 0.298,
+"contraste": 0.116,
+"saturacion": 0.055,
+"phash": "911f6ac135cd9372"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0032_10": {
 "que_es": "rayado diagonal largo",
@@ -370,19 +376,20 @@
 "w": 420,
 "h": 411,
 "alfa_cobertura": 0.098,
-"alfa_parcial": 0.557,
-"color_medio": "#626160",
-"luminancia": 0.383,
-"contraste": 0.12,
-"saturacion": 0.043,
-"phash": "909735606fe84dcb"
+"alfa_parcial": 0.573,
+"color_medio": "#514f4f",
+"luminancia": 0.313,
+"contraste": 0.126,
+"saturacion": 0.08,
+"phash": "909735606fe86dc9"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0032_12": {
 "que_es": "línea con dos bucles (letras ee)",
@@ -405,19 +412,20 @@
 "w": 699,
 "h": 164,
 "alfa_cobertura": 0.046,
-"alfa_parcial": 0.759,
-"color_medio": "#5b5a59",
-"luminancia": 0.356,
+"alfa_parcial": 0.774,
+"color_medio": "#4d4c4b",
+"luminancia": 0.301,
 "contraste": 0.08,
-"saturacion": 0.038,
-"phash": "c527785a16b4ad63"
+"saturacion": 0.044,
+"phash": "c52738da16bc8d63"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/lapiz/trazo_grafito_gris_oscuro_0039_01": {
 "que_es": "trazo horizontal ancho de grafito blando",

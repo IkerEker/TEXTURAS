@@ -317,7 +317,7 @@
 "tx:bordes/C_vieja/borde_naranja_0519": {
 "que_es": "lámina con 4 esquinas/bordes de papel viejo amarillento redondeados, muy arrugados y con fibras",
 "calidad": 3,
-"defectos": "sombra semitransparente rosada pegada bajo el borde inferior de cada pieza (velo de 30–40 px)",
+"defectos": "(corregido 20-11-2026: recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)) antes: sombra semitransparente rosada pegada bajo el borde inferior de cada pieza (velo de 30–40 px)",
 "familia": "borde_naranja_viejo",
 "variante": 1,
 "diferencia": "la más arrugada",
@@ -334,25 +334,26 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.696,
-"alfa_parcial": 0.046,
-"color_medio": "#dfd1b7",
-"luminancia": 0.806,
+"alfa_cobertura": 0.695,
+"alfa_parcial": 0.03,
+"color_medio": "#e0d1b8",
+"luminancia": 0.808,
 "contraste": 0.078,
-"saturacion": 0.18,
-"phash": "a3cce33208a3f75c"
+"saturacion": 0.181,
+"phash": "a3c6e3381d83a35e"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-01.jpg"
+"hoja": "revision/hojas/tx_bordes-01.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/C_vieja/borde_naranja_0531": {
 "que_es": "4 bordes de papel amarillento, uno con muesca rota (se ve el fondo)",
 "calidad": 3,
-"defectos": "velo de sombra bajo el borde",
+"defectos": "(corregido 20-11-2026: recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)) antes: velo de sombra bajo el borde",
 "familia": "borde_naranja_viejo",
 "variante": 2,
 "diferencia": "muesca en una pieza",
@@ -369,25 +370,26 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.657,
-"alfa_parcial": 0.047,
-"color_medio": "#decdae",
-"luminancia": 0.788,
-"contraste": 0.091,
+"alfa_cobertura": 0.653,
+"alfa_parcial": 0.038,
+"color_medio": "#dfceaf",
+"luminancia": 0.791,
+"contraste": 0.086,
 "saturacion": 0.218,
-"phash": "b2cfe7894819b329"
+"phash": "b2c7e7a84815b3a9"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-01.jpg"
+"hoja": "revision/hojas/tx_bordes-01.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/C_vieja/borde_naranja_0539": {
 "que_es": "4 bordes de papel viejo, uno con pliegue diagonal marcado",
 "calidad": 3,
-"defectos": "velo de sombra bajo el borde",
+"defectos": "(corregido 20-11-2026: recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)) antes: velo de sombra bajo el borde",
 "familia": "borde_naranja_viejo",
 "variante": 3,
 "diferencia": "pliegue en diagonal",
@@ -404,25 +406,26 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.631,
-"alfa_parcial": 0.063,
-"color_medio": "#decdb0",
-"luminancia": 0.791,
-"contraste": 0.089,
-"saturacion": 0.21,
-"phash": "e273e766081ab6c5"
+"alfa_cobertura": 0.627,
+"alfa_parcial": 0.044,
+"color_medio": "#dfceb1",
+"luminancia": 0.795,
+"contraste": 0.085,
+"saturacion": 0.211,
+"phash": "e2eae3e4183ab645"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-01.jpg"
+"hoja": "revision/hojas/tx_bordes-01.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/C_vieja/borde_naranja_0561": {
 "que_es": "4 bordes de papel viejo, uno con fibras largas en el canto",
 "calidad": 3,
-"defectos": "velo semitransparente en el canto con las fibras",
+"defectos": "(corregido 20-11-2026: recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)) antes: velo semitransparente en el canto con las fibras",
 "familia": "borde_naranja_viejo",
 "variante": 4,
 "diferencia": "fibras largas",
@@ -439,20 +442,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.613,
-"alfa_parcial": 0.052,
-"color_medio": "#d8c6a6",
-"luminancia": 0.76,
-"contraste": 0.089,
+"alfa_cobertura": 0.606,
+"alfa_parcial": 0.047,
+"color_medio": "#dac7a8",
+"luminancia": 0.766,
+"contraste": 0.076,
 "saturacion": 0.233,
-"phash": "a37e83015c5da74d"
+"phash": "a37c83095d5ca74d"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-01.jpg"
+"hoja": "revision/hojas/tx_bordes-01.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/C_vieja/cuatro_esquinas_papel_envejecido_0491": {
 "que_es": "lámina con 4 trozos/esquinas de papel viejo amarillento, cantos rasgados y redondeados, manchas suaves",

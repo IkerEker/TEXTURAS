@@ -55,19 +55,20 @@
 "w": 2528,
 "h": 1696,
 "alfa_cobertura": 0.51,
-"alfa_parcial": 0.011,
-"color_medio": "#ac8968",
-"luminancia": 0.541,
+"alfa_parcial": 0.012,
+"color_medio": "#ac8868",
+"luminancia": 0.542,
 "contraste": 0.122,
 "saturacion": 0.406,
-"phash": "807f7fb080077d78"
+"phash": "807f7da082c77978"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-07.jpg"
+"hoja": "revision/hojas/tx_bordes-07.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/carton/borde_naranja_0563": {
 "que_es": "trozo pequeño de cartón tostado con canto quemado en almenas y esquina negra",

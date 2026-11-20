@@ -441,10 +441,10 @@
 "h": 146,
 "alfa_cobertura": 0.061,
 "alfa_parcial": 0.945,
-"color_medio": "#686666",
-"luminancia": 0.404,
-"contraste": 0.052,
-"saturacion": 0.034,
+"color_medio": "#514f4f",
+"luminancia": 0.314,
+"contraste": 0.064,
+"saturacion": 0.041,
 "phash": "c1a53e5ad2a62da9"
 },
 "rehacer": false,
@@ -452,7 +452,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r08.jpg"
+"hoja": "revision/hojas/tx_trazos-r08.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/lapiz/trazo_grafito_gris_0032_05": {
 "que_es": "bucles finos de grafito tipo firma",
@@ -476,18 +477,19 @@
 "h": 372,
 "alfa_cobertura": 0.029,
 "alfa_parcial": 0.922,
-"color_medio": "#666465",
-"luminancia": 0.397,
-"contraste": 0.081,
-"saturacion": 0.035,
-"phash": "909761c996764d79"
+"color_medio": "#4e4c4d",
+"luminancia": 0.305,
+"contraste": 0.099,
+"saturacion": 0.048,
+"phash": "909761c997764d69"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r08.jpg"
+"hoja": "revision/hojas/tx_trazos-r08.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/lapiz/trazo_grafito_gris_0032_08": {
 "que_es": "zigzag rápido de grafito tipo escritura",
@@ -510,11 +512,11 @@
 "w": 472,
 "h": 214,
 "alfa_cobertura": 0.065,
-"alfa_parcial": 0.596,
-"color_medio": "#676665",
-"luminancia": 0.401,
-"contraste": 0.11,
-"saturacion": 0.037,
+"alfa_parcial": 0.603,
+"color_medio": "#525150",
+"luminancia": 0.321,
+"contraste": 0.13,
+"saturacion": 0.074,
 "phash": "d89b33658db446ca"
 },
 "rehacer": false,
@@ -522,6 +524,7 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r08.jpg"
+"hoja": "revision/hojas/tx_trazos-r08.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 }

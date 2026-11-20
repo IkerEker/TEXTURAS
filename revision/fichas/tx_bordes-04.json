@@ -300,9 +300,9 @@
 "w": 2528,
 "h": 1696,
 "alfa_cobertura": 0.549,
-"alfa_parcial": 0.034,
+"alfa_parcial": 0.03,
 "color_medio": "#dcdcdc",
-"luminancia": 0.864,
+"luminancia": 0.865,
 "contraste": 0.038,
 "saturacion": 0.004,
 "phash": "c94d36b8c94736b8"
@@ -312,7 +312,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-04.jpg"
+"hoja": "revision/hojas/tx_bordes-04.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/blanco/borde_gris_claro_0556": {
 "que_es": "papel gris translúcido (sobre negro) con doble capa y línea blanca ondulada",

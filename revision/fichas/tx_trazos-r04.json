@@ -19,20 +19,21 @@
 "medidas": {
 "w": 1364,
 "h": 64,
-"alfa_cobertura": 0.102,
-"alfa_parcial": 0.689,
-"color_medio": "#e80a23",
-"luminancia": 0.363,
-"contraste": 0.039,
-"saturacion": 0.962,
-"phash": "c4a73f58cba73448"
+"alfa_cobertura": 0.101,
+"alfa_parcial": 0.708,
+"color_medio": "#e70516",
+"luminancia": 0.339,
+"contraste": 0.028,
+"saturacion": 0.978,
+"phash": "85a73f58c3b73448"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r04.jpg"
+"hoja": "revision/hojas/tx_trazos-r04.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/brocha/pincelada_gris_0062": {
 "que_es": "pincelada vertical gris de gouache con borde seco",

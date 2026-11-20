@@ -195,19 +195,20 @@
 "w": 2528,
 "h": 1696,
 "alfa_cobertura": 0.611,
-"alfa_parcial": 0.023,
-"color_medio": "#e2e3e2",
+"alfa_parcial": 0.022,
+"color_medio": "#e2e3e3",
 "luminancia": 0.89,
 "contraste": 0.028,
 "saturacion": 0.003,
-"phash": "e62619dbe7a62419"
+"phash": "c62619dbd7a62439"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/blanco/borde_blanco_0533": {
 "que_es": "hoja blanca arrancada con dientes muy rotos y jirones",
@@ -265,19 +266,20 @@
 "w": 2528,
 "h": 1696,
 "alfa_cobertura": 0.528,
-"alfa_parcial": 0.015,
-"color_medio": "#dfd6c8",
-"luminancia": 0.834,
+"alfa_parcial": 0.014,
+"color_medio": "#dfd6c9",
+"luminancia": 0.836,
 "contraste": 0.065,
-"saturacion": 0.103,
-"phash": "d52a2aeed5122ae9"
+"saturacion": 0.104,
+"phash": "d52a2ad5d5122aed"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/blanco/borde_gris_claro_0513": {
 "que_es": "papel blanco/gris claro con mechones de fibra muy largos y curvos tipo pelo",
@@ -404,20 +406,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.487,
-"alfa_parcial": 0.014,
-"color_medio": "#dbd8d1",
-"luminancia": 0.843,
-"contraste": 0.062,
+"alfa_cobertura": 0.486,
+"alfa_parcial": 0.013,
+"color_medio": "#dcd8d1",
+"luminancia": 0.844,
+"contraste": 0.061,
 "saturacion": 0.051,
-"phash": "d52a2ad5d52a2ad5"
+"phash": "d52a09d5f62a2ad5"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/blanco/borde_gris_claro_0518": {
 "que_es": "papel blanco rasgado con dos trozos levantados/doblados en el canto",

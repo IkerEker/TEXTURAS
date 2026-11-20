@@ -476,18 +476,19 @@
 "h": 277,
 "alfa_cobertura": 0.024,
 "alfa_parcial": 0.541,
-"color_medio": "#38343d",
-"luminancia": 0.222,
-"contraste": 0.126,
-"saturacion": 0.231,
-"phash": "81bc4e119efa7949"
+"color_medio": "#26222b",
+"luminancia": 0.153,
+"contraste": 0.115,
+"saturacion": 0.28,
+"phash": "81be4c119efa7989"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r16.jpg"
+"hoja": "revision/hojas/tx_trazos-r16.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_02": {
 "que_es": "zigzag de tinta fina",
@@ -511,17 +512,18 @@
 "h": 202,
 "alfa_cobertura": 0.019,
 "alfa_parcial": 0.555,
-"color_medio": "#3a363f",
-"luminancia": 0.231,
-"contraste": 0.124,
-"saturacion": 0.2,
-"phash": "85402feb72bd4a39"
+"color_medio": "#28242c",
+"luminancia": 0.16,
+"contraste": 0.117,
+"saturacion": 0.247,
+"phash": "85446feb78bd1838"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r16.jpg"
+"hoja": "revision/hojas/tx_trazos-r16.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 }

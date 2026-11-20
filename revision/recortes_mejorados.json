@@ -6120,6 +6120,454 @@
 "arreglo": "color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
 "halo_antes": 73.2,
 "halo_despues": 14.2
+},
+"tx:trazos/boligrafo/cinco_lineas_azules_0011_01": {
+"fecha": "2026-11-20",
+"archivo": "trazos/boligrafo/cinco_lineas_azules_0011_01.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 21.1,
+"halo_despues": 28.8
+},
+"tx:trazos/boligrafo/cinco_lineas_azules_0011_02": {
+"fecha": "2026-11-20",
+"archivo": "trazos/boligrafo/cinco_lineas_azules_0011_02.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 22.3,
+"halo_despues": 27.2
+},
+"tx:trazos/boligrafo/cinco_lineas_azules_0011_03": {
+"fecha": "2026-11-20",
+"archivo": "trazos/boligrafo/cinco_lineas_azules_0011_03.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 22.9,
+"halo_despues": 26.9
+},
+"tx:trazos/boligrafo/cinco_lineas_azules_0011_04": {
+"fecha": "2026-11-20",
+"archivo": "trazos/boligrafo/cinco_lineas_azules_0011_04.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 19.8,
+"halo_despues": 28.3
+},
+"tx:trazos/boligrafo/cinco_lineas_azules_0011_05": {
+"fecha": "2026-11-20",
+"archivo": "trazos/boligrafo/cinco_lineas_azules_0011_05.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 24.1,
+"halo_despues": 30.6
+},
+"tx:trazos/boligrafo/lineas_rojas_0055_06": {
+"fecha": "2026-11-20",
+"archivo": "trazos/boligrafo/lineas_rojas_0055_06.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 18.0,
+"halo_despues": 10.1
+},
+"tx:trazos/lapiz/doodles_grafito_0019_05": {
+"fecha": "2026-11-20",
+"archivo": "trazos/lapiz/doodles_grafito_0019_05.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 26.8,
+"halo_despues": 59.1
+},
+"tx:trazos/lapiz/trazo_grafito_gris_0032_03": {
+"fecha": "2026-11-20",
+"archivo": "trazos/lapiz/trazo_grafito_gris_0032_03.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 29.6,
+"halo_despues": 51.8
+},
+"tx:trazos/lapiz/trazo_grafito_gris_0032_05": {
+"fecha": "2026-11-20",
+"archivo": "trazos/lapiz/trazo_grafito_gris_0032_05.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 34.4,
+"halo_despues": 49.5
+},
+"tx:trazos/lapiz/trazo_grafito_gris_0032_08": {
+"fecha": "2026-11-20",
+"archivo": "trazos/lapiz/trazo_grafito_gris_0032_08.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 34.5,
+"halo_despues": 46.9
+},
+"tx:trazos/lapiz/trazo_grafito_gris_0032_11": {
+"fecha": "2026-11-20",
+"archivo": "trazos/lapiz/trazo_grafito_gris_0032_11.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 33.7,
+"halo_despues": 48.6
+},
+"tx:trazos/lapiz/trazo_grafito_gris_oscuro_0032_02": {
+"fecha": "2026-11-20",
+"archivo": "trazos/lapiz/trazo_grafito_gris_oscuro_0032_02.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 31.5,
+"halo_despues": 50.5
+},
+"tx:trazos/lapiz/trazo_grafito_gris_oscuro_0032_04": {
+"fecha": "2026-11-20",
+"archivo": "trazos/lapiz/trazo_grafito_gris_oscuro_0032_04.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 41.2,
+"halo_despues": 36.6
+},
+"tx:trazos/lapiz/trazo_grafito_gris_oscuro_0032_06": {
+"fecha": "2026-11-20",
+"archivo": "trazos/lapiz/trazo_grafito_gris_oscuro_0032_06.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 36.1,
+"halo_despues": 45.3
+},
+"tx:trazos/lapiz/trazo_grafito_gris_oscuro_0032_07": {
+"fecha": "2026-11-20",
+"archivo": "trazos/lapiz/trazo_grafito_gris_oscuro_0032_07.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 39.0,
+"halo_despues": 45.9
+},
+"tx:trazos/lapiz/trazo_grafito_gris_oscuro_0032_09": {
+"fecha": "2026-11-20",
+"archivo": "trazos/lapiz/trazo_grafito_gris_oscuro_0032_09.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 37.2,
+"halo_despues": 34.5
+},
+"tx:trazos/lapiz/trazo_grafito_gris_oscuro_0032_10": {
+"fecha": "2026-11-20",
+"archivo": "trazos/lapiz/trazo_grafito_gris_oscuro_0032_10.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 36.7,
+"halo_despues": 44.6
+},
+"tx:trazos/lapiz/trazo_grafito_gris_oscuro_0032_12": {
+"fecha": "2026-11-20",
+"archivo": "trazos/lapiz/trazo_grafito_gris_oscuro_0032_12.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 37.9,
+"halo_despues": 43.7
+},
+"tx:trazos/lapiz/trazo_grafito_gris_oscuro_0039_04": {
+"fecha": "2026-11-20",
+"archivo": "trazos/lapiz/trazo_grafito_gris_oscuro_0039_04.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 24.9,
+"halo_despues": 39.8
+},
+"tx:trazos/lapiz/trazo_grafito_gris_oscuro_0039_06": {
+"fecha": "2026-11-20",
+"archivo": "trazos/lapiz/trazo_grafito_gris_oscuro_0039_06.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 27.9,
+"halo_despues": 38.6
+},
+"tx:trazos/lapiz/trazo_grafito_gris_oscuro_0039_09": {
+"fecha": "2026-11-20",
+"archivo": "trazos/lapiz/trazo_grafito_gris_oscuro_0039_09.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 28.0,
+"halo_despues": 41.6
+},
+"tx:trazos/pincel/franjas_pintura_roja_0021_01": {
+"fecha": "2026-11-20",
+"archivo": "trazos/pincel/franjas_pintura_roja_0021_01.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 11.2,
+"halo_despues": 8.3
+},
+"tx:trazos/pincel/pinceladas_azules_0064_01": {
+"fecha": "2026-11-20",
+"archivo": "trazos/pincel/pinceladas_azules_0064_01.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 18.0,
+"halo_despues": 10.9
+},
+"tx:trazos/pincel/pinceladas_azules_0064_02": {
+"fecha": "2026-11-20",
+"archivo": "trazos/pincel/pinceladas_azules_0064_02.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 20.1,
+"halo_despues": 9.2
+},
+"tx:trazos/pincel/pinceladas_azules_0064_03": {
+"fecha": "2026-11-20",
+"archivo": "trazos/pincel/pinceladas_azules_0064_03.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 16.5,
+"halo_despues": 16.3
+},
+"tx:trazos/pincel/pinceladas_azules_0064_04": {
+"fecha": "2026-11-20",
+"archivo": "trazos/pincel/pinceladas_azules_0064_04.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 19.4,
+"halo_despues": 12.0
+},
+"tx:trazos/pincel/pinceladas_azules_0064_05": {
+"fecha": "2026-11-20",
+"archivo": "trazos/pincel/pinceladas_azules_0064_05.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 19.0,
+"halo_despues": 13.9
+},
+"tx:trazos/pincel/pinceladas_azules_0064_06": {
+"fecha": "2026-11-20",
+"archivo": "trazos/pincel/pinceladas_azules_0064_06.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 18.0,
+"halo_despues": 12.9
+},
+"tx:trazos/pincel/pinceladas_rojas_0065_02": {
+"fecha": "2026-11-20",
+"archivo": "trazos/pincel/pinceladas_rojas_0065_02.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 10.2,
+"halo_despues": 6.9
+},
+"tx:trazos/pincel/pinceladas_rojas_0065_03": {
+"fecha": "2026-11-20",
+"archivo": "trazos/pincel/pinceladas_rojas_0065_03.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 10.7,
+"halo_despues": 6.3
+},
+"tx:trazos/pincel/pinceladas_rojas_0065_04": {
+"fecha": "2026-11-20",
+"archivo": "trazos/pincel/pinceladas_rojas_0065_04.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 11.0,
+"halo_despues": 6.5
+},
+"tx:trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_01": {
+"fecha": "2026-11-20",
+"archivo": "trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_01.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 44.3,
+"halo_despues": 25.1
+},
+"tx:trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_02": {
+"fecha": "2026-11-20",
+"archivo": "trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_02.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 45.8,
+"halo_despues": 23.8
+},
+"tx:trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_03": {
+"fecha": "2026-11-20",
+"archivo": "trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_03.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 42.3,
+"halo_despues": 29.0
+},
+"tx:trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_04": {
+"fecha": "2026-11-20",
+"archivo": "trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_04.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 35.9,
+"halo_despues": 35.0
+},
+"tx:trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_05": {
+"fecha": "2026-11-20",
+"archivo": "trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_05.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 45.1,
+"halo_despues": 24.1
+},
+"tx:trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_06": {
+"fecha": "2026-11-20",
+"archivo": "trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_06.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 45.3,
+"halo_despues": 25.6
+},
+"tx:trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_07": {
+"fecha": "2026-11-20",
+"archivo": "trazos/rotulador/hoja_minimalista_garabatos_tinta_0044_07.png",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)",
+"halo_antes": 43.5,
+"halo_despues": 30.4
+},
+"tx:bordes/C_vieja/borde_naranja_0519": {
+"fecha": "2026-11-20",
+"archivo": "bordes/C_vieja/borde_naranja_0519.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 4.41,
+"halo_despues": 0.81
+},
+"tx:bordes/C_vieja/borde_naranja_0531": {
+"fecha": "2026-11-20",
+"archivo": "bordes/C_vieja/borde_naranja_0531.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 4.18,
+"halo_despues": 1.18
+},
+"tx:bordes/C_vieja/borde_naranja_0539": {
+"fecha": "2026-11-20",
+"archivo": "bordes/C_vieja/borde_naranja_0539.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 7.91,
+"halo_despues": 2.36
+},
+"tx:bordes/C_vieja/borde_naranja_0561": {
+"fecha": "2026-11-20",
+"archivo": "bordes/C_vieja/borde_naranja_0561.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 2.61,
+"halo_despues": 1.42
+},
+"tx:bordes/bisel/borde_azul_0506": {
+"fecha": "2026-11-20",
+"archivo": "bordes/bisel/borde_azul_0506.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 1.47,
+"halo_despues": 0.27
+},
+"tx:bordes/blanco/borde_gris_claro_0512": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0512.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 0.96,
+"halo_despues": 0.0
+},
+"tx:bordes/blanco/borde_gris_claro_0517": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0517.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 1.17,
+"halo_despues": 0.0
+},
+"tx:bordes/blanco/borde_gris_claro_0555": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0555.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 0.54,
+"halo_despues": 0.26
+},
+"tx:bordes/carton/borde_naranja_0504": {
+"fecha": "2026-11-20",
+"archivo": "bordes/carton/borde_naranja_0504.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 1.45,
+"halo_despues": 0.54
+},
+"tx:bordes/carton/borde_naranja_0537": {
+"fecha": "2026-11-20",
+"archivo": "bordes/carton/borde_naranja_0537.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 3.73,
+"halo_despues": 2.2
+},
+"tx:bordes/carton/borde_naranja_0540": {
+"fecha": "2026-11-20",
+"archivo": "bordes/carton/borde_naranja_0540.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 1.34,
+"halo_despues": 0.0
+},
+"tx:bordes/carton/borde_naranja_0550": {
+"fecha": "2026-11-20",
+"archivo": "bordes/carton/borde_naranja_0550.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 1.0,
+"halo_despues": 0.0
+},
+"tx:bordes/carton/borde_naranja_0559": {
+"fecha": "2026-11-20",
+"archivo": "bordes/carton/borde_naranja_0559.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 0.79,
+"halo_despues": 0.0
+},
+"tx:bordes/espiral/borde_gris_claro_0549": {
+"fecha": "2026-11-20",
+"archivo": "bordes/espiral/borde_gris_claro_0549.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 0.58,
+"halo_despues": 0.07
+},
+"tx:bordes/viejo/borde_amarillo_claro_0565": {
+"fecha": "2026-11-20",
+"archivo": "bordes/viejo/borde_amarillo_claro_0565.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 2.15,
+"halo_despues": 0.01
+},
+"tx:bordes/viejo/borde_amarillo_claro_0568": {
+"fecha": "2026-11-20",
+"archivo": "bordes/viejo/borde_amarillo_claro_0568.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 2.27,
+"halo_despues": 0.09
+},
+"tx:bordes/washi/borde_papel_fibroso_0463": {
+"fecha": "2026-11-20",
+"archivo": "bordes/washi/borde_papel_fibroso_0463.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 2.41,
+"halo_despues": 1.32
+},
+"tx:bordes/blanco/borde_blanco_0516": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_blanco_0516.png",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"halo_antes": 0.01,
+"halo_despues": 0.01
 }
 }
 }

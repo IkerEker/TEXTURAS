@@ -264,20 +264,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.484,
-"alfa_parcial": 0.073,
+"alfa_cobertura": 0.483,
+"alfa_parcial": 0.042,
 "color_medio": "#e2e2e2",
 "luminancia": 0.889,
-"contraste": 0.021,
+"contraste": 0.02,
 "saturacion": 0.003,
-"phash": "c46c1b9be4441bbb"
+"phash": "c46c1b9be4641b9b"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-08.jpg"
+"hoja": "revision/hojas/tx_bordes-08.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/espiral/borde_perforado_rasgado_0475": {
 "que_es": "hoja de cuaderno con perforación regular",

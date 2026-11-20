@@ -441,13 +441,13 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.549,
+"alfa_cobertura": 0.548,
 "alfa_parcial": 0.039,
 "color_medio": "#2134c3",
-"luminancia": 0.367,
-"contraste": 0.175,
-"saturacion": 0.835,
-"phash": "c295386a873579ea"
+"luminancia": 0.368,
+"contraste": 0.178,
+"saturacion": 0.837,
+"phash": "c3b43c6a871578ea"
 },
 "rehacer": false,
 "dudoso": false,
@@ -456,7 +456,8 @@
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/tx_bordes-02.jpg",
 "corregido": true,
-"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 },
 "tx:bordes/bisel/borde_azul_0538": {
 "que_es": "cartulina azul marino con rasgado blanco ancho y fibras largas",

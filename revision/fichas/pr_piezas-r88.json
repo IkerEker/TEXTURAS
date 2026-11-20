@@ -2,7 +2,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_082": {
 "que_es": "salpicadura direccional con chorros a la derecha",
 "calidad": 5,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
 "familia": "salpicadura_tinta",
 "variante": 88,
 "diferencia": "-",
@@ -74,7 +74,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_084": {
 "que_es": "mancha estrellada con gotas",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 90,
 "diferencia": "-",
@@ -110,7 +110,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/tinta/salpicaduras_085": {
 "que_es": "mancha con chorro largo a la izquierda",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 91,
 "diferencia": "-",

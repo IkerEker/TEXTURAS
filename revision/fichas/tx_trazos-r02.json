@@ -196,18 +196,19 @@
 "h": 61,
 "alfa_cobertura": 0.063,
 "alfa_parcial": 0.87,
-"color_medio": "#2431b4",
-"luminancia": 0.349,
-"contraste": 0.047,
-"saturacion": 0.797,
-"phash": "81d37a2c95d36a2d"
+"color_medio": "#1a24ad",
+"luminancia": 0.31,
+"contraste": 0.046,
+"saturacion": 0.85,
+"phash": "c3d27c2d95d24a2d"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r02.jpg"
+"hoja": "revision/hojas/tx_trazos-r02.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/boligrafo/cinco_lineas_azules_0011_02": {
 "que_es": "línea azul de boli fina (2 de 5)",
@@ -231,18 +232,19 @@
 "h": 53,
 "alfa_cobertura": 0.104,
 "alfa_parcial": 0.895,
-"color_medio": "#2227a7",
-"luminancia": 0.315,
-"contraste": 0.046,
-"saturacion": 0.802,
-"phash": "c4893b76c4893e76"
+"color_medio": "#1c1fa0",
+"luminancia": 0.287,
+"contraste": 0.045,
+"saturacion": 0.833,
+"phash": "c48b3b74c58b3a74"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r02.jpg"
+"hoja": "revision/hojas/tx_trazos-r02.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/boligrafo/cinco_lineas_azules_0011_03": {
 "que_es": "línea azul de boli (3 de 5)",
@@ -266,18 +268,19 @@
 "h": 53,
 "alfa_cobertura": 0.093,
 "alfa_parcial": 0.936,
-"color_medio": "#2532af",
-"luminancia": 0.343,
-"contraste": 0.054,
-"saturacion": 0.791,
-"phash": "b00b4ff4a00b3ff4"
+"color_medio": "#1924a7",
+"luminancia": 0.3,
+"contraste": 0.046,
+"saturacion": 0.848,
+"phash": "95836a7cd0832f7c"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r02.jpg"
+"hoja": "revision/hojas/tx_trazos-r02.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/boligrafo/cinco_lineas_azules_0011_04": {
 "que_es": "línea azul de boli (4 de 5)",
@@ -300,19 +303,20 @@
 "w": 1536,
 "h": 54,
 "alfa_cobertura": 0.085,
-"alfa_parcial": 0.818,
-"color_medio": "#2433b5",
-"luminancia": 0.352,
-"contraste": 0.04,
-"saturacion": 0.8,
-"phash": "c49e3be1c51e32e1"
+"alfa_parcial": 0.832,
+"color_medio": "#1926af",
+"luminancia": 0.313,
+"contraste": 0.038,
+"saturacion": 0.853,
+"phash": "bdbb42449dbf2640"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r02.jpg"
+"hoja": "revision/hojas/tx_trazos-r02.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/boligrafo/cinco_lineas_azules_0011_05": {
 "que_es": "línea azul de boli (5 de 5)",
@@ -336,18 +340,19 @@
 "h": 54,
 "alfa_cobertura": 0.079,
 "alfa_parcial": 0.927,
-"color_medio": "#2535b5",
-"luminancia": 0.356,
-"contraste": 0.044,
-"saturacion": 0.796,
-"phash": "c0297fd681297ad6"
+"color_medio": "#1624ad",
+"luminancia": 0.304,
+"contraste": 0.048,
+"saturacion": 0.87,
+"phash": "95296ad6d5292ad6"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r02.jpg"
+"hoja": "revision/hojas/tx_trazos-r02.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/boligrafo/cuatro_lineas_rojas_dibujadas_a_mano_0015_01": {
 "que_es": "línea roja de lápiz/rotulador a mano con textura (1 de 4)",

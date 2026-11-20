@@ -55,19 +55,20 @@
 "w": 1276,
 "h": 127,
 "alfa_cobertura": 0.536,
-"alfa_parcial": 0.276,
-"color_medio": "#dd0209",
-"luminancia": 0.305,
-"contraste": 0.02,
-"saturacion": 0.988,
-"phash": "d5502aab2a2ff417"
+"alfa_parcial": 0.28,
+"color_medio": "#db0107",
+"luminancia": 0.299,
+"contraste": 0.018,
+"saturacion": 0.992,
+"phash": "d5502aaf2a2ff415"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r13.jpg"
+"hoja": "revision/hojas/tx_trazos-r13.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/pincel/pinceladas_rojas_0065_03": {
 "que_es": "pincelada roja con salida abierta",
@@ -90,19 +91,20 @@
 "w": 1320,
 "h": 145,
 "alfa_cobertura": 0.502,
-"alfa_parcial": 0.344,
-"color_medio": "#d70208",
-"luminancia": 0.297,
-"contraste": 0.026,
-"saturacion": 0.988,
-"phash": "d54a2ab12f35d81e"
+"alfa_parcial": 0.35,
+"color_medio": "#d50105",
+"luminancia": 0.289,
+"contraste": 0.021,
+"saturacion": 0.992,
+"phash": "d54a2ab02f35d85e"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r13.jpg"
+"hoja": "revision/hojas/tx_trazos-r13.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/pincel/pinceladas_rojas_0065_04": {
 "que_es": "pincelada roja oscura estriada",
@@ -125,19 +127,20 @@
 "w": 1327,
 "h": 157,
 "alfa_cobertura": 0.498,
-"alfa_parcial": 0.195,
-"color_medio": "#c50204",
-"luminancia": 0.266,
-"contraste": 0.026,
-"saturacion": 0.991,
-"phash": "d5da2b216e25d0b5"
+"alfa_parcial": 0.202,
+"color_medio": "#c30103",
+"luminancia": 0.262,
+"contraste": 0.022,
+"saturacion": 0.993,
+"phash": "d5da2a216e25d0f5"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r13.jpg"
+"hoja": "revision/hojas/tx_trazos-r13.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/pincel/trazo_pincel_gris_0034": {
 "que_es": "pincelada vertical gris opaca uniforme",

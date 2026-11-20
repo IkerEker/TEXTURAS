@@ -509,19 +509,20 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.588,
-"alfa_parcial": 0.029,
+"alfa_cobertura": 0.587,
+"alfa_parcial": 0.021,
 "color_medio": "#b38965",
 "luminancia": 0.547,
 "contraste": 0.108,
-"saturacion": 0.443,
-"phash": "b34209bdeed3322c"
+"saturacion": 0.444,
+"phash": "f2460badecd2322d"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-05.jpg"
+"hoja": "revision/hojas/tx_bordes-05.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 }

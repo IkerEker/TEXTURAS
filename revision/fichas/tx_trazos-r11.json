@@ -335,11 +335,11 @@
 "w": 1408,
 "h": 241,
 "alfa_cobertura": 0.574,
-"alfa_parcial": 0.344,
-"color_medio": "#dc0309",
-"luminancia": 0.305,
-"contraste": 0.027,
-"saturacion": 0.985,
+"alfa_parcial": 0.352,
+"color_medio": "#da0206",
+"luminancia": 0.297,
+"contraste": 0.024,
+"saturacion": 0.99,
 "phash": "d5312aff2ec81ac8"
 },
 "rehacer": false,
@@ -347,7 +347,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r11.jpg"
+"hoja": "revision/hojas/tx_trazos-r11.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 },
 "tx:trazos/pincel/franjas_pintura_roja_0021_02": {
 "que_es": "franja de pintura roja estriada",

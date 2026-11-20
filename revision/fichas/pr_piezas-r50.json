@@ -110,7 +110,7 @@
 "tx:productos/piezas_neonizador/goteos/gruesa/goteo_gruesa_040": {
 "que_es": "goteo con raíz oscura sucia arriba",
 "calidad": 3,
-"defectos": "raíz con restos oscuros (posible resto de fondo)",
+"defectos": "(corregido 20-11-2026: color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)) antes: raíz con restos oscuros (posible resto de fondo)",
 "familia": "pieza_goteo_grueso",
 "variante": 40,
 "diferencia": "raíz sucia",

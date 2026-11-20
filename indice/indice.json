@@ -677,7 +677,7 @@
 "clase": "bordes",
 "sub": "C_vieja",
 "desc": "Borde de papel naranja",
-"md5": "39fae6ef86cb02e3a83822e6f6107992",
+"md5": "4e2e4199c73f25cf41470cfffc687957",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -704,10 +704,15 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__C_vieja.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "lámina con 4 esquinas/bordes de papel viejo amarillento redondeados, muy arrugados y con fibras",
 "calidad": 3,
-"defectos": "sombra semitransparente rosada pegada bajo el borde inferior de cada pieza (velo de 30–40 px)",
+"defectos": "(corregido 20-11-2026: recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)) antes: sombra semitransparente rosada pegada bajo el borde inferior de cada pieza (velo de 30–40 px)",
 "familia": "borde_naranja_viejo",
 "variante": 1,
 "diferencia": "la más arrugada",
@@ -724,20 +729,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.696,
-"alfa_parcial": 0.046,
-"color_medio": "#dfd1b7",
-"luminancia": 0.806,
+"alfa_cobertura": 0.695,
+"alfa_parcial": 0.03,
+"color_medio": "#e0d1b8",
+"luminancia": 0.808,
 "contraste": 0.078,
-"saturacion": 0.18,
-"phash": "a3cce33208a3f75c"
+"saturacion": 0.181,
+"phash": "a3c6e3381d83a35e"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-01.jpg"
+"hoja": "revision/hojas/tx_bordes-01.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -748,7 +754,7 @@
 "clase": "bordes",
 "sub": "C_vieja",
 "desc": "Borde de papel naranja",
-"md5": "b21a89abddbef6878969a62e6d6ebac8",
+"md5": "78834063fef2abd502d94bee2976d385",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -775,10 +781,15 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__C_vieja.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "4 bordes de papel amarillento, uno con muesca rota (se ve el fondo)",
 "calidad": 3,
-"defectos": "velo de sombra bajo el borde",
+"defectos": "(corregido 20-11-2026: recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)) antes: velo de sombra bajo el borde",
 "familia": "borde_naranja_viejo",
 "variante": 2,
 "diferencia": "muesca en una pieza",
@@ -795,20 +806,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.657,
-"alfa_parcial": 0.047,
-"color_medio": "#decdae",
-"luminancia": 0.788,
-"contraste": 0.091,
+"alfa_cobertura": 0.653,
+"alfa_parcial": 0.038,
+"color_medio": "#dfceaf",
+"luminancia": 0.791,
+"contraste": 0.086,
 "saturacion": 0.218,
-"phash": "b2cfe7894819b329"
+"phash": "b2c7e7a84815b3a9"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-01.jpg"
+"hoja": "revision/hojas/tx_bordes-01.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -819,7 +831,7 @@
 "clase": "bordes",
 "sub": "C_vieja",
 "desc": "Borde de papel naranja",
-"md5": "f6a1979bf30ecf33142782cdac741365",
+"md5": "abe2f1970b73c405bfa2a86ac35edf71",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -846,10 +858,15 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__C_vieja.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "4 bordes de papel viejo, uno con pliegue diagonal marcado",
 "calidad": 3,
-"defectos": "velo de sombra bajo el borde",
+"defectos": "(corregido 20-11-2026: recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)) antes: velo de sombra bajo el borde",
 "familia": "borde_naranja_viejo",
 "variante": 3,
 "diferencia": "pliegue en diagonal",
@@ -866,20 +883,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.631,
-"alfa_parcial": 0.063,
-"color_medio": "#decdb0",
-"luminancia": 0.791,
-"contraste": 0.089,
-"saturacion": 0.21,
-"phash": "e273e766081ab6c5"
+"alfa_cobertura": 0.627,
+"alfa_parcial": 0.044,
+"color_medio": "#dfceb1",
+"luminancia": 0.795,
+"contraste": 0.085,
+"saturacion": 0.211,
+"phash": "e2eae3e4183ab645"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-01.jpg"
+"hoja": "revision/hojas/tx_bordes-01.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -890,7 +908,7 @@
 "clase": "bordes",
 "sub": "C_vieja",
 "desc": "Borde de papel naranja",
-"md5": "64c7e4ee1fc66183ea686df18fe21723",
+"md5": "d0b1aa5ae565065e60c4b2766c2d676f",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -917,10 +935,15 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__C_vieja.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "4 bordes de papel viejo, uno con fibras largas en el canto",
 "calidad": 3,
-"defectos": "velo semitransparente en el canto con las fibras",
+"defectos": "(corregido 20-11-2026: recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)) antes: velo semitransparente en el canto con las fibras",
 "familia": "borde_naranja_viejo",
 "variante": 4,
 "diferencia": "fibras largas",
@@ -937,20 +960,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.613,
-"alfa_parcial": 0.052,
-"color_medio": "#d8c6a6",
-"luminancia": 0.76,
-"contraste": 0.089,
+"alfa_cobertura": 0.606,
+"alfa_parcial": 0.047,
+"color_medio": "#dac7a8",
+"luminancia": 0.766,
+"contraste": 0.076,
 "saturacion": 0.233,
-"phash": "a37e83015c5da74d"
+"phash": "a37c83095d5ca74d"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-01.jpg"
+"hoja": "revision/hojas/tx_bordes-01.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -1959,7 +1983,7 @@
 "clase": "bordes",
 "sub": "bisel",
 "desc": "borde de papel azul con el rasgado ABAJO (al revés que el resto: girar 180°)",
-"md5": "b00f5bf97cef0cd35622fe1567464db3",
+"md5": "2e01e8f13b069dec4038675f946983b1",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -1985,6 +2009,11 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__bisel.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "nota_correccion": "CORRECCIÓN: el rasgado está en el borde inferior, no arriba como el resto",
 "antes_de_corregir": {
 "desc": "Borde de papel azul"
@@ -2009,13 +2038,13 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.549,
+"alfa_cobertura": 0.548,
 "alfa_parcial": 0.039,
 "color_medio": "#2134c3",
-"luminancia": 0.367,
-"contraste": 0.175,
-"saturacion": 0.835,
-"phash": "c295386a873579ea"
+"luminancia": 0.368,
+"contraste": 0.178,
+"saturacion": 0.837,
+"phash": "c3b43c6a871578ea"
 },
 "rehacer": false,
 "dudoso": false,
@@ -2024,7 +2053,8 @@
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/tx_bordes-02.jpg",
 "corregido": true,
-"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -2529,7 +2559,7 @@
 "clase": "bordes",
 "sub": "blanco",
 "desc": "Borde de papel blanco",
-"md5": "bf34e6a2305abac255bcc76e976c44e8",
+"md5": "f49affae090b694c7be77e3a47484405",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -2555,6 +2585,11 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__blanco.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "hoja blanca arrancada por la perforación rectangular (dientes cuadrados rotos)",
 "calidad": 4,
@@ -2576,19 +2611,20 @@
 "w": 2528,
 "h": 1696,
 "alfa_cobertura": 0.611,
-"alfa_parcial": 0.023,
-"color_medio": "#e2e3e2",
+"alfa_parcial": 0.022,
+"color_medio": "#e2e3e3",
 "luminancia": 0.89,
 "contraste": 0.028,
 "saturacion": 0.003,
-"phash": "e62619dbe7a62419"
+"phash": "c62619dbd7a62439"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -2669,7 +2705,7 @@
 "clase": "bordes",
 "sub": "blanco",
 "desc": "Borde de papel gris claro",
-"md5": "e5b2d7282e9bb7c2d94aaca5c28edb62",
+"md5": "baaf4b2239939ae3e39c640634e991ac",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -2695,6 +2731,11 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__blanco.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "cartón/papel crema grueso con canto superior roto y trozos levantados, fibras y manchas",
 "calidad": 4,
@@ -2716,19 +2757,20 @@
 "w": 2528,
 "h": 1696,
 "alfa_cobertura": 0.528,
-"alfa_parcial": 0.015,
-"color_medio": "#dfd6c8",
-"luminancia": 0.834,
+"alfa_parcial": 0.014,
+"color_medio": "#dfd6c9",
+"luminancia": 0.836,
 "contraste": 0.065,
-"saturacion": 0.103,
-"phash": "d52a2aeed5122ae9"
+"saturacion": 0.104,
+"phash": "d52a2ad5d5122aed"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -2949,7 +2991,7 @@
 "clase": "bordes",
 "sub": "blanco",
 "desc": "Borde de papel gris claro",
-"md5": "54fb367c9856eee6e2e807dbaddd0a92",
+"md5": "0a7eced43aa5f8eebefd2b7ca6587203",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -2975,6 +3017,11 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__blanco.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "papel blanco con canto superior roto, amarillento y con manchas y fibras",
 "calidad": 4,
@@ -2995,20 +3042,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.487,
-"alfa_parcial": 0.014,
-"color_medio": "#dbd8d1",
-"luminancia": 0.843,
-"contraste": 0.062,
+"alfa_cobertura": 0.486,
+"alfa_parcial": 0.013,
+"color_medio": "#dcd8d1",
+"luminancia": 0.844,
+"contraste": 0.061,
 "saturacion": 0.051,
-"phash": "d52a2ad5d52a2ad5"
+"phash": "d52a09d5f62a2ad5"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -3789,7 +3837,7 @@
 "clase": "bordes",
 "sub": "blanco",
 "desc": "Borde de papel gris claro",
-"md5": "4d9addccc634f1dc13f121b7f10bc6bf",
+"md5": "b277d1328a8d8543c0b5cb824dd15be1",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -3815,6 +3863,11 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__blanco.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "papel gris claro con dos lengüetas levantadas y un mechón",
 "calidad": 4,
@@ -3836,9 +3889,9 @@
 "w": 2528,
 "h": 1696,
 "alfa_cobertura": 0.549,
-"alfa_parcial": 0.034,
+"alfa_parcial": 0.03,
 "color_medio": "#dcdcdc",
-"luminancia": 0.864,
+"luminancia": 0.865,
 "contraste": 0.038,
 "saturacion": 0.004,
 "phash": "c94d36b8c94736b8"
@@ -3848,7 +3901,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-04.jpg"
+"hoja": "revision/hojas/tx_bordes-04.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -5265,7 +5319,7 @@
 "clase": "bordes",
 "sub": "carton",
 "desc": "Borde de papel naranja",
-"md5": "2445950f5957fe052f0b782dcabb90c2",
+"md5": "616d4c84713f1c2a892f7568116e61ac",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -5291,6 +5345,11 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__carton.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "cartón kraft con canto arrugado y una fibra larga suelta",
 "calidad": 4,
@@ -5311,20 +5370,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.588,
-"alfa_parcial": 0.029,
+"alfa_cobertura": 0.587,
+"alfa_parcial": 0.021,
 "color_medio": "#b38965",
 "luminancia": 0.547,
 "contraste": 0.108,
-"saturacion": 0.443,
-"phash": "b34209bdeed3322c"
+"saturacion": 0.444,
+"phash": "f2460badecd2322d"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-05.jpg"
+"hoja": "revision/hojas/tx_bordes-05.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -5825,7 +5885,7 @@
 "clase": "bordes",
 "sub": "carton",
 "desc": "Borde de papel naranja",
-"md5": "77159ad0f8a68e0d9050eb8480af52fc",
+"md5": "4e9589127a0d05b6f3872f8052bbff7a",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -5851,6 +5911,11 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__carton.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "tira estrecha de cartón ondulado con la onda a la vista en el centro",
 "calidad": 3,
@@ -5871,20 +5936,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.313,
-"alfa_parcial": 0.125,
-"color_medio": "#a88262",
-"luminancia": 0.519,
-"contraste": 0.11,
-"saturacion": 0.425,
-"phash": "f3360ce5b3126c59"
+"alfa_cobertura": 0.306,
+"alfa_parcial": 0.098,
+"color_medio": "#aa8363",
+"luminancia": 0.525,
+"contraste": 0.104,
+"saturacion": 0.426,
+"phash": "f32f0ce573126c19"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-06.jpg"
+"hoja": "revision/hojas/tx_bordes-06.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -5895,7 +5961,7 @@
 "clase": "bordes",
 "sub": "carton",
 "desc": "Borde de papel naranja",
-"md5": "655e062e522ebdb29e1925d9acd73030",
+"md5": "0de2cb0eedd419ce7ff8e9068d189747",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -5921,6 +5987,11 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__carton.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "bloque de cartón con canto deshilachado (pieza suelta)",
 "calidad": 4,
@@ -5941,20 +6012,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.319,
-"alfa_parcial": 0.028,
+"alfa_cobertura": 0.318,
+"alfa_parcial": 0.031,
 "color_medio": "#ba9876",
 "luminancia": 0.599,
 "contraste": 0.126,
-"saturacion": 0.369,
-"phash": "807d3ac4911fd63b"
+"saturacion": 0.371,
+"phash": "c43b7ec4813f443b"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-06.jpg"
+"hoja": "revision/hojas/tx_bordes-06.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -6105,7 +6177,7 @@
 "clase": "bordes",
 "sub": "carton",
 "desc": "Borde de papel naranja",
-"md5": "9f9b991899cee6ddd2ccca0bb3b8ee49",
+"md5": "810f47963920b7dc329aabc9e0ff0ac5",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -6131,6 +6203,11 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__carton.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "cartón con capas quemadas y despegadas en el canto",
 "calidad": 4,
@@ -6151,20 +6228,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.517,
+"alfa_cobertura": 0.516,
 "alfa_parcial": 0.013,
 "color_medio": "#c49a6a",
 "luminancia": 0.598,
 "contraste": 0.146,
 "saturacion": 0.473,
-"phash": "d52a8af5d4620b9d"
+"phash": "d52a8ef5d4620a9d"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-06.jpg"
+"hoja": "revision/hojas/tx_bordes-06.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -6455,7 +6533,7 @@
 "clase": "bordes",
 "sub": "carton",
 "desc": "Borde de papel naranja",
-"md5": "54f73efb8bdacec54ae931dc3c1e8ae8",
+"md5": "78c9703ed95ed3d6c592f6dbefd773f9",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -6481,6 +6559,11 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__carton.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "bloque de cartón con canto aplastado, pieza que no llega al borde izquierdo",
 "calidad": 4,
@@ -6502,19 +6585,20 @@
 "w": 2528,
 "h": 1696,
 "alfa_cobertura": 0.51,
-"alfa_parcial": 0.011,
-"color_medio": "#ac8968",
-"luminancia": 0.541,
+"alfa_parcial": 0.012,
+"color_medio": "#ac8868",
+"luminancia": 0.542,
 "contraste": 0.122,
 "saturacion": 0.406,
-"phash": "807f7fb080077d78"
+"phash": "807f7da082c77978"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-07.jpg"
+"hoja": "revision/hojas/tx_bordes-07.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -7934,7 +8018,7 @@
 "clase": "bordes",
 "sub": "espiral",
 "desc": "Borde de papel gris claro",
-"md5": "38120f8a078935917bde1a2a33f3ace7",
+"md5": "40d989b3f2e0515f0e0c4493f0c9c5ec",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -7961,6 +8045,11 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__espiral.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "hoja gris claro con perforación muy desgarrada",
 "calidad": 4,
@@ -7981,20 +8070,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.484,
-"alfa_parcial": 0.073,
+"alfa_cobertura": 0.483,
+"alfa_parcial": 0.042,
 "color_medio": "#e2e2e2",
 "luminancia": 0.889,
-"contraste": 0.021,
+"contraste": 0.02,
 "saturacion": 0.003,
-"phash": "c46c1b9be4441bbb"
+"phash": "c46c1b9be4641b9b"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-08.jpg"
+"hoja": "revision/hojas/tx_bordes-08.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -9777,7 +9867,7 @@
 "clase": "bordes",
 "sub": "viejo",
 "desc": "Borde de papel amarillo claro",
-"md5": "236775df98fe5c23e1f557228e3be161",
+"md5": "bace66125e6ea4907308bf31ced0f132",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -9803,6 +9893,11 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__viejo.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "papel crema arrugado con pliegue central en V y suciedad",
 "calidad": 3,
@@ -9823,20 +9918,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.548,
-"alfa_parcial": 0.029,
-"color_medio": "#dcd3c5",
-"luminancia": 0.822,
+"alfa_cobertura": 0.547,
+"alfa_parcial": 0.015,
+"color_medio": "#ddd3c5",
+"luminancia": 0.824,
 "contraste": 0.059,
-"saturacion": 0.107,
-"phash": "d52a2a99d5572aaa"
+"saturacion": 0.108,
+"phash": "d52a2ad5d5672a8a"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-10.jpg"
+"hoja": "revision/hojas/tx_bordes-10.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -9847,7 +9943,7 @@
 "clase": "bordes",
 "sub": "viejo",
 "desc": "Borde de papel amarillo claro",
-"md5": "04f26b3a9fa0eff8caacdf7207028653",
+"md5": "51348f34df4abca435aafb7b4c0c4ecf",
 "w": 2528,
 "h": 1696,
 "alfa": true,
@@ -9873,10 +9969,15 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__viejo.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "papel crema con inclusiones y fibras verdosas en la esquina",
 "calidad": 3,
-"defectos": "fibras verdosas (croma)",
+"defectos": "(corregido 20-11-2026: recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)) antes: fibras verdosas (croma)",
 "familia": "tira_borde_artesanal",
 "variante": 8,
 "diferencia": "inclusiones",
@@ -9893,20 +9994,21 @@
 "medidas": {
 "w": 2528,
 "h": 1696,
-"alfa_cobertura": 0.545,
-"alfa_parcial": 0.037,
-"color_medio": "#e4d5bf",
-"luminancia": 0.829,
-"contraste": 0.052,
-"saturacion": 0.162,
-"phash": "d52a2ba7d5502a2f"
+"alfa_cobertura": 0.544,
+"alfa_parcial": 0.034,
+"color_medio": "#e5d6c0",
+"luminancia": 0.832,
+"contraste": 0.053,
+"saturacion": 0.163,
+"phash": "d52a2be7d5182a27"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-10.jpg"
+"hoja": "revision/hojas/tx_bordes-10.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -10836,7 +10938,7 @@
 "clase": "bordes",
 "sub": "washi",
 "desc": "Borde de papel fibroso",
-"md5": "7a502c3447396b6670c55c0792643baf",
+"md5": "1699ae7553d15dea70d77bcffb069832",
 "w": 1536,
 "h": 1024,
 "alfa": true,
@@ -10863,6 +10965,11 @@
 1536
 ],
 "hoja": "TEXTURAS/hojas/bordes__washi.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+},
 "revision": {
 "que_es": "papel japonés blanco con fibras finas",
 "calidad": 4,
@@ -10883,20 +10990,21 @@
 "medidas": {
 "w": 1536,
 "h": 1024,
-"alfa_cobertura": 0.522,
-"alfa_parcial": 0.085,
+"alfa_cobertura": 0.519,
+"alfa_parcial": 0.073,
 "color_medio": "#e3e5e3",
 "luminancia": 0.895,
 "contraste": 0.022,
-"saturacion": 0.009,
-"phash": "8a0a75f58a0a76f5"
+"saturacion": 0.01,
+"phash": "aa6a55d58a2a66d5"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-11.jpg"
+"hoja": "revision/hojas/tx_bordes-11.jpg",
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
 }
 },
 {
@@ -93798,7 +93906,7 @@
 "clase": "trazos",
 "sub": "boligrafo",
 "desc": "Trazo de bolígrafo azul (1 de 5 de «Cinco líneas azules sobre blanco»)",
-"md5": "49812250c0b289e3fcd56d68df6c5397",
+"md5": "091ec6b05a9f603606e4f21077b1a772",
 "w": 1536,
 "h": 61,
 "alfa": true,
@@ -93827,6 +93935,11 @@
 "pieza": 1,
 "piezas": 5,
 "hoja": "TEXTURAS/hojas/trazos__boligrafo.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "línea azul de boli muy fina horizontal (1 de 5)",
 "calidad": 4,
@@ -93849,18 +93962,19 @@
 "h": 61,
 "alfa_cobertura": 0.063,
 "alfa_parcial": 0.87,
-"color_medio": "#2431b4",
-"luminancia": 0.349,
-"contraste": 0.047,
-"saturacion": 0.797,
-"phash": "81d37a2c95d36a2d"
+"color_medio": "#1a24ad",
+"luminancia": 0.31,
+"contraste": 0.046,
+"saturacion": 0.85,
+"phash": "c3d27c2d95d24a2d"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r02.jpg"
+"hoja": "revision/hojas/tx_trazos-r02.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -93871,7 +93985,7 @@
 "clase": "trazos",
 "sub": "boligrafo",
 "desc": "Trazo de bolígrafo azul (2 de 5 de «Cinco líneas azules sobre blanco»)",
-"md5": "bcc17eb944b97bfa62c3d77e3cd23251",
+"md5": "8c26e5579bf3bd5629da7298f5fb5798",
 "w": 1536,
 "h": 53,
 "alfa": true,
@@ -93900,6 +94014,11 @@
 "pieza": 2,
 "piezas": 5,
 "hoja": "TEXTURAS/hojas/trazos__boligrafo.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "línea azul de boli fina (2 de 5)",
 "calidad": 4,
@@ -93922,18 +94041,19 @@
 "h": 53,
 "alfa_cobertura": 0.104,
 "alfa_parcial": 0.895,
-"color_medio": "#2227a7",
-"luminancia": 0.315,
-"contraste": 0.046,
-"saturacion": 0.802,
-"phash": "c4893b76c4893e76"
+"color_medio": "#1c1fa0",
+"luminancia": 0.287,
+"contraste": 0.045,
+"saturacion": 0.833,
+"phash": "c48b3b74c58b3a74"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r02.jpg"
+"hoja": "revision/hojas/tx_trazos-r02.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -93944,7 +94064,7 @@
 "clase": "trazos",
 "sub": "boligrafo",
 "desc": "Trazo de bolígrafo azul (3 de 5 de «Cinco líneas azules sobre blanco»)",
-"md5": "faa0991196e6e594d75586e21f55159d",
+"md5": "f4c040e8bfd1c5c58e7a94d7a0e0d4de",
 "w": 1536,
 "h": 53,
 "alfa": true,
@@ -93973,6 +94093,11 @@
 "pieza": 3,
 "piezas": 5,
 "hoja": "TEXTURAS/hojas/trazos__boligrafo.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "línea azul de boli (3 de 5)",
 "calidad": 4,
@@ -93995,18 +94120,19 @@
 "h": 53,
 "alfa_cobertura": 0.093,
 "alfa_parcial": 0.936,
-"color_medio": "#2532af",
-"luminancia": 0.343,
-"contraste": 0.054,
-"saturacion": 0.791,
-"phash": "b00b4ff4a00b3ff4"
+"color_medio": "#1924a7",
+"luminancia": 0.3,
+"contraste": 0.046,
+"saturacion": 0.848,
+"phash": "95836a7cd0832f7c"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r02.jpg"
+"hoja": "revision/hojas/tx_trazos-r02.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -94017,7 +94143,7 @@
 "clase": "trazos",
 "sub": "boligrafo",
 "desc": "Trazo de bolígrafo azul (4 de 5 de «Cinco líneas azules sobre blanco»)",
-"md5": "b0324aa117592c5e6ec614bfc31d2bce",
+"md5": "17349c8181226767bc2d9666578d3547",
 "w": 1536,
 "h": 54,
 "alfa": true,
@@ -94046,6 +94172,11 @@
 "pieza": 4,
 "piezas": 5,
 "hoja": "TEXTURAS/hojas/trazos__boligrafo.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "línea azul de boli (4 de 5)",
 "calidad": 4,
@@ -94067,19 +94198,20 @@
 "w": 1536,
 "h": 54,
 "alfa_cobertura": 0.085,
-"alfa_parcial": 0.818,
-"color_medio": "#2433b5",
-"luminancia": 0.352,
-"contraste": 0.04,
-"saturacion": 0.8,
-"phash": "c49e3be1c51e32e1"
+"alfa_parcial": 0.832,
+"color_medio": "#1926af",
+"luminancia": 0.313,
+"contraste": 0.038,
+"saturacion": 0.853,
+"phash": "bdbb42449dbf2640"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r02.jpg"
+"hoja": "revision/hojas/tx_trazos-r02.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -94090,7 +94222,7 @@
 "clase": "trazos",
 "sub": "boligrafo",
 "desc": "Trazo de bolígrafo azul (5 de 5 de «Cinco líneas azules sobre blanco»)",
-"md5": "04d58b4bb72a5d0fd10d189ac2e22140",
+"md5": "6e2993aa6a3b0f2e96530954ebcdc766",
 "w": 1536,
 "h": 54,
 "alfa": true,
@@ -94119,6 +94251,11 @@
 "pieza": 5,
 "piezas": 5,
 "hoja": "TEXTURAS/hojas/trazos__boligrafo.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "línea azul de boli (5 de 5)",
 "calidad": 4,
@@ -94141,18 +94278,19 @@
 "h": 54,
 "alfa_cobertura": 0.079,
 "alfa_parcial": 0.927,
-"color_medio": "#2535b5",
-"luminancia": 0.356,
-"contraste": 0.044,
-"saturacion": 0.796,
-"phash": "c0297fd681297ad6"
+"color_medio": "#1624ad",
+"luminancia": 0.304,
+"contraste": 0.048,
+"saturacion": 0.87,
+"phash": "95296ad6d5292ad6"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r02.jpg"
+"hoja": "revision/hojas/tx_trazos-r02.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -95623,7 +95761,7 @@
 "clase": "trazos",
 "sub": "boligrafo",
 "desc": "Trazo de bolígrafo rojo (6 de 6 de «Líneas rojas sobre papel blanco»)",
-"md5": "02459759fdcf0ec231571275a963aac9",
+"md5": "fbf2fad59feef0e72c926df3addf9a2f",
 "w": 1364,
 "h": 64,
 "alfa": true,
@@ -95652,6 +95790,11 @@
 "pieza": 6,
 "piezas": 6,
 "hoja": "TEXTURAS/hojas/trazos__boligrafo.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "línea roja de lápiz (6 de 6)",
 "calidad": 4,
@@ -95672,20 +95815,21 @@
 "medidas": {
 "w": 1364,
 "h": 64,
-"alfa_cobertura": 0.102,
-"alfa_parcial": 0.689,
-"color_medio": "#e80a23",
-"luminancia": 0.363,
-"contraste": 0.039,
-"saturacion": 0.962,
-"phash": "c4a73f58cba73448"
+"alfa_cobertura": 0.101,
+"alfa_parcial": 0.708,
+"color_medio": "#e70516",
+"luminancia": 0.339,
+"contraste": 0.028,
+"saturacion": 0.978,
+"phash": "85a73f58c3b73448"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r04.jpg"
+"hoja": "revision/hojas/tx_trazos-r04.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -99054,7 +99198,7 @@
 "clase": "trazos",
 "sub": "lapiz",
 "desc": "Trazo de grafito gris (5 de 7 de «Doodles de grafito sobre blanco»)",
-"md5": "4d2a9b20f65949c058f295c699357c9e",
+"md5": "46da5b41e93e888c522396e1c01dfaf7",
 "w": 442,
 "h": 157,
 "alfa": true,
@@ -99083,6 +99227,11 @@
 "pieza": 5,
 "piezas": 7,
 "hoja": "TEXTURAS/hojas/trazos__lapiz.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "zigzag de grafito",
 "calidad": 4,
@@ -99105,18 +99254,19 @@
 "h": 157,
 "alfa_cobertura": 0.041,
 "alfa_parcial": 0.575,
-"color_medio": "#807f80",
-"luminancia": 0.503,
-"contraste": 0.125,
-"saturacion": 0.02,
-"phash": "c3ad6b527455b921"
+"color_medio": "#717071",
+"luminancia": 0.443,
+"contraste": 0.123,
+"saturacion": 0.03,
+"phash": "c3ad2b567471b921"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r07.jpg"
+"hoja": "revision/hojas/tx_trazos-r07.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -100879,7 +101029,7 @@
 "clase": "trazos",
 "sub": "lapiz",
 "desc": "Trazo de grafito gris",
-"md5": "491d65a1765d9caad93a08fe3bf659bd",
+"md5": "c7e45a4ca4874c6d0abe5d9b3e65a3de",
 "w": 863,
 "h": 146,
 "alfa": true,
@@ -100908,6 +101058,11 @@
 "pieza": 3,
 "piezas": 12,
 "hoja": "TEXTURAS/hojas/trazos__lapiz.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "zigzag fino de grafito tipo firma",
 "calidad": 3,
@@ -100930,10 +101085,10 @@
 "h": 146,
 "alfa_cobertura": 0.061,
 "alfa_parcial": 0.945,
-"color_medio": "#686666",
-"luminancia": 0.404,
-"contraste": 0.052,
-"saturacion": 0.034,
+"color_medio": "#514f4f",
+"luminancia": 0.314,
+"contraste": 0.064,
+"saturacion": 0.041,
 "phash": "c1a53e5ad2a62da9"
 },
 "rehacer": false,
@@ -100941,7 +101096,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r08.jpg"
+"hoja": "revision/hojas/tx_trazos-r08.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -100952,7 +101108,7 @@
 "clase": "trazos",
 "sub": "lapiz",
 "desc": "Trazo de grafito gris",
-"md5": "eaef5a61706ca8a39f4e5d8cea0ed1d8",
+"md5": "95f7b528cb9f8f6d96bf98de9265472c",
 "w": 603,
 "h": 372,
 "alfa": true,
@@ -100981,6 +101137,11 @@
 "pieza": 5,
 "piezas": 12,
 "hoja": "TEXTURAS/hojas/trazos__lapiz.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "bucles finos de grafito tipo firma",
 "calidad": 3,
@@ -101003,18 +101164,19 @@
 "h": 372,
 "alfa_cobertura": 0.029,
 "alfa_parcial": 0.922,
-"color_medio": "#666465",
-"luminancia": 0.397,
-"contraste": 0.081,
-"saturacion": 0.035,
-"phash": "909761c996764d79"
+"color_medio": "#4e4c4d",
+"luminancia": 0.305,
+"contraste": 0.099,
+"saturacion": 0.048,
+"phash": "909761c997764d69"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r08.jpg"
+"hoja": "revision/hojas/tx_trazos-r08.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -101025,7 +101187,7 @@
 "clase": "trazos",
 "sub": "lapiz",
 "desc": "Trazo de grafito gris",
-"md5": "dfa59bfc251090fcbc71acf4f267c010",
+"md5": "c43e3fa2475b0ba887c97fc698b4a557",
 "w": 472,
 "h": 214,
 "alfa": true,
@@ -101054,6 +101216,11 @@
 "pieza": 8,
 "piezas": 12,
 "hoja": "TEXTURAS/hojas/trazos__lapiz.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "zigzag rápido de grafito tipo escritura",
 "calidad": 4,
@@ -101075,11 +101242,11 @@
 "w": 472,
 "h": 214,
 "alfa_cobertura": 0.065,
-"alfa_parcial": 0.596,
-"color_medio": "#676665",
-"luminancia": 0.401,
-"contraste": 0.11,
-"saturacion": 0.037,
+"alfa_parcial": 0.603,
+"color_medio": "#525150",
+"luminancia": 0.321,
+"contraste": 0.13,
+"saturacion": 0.074,
 "phash": "d89b33658db446ca"
 },
 "rehacer": false,
@@ -101087,7 +101254,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r08.jpg"
+"hoja": "revision/hojas/tx_trazos-r08.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -101098,7 +101266,7 @@
 "clase": "trazos",
 "sub": "lapiz",
 "desc": "Trazo de grafito gris",
-"md5": "e8296a5ba8f7b0ca67dc4b02526d047a",
+"md5": "9f7f7c2201700fd06ea71af3040ddc2d",
 "w": 567,
 "h": 373,
 "alfa": true,
@@ -101127,6 +101295,11 @@
 "pieza": 11,
 "piezas": 12,
 "hoja": "TEXTURAS/hojas/trazos__lapiz.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "rayado diagonal de grafito en zigzag (sombreado rápido)",
 "calidad": 4,
@@ -101148,19 +101321,20 @@
 "w": 567,
 "h": 373,
 "alfa_cobertura": 0.135,
-"alfa_parcial": 0.813,
-"color_medio": "#656363",
-"luminancia": 0.392,
-"contraste": 0.089,
-"saturacion": 0.045,
-"phash": "92376ec837c41da5"
+"alfa_parcial": 0.821,
+"color_medio": "#514f4f",
+"luminancia": 0.315,
+"contraste": 0.1,
+"saturacion": 0.059,
+"phash": "92376ec833ce3ca4"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -101463,7 +101637,7 @@
 "clase": "trazos",
 "sub": "lapiz",
 "desc": "Trazo de grafito gris oscuro",
-"md5": "a05a65ff7bedfd216a5e2958692cb474",
+"md5": "183ff1fcaf0ab2c92e5bc57d2d971978",
 "w": 505,
 "h": 396,
 "alfa": true,
@@ -101492,6 +101666,11 @@
 "pieza": 2,
 "piezas": 12,
 "hoja": "TEXTURAS/hojas/trazos__lapiz.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "rayado diagonal paralelo de grafito oscuro",
 "calidad": 5,
@@ -101513,19 +101692,20 @@
 "w": 505,
 "h": 396,
 "alfa_cobertura": 0.132,
-"alfa_parcial": 0.65,
-"color_medio": "#666464",
-"luminancia": 0.395,
-"contraste": 0.121,
-"saturacion": 0.045,
-"phash": "d13b6bd0256d9266"
+"alfa_parcial": 0.66,
+"color_medio": "#4e4c4d",
+"luminancia": 0.304,
+"contraste": 0.136,
+"saturacion": 0.097,
+"phash": "c51b6bd03563d664"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -101536,7 +101716,7 @@
 "clase": "trazos",
 "sub": "lapiz",
 "desc": "Trazo de grafito gris oscuro",
-"md5": "a01f7e572b7ba2f9888ff37909e8bb05",
+"md5": "410107ddf475a34ac2c0b0166e18e773",
 "w": 514,
 "h": 269,
 "alfa": true,
@@ -101565,6 +101745,11 @@
 "pieza": 4,
 "piezas": 12,
 "hoja": "TEXTURAS/hojas/trazos__lapiz.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "garabato rápido en zigzag tipo firma",
 "calidad": 4,
@@ -101585,20 +101770,21 @@
 "medidas": {
 "w": 514,
 "h": 269,
-"alfa_cobertura": 0.065,
-"alfa_parcial": 0.562,
-"color_medio": "#515050",
-"luminancia": 0.316,
-"contraste": 0.108,
-"saturacion": 0.034,
-"phash": "c42f3bd898656c9a"
+"alfa_cobertura": 0.064,
+"alfa_parcial": 0.611,
+"color_medio": "#474645",
+"luminancia": 0.276,
+"contraste": 0.103,
+"saturacion": 0.038,
+"phash": "c42f33da98656c9a"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -101609,7 +101795,7 @@
 "clase": "trazos",
 "sub": "lapiz",
 "desc": "Trazo de grafito gris oscuro",
-"md5": "62abc444440c328c1e50bba11f9a53ef",
+"md5": "7b77d38c2b619c11b2e6f53cf4e43fa0",
 "w": 313,
 "h": 241,
 "alfa": true,
@@ -101638,6 +101824,11 @@
 "pieza": 6,
 "piezas": 12,
 "hoja": "TEXTURAS/hojas/trazos__lapiz.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "garabato tipo letra/firma corta",
 "calidad": 4,
@@ -101659,11 +101850,11 @@
 "w": 313,
 "h": 241,
 "alfa_cobertura": 0.077,
-"alfa_parcial": 0.488,
-"color_medio": "#5f5d5d",
-"luminancia": 0.37,
-"contraste": 0.128,
-"saturacion": 0.043,
+"alfa_parcial": 0.507,
+"color_medio": "#4e4c4c",
+"luminancia": 0.303,
+"contraste": 0.131,
+"saturacion": 0.078,
 "phash": "c81b36e44d39632f"
 },
 "rehacer": false,
@@ -101671,7 +101862,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -101682,7 +101874,7 @@
 "clase": "trazos",
 "sub": "lapiz",
 "desc": "Trazo de grafito gris oscuro",
-"md5": "d1e3087b70a33303ae9abb91d333f9d9",
+"md5": "d0f4510d7a837e5f8da221d7c034219e",
 "w": 394,
 "h": 278,
 "alfa": true,
@@ -101711,6 +101903,11 @@
 "pieza": 7,
 "piezas": 12,
 "hoja": "TEXTURAS/hojas/trazos__lapiz.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "rayado diagonal suave",
 "calidad": 4,
@@ -101733,18 +101930,19 @@
 "h": 278,
 "alfa_cobertura": 0.067,
 "alfa_parcial": 0.698,
-"color_medio": "#666465",
-"luminancia": 0.398,
-"contraste": 0.122,
-"saturacion": 0.043,
-"phash": "c11b7ce127ccf00f"
+"color_medio": "#4d4b4b",
+"luminancia": 0.3,
+"contraste": 0.14,
+"saturacion": 0.1,
+"phash": "c11b7ce137c4f00f"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -101755,7 +101953,7 @@
 "clase": "trazos",
 "sub": "lapiz",
 "desc": "Trazo de grafito gris oscuro",
-"md5": "f357a447a77e12b2418b68aef07913b8",
+"md5": "c98e8d798fc04d432c68378387bf07c0",
 "w": 332,
 "h": 250,
 "alfa": true,
@@ -101784,6 +101982,11 @@
 "pieza": 9,
 "piezas": 12,
 "hoja": "TEXTURAS/hojas/trazos__lapiz.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "zigzag vertical denso de grafito oscuro",
 "calidad": 5,
@@ -101805,19 +102008,20 @@
 "w": 332,
 "h": 250,
 "alfa_cobertura": 0.114,
-"alfa_parcial": 0.405,
-"color_medio": "#595857",
-"luminancia": 0.348,
-"contraste": 0.123,
-"saturacion": 0.039,
-"phash": "911f6ae135c19376"
+"alfa_parcial": 0.478,
+"color_medio": "#4d4b4b",
+"luminancia": 0.298,
+"contraste": 0.116,
+"saturacion": 0.055,
+"phash": "911f6ac135cd9372"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -101828,7 +102032,7 @@
 "clase": "trazos",
 "sub": "lapiz",
 "desc": "Trazo de grafito gris oscuro",
-"md5": "86a72bb249fe0002fcc03ba92d9ccc4d",
+"md5": "83acdb5bbb54621867b6f0e6ca8b2759",
 "w": 420,
 "h": 411,
 "alfa": true,
@@ -101857,6 +102061,11 @@
 "pieza": 10,
 "piezas": 12,
 "hoja": "TEXTURAS/hojas/trazos__lapiz.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "rayado diagonal largo",
 "calidad": 4,
@@ -101878,19 +102087,20 @@
 "w": 420,
 "h": 411,
 "alfa_cobertura": 0.098,
-"alfa_parcial": 0.557,
-"color_medio": "#626160",
-"luminancia": 0.383,
-"contraste": 0.12,
-"saturacion": 0.043,
-"phash": "909735606fe84dcb"
+"alfa_parcial": 0.573,
+"color_medio": "#514f4f",
+"luminancia": 0.313,
+"contraste": 0.126,
+"saturacion": 0.08,
+"phash": "909735606fe86dc9"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -101901,7 +102111,7 @@
 "clase": "trazos",
 "sub": "lapiz",
 "desc": "Trazo de grafito gris oscuro",
-"md5": "43ea5e3abf2a6d23ac46696d9a0bb0e6",
+"md5": "9d4be97c28b2c4d4164aaf329ae73792",
 "w": 699,
 "h": 164,
 "alfa": true,
@@ -101930,6 +102140,11 @@
 "pieza": 12,
 "piezas": 12,
 "hoja": "TEXTURAS/hojas/trazos__lapiz.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "línea con dos bucles (letras ee)",
 "calidad": 4,
@@ -101951,19 +102166,20 @@
 "w": 699,
 "h": 164,
 "alfa_cobertura": 0.046,
-"alfa_parcial": 0.759,
-"color_medio": "#5b5a59",
-"luminancia": 0.356,
+"alfa_parcial": 0.774,
+"color_medio": "#4d4c4b",
+"luminancia": 0.301,
 "contraste": 0.08,
-"saturacion": 0.038,
-"phash": "c527785a16b4ad63"
+"saturacion": 0.044,
+"phash": "c52738da16bc8d63"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r09.jpg"
+"hoja": "revision/hojas/tx_trazos-r09.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -102193,7 +102409,7 @@
 "clase": "trazos",
 "sub": "lapiz",
 "desc": "Trazo de grafito gris oscuro",
-"md5": "d22ad0e85baf0bbdfae53ea64cfbc051",
+"md5": "80f828c464b9be63ebbbdbdc67401a87",
 "w": 773,
 "h": 212,
 "alfa": true,
@@ -102222,6 +102438,11 @@
 "pieza": 4,
 "piezas": 9,
 "hoja": "TEXTURAS/hojas/trazos__lapiz.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "trazo horizontal de grafito blando inclinado",
 "calidad": 4,
@@ -102243,19 +102464,20 @@
 "w": 773,
 "h": 212,
 "alfa_cobertura": 0.087,
-"alfa_parcial": 0.69,
-"color_medio": "#575754",
-"luminancia": 0.34,
-"contraste": 0.045,
-"saturacion": 0.048,
-"phash": "853d6aca9fb0274c"
+"alfa_parcial": 0.727,
+"color_medio": "#4a4a47",
+"luminancia": 0.288,
+"contraste": 0.062,
+"saturacion": 0.055,
+"phash": "853f6ac29fb0274c"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r10.jpg"
+"hoja": "revision/hojas/tx_trazos-r10.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -102339,7 +102561,7 @@
 "clase": "trazos",
 "sub": "lapiz",
 "desc": "Trazo de grafito gris oscuro",
-"md5": "09f3629cb6f627685b0296b0707496c8",
+"md5": "e33f89287a5e169239b7dae2f8e77451",
 "w": 1154,
 "h": 293,
 "alfa": true,
@@ -102368,6 +102590,11 @@
 "pieza": 6,
 "piezas": 9,
 "hoja": "TEXTURAS/hojas/trazos__lapiz.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "dos trazos horizontales cruzados de grafito",
 "calidad": 4,
@@ -102389,19 +102616,20 @@
 "w": 1154,
 "h": 293,
 "alfa_cobertura": 0.161,
-"alfa_parcial": 0.685,
-"color_medio": "#4f4f4c",
-"luminancia": 0.308,
-"contraste": 0.056,
-"saturacion": 0.051,
-"phash": "c4973a606f8cd15b"
+"alfa_parcial": 0.734,
+"color_medio": "#434340",
+"luminancia": 0.261,
+"contraste": 0.05,
+"saturacion": 0.054,
+"phash": "c4973a606fcc915b"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r10.jpg"
+"hoja": "revision/hojas/tx_trazos-r10.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -102558,7 +102786,7 @@
 "clase": "trazos",
 "sub": "lapiz",
 "desc": "Trazo de grafito gris oscuro",
-"md5": "1997eeeb246839a47672e0c6ff5f422a",
+"md5": "0cadfa3c427c16c4d8a31c20a584be1a",
 "w": 990,
 "h": 274,
 "alfa": true,
@@ -102587,6 +102815,11 @@
 "pieza": 9,
 "piezas": 9,
 "hoja": "TEXTURAS/hojas/trazos__lapiz.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "línea de grafito con un bucle (letra e)",
 "calidad": 4,
@@ -102608,19 +102841,20 @@
 "w": 990,
 "h": 274,
 "alfa_cobertura": 0.077,
-"alfa_parcial": 0.802,
-"color_medio": "#545352",
-"luminancia": 0.328,
-"contraste": 0.041,
-"saturacion": 0.032,
-"phash": "c69730614f5953d6"
+"alfa_parcial": 0.837,
+"color_medio": "#444443",
+"luminancia": 0.267,
+"contraste": 0.052,
+"saturacion": 0.035,
+"phash": "c69f30614f5853d6"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r10.jpg"
+"hoja": "revision/hojas/tx_trazos-r10.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -103945,7 +104179,7 @@
 "clase": "trazos",
 "sub": "pincel",
 "desc": "Trazo de pincel rojo (1 de 4 de «Franjas de pintura roja sobre blanco»)",
-"md5": "2e876a28d263cc241fa8f65b6341d6db",
+"md5": "d0df42266247118fb4d15b772e7e301b",
 "w": 1408,
 "h": 241,
 "alfa": true,
@@ -103974,6 +104208,11 @@
 "pieza": 1,
 "piezas": 4,
 "hoja": "TEXTURAS/hojas/trazos__pincel.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "franja de pintura roja con inicio grumoso",
 "calidad": 5,
@@ -103995,11 +104234,11 @@
 "w": 1408,
 "h": 241,
 "alfa_cobertura": 0.574,
-"alfa_parcial": 0.344,
-"color_medio": "#dc0309",
-"luminancia": 0.305,
-"contraste": 0.027,
-"saturacion": 0.985,
+"alfa_parcial": 0.352,
+"color_medio": "#da0206",
+"luminancia": 0.297,
+"contraste": 0.024,
+"saturacion": 0.99,
 "phash": "d5312aff2ec81ac8"
 },
 "rehacer": false,
@@ -104007,7 +104246,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r11.jpg"
+"hoja": "revision/hojas/tx_trazos-r11.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -105040,7 +105280,7 @@
 "clase": "trazos",
 "sub": "pincel",
 "desc": "Trazo de pincel azul (1 de 6 de «Pinceladas azules sobre blanco»)",
-"md5": "1ec9c58270311e9467e6affd73513557",
+"md5": "2fd26c24f831da0740d34ba0aa474fa0",
 "w": 1507,
 "h": 183,
 "alfa": true,
@@ -105069,6 +105309,11 @@
 "pieza": 1,
 "piezas": 6,
 "hoja": "TEXTURAS/hojas/trazos__pincel.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "pincelada azul ultramar ancha y opaca",
 "calidad": 5,
@@ -105090,19 +105335,20 @@
 "w": 1507,
 "h": 183,
 "alfa_cobertura": 0.573,
-"alfa_parcial": 0.118,
-"color_medio": "#002bb8",
-"luminancia": 0.298,
-"contraste": 0.037,
-"saturacion": 0.998,
-"phash": "c4ad3faa2b528770"
+"alfa_parcial": 0.125,
+"color_medio": "#002ab7",
+"luminancia": 0.296,
+"contraste": 0.036,
+"saturacion": 0.999,
+"phash": "c48d3fba3b528370"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r12.jpg"
+"hoja": "revision/hojas/tx_trazos-r12.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -105113,7 +105359,7 @@
 "clase": "trazos",
 "sub": "pincel",
 "desc": "Trazo de pincel azul (2 de 6 de «Pinceladas azules sobre blanco»)",
-"md5": "656298743df5537742a41d2fdd199091",
+"md5": "9fad6490232bb10002c034789411aa0b",
 "w": 1451,
 "h": 176,
 "alfa": true,
@@ -105142,6 +105388,11 @@
 "pieza": 2,
 "piezas": 6,
 "hoja": "TEXTURAS/hojas/trazos__pincel.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "pincelada azul ultramar con final de cerdas abierto",
 "calidad": 4,
@@ -105163,19 +105414,20 @@
 "w": 1451,
 "h": 176,
 "alfa_cobertura": 0.615,
-"alfa_parcial": 0.155,
-"color_medio": "#002dbd",
-"luminancia": 0.307,
-"contraste": 0.041,
-"saturacion": 0.997,
-"phash": "85ac5a557e532672"
+"alfa_parcial": 0.166,
+"color_medio": "#002bbc",
+"luminancia": 0.303,
+"contraste": 0.038,
+"saturacion": 0.998,
+"phash": "85ac5a557ed22672"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r12.jpg"
+"hoja": "revision/hojas/tx_trazos-r12.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -105186,7 +105438,7 @@
 "clase": "trazos",
 "sub": "pincel",
 "desc": "Trazo de pincel azul (3 de 6 de «Pinceladas azules sobre blanco»)",
-"md5": "7d2a8c65e35dd43319d260eae5ff5e8a",
+"md5": "f14e4ae8675a81ef605f8de9f8a6a907",
 "w": 1395,
 "h": 126,
 "alfa": true,
@@ -105215,6 +105467,11 @@
 "pieza": 3,
 "piezas": 6,
 "hoja": "TEXTURAS/hojas/trazos__pincel.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "pincelada azul ultramar fina",
 "calidad": 4,
@@ -105235,20 +105492,21 @@
 "medidas": {
 "w": 1395,
 "h": 126,
-"alfa_cobertura": 0.486,
-"alfa_parcial": 0.275,
-"color_medio": "#0133c4",
-"luminancia": 0.326,
-"contraste": 0.05,
-"saturacion": 0.995,
-"phash": "c08f3f742f58c589"
+"alfa_cobertura": 0.485,
+"alfa_parcial": 0.288,
+"color_medio": "#002fc2",
+"luminancia": 0.317,
+"contraste": 0.044,
+"saturacion": 0.998,
+"phash": "c0863f756e58c5e8"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r12.jpg"
+"hoja": "revision/hojas/tx_trazos-r12.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -105259,7 +105517,7 @@
 "clase": "trazos",
 "sub": "pincel",
 "desc": "Trazo de pincel azul (4 de 6 de «Pinceladas azules sobre blanco»)",
-"md5": "24abd653a205945c558dcb47143dd7ed",
+"md5": "3660019f46e2aa29de1abb8338f01196",
 "w": 1441,
 "h": 160,
 "alfa": true,
@@ -105288,6 +105546,11 @@
 "pieza": 4,
 "piezas": 6,
 "hoja": "TEXTURAS/hojas/trazos__pincel.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "pincelada azul ultramar ancha",
 "calidad": 5,
@@ -105309,19 +105572,20 @@
 "w": 1441,
 "h": 160,
 "alfa_cobertura": 0.568,
-"alfa_parcial": 0.15,
-"color_medio": "#0025ad",
-"luminancia": 0.276,
-"contraste": 0.035,
-"saturacion": 0.998,
-"phash": "958e4b452a53b87b"
+"alfa_parcial": 0.155,
+"color_medio": "#0024ac",
+"luminancia": 0.273,
+"contraste": 0.032,
+"saturacion": 0.999,
+"phash": "d58c4b543a52b87b"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r12.jpg"
+"hoja": "revision/hojas/tx_trazos-r12.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -105332,7 +105596,7 @@
 "clase": "trazos",
 "sub": "pincel",
 "desc": "Trazo de pincel azul (5 de 6 de «Pinceladas azules sobre blanco»)",
-"md5": "4e21614dbd0dae671e3f391dbae79db8",
+"md5": "2a135096b5cf32c6f2d8db411c587079",
 "w": 1431,
 "h": 150,
 "alfa": true,
@@ -105361,6 +105625,11 @@
 "pieza": 5,
 "piezas": 6,
 "hoja": "TEXTURAS/hojas/trazos__pincel.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "pincelada azul ultramar con salida de cerdas",
 "calidad": 4,
@@ -105382,19 +105651,20 @@
 "w": 1431,
 "h": 150,
 "alfa_cobertura": 0.502,
-"alfa_parcial": 0.219,
-"color_medio": "#002bb6",
-"luminancia": 0.297,
-"contraste": 0.047,
-"saturacion": 0.996,
-"phash": "95954ef17a62cc4a"
+"alfa_parcial": 0.231,
+"color_medio": "#0028b5",
+"luminancia": 0.292,
+"contraste": 0.041,
+"saturacion": 0.998,
+"phash": "95974bf16a62cc4a"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r12.jpg"
+"hoja": "revision/hojas/tx_trazos-r12.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -105405,7 +105675,7 @@
 "clase": "trazos",
 "sub": "pincel",
 "desc": "Trazo de pincel azul (6 de 6 de «Pinceladas azules sobre blanco»)",
-"md5": "eaa9f2bf792140c9c7252e776bd291c9",
+"md5": "5f0e4c8fd82bdee190619cc44247ef3d",
 "w": 1456,
 "h": 157,
 "alfa": true,
@@ -105434,6 +105704,11 @@
 "pieza": 6,
 "piezas": 6,
 "hoja": "TEXTURAS/hojas/trazos__pincel.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "pincelada azul ultramar ancha uniforme",
 "calidad": 5,
@@ -105454,20 +105729,21 @@
 "medidas": {
 "w": 1456,
 "h": 157,
-"alfa_cobertura": 0.488,
-"alfa_parcial": 0.146,
-"color_medio": "#0029be",
-"luminancia": 0.304,
-"contraste": 0.038,
-"saturacion": 0.998,
-"phash": "c44b3aae3fb4ca90"
+"alfa_cobertura": 0.487,
+"alfa_parcial": 0.151,
+"color_medio": "#0027be",
+"luminancia": 0.301,
+"contraste": 0.036,
+"saturacion": 0.999,
+"phash": "c44a3bae7bb4c294"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r12.jpg"
+"hoja": "revision/hojas/tx_trazos-r12.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -105551,7 +105827,7 @@
 "clase": "trazos",
 "sub": "pincel",
 "desc": "Trazo de pincel rojo (2 de 4 de «Pinceladas rojas sobre blanco»)",
-"md5": "09605a82af0619f688c92527f7f2248d",
+"md5": "3ca09a033e885667d267941430976a91",
 "w": 1276,
 "h": 127,
 "alfa": true,
@@ -105580,6 +105856,11 @@
 "pieza": 2,
 "piezas": 4,
 "hoja": "TEXTURAS/hojas/trazos__pincel.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "pincelada roja estriada fina",
 "calidad": 4,
@@ -105601,19 +105882,20 @@
 "w": 1276,
 "h": 127,
 "alfa_cobertura": 0.536,
-"alfa_parcial": 0.276,
-"color_medio": "#dd0209",
-"luminancia": 0.305,
-"contraste": 0.02,
-"saturacion": 0.988,
-"phash": "d5502aab2a2ff417"
+"alfa_parcial": 0.28,
+"color_medio": "#db0107",
+"luminancia": 0.299,
+"contraste": 0.018,
+"saturacion": 0.992,
+"phash": "d5502aaf2a2ff415"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r13.jpg"
+"hoja": "revision/hojas/tx_trazos-r13.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -105624,7 +105906,7 @@
 "clase": "trazos",
 "sub": "pincel",
 "desc": "Trazo de pincel rojo (3 de 4 de «Pinceladas rojas sobre blanco»)",
-"md5": "2a26a68b512fc60b57ddc2a395eaccf5",
+"md5": "a2bce0546d51b2f6faa269073db4a737",
 "w": 1320,
 "h": 145,
 "alfa": true,
@@ -105653,6 +105935,11 @@
 "pieza": 3,
 "piezas": 4,
 "hoja": "TEXTURAS/hojas/trazos__pincel.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "pincelada roja con salida abierta",
 "calidad": 4,
@@ -105674,19 +105961,20 @@
 "w": 1320,
 "h": 145,
 "alfa_cobertura": 0.502,
-"alfa_parcial": 0.344,
-"color_medio": "#d70208",
-"luminancia": 0.297,
-"contraste": 0.026,
-"saturacion": 0.988,
-"phash": "d54a2ab12f35d81e"
+"alfa_parcial": 0.35,
+"color_medio": "#d50105",
+"luminancia": 0.289,
+"contraste": 0.021,
+"saturacion": 0.992,
+"phash": "d54a2ab02f35d85e"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r13.jpg"
+"hoja": "revision/hojas/tx_trazos-r13.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -105697,7 +105985,7 @@
 "clase": "trazos",
 "sub": "pincel",
 "desc": "Trazo de pincel rojo (4 de 4 de «Pinceladas rojas sobre blanco»)",
-"md5": "d921ecf3978b2d630ae36042346aaec7",
+"md5": "539bfec593d3ac924ae5dec8b8738a4e",
 "w": 1327,
 "h": 157,
 "alfa": true,
@@ -105726,6 +106014,11 @@
 "pieza": 4,
 "piezas": 4,
 "hoja": "TEXTURAS/hojas/trazos__pincel.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "pincelada roja oscura estriada",
 "calidad": 4,
@@ -105747,19 +106040,20 @@
 "w": 1327,
 "h": 157,
 "alfa_cobertura": 0.498,
-"alfa_parcial": 0.195,
-"color_medio": "#c50204",
-"luminancia": 0.266,
-"contraste": 0.026,
-"saturacion": 0.991,
-"phash": "d5da2b216e25d0b5"
+"alfa_parcial": 0.202,
+"color_medio": "#c30103",
+"luminancia": 0.262,
+"contraste": 0.022,
+"saturacion": 0.993,
+"phash": "d5da2a216e25d0f5"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r13.jpg"
+"hoja": "revision/hojas/tx_trazos-r13.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -109712,7 +110006,7 @@
 "clase": "trazos",
 "sub": "rotulador",
 "desc": "Trazo de rotulador gris oscuro (1 de 7 de «Hoja minimalista de garabatos en tinta»)",
-"md5": "b729cf0e49209bde5784d6c41c9fd38d",
+"md5": "574d1f869f340b85d07208006a114c3d",
 "w": 289,
 "h": 277,
 "alfa": true,
@@ -109741,6 +110035,11 @@
 "pieza": 1,
 "piezas": 7,
 "hoja": "TEXTURAS/hojas/trazos__rotulador.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "espiral de tinta fina",
 "calidad": 4,
@@ -109763,18 +110062,19 @@
 "h": 277,
 "alfa_cobertura": 0.024,
 "alfa_parcial": 0.541,
-"color_medio": "#38343d",
-"luminancia": 0.222,
-"contraste": 0.126,
-"saturacion": 0.231,
-"phash": "81bc4e119efa7949"
+"color_medio": "#26222b",
+"luminancia": 0.153,
+"contraste": 0.115,
+"saturacion": 0.28,
+"phash": "81be4c119efa7989"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r16.jpg"
+"hoja": "revision/hojas/tx_trazos-r16.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -109785,7 +110085,7 @@
 "clase": "trazos",
 "sub": "rotulador",
 "desc": "Trazo de rotulador gris oscuro (2 de 7 de «Hoja minimalista de garabatos en tinta»)",
-"md5": "c94a371cf465ee4f230224f3022c2bf1",
+"md5": "c73fbc7dca3e71983e5d7284b4c90ff2",
 "w": 493,
 "h": 202,
 "alfa": true,
@@ -109814,6 +110114,11 @@
 "pieza": 2,
 "piezas": 7,
 "hoja": "TEXTURAS/hojas/trazos__rotulador.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "zigzag de tinta fina",
 "calidad": 4,
@@ -109836,18 +110141,19 @@
 "h": 202,
 "alfa_cobertura": 0.019,
 "alfa_parcial": 0.555,
-"color_medio": "#3a363f",
-"luminancia": 0.231,
-"contraste": 0.124,
-"saturacion": 0.2,
-"phash": "85402feb72bd4a39"
+"color_medio": "#28242c",
+"luminancia": 0.16,
+"contraste": 0.117,
+"saturacion": 0.247,
+"phash": "85446feb78bd1838"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r16.jpg"
+"hoja": "revision/hojas/tx_trazos-r16.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -109858,7 +110164,7 @@
 "clase": "trazos",
 "sub": "rotulador",
 "desc": "Trazo de rotulador gris oscuro (3 de 7 de «Hoja minimalista de garabatos en tinta»)",
-"md5": "29ac09cce40cdfea1c84453dc224d889",
+"md5": "92817d250d1118a2dd3cb7584215323f",
 "w": 437,
 "h": 249,
 "alfa": true,
@@ -109887,6 +110193,11 @@
 "pieza": 3,
 "piezas": 7,
 "hoja": "TEXTURAS/hojas/trazos__rotulador.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "dos bucles grandes de tinta fina",
 "calidad": 4,
@@ -109909,18 +110220,19 @@
 "h": 249,
 "alfa_cobertura": 0.02,
 "alfa_parcial": 0.554,
-"color_medio": "#38343e",
-"luminancia": 0.224,
-"contraste": 0.132,
-"saturacion": 0.224,
-"phash": "83072ccb36ec593e"
+"color_medio": "#26222b",
+"luminancia": 0.153,
+"contraste": 0.12,
+"saturacion": 0.272,
+"phash": "d3063cc936ec493e"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r17.jpg"
+"hoja": "revision/hojas/tx_trazos-r17.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -109931,7 +110243,7 @@
 "clase": "trazos",
 "sub": "rotulador",
 "desc": "Trazo de rotulador gris oscuro (4 de 7 de «Hoja minimalista de garabatos en tinta»)",
-"md5": "fc3b78c48fac4fc9c686e2e116202e11",
+"md5": "a9e150106dc4e1858b15a3d3fc594b8f",
 "w": 426,
 "h": 266,
 "alfa": true,
@@ -109960,6 +110272,11 @@
 "pieza": 4,
 "piezas": 7,
 "hoja": "TEXTURAS/hojas/trazos__rotulador.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "maraña de óvalos de tinta fina (tachón)",
 "calidad": 5,
@@ -109982,18 +110299,19 @@
 "h": 266,
 "alfa_cobertura": 0.057,
 "alfa_parcial": 0.618,
-"color_medio": "#3d3a41",
-"luminancia": 0.243,
-"contraste": 0.12,
-"saturacion": 0.156,
-"phash": "c13a7be135c691b2"
+"color_medio": "#28252c",
+"luminancia": 0.16,
+"contraste": 0.118,
+"saturacion": 0.208,
+"phash": "c13b7ee135c631b0"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r17.jpg"
+"hoja": "revision/hojas/tx_trazos-r17.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -110004,7 +110322,7 @@
 "clase": "trazos",
 "sub": "rotulador",
 "desc": "Trazo de rotulador gris oscuro (5 de 7 de «Hoja minimalista de garabatos en tinta»)",
-"md5": "ab0326b06a1981f87ba7680a75775e75",
+"md5": "67d306151df3e8c06f2b92bf7b44a7e1",
 "w": 390,
 "h": 246,
 "alfa": true,
@@ -110033,6 +110351,11 @@
 "pieza": 5,
 "piezas": 7,
 "hoja": "TEXTURAS/hojas/trazos__rotulador.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "óvalo de tinta fina",
 "calidad": 4,
@@ -110055,18 +110378,19 @@
 "h": 246,
 "alfa_cobertura": 0.018,
 "alfa_parcial": 0.549,
-"color_medio": "#393440",
-"luminancia": 0.227,
-"contraste": 0.125,
-"saturacion": 0.273,
-"phash": "c123c71f0ed83ce9"
+"color_medio": "#27232e",
+"luminancia": 0.159,
+"contraste": 0.112,
+"saturacion": 0.329,
+"phash": "e927c11f0e583ce9"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r17.jpg"
+"hoja": "revision/hojas/tx_trazos-r17.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -110077,7 +110401,7 @@
 "clase": "trazos",
 "sub": "rotulador",
 "desc": "Trazo de rotulador gris oscuro (6 de 7 de «Hoja minimalista de garabatos en tinta»)",
-"md5": "f7c3423a19737f87d7e776b83f3b68f3",
+"md5": "b5142de89fb452fcc156c7a92ce39e40",
 "w": 492,
 "h": 177,
 "alfa": true,
@@ -110106,6 +110430,11 @@
 "pieza": 6,
 "piezas": 7,
 "hoja": "TEXTURAS/hojas/trazos__rotulador.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "bucles (eee) de tinta fina",
 "calidad": 4,
@@ -110128,10 +110457,10 @@
 "h": 177,
 "alfa_cobertura": 0.029,
 "alfa_parcial": 0.524,
-"color_medio": "#34313a",
-"luminancia": 0.21,
-"contraste": 0.132,
-"saturacion": 0.249,
+"color_medio": "#242029",
+"luminancia": 0.145,
+"contraste": 0.117,
+"saturacion": 0.293,
 "phash": "d00737fa26dd6807"
 },
 "rehacer": false,
@@ -110139,7 +110468,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r17.jpg"
+"hoja": "revision/hojas/tx_trazos-r17.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -110150,7 +110480,7 @@
 "clase": "trazos",
 "sub": "rotulador",
 "desc": "Trazo de rotulador gris oscuro (7 de 7 de «Hoja minimalista de garabatos en tinta»)",
-"md5": "0838f6358776da44477767f8af344e3e",
+"md5": "069d5e58421f3a466c863c07ded8843c",
 "w": 443,
 "h": 184,
 "alfa": true,
@@ -110179,6 +110509,11 @@
 "pieza": 7,
 "piezas": 7,
 "hoja": "TEXTURAS/hojas/trazos__rotulador.jpg",
+"recorte_mejorado": {
+"fecha": "2026-11-20",
+"motivo": "cerco claro del papel alrededor del trazo",
+"arreglo": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
+},
 "revision": {
 "que_es": "símbolo infinito de tinta fina",
 "calidad": 4,
@@ -110201,18 +110536,19 @@
 "h": 184,
 "alfa_cobertura": 0.024,
 "alfa_parcial": 0.563,
-"color_medio": "#37333e",
-"luminancia": 0.221,
-"contraste": 0.135,
-"saturacion": 0.285,
-"phash": "c58965b7194c9eca"
+"color_medio": "#24202b",
+"luminancia": 0.146,
+"contraste": 0.119,
+"saturacion": 0.35,
+"phash": "8f0865b7194d9eca"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_trazos-r17.jpg"
+"hoja": "revision/hojas/tx_trazos-r17.jpg",
+"recorte_mejorado": "color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)"
 }
 },
 {
@@ -531168,7 +531504,7 @@
 "revision": {
 "que_es": "goteo con raíz oscura sucia arriba",
 "calidad": 3,
-"defectos": "raíz con restos oscuros (posible resto de fondo)",
+"defectos": "(corregido 20-11-2026: color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)) antes: raíz con restos oscuros (posible resto de fondo)",
 "familia": "pieza_goteo_grueso",
 "variante": 40,
 "diferencia": "raíz sucia",
@@ -559385,7 +559721,7 @@
 "revision": {
 "que_es": "salpicadura de tinta negra doble con gotas radiales",
 "calidad": 4,
-"defectos": "negra, se ve sobre fondo claro",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: negra, se ve sobre fondo claro",
 "familia": "salpicadura_tinta",
 "variante": 7,
 "diferencia": "-",
@@ -559727,7 +560063,7 @@
 "revision": {
 "que_es": "salpicadura de tinta negra redonda con goterones radiales",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: contorno con halo gris claro (se nota sobre oscuro)",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: contorno con halo gris claro (se nota sobre oscuro)",
 "familia": "salpicadura_tinta",
 "variante": 13,
 "diferencia": "-",
@@ -559784,7 +560120,7 @@
 "revision": {
 "que_es": "mancha de tinta negra con dos puntas",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: contorno con halo gris claro",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: contorno con halo gris claro",
 "familia": "salpicadura_tinta",
 "variante": 14,
 "diferencia": "-",
@@ -559841,7 +560177,7 @@
 "revision": {
 "que_es": "gota de tinta con cola a la izquierda",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: contorno con halo gris claro",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: contorno con halo gris claro",
 "familia": "salpicadura_tinta",
 "variante": 15,
 "diferencia": "-",
@@ -559898,7 +560234,7 @@
 "revision": {
 "que_es": "gota de tinta con gotita satélite",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: contorno con halo gris claro",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: contorno con halo gris claro",
 "familia": "salpicadura_tinta",
 "variante": 16,
 "diferencia": "-",
@@ -559955,7 +560291,7 @@
 "revision": {
 "que_es": "gota de tinta en lágrima",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: contorno con halo gris claro",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: contorno con halo gris claro",
 "familia": "salpicadura_tinta",
 "variante": 17,
 "diferencia": "-",
@@ -560012,7 +560348,7 @@
 "revision": {
 "que_es": "gota con cola horizontal",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: contorno con halo gris claro",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: contorno con halo gris claro",
 "familia": "salpicadura_tinta",
 "variante": 18,
 "diferencia": "-",
@@ -560069,7 +560405,7 @@
 "revision": {
 "que_es": "mancha de tinta redonda dentada",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 19,
 "diferencia": "-",
@@ -560126,7 +560462,7 @@
 "revision": {
 "que_es": "gota en lágrima invertida",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 20,
 "diferencia": "-",
@@ -560183,7 +560519,7 @@
 "revision": {
 "que_es": "mancha redonda con punta",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 21,
 "diferencia": "-",
@@ -560240,7 +560576,7 @@
 "revision": {
 "que_es": "mancha redonda",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 22,
 "diferencia": "-",
@@ -560297,7 +560633,7 @@
 "revision": {
 "que_es": "dos gotas unidas por puente",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 23,
 "diferencia": "-",
@@ -560354,7 +560690,7 @@
 "revision": {
 "que_es": "gota ovalada",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 24,
 "diferencia": "-",
@@ -560411,7 +560747,7 @@
 "revision": {
 "que_es": "grupo de salpicaduras de tinta con gotas y puntas",
 "calidad": 5,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
 "familia": "salpicadura_tinta",
 "variante": 25,
 "diferencia": "-",
@@ -560468,7 +560804,7 @@
 "revision": {
 "que_es": "salpicadura direccional con chorros largos",
 "calidad": 5,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
 "familia": "salpicadura_tinta",
 "variante": 26,
 "diferencia": "-",
@@ -560525,7 +560861,7 @@
 "revision": {
 "que_es": "salpicadura alargada con chorros",
 "calidad": 5,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
 "familia": "salpicadura_tinta",
 "variante": 27,
 "diferencia": "-",
@@ -560582,7 +560918,7 @@
 "revision": {
 "que_es": "grupo de tres salpicaduras con chorros finos",
 "calidad": 5,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
 "familia": "salpicadura_tinta",
 "variante": 28,
 "diferencia": "-",
@@ -560639,7 +560975,7 @@
 "revision": {
 "que_es": "salpicadura direccional con chorros hacia abajo-izquierda",
 "calidad": 5,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
 "familia": "salpicadura_tinta",
 "variante": 29,
 "diferencia": "-",
@@ -560696,7 +561032,7 @@
 "revision": {
 "que_es": "salpicadura con chorros hacia la izquierda",
 "calidad": 5,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
 "familia": "salpicadura_tinta",
 "variante": 30,
 "diferencia": "-",
@@ -560753,7 +561089,7 @@
 "revision": {
 "que_es": "mancha grande con chorros arriba",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris claro",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris claro",
 "familia": "salpicadura_tinta",
 "variante": 31,
 "diferencia": "-",
@@ -560810,7 +561146,7 @@
 "revision": {
 "que_es": "mancha redonda dentada con gota satélite",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris claro",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris claro",
 "familia": "salpicadura_tinta",
 "variante": 32,
 "diferencia": "-",
@@ -560867,7 +561203,7 @@
 "revision": {
 "que_es": "gota con cola arriba-izquierda",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 33,
 "diferencia": "-",
@@ -560924,7 +561260,7 @@
 "revision": {
 "que_es": "gota redonda",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 34,
 "diferencia": "-",
@@ -560981,7 +561317,7 @@
 "revision": {
 "que_es": "gota con cola corta",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 35,
 "diferencia": "-",
@@ -561038,7 +561374,7 @@
 "revision": {
 "que_es": "gota redonda con satélites",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 36,
 "diferencia": "-",
@@ -561095,7 +561431,7 @@
 "revision": {
 "que_es": "gota redonda con satélite",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 37,
 "diferencia": "-",
@@ -561152,7 +561488,7 @@
 "revision": {
 "que_es": "dos manchas gris oscuro con gotitas",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: tinta gris diluida, halo",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: tinta gris diluida, halo",
 "familia": "salpicadura_tinta",
 "variante": 38,
 "diferencia": "-",
@@ -561380,7 +561716,7 @@
 "revision": {
 "que_es": "mancha negra redonda con salientes",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 42,
 "diferencia": "-",
@@ -561494,7 +561830,7 @@
 "revision": {
 "que_es": "gota en lágrima con cola larga y satélite",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 44,
 "diferencia": "-",
@@ -561608,7 +561944,7 @@
 "revision": {
 "que_es": "gota negra con cola abajo",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 46,
 "diferencia": "-",
@@ -561665,7 +562001,7 @@
 "revision": {
 "que_es": "gota negra dentada",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 47,
 "diferencia": "-",
@@ -561722,7 +562058,7 @@
 "revision": {
 "que_es": "gota negra redonda",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 48,
 "diferencia": "-",
@@ -562235,7 +562571,7 @@
 "revision": {
 "que_es": "gota negra redonda",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 57,
 "diferencia": "-",
@@ -562292,7 +562628,7 @@
 "revision": {
 "que_es": "gota redonda con cola abajo",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 58,
 "diferencia": "-",
@@ -562406,7 +562742,7 @@
 "revision": {
 "que_es": "grupo de salpicaduras con gotas",
 "calidad": 5,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
 "familia": "salpicadura_tinta",
 "variante": 60,
 "diferencia": "-",
@@ -562463,7 +562799,7 @@
 "revision": {
 "que_es": "salpicadura grande en diagonal con gotas",
 "calidad": 5,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
 "familia": "salpicadura_tinta",
 "variante": 61,
 "diferencia": "-",
@@ -562520,7 +562856,7 @@
 "revision": {
 "que_es": "mancha dentada con gota satélite",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 62,
 "diferencia": "-",
@@ -562577,7 +562913,7 @@
 "revision": {
 "que_es": "gota grande con cola salpicada",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 63,
 "diferencia": "-",
@@ -562634,7 +562970,7 @@
 "revision": {
 "que_es": "mancha dentada con satélite",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 64,
 "diferencia": "-",
@@ -562691,7 +563027,7 @@
 "revision": {
 "que_es": "gota con chorro largo horizontal",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 65,
 "diferencia": "-",
@@ -562748,7 +563084,7 @@
 "revision": {
 "que_es": "mancha redonda dentada",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 66,
 "diferencia": "-",
@@ -562805,7 +563141,7 @@
 "revision": {
 "que_es": "mancha redonda con salientes",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 67,
 "diferencia": "-",
@@ -562919,7 +563255,7 @@
 "revision": {
 "que_es": "gota con chorro largo diagonal",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 69,
 "diferencia": "-",
@@ -563204,7 +563540,7 @@
 "revision": {
 "que_es": "salpicadura con chorros a la derecha",
 "calidad": 5,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
 "familia": "salpicadura_tinta",
 "variante": 74,
 "diferencia": "-",
@@ -563261,7 +563597,7 @@
 "revision": {
 "que_es": "salpicadura con chorros abajo-derecha",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 75,
 "diferencia": "-",
@@ -563318,7 +563654,7 @@
 "revision": {
 "que_es": "mancha doble lobulada",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 76,
 "diferencia": "-",
@@ -563375,7 +563711,7 @@
 "revision": {
 "que_es": "mancha ovalada con cola a la izquierda",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 77,
 "diferencia": "-",
@@ -563432,7 +563768,7 @@
 "revision": {
 "que_es": "mancha con chorros a la izquierda",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 78,
 "diferencia": "-",
@@ -563489,7 +563825,7 @@
 "revision": {
 "que_es": "mancha redonda dentada con satélites",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 79,
 "diferencia": "-",
@@ -563546,7 +563882,7 @@
 "revision": {
 "que_es": "salpicadura en estrella con goterones",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 80,
 "diferencia": "-",
@@ -563603,7 +563939,7 @@
 "revision": {
 "que_es": "mancha con chorros arriba-derecha",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 81,
 "diferencia": "-",
@@ -563774,7 +564110,7 @@
 "revision": {
 "que_es": "gota redonda grande",
 "calidad": 3,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: pequeña, halo gris",
 "familia": "salpicadura_tinta",
 "variante": 84,
 "diferencia": "-",
@@ -563888,7 +564224,7 @@
 "revision": {
 "que_es": "salpicadura vertical larga con gotas",
 "calidad": 5,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
 "familia": "salpicadura_tinta",
 "variante": 86,
 "diferencia": "-",
@@ -563945,7 +564281,7 @@
 "revision": {
 "que_es": "salpicadura diagonal con chorros",
 "calidad": 5,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
 "familia": "salpicadura_tinta",
 "variante": 87,
 "diferencia": "-",
@@ -564002,7 +564338,7 @@
 "revision": {
 "que_es": "salpicadura direccional con chorros a la derecha",
 "calidad": 5,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris leve",
 "familia": "salpicadura_tinta",
 "variante": 88,
 "diferencia": "-",
@@ -564116,7 +564452,7 @@
 "revision": {
 "que_es": "mancha estrellada con gotas",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 90,
 "diferencia": "-",
@@ -564173,7 +564509,7 @@
 "revision": {
 "que_es": "mancha con chorro largo a la izquierda",
 "calidad": 4,
-"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: (corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos)) antes: halo gris",
 "familia": "salpicadura_tinta",
 "variante": 91,
 "diferencia": "-",
