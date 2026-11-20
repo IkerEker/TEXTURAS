@@ -2,7 +2,7 @@
 "tx:bordes/blanco/borde_papel_rasgado_0468": {
 "que_es": "papel crema grueso de acuarela con rasgado ancho en ola y fibras",
 "calidad": 3,
-"defectos": "fibras del rasgado con tintes rosa y cian (contaminación de color)",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: fibras del rasgado con tintes rosa y cian (contaminación de color)",
 "familia": "tira_borde_rasgado_blanco",
 "variante": 19,
 "diferencia": "rasgado en ola",
@@ -32,12 +32,13 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-05.jpg"
+"hoja": "revision/hojas/tx_bordes-05.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_papel_rasgado_0469": {
 "que_es": "papel crema con rasgado ondulado",
 "calidad": 3,
-"defectos": "fibras con tinte cian/rosa",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: fibras con tinte cian/rosa",
 "familia": "tira_borde_rasgado_blanco",
 "variante": 20,
 "diferencia": "parecida a la 1",
@@ -67,12 +68,13 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-05.jpg"
+"hoja": "revision/hojas/tx_bordes-05.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_papel_rasgado_0470": {
 "que_es": "papel crema rasgado, recortado estrecho (centro de la tira)",
 "calidad": 3,
-"defectos": "fibras con tinte rosa; pieza estrecha",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: fibras con tinte rosa; pieza estrecha",
 "familia": "tira_borde_rasgado_blanco",
 "variante": 21,
 "diferencia": "recorte estrecho",
@@ -102,7 +104,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-05.jpg"
+"hoja": "revision/hojas/tx_bordes-05.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_papel_rasgado_0471": {
 "que_es": "papel blanco frío con rasgado fino y una lengüeta levantada a la izquierda",

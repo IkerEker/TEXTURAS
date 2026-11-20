@@ -306,7 +306,7 @@
 "color_medio": "#d9d8d6",
 "luminancia": 0.848,
 "contraste": 0.033,
-"saturacion": 0.016,
+"saturacion": 0.015,
 "phash": "c1213ebec94136be"
 },
 "rehacer": false,
@@ -314,7 +314,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0514": {
 "que_es": "papel gris (fotografiado sobre negro) con doble capa rasgada: canto fibroso y capa interior gris",
@@ -349,7 +350,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0515": {
 "que_es": "papel gris (sobre negro) con doble capa y línea blanca de rasgado",
@@ -384,7 +386,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0517": {
 "que_es": "papel blanco con canto superior roto, amarillento y con manchas y fibras",
@@ -455,7 +458,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0521": {
 "que_es": "papel blanco con mechones largos y separados",
@@ -479,10 +483,10 @@
 "h": 1696,
 "alfa_cobertura": 0.548,
 "alfa_parcial": 0.176,
-"color_medio": "#dddbd7",
+"color_medio": "#dcdcd7",
 "luminancia": 0.859,
 "contraste": 0.036,
-"saturacion": 0.025,
+"saturacion": 0.024,
 "phash": "c94936b6e84913b7"
 },
 "rehacer": false,
@@ -490,7 +494,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0522": {
 "que_es": "papel gris (sobre negro) con capa interior fibrosa gris",
@@ -525,6 +530,7 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 }
 }

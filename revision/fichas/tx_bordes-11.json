@@ -67,7 +67,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-11.jpg"
+"hoja": "revision/hojas/tx_bordes-11.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/washi/borde_papel_fibroso_0462": {
 "que_es": "papel japonés blanco (fibras visibles en la masa) con fibras largas sueltas",
@@ -102,7 +103,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-11.jpg"
+"hoja": "revision/hojas/tx_bordes-11.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/washi/borde_papel_fibroso_0463": {
 "que_es": "papel japonés blanco con fibras finas",
@@ -173,6 +175,7 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-11.jpg"
+"hoja": "revision/hojas/tx_bordes-11.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 }
 }

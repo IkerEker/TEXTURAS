@@ -214,7 +214,7 @@
 "tx:bordes/acuarela/papel_rasgado_0592": {
 "que_es": "tira blanca con rasgado fino; las fibras del canto tienen leve tono azulado",
 "calidad": 4,
-"defectos": "fibras con tinte frío/azulado (resto de croma)",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: fibras con tinte frío/azulado (resto de croma)",
 "familia": "tira_borde_rasgado_blanco",
 "variante": 5,
 "diferencia": "tinte frío",
@@ -244,7 +244,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-02.jpg"
+"hoja": "revision/hojas/tx_bordes-02.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/acuarela/textura_papel_rasgado_0601": {
 "que_es": "tira blanca con rasgado fino, fibras azuladas",
@@ -354,7 +355,7 @@
 "tx:bordes/artesanal/papel_artesanal_0578": {
 "que_es": "papel artesanal crema con fibras verdosas en el canto",
 "calidad": 4,
-"defectos": "fibras con tinte verde (croma)",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: fibras con tinte verde (croma)",
 "familia": "tira_borde_artesanal",
 "variante": 3,
 "diferencia": "fibras verdosas",
@@ -384,7 +385,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-02.jpg"
+"hoja": "revision/hojas/tx_bordes-02.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/artesanal/papel_artesanal_rasgado_0577": {
 "que_es": "papel artesanal crema con manchas grises redondas y rasgado",

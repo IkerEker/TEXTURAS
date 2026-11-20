@@ -1,5 +1,5 @@
 {
-"descripcion": "Recortes mejorados el 20-11-2026 con tools/atlas/mejorar_recorte.py: misma silueta y mismo tamaño de archivo; se limpia el color del borde (cerco claro u oscuro del fondo, verde del croma) y se suavizan contornos en escalones. Comprobado a ojo por muestras sobre blanco, magenta, negro y azul. Ningún plugin lee estos tx: (leen sus or: exactos). Las versiones anteriores siguen en el historial de git.",
+"descripcion": "Recortes mejorados el 20-11-2026 con tools/atlas/mejorar_recorte.py: misma silueta y mismo tamaño de archivo; se limpia el color del borde (cerco claro u oscuro del fondo, verde del croma, velo del fondo, fibras teñidas) y se suavizan contornos en escalones. Comprobado a ojo por muestras sobre blanco, magenta, negro y azul. Ningún plugin lee estos tx: (leen sus or: exactos). Las versiones anteriores siguen en el historial de git.",
 "recortes": {
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_001": {
 "fecha": "2026-11-20",
@@ -6540,10 +6540,10 @@
 "tx:bordes/viejo/borde_amarillo_claro_0565": {
 "fecha": "2026-11-20",
 "archivo": "bordes/viejo/borde_amarillo_claro_0565.png",
-"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
-"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
+"motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel); fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo); fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
 "halo_antes": 2.15,
-"halo_despues": 0.01
+"halo_despues": 0.0
 },
 "tx:bordes/viejo/borde_amarillo_claro_0568": {
 "fecha": "2026-11-20",
@@ -6567,6 +6567,230 @@
 "motivo": "velo semitransparente del croma en el fondo (niebla y bandas fuera del papel)",
 "arreglo": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)",
 "halo_antes": 0.01,
+"halo_despues": 0.01
+},
+"tx:bordes/acuarela/papel_rasgado_0592": {
+"fecha": "2026-11-20",
+"archivo": "bordes/acuarela/papel_rasgado_0592.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.0,
+"halo_despues": 0.0
+},
+"tx:bordes/artesanal/papel_artesanal_0578": {
+"fecha": "2026-11-20",
+"archivo": "bordes/artesanal/papel_artesanal_0578.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.0,
+"halo_despues": 0.0
+},
+"tx:bordes/blanco/borde_gris_claro_0513": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0513.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 5.8,
+"halo_despues": 0.09
+},
+"tx:bordes/blanco/borde_gris_claro_0514": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0514.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.55,
+"halo_despues": 0.05
+},
+"tx:bordes/blanco/borde_gris_claro_0515": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0515.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.63,
+"halo_despues": 0.04
+},
+"tx:bordes/blanco/borde_gris_claro_0518": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0518.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.95,
+"halo_despues": 0.01
+},
+"tx:bordes/blanco/borde_gris_claro_0521": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0521.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 7.89,
+"halo_despues": 0.09
+},
+"tx:bordes/blanco/borde_gris_claro_0522": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0522.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.7,
+"halo_despues": 0.12
+},
+"tx:bordes/blanco/borde_gris_claro_0524": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0524.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 10.79,
+"halo_despues": 0.11
+},
+"tx:bordes/blanco/borde_gris_claro_0525": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0525.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 3.23,
+"halo_despues": 0.04
+},
+"tx:bordes/blanco/borde_gris_claro_0526": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0526.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 5.57,
+"halo_despues": 0.12
+},
+"tx:bordes/blanco/borde_gris_claro_0542": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0542.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.97,
+"halo_despues": 0.02
+},
+"tx:bordes/blanco/borde_gris_claro_0547": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0547.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 2.39,
+"halo_despues": 0.01
+},
+"tx:bordes/blanco/borde_gris_claro_0551": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0551.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 1.09,
+"halo_despues": 0.01
+},
+"tx:bordes/blanco/borde_gris_claro_0554": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0554.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 7.23,
+"halo_despues": 0.03
+},
+"tx:bordes/blanco/borde_gris_claro_0556": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0556.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.51,
+"halo_despues": 0.05
+},
+"tx:bordes/blanco/borde_gris_claro_0566": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0566.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.6,
+"halo_despues": 0.01
+},
+"tx:bordes/blanco/borde_gris_claro_0573": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_gris_claro_0573.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 1.4,
+"halo_despues": 0.03
+},
+"tx:bordes/blanco/borde_papel_rasgado_0466": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_papel_rasgado_0466.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.0,
+"halo_despues": 0.0
+},
+"tx:bordes/blanco/borde_papel_rasgado_0468": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_papel_rasgado_0468.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.0,
+"halo_despues": 0.0
+},
+"tx:bordes/blanco/borde_papel_rasgado_0469": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_papel_rasgado_0469.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.02,
+"halo_despues": 0.01
+},
+"tx:bordes/blanco/borde_papel_rasgado_0470": {
+"fecha": "2026-11-20",
+"archivo": "bordes/blanco/borde_papel_rasgado_0470.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.0,
+"halo_despues": 0.0
+},
+"tx:bordes/carton/borde_naranja_0528": {
+"fecha": "2026-11-20",
+"archivo": "bordes/carton/borde_naranja_0528.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.19,
+"halo_despues": 0.0
+},
+"tx:bordes/carton/borde_naranja_0569": {
+"fecha": "2026-11-20",
+"archivo": "bordes/carton/borde_naranja_0569.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.09,
+"halo_despues": 0.0
+},
+"tx:bordes/viejo/borde_amarillo_claro_0532": {
+"fecha": "2026-11-20",
+"archivo": "bordes/viejo/borde_amarillo_claro_0532.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 1.61,
+"halo_despues": 0.0
+},
+"tx:bordes/washi/borde_gris_claro_0507": {
+"fecha": "2026-11-20",
+"archivo": "bordes/washi/borde_gris_claro_0507.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 5.68,
+"halo_despues": 0.06
+},
+"tx:bordes/washi/borde_papel_fibroso_0462": {
+"fecha": "2026-11-20",
+"archivo": "bordes/washi/borde_papel_fibroso_0462.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 3.05,
+"halo_despues": 0.09
+},
+"tx:bordes/washi/franja_fibras_0500": {
+"fecha": "2026-11-20",
+"archivo": "bordes/washi/franja_fibras_0500.png",
+"motivo": "fibras teñidas de rosa/verde/cian por el croma",
+"arreglo": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)",
+"halo_antes": 0.55,
 "halo_despues": 0.01
 }
 }

@@ -72,7 +72,7 @@
 "tx:bordes/viejo/borde_amarillo_claro_0532": {
 "que_es": "papel crema con fibras largas en ola",
 "calidad": 3,
-"defectos": "fibras teñidas de verde (resto de croma) muy visibles en el detalle",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: fibras teñidas de verde (resto de croma) muy visibles en el detalle",
 "familia": "tira_borde_fibra_larga",
 "variante": 8,
 "diferencia": "crema",
@@ -102,12 +102,13 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-10.jpg"
+"hoja": "revision/hojas/tx_bordes-10.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/viejo/borde_amarillo_claro_0565": {
 "que_es": "papel crema arrugado con pliegue central en V y suciedad",
 "calidad": 3,
-"defectos": "puntitos rosas (huecos falsos en el pliegue)",
+"defectos": "(corregido 20-11-2026: recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo); fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: puntitos rosas (huecos falsos en el pliegue)",
 "familia": "tira_borde_antiguo",
 "variante": 1,
 "diferencia": "pliegue en V",
@@ -138,7 +139,7 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/tx_bordes-10.jpg",
-"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo); fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/viejo/borde_amarillo_claro_0568": {
 "que_es": "papel crema con inclusiones y fibras verdosas en la esquina",

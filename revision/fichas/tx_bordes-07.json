@@ -143,7 +143,7 @@
 "tx:bordes/carton/borde_naranja_0569": {
 "que_es": "cartón kraft con fibras muy largas y tiesas en el canto",
 "calidad": 4,
-"defectos": "ligero tinte verde en algunas fibras",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: ligero tinte verde en algunas fibras",
 "familia": "tira_borde_carton",
 "variante": 17,
 "diferencia": "fibras muy largas",
@@ -173,7 +173,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-07.jpg"
+"hoja": "revision/hojas/tx_bordes-07.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/carton/borde_naranja_claro_0543": {
 "que_es": "papel artesanal crema con inclusiones y canto rasgado",

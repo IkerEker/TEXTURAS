@@ -241319,7 +241319,7 @@
 "tx:bordes/acuarela/papel_rasgado_0592": {
 "que_es": "tira blanca con rasgado fino; las fibras del canto tienen leve tono azulado",
 "calidad": 4,
-"defectos": "fibras con tinte frío/azulado (resto de croma)",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: fibras con tinte frío/azulado (resto de croma)",
 "familia": "tira_borde_rasgado_blanco",
 "variante": 5,
 "diferencia": "tinte frío",
@@ -241349,7 +241349,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-02.jpg"
+"hoja": "revision/hojas/tx_bordes-02.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/acuarela/textura_papel_rasgado_0601": {
 "que_es": "tira blanca con rasgado fino, fibras azuladas",
@@ -241459,7 +241460,7 @@
 "tx:bordes/artesanal/papel_artesanal_0578": {
 "que_es": "papel artesanal crema con fibras verdosas en el canto",
 "calidad": 4,
-"defectos": "fibras con tinte verde (croma)",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: fibras con tinte verde (croma)",
 "familia": "tira_borde_artesanal",
 "variante": 3,
 "diferencia": "fibras verdosas",
@@ -241489,7 +241490,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-02.jpg"
+"hoja": "revision/hojas/tx_bordes-02.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/artesanal/papel_artesanal_rasgado_0577": {
 "que_es": "papel artesanal crema con manchas grises redondas y rasgado",
@@ -241941,7 +241943,7 @@
 "color_medio": "#d9d8d6",
 "luminancia": 0.848,
 "contraste": 0.033,
-"saturacion": 0.016,
+"saturacion": 0.015,
 "phash": "c1213ebec94136be"
 },
 "rehacer": false,
@@ -241949,7 +241951,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0514": {
 "que_es": "papel gris (fotografiado sobre negro) con doble capa rasgada: canto fibroso y capa interior gris",
@@ -241984,7 +241987,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0515": {
 "que_es": "papel gris (sobre negro) con doble capa y línea blanca de rasgado",
@@ -242019,7 +242023,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0517": {
 "que_es": "papel blanco con canto superior roto, amarillento y con manchas y fibras",
@@ -242090,7 +242095,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0521": {
 "que_es": "papel blanco con mechones largos y separados",
@@ -242114,10 +242120,10 @@
 "h": 1696,
 "alfa_cobertura": 0.548,
 "alfa_parcial": 0.176,
-"color_medio": "#dddbd7",
+"color_medio": "#dcdcd7",
 "luminancia": 0.859,
 "contraste": 0.036,
-"saturacion": 0.025,
+"saturacion": 0.024,
 "phash": "c94936b6e84913b7"
 },
 "rehacer": false,
@@ -242125,7 +242131,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0522": {
 "que_es": "papel gris (sobre negro) con capa interior fibrosa gris",
@@ -242160,7 +242167,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-03.jpg"
+"hoja": "revision/hojas/tx_bordes-03.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0524": {
 "que_es": "papel blanco grueso con mechones de fibra muy largos, enredados y sedosos que salen del rasgado",
@@ -242185,9 +242193,9 @@
 "alfa_cobertura": 0.544,
 "alfa_parcial": 0.183,
 "color_medio": "#dfdcd9",
-"luminancia": 0.864,
+"luminancia": 0.863,
 "contraste": 0.03,
-"saturacion": 0.028,
+"saturacion": 0.027,
 "phash": "890976f6c60919bf"
 },
 "rehacer": false,
@@ -242195,7 +242203,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-04.jpg"
+"hoja": "revision/hojas/tx_bordes-04.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0525": {
 "que_es": "papel blanco de acuarela con fibras largas en ondas sobre el rasgado",
@@ -242230,12 +242239,13 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-04.jpg"
+"hoja": "revision/hojas/tx_bordes-04.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0526": {
 "que_es": "papel blanco con mechones largos que se inclinan a la izquierda",
 "calidad": 4,
-"defectos": "velo/sombra oscura semitransparente a la derecha de las fibras",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: velo/sombra oscura semitransparente a la derecha de las fibras",
 "familia": "tira_borde_fibra_larga",
 "variante": 5,
 "diferencia": "mechones hacia la izquierda",
@@ -242265,7 +242275,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-04.jpg"
+"hoja": "revision/hojas/tx_bordes-04.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0534": {
 "que_es": "papel gris muy claro con rasgado fibroso y relieve de arrugas cerca del canto",
@@ -242335,12 +242346,13 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-04.jpg"
+"hoja": "revision/hojas/tx_bordes-04.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0547": {
 "que_es": "papel crema de acuarela con rasgado fibroso",
 "calidad": 3,
-"defectos": "fibras con tinte verdoso (croma)",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: fibras con tinte verdoso (croma)",
 "familia": "tira_borde_rasgado_blanco",
 "variante": 13,
 "diferencia": "crema",
@@ -242370,7 +242382,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-04.jpg"
+"hoja": "revision/hojas/tx_bordes-04.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0551": {
 "que_es": "papel gris claro con grieta en V y un trocito suelto en el canto",
@@ -242405,7 +242418,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-04.jpg"
+"hoja": "revision/hojas/tx_bordes-04.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0554": {
 "que_es": "papel blanco con motas oscuras (reciclado) y fibras largas",
@@ -242429,7 +242443,7 @@
 "h": 1696,
 "alfa_cobertura": 0.523,
 "alfa_parcial": 0.104,
-"color_medio": "#dad8d5",
+"color_medio": "#dad9d5",
 "luminancia": 0.848,
 "contraste": 0.032,
 "saturacion": 0.023,
@@ -242440,7 +242454,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-04.jpg"
+"hoja": "revision/hojas/tx_bordes-04.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0555": {
 "que_es": "papel gris claro con dos lengüetas levantadas y un mechón",
@@ -242511,7 +242526,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-04.jpg"
+"hoja": "revision/hojas/tx_bordes-04.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0562": {
 "que_es": "2 esquinas dobladas muy arrugadas: crema y blanca, con rasgado en la blanca",
@@ -242581,7 +242597,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-04.jpg"
+"hoja": "revision/hojas/tx_bordes-04.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_gris_claro_0572": {
 "que_es": "2 esquinas dobladas con rasgado en la blanca, recortadas más bajas",
@@ -242651,12 +242668,13 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-04.jpg"
+"hoja": "revision/hojas/tx_bordes-04.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_papel_rasgado_0466": {
 "que_es": "papel crema con rasgado fino",
 "calidad": 4,
-"defectos": "ligero tinte verdoso en fibras",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: ligero tinte verdoso en fibras",
 "familia": "tira_borde_rasgado_blanco",
 "variante": 18,
 "diferencia": "crema",
@@ -242686,12 +242704,13 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-04.jpg"
+"hoja": "revision/hojas/tx_bordes-04.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_papel_rasgado_0468": {
 "que_es": "papel crema grueso de acuarela con rasgado ancho en ola y fibras",
 "calidad": 3,
-"defectos": "fibras del rasgado con tintes rosa y cian (contaminación de color)",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: fibras del rasgado con tintes rosa y cian (contaminación de color)",
 "familia": "tira_borde_rasgado_blanco",
 "variante": 19,
 "diferencia": "rasgado en ola",
@@ -242721,12 +242740,13 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-05.jpg"
+"hoja": "revision/hojas/tx_bordes-05.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_papel_rasgado_0469": {
 "que_es": "papel crema con rasgado ondulado",
 "calidad": 3,
-"defectos": "fibras con tinte cian/rosa",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: fibras con tinte cian/rosa",
 "familia": "tira_borde_rasgado_blanco",
 "variante": 20,
 "diferencia": "parecida a la 1",
@@ -242756,12 +242776,13 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-05.jpg"
+"hoja": "revision/hojas/tx_bordes-05.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_papel_rasgado_0470": {
 "que_es": "papel crema rasgado, recortado estrecho (centro de la tira)",
 "calidad": 3,
-"defectos": "fibras con tinte rosa; pieza estrecha",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: fibras con tinte rosa; pieza estrecha",
 "familia": "tira_borde_rasgado_blanco",
 "variante": 21,
 "diferencia": "recorte estrecho",
@@ -242791,7 +242812,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-05.jpg"
+"hoja": "revision/hojas/tx_bordes-05.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/blanco/borde_papel_rasgado_0471": {
 "que_es": "papel blanco frío con rasgado fino y una lengüeta levantada a la izquierda",
@@ -243357,7 +243379,7 @@
 "tx:bordes/carton/borde_naranja_0528": {
 "que_es": "papel crema con mordiscos en el canto",
 "calidad": 3,
-"defectos": "fibras con tintes rosa/verde (croma) en los mordiscos",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: fibras con tintes rosa/verde (croma) en los mordiscos",
 "familia": "tira_borde_artesanal",
 "variante": 6,
 "diferencia": "mordiscos",
@@ -243387,7 +243409,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-06.jpg"
+"hoja": "revision/hojas/tx_bordes-06.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/carton/borde_naranja_0530": {
 "que_es": "cartón tostado con canto en escalones quemados y grietas, muy detallado",
@@ -243886,7 +243909,7 @@
 "tx:bordes/carton/borde_naranja_0569": {
 "que_es": "cartón kraft con fibras muy largas y tiesas en el canto",
 "calidad": 4,
-"defectos": "ligero tinte verde en algunas fibras",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: ligero tinte verde en algunas fibras",
 "familia": "tira_borde_carton",
 "variante": 17,
 "diferencia": "fibras muy largas",
@@ -243916,7 +243939,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-07.jpg"
+"hoja": "revision/hojas/tx_bordes-07.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/carton/borde_naranja_claro_0543": {
 "que_es": "papel artesanal crema con inclusiones y canto rasgado",
@@ -245394,7 +245418,7 @@
 "tx:bordes/viejo/borde_amarillo_claro_0532": {
 "que_es": "papel crema con fibras largas en ola",
 "calidad": 3,
-"defectos": "fibras teñidas de verde (resto de croma) muy visibles en el detalle",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: fibras teñidas de verde (resto de croma) muy visibles en el detalle",
 "familia": "tira_borde_fibra_larga",
 "variante": 8,
 "diferencia": "crema",
@@ -245424,12 +245448,13 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-10.jpg"
+"hoja": "revision/hojas/tx_bordes-10.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/viejo/borde_amarillo_claro_0565": {
 "que_es": "papel crema arrugado con pliegue central en V y suciedad",
 "calidad": 3,
-"defectos": "puntitos rosas (huecos falsos en el pliegue)",
+"defectos": "(corregido 20-11-2026: recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo); fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: puntitos rosas (huecos falsos en el pliegue)",
 "familia": "tira_borde_antiguo",
 "variante": 1,
 "diferencia": "pliegue en V",
@@ -245460,7 +245485,7 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/tx_bordes-10.jpg",
-"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo)"
+"recorte_mejorado": "recorte rehecho desde la foto original con el matte de croma de PAPELATOR (sin velo ni bandas en el fondo); fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/viejo/borde_amarillo_claro_0568": {
 "que_es": "papel crema con inclusiones y fibras verdosas en la esquina",
@@ -245916,7 +245941,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-11.jpg"
+"hoja": "revision/hojas/tx_bordes-11.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/washi/borde_papel_fibroso_0462": {
 "que_es": "papel japonés blanco (fibras visibles en la masa) con fibras largas sueltas",
@@ -245951,7 +245977,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-11.jpg"
+"hoja": "revision/hojas/tx_bordes-11.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/washi/borde_papel_fibroso_0463": {
 "que_es": "papel japonés blanco con fibras finas",
@@ -246022,7 +246049,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-11.jpg"
+"hoja": "revision/hojas/tx_bordes-11.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:imperfecciones/acida/migracion_acida_0861": {
 "que_es": "huella rectangular de migración ácida: marco más oscuro marrón con interior ocre moteado y borde exterior difuso",

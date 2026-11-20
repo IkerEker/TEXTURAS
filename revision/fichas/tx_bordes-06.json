@@ -142,7 +142,7 @@
 "tx:bordes/carton/borde_naranja_0528": {
 "que_es": "papel crema con mordiscos en el canto",
 "calidad": 3,
-"defectos": "fibras con tintes rosa/verde (croma) en los mordiscos",
+"defectos": "(corregido 20-11-2026: color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)) antes: fibras con tintes rosa/verde (croma) en los mordiscos",
 "familia": "tira_borde_artesanal",
 "variante": 6,
 "diferencia": "mordiscos",
@@ -172,7 +172,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-06.jpg"
+"hoja": "revision/hojas/tx_bordes-06.jpg",
+"recorte_mejorado": "color del borde corregido; fibras del borde con el color del papel (se quita el tinte rosa/verde/cian del croma, se conserva la luz de cada fibra)"
 },
 "tx:bordes/carton/borde_naranja_0530": {
 "que_es": "cartón tostado con canto en escalones quemados y grietas, muy detallado",
