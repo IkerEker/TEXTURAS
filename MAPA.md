@@ -43,6 +43,7 @@ Montar o comprobar en un ordenador: `python TEXTURAS/tools/atlas/montar_bibliote
 ## Para los plugins
 
 **Orden permanente para cada plugin (biblioteca única + velocidad/GPU): `plugins/ORDEN_PLUGINS.md`.**
+**ORDEN 2 (dejar GitHub, casa en `Biblioteca\plugins\<plugin>\`, sin repetidos): `plugins/ORDEN_CARPETA_LOCAL.md`.**
 
 - La biblioteca **solo se usa al construir**; el `.ccx` lleva dentro lo que usa y funciona sin Claude ni internet.
 - Cada plugin lee por **id** con `TEXTURAS_ROOT`: su tabla exacta, en su orden, en `plugins/<plugin>/uso_id.json`.
