@@ -58,7 +58,7 @@ def main():
         return ix[k]['archivo']
 
     rehacer = [k for k in vistos if fichas[k].get('rehacer') or 'REHACER' in str(fichas[k].get('defectos', ''))]
-    correc = [k for k in vistos if 'CORRECCI' in str(fichas[k].get('defectos', '')).upper()]
+    correc = [k for k in vistos if 'CORRECCI' in str(fichas[k].get('defectos', '')).upper() and not fichas[k].get('corregido')]
     dudosos = [k for k in vistos if fichas[k].get('dudoso') or 'dudoso' in str(fichas[k].get('defectos', '')).lower()
                or 'dudoso' in str(fichas[k].get('que_es', '')).lower()]
     no_rec = [k for k in vistos if int(fichas[k].get('calidad') or 0) <= 2]

@@ -1,0 +1,365 @@
+{
+ "descripcion": "Correcciones de la revisión 100 % (20-11-2026): lo visto contradice el nombre o el índice. construir_indice.py las aplica sobre cada asset (los archivos NO se renombran: los plugins dependen de sus nombres). nota_correccion explica qué se corrigió.",
+ "correcciones": {
+  "ab:9ce018a06e1a": {
+   "nota_correccion": "CORRECCIÓN: el archivo se llama Left Arrow pero la flecha apunta a la derecha",
+   "desc": "flecha que apunta a la DERECHA (el archivo se llama Left Arrow)"
+  },
+  "ab:25a0dff10bda": {
+   "nota_correccion": "CORRECCIÓN: el archivo se llama Right Arrow pero la flecha apunta a la izquierda (nombres de Left/Right intercambiados)",
+   "desc": "flecha que apunta a la IZQUIERDA (el archivo se llama Right Arrow)"
+  },
+  "ab:569c53154961": {
+   "nota_correccion": "CORRECCIÓN: el índice dice multiplicar pero es oscuro sobre negro: en multiplicar oscurece todo; usar trama o invertir",
+   "modo": "trama (o invertir y multiplicar)"
+  },
+  "ab:6ae8d80f8465": {
+   "nota_correccion": "CORRECCIÓN: el índice dice multiplicar pero es luz sobre negro: mejor superponer o trama",
+   "modo": "trama / superponer"
+  },
+  "ab:baeed2a1f761": {
+   "nota_correccion": "CORRECCIÓN: el índice dice multiplicar pero es oscuro: usar trama o invertir",
+   "modo": "trama (o invertir y multiplicar)"
+  },
+  "ab:836752fc3702": {
+   "nota_correccion": "CORRECCIÓN: el índice dice multiplicar pero es oscuro: usar trama o invertir",
+   "modo": "trama (o invertir y multiplicar)"
+  },
+  "ab:cf4249cbe724": {
+   "nota_correccion": "CORRECCIÓN: el índice dice trama pero es oscuro sobre blanco: usar multiplicar",
+   "modo": "multiplicar"
+  },
+  "ab:572bf479b921": {
+   "nota_correccion": "CORRECCIÓN: el índice dice trama pero es oscuro sobre blanco: usar multiplicar",
+   "modo": "multiplicar"
+  },
+  "ab:42f5eb6f8dce": {
+   "nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
+   "modo": "trama"
+  },
+  "ab:bdad5aa999c5": {
+   "nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
+   "modo": "trama"
+  },
+  "ab:e0a03c2254cf": {
+   "nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
+   "modo": "trama"
+  },
+  "ab:74ff251eb2bd": {
+   "nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
+   "modo": "trama"
+  },
+  "ab:5b26e445fa73": {
+   "nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
+   "modo": "trama"
+  },
+  "ab:91cdfa3737f6": {
+   "nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
+   "modo": "trama"
+  },
+  "ab:d299ce9554fe": {
+   "nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
+   "modo": "trama"
+  },
+  "ab:22e7017ef602": {
+   "nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
+   "modo": "trama"
+  },
+  "ab:b35e96ec9dec": {
+   "nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
+   "modo": "trama"
+  },
+  "ab:cca773384e8c": {
+   "nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
+   "modo": "trama"
+  },
+  "ab:fc200400aed6": {
+   "nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
+   "modo": "trama"
+  },
+  "tx:collage/cintas/carrocero/carrocero_0185_1": {
+   "nota_correccion": "CORRECCIÓN: es una tira blanca estrecha (parece cinta correctora o papel), no carrocero beige",
+   "desc": "tira blanca estrecha (tipo cinta correctora o papel), no carrocero beige",
+   "color": "blanco"
+  },
+  "tx:collage/cintas/carrocero/carrocero_0185_2": {
+   "nota_correccion": "CORRECCIÓN: tira blanca estrecha, no carrocero beige",
+   "desc": "tira blanca estrecha (tipo cinta correctora o papel), no carrocero beige",
+   "color": "blanco"
+  },
+  "tx:collage/cintas/carrocero/carrocero_0185_3": {
+   "nota_correccion": "CORRECCIÓN: tira blanca estrecha, no carrocero beige",
+   "desc": "tira blanca estrecha (tipo cinta correctora o papel), no carrocero beige",
+   "color": "blanco"
+  },
+  "tx:collage/cintas/carrocero/carrocero_0186_1": {
+   "nota_correccion": "CORRECCIÓN: tira blanca estrecha, no carrocero beige",
+   "desc": "tira blanca estrecha (tipo cinta correctora o papel), no carrocero beige",
+   "color": "blanco"
+  },
+  "tx:collage/cintas/carrocero/carrocero_0186_2": {
+   "nota_correccion": "CORRECCIÓN: es cinta correctora blanca, no carrocero (igual que correctora_0174)",
+   "desc": "cinta correctora blanca (igual que correctora_0174), no carrocero",
+   "color": "blanco"
+  },
+  "tx:collage/cintas/carrocero/carrocero_0186_3": {
+   "nota_correccion": "CORRECCIÓN: es cinta correctora blanca, no carrocero",
+   "desc": "cinta correctora blanca (igual que correctora_0174), no carrocero",
+   "color": "blanco"
+  },
+  "or:87d7421ebe15a611a8f99103573a474b": {
+   "nota_correccion": "CORRECCIÓN: son manchas sueltas con goteo, no goteos desde el borde"
+  },
+  "or:bccccc586db6b63181f3ab39948ff09e": {
+   "nota_correccion": "CORRECCIÓN: no es 9:16, es casi cuadrado (2072×2048)"
+  },
+  "or:b500eb74a02f0b908e372018c5700ca5": {
+   "nota_correccion": "CORRECCIÓN: el nombre dice cinta de papel pero son tiras blancas tipo correctora (origen de carrocero_0185/0186 mal clasificados)"
+  },
+  "or:52072885a3dfac0f118e046de719d384": {
+   "nota_correccion": "CORRECCIÓN: el nombre dice cinta de papel pero son tiras blancas tipo correctora"
+  },
+  "or:57115dd23a95b3488a89b2a9b05a0df2": {
+   "nota_correccion": "CORRECCIÓN: no barre de lado a lado como H1/H2, rellena por franjas horizontales",
+   "desc": "Mate de la transición de tinta H3 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s) — OJO: no barre de lado a lado como H1/H2, rellena por franjas horizontales"
+  },
+  "or:3c5ae00c8bb54a3ccda83b378d6c2cb0": {
+   "nota_correccion": "CORRECCIÓN: no barre de izquierda a derecha, los bloques salen en varios puntos a la vez",
+   "desc": "Mate de la transición de tinta H6 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s) — OJO: no barre de izquierda a derecha, los bloques salen en varios puntos a la vez"
+  },
+  "or:d9ae0ab49ab29a96f968be409a9eb541": {
+   "nota_correccion": "CORRECCIÓN: entra por los dos lados (cierre tipo telón), no de izquierda a derecha",
+   "desc": "Mate de la transición de tinta H7 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s) — OJO: entra por los dos lados (cierre tipo telón), no de izquierda a derecha"
+  },
+  "or:6be2dfd306178ed6fe9ae435a40565bf": {
+   "nota_correccion": "CORRECCIÓN: no baja de arriba abajo, rellena por columnas verticales",
+   "desc": "Mate de la transición de tinta V3 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s) — OJO: no baja de arriba abajo, rellena por columnas verticales"
+  },
+  "or:678588b18abc23b814eff9228f84f4a7": {
+   "nota_correccion": "CORRECCIÓN: no baja de arriba abajo, bloques en varios puntos",
+   "desc": "Mate de la transición de tinta V6 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s) — OJO: no baja de arriba abajo, bloques en varios puntos"
+  },
+  "or:372a4937db41849c770470b502c91985": {
+   "nota_correccion": "CORRECCIÓN: entra por arriba y abajo a la vez, no de arriba abajo",
+   "desc": "Mate de la transición de tinta V7 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s) — OJO: entra por arriba y abajo a la vez, no de arriba abajo"
+  },
+  "or:910336cb63a2f4d2d1fb660f69b699af": {
+   "nota_correccion": "CORRECCIÓN: rellena por franjas, no barre de lado a lado",
+   "desc": "Transición de tinta texturada H3 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4 — OJO: rellena por franjas, no barre de lado a lado"
+  },
+  "or:2de0ebc6bc722a5244124e5e1b388c23": {
+   "nota_correccion": "CORRECCIÓN: bloques en varios puntos, no barrido",
+   "desc": "Transición de tinta texturada H6 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4 — OJO: bloques en varios puntos, no barrido"
+  },
+  "or:99604d7a0e79f152ee67677106f562bc": {
+   "nota_correccion": "CORRECCIÓN: cierre tipo telón por los dos lados",
+   "desc": "Transición de tinta texturada H7 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4 — OJO: cierre tipo telón por los dos lados"
+  },
+  "or:bd581c0c9755f8e952b0fd25817e6552": {
+   "nota_correccion": "CORRECCIÓN: rellena por columnas, no baja",
+   "desc": "Transición de tinta texturada V3 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4 — OJO: rellena por columnas, no baja"
+  },
+  "or:82ac0ffa79d50ea111fa073cd9d52041": {
+   "nota_correccion": "CORRECCIÓN: bloques en varios puntos, no baja",
+   "desc": "Transición de tinta texturada V6 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4 — OJO: bloques en varios puntos, no baja"
+  },
+  "or:ddf2ffb7d072c0a78655d108d01094ed": {
+   "nota_correccion": "CORRECCIÓN: entra por arriba y abajo a la vez",
+   "desc": "Transición de tinta texturada V7 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4 — OJO: entra por arriba y abajo a la vez"
+  },
+  "or:234e8845db058a7ae5e64f1ea79400c7": {
+   "nota_correccion": "ninguno; CORRECCIÓN: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
+   "desc": "Mapa de desplazamiento slit-scan D1 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada"
+  },
+  "or:61653b5a811db30238f07902a58fbf66": {
+   "nota_correccion": "muy oscuro, poco rango; CORRECCIÓN: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
+   "desc": "Mapa de desplazamiento slit-scan D2 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada"
+  },
+  "or:6d2c1bd9a45ddaf8ce47852013338553": {
+   "nota_correccion": "ninguno; CORRECCIÓN: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
+   "desc": "Mapa de desplazamiento slit-scan D3 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada"
+  },
+  "or:ad6a898d288589b0b51ce0da868a8a59": {
+   "nota_correccion": "ninguno; CORRECCIÓN: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
+   "desc": "Mapa de desplazamiento slit-scan D4 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada"
+  },
+  "or:0fc388a61730c6442568ba79267d8be1": {
+   "nota_correccion": "muy oscuro; CORRECCIÓN: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
+   "desc": "Mapa de desplazamiento slit-scan D5 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada"
+  },
+  "or:e1d9050b7e75e0c01dc447e6a02e822f": {
+   "nota_correccion": "oscuro; CORRECCIÓN: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
+   "desc": "Mapa de desplazamiento slit-scan D6 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada"
+  },
+  "or:17ed25cc8fea53b3a4430eac4ecd7f48": {
+   "nota_correccion": "CORRECCIÓN: la desc dice 1080×1920 pero se ve 16:9 apaisado",
+   "desc": "Mapa de desplazamiento slit-scan D7 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero se ve 16:9 apaisado"
+  },
+  "or:41ba0bc4cba94bee4a1e67259cf0c1ad": {
+   "nota_correccion": "CORRECCIÓN: la desc dice 1080×1920 pero se ve 16:9 apaisado",
+   "desc": "Mapa de desplazamiento slit-scan D8 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero se ve 16:9 apaisado"
+  },
+  "or:fd6d910537f224f2787a804b264be2c4": {
+   "nota_correccion": "CORRECCIÓN: el nombre dice BlackPaper pero se ve papel blanco con sellos negros"
+  },
+  "or:e1644953c3b6500e6c6e4a056252f12e": {
+   "nota_correccion": "CORRECCIÓN: rellena por franjas, no barre; duplicado del ProRes H3"
+  },
+  "or:61325f87399efb902a451ad3402887ca": {
+   "nota_correccion": "CORRECCIÓN: bloques en varios puntos; duplicado del ProRes H6"
+  },
+  "or:f026c8ffa28fba98415b34d41558b865": {
+   "nota_correccion": "CORRECCIÓN: cierre tipo telón; duplicado del ProRes H7"
+  },
+  "or:a7a470f2cad770eb3d63ae8c08b2819f": {
+   "nota_correccion": "CORRECCIÓN: rellena por columnas; duplicado del ProRes V3"
+  },
+  "or:b86bbe85bf5459ef25e88f9bdb5b43ce": {
+   "nota_correccion": "CORRECCIÓN: bloques en varios puntos; duplicado del ProRes V6"
+  },
+  "or:459ebc85ade20ab8124befbe9572aacd": {
+   "nota_correccion": "CORRECCIÓN: entra por arriba y abajo a la vez; duplicado del ProRes V7"
+  },
+  "or:2b56822cc2af4b0551e9091d4cd41f2b": {
+   "nota_correccion": "CORRECCIÓN: el nombre dice ocho pero se ven siete"
+  },
+  "or:a424f99984775d56896324266e30f15d": {
+   "nota_correccion": "CORRECCIÓN: fondo negro, no verde"
+  },
+  "or:f8d67b3599f29cff8aa6270aa0f2d2f7": {
+   "nota_correccion": "CORRECCIÓN: tiene fondo azul arriba y verde abajo, no es un borde simple"
+  },
+  "or:bba640f15e7e60c873475b8b5f57130a": {
+   "nota_correccion": "CORRECCIÓN: es un trozo de cartón entero, no solo un borde superior"
+  },
+  "or:19344c74a0e662cccac62b26548ee907": {
+   "nota_correccion": "CORRECCIÓN: es una tira estrecha, no un borde de página"
+  },
+  "or:988d9762b240407e1c760eb854676e5d": {
+   "nota_correccion": "CORRECCIÓN: bloque aislado, no borde de página"
+  },
+  "or:5df061b2e8f223977d78d1340ebb1b5a": {
+   "nota_correccion": "CORRECCIÓN: tira aislada, no borde de página"
+  },
+  "or:7fc38f8c74ed8eb73ee17ef8555faa51": {
+   "nota_correccion": "CORRECCIÓN: bloque aislado, no borde de página"
+  },
+  "or:9f08e625f1db1a2495d2ee5fcf7aaab5": {
+   "nota_correccion": "CORRECCIÓN: bloque con esquina, no borde completo"
+  },
+  "or:540d0570bfadbc61b7119d69d5086aa4": {
+   "nota_correccion": "CORRECCIÓN: tira aislada, no borde de página"
+  },
+  "or:2c32abecd2fe9a63a60dcefad85f02d6": {
+   "nota_correccion": "sutil, CORRECCIÓN: se ven 3×4 paneles, no 4×4"
+  },
+  "or:564682d960f9a12704729c7ca8a1b86b": {
+   "nota_correccion": "CORRECCIÓN: es gris claro, no fondo negro: en trama aclara todo el cuadro"
+  },
+  "or:05f7d47a0b97b876248046dd2b160cad": {
+   "nota_correccion": "CORRECCIÓN: fondo gris claro, no negro"
+  },
+  "or:330b5936fb61eb4b16676e9bf8578c9f": {
+   "nota_correccion": "CORRECCIÓN: el nombre dice papel quemado pero es una mancha cálida difusa sin carbonizado"
+  },
+  "tx:bordes/C_vieja/fragmentos_papel_envejecido_cuadricula_0499": {
+   "nota_correccion": "CORRECCIÓN: no tiene cuadrícula visible pese al nombre",
+   "desc": "fragmentos de papel envejecido (sin cuadrícula visible)"
+  },
+  "tx:bordes/bisel/borde_azul_0506": {
+   "nota_correccion": "CORRECCIÓN: el rasgado está en el borde inferior, no arriba como el resto",
+   "desc": "borde de papel azul con el rasgado ABAJO (al revés que el resto: girar 180°)"
+  },
+  "tx:bordes/gris/borde_papel_rasgado_verde_vivo_0452": {
+   "nota_correccion": "CORRECCIÓN: no es verde, es gris",
+   "desc": "borde de papel rasgado gris (no verde)",
+   "color": "gris"
+  },
+  "tx:imperfecciones/uv/textura_circular_papel_quemado_0970": {
+   "nota_correccion": "nombre dice «papel quemado» pero es un amarilleo suave, no quemadura (corrección)",
+   "desc": "amarilleo circular suave de papel (no es quemadura)"
+  },
+  "tx:superposiciones/9x16/aguada/aguada_1192": {
+   "nota_correccion": "el nombre dice aguada pero es pasta/gouache con relieve de brocha (corrección)",
+   "desc": "pasta / gouache con relieve de brocha (no aguada)"
+  },
+  "tx:superposiciones/9x16/grafito/grafito_1162": {
+   "nota_correccion": "el nombre dice grafito pero son pinceladas de pintura sobre lienzo (corrección)",
+   "desc": "pinceladas de pintura sobre lienzo (no grafito)"
+  },
+  "tx:superposiciones/9x16/veta/veta_1216": {
+   "nota_correccion": "no es 9:16 aunque esté en la carpeta 9x16 (corrección)",
+   "desc": "veta (no es 9:16 aunque esté en esa carpeta)"
+  },
+  "tx:tileables/grafito_y_carbon/grafito_gris_claro_1162": {
+   "nota_correccion": "nombre dice grafito pero es pintura sobre lienzo (corrección)",
+   "desc": "pintura sobre lienzo gris claro (no grafito)"
+  },
+  "tx:tileables/papel/papel_milimetrado_azul_1006": {
+   "nota_correccion": "el nombre dice milimetrado pero es cuadrícula simple de cuadro grande (corrección)",
+   "desc": "papel cuadriculado de cuadro grande (no milimetrado)"
+  },
+  "tx:tileables/pintura/color_gris_1158": {
+   "nota_correccion": "el nombre dice gris pero es muy colorida (corrección); repetición evidente",
+   "desc": "pintura multicolor (el nombre dice gris)",
+   "color": "multicolor"
+  },
+  "tx:tileables/pintura/color_gris_1166": {
+   "nota_correccion": "el nombre dice gris pero es verde agua (corrección); repetición evidente",
+   "desc": "pintura verde agua (el nombre dice gris)",
+   "color": "verde agua"
+  },
+  "tx:tileables/pintura/color_gris_1167": {
+   "nota_correccion": "el nombre dice gris pero es azul verdoso (corrección); repetición evidente",
+   "desc": "pintura azul verdoso (el nombre dice gris)",
+   "color": "azul verdoso"
+  },
+  "tx:tileables/pintura/color_gris_1188": {
+   "nota_correccion": "nombre dice gris pero es oliva y azul (corrección); repetición evidente",
+   "desc": "pintura oliva y azul (el nombre dice gris)",
+   "color": "oliva y azul"
+  },
+  "tx:tileables/pintura/color_gris_1224": {
+   "nota_correccion": "nombre dice gris pero es azul cobalto (corrección); repetición evidente",
+   "desc": "pintura azul cobalto (el nombre dice gris)",
+   "color": "azul cobalto"
+  },
+  "tx:tileables/pintura/color_gris_1226": {
+   "nota_correccion": "nombre dice gris pero es turquesa (corrección); repetición evidente",
+   "desc": "pintura turquesa (el nombre dice gris)",
+   "color": "turquesa"
+  },
+  "tx:tileables/pintura/color_naranja_1189": {
+   "nota_correccion": "nombre dice naranja pero es beige grisáceo (corrección); repetición visible",
+   "desc": "pintura beige grisácea (el nombre dice naranja)",
+   "color": "beige grisáceo"
+  },
+  "tx:tileables/pintura/color_naranja_1219": {
+   "nota_correccion": "nombre dice naranja pero es crema y gris (corrección); repetición evidente",
+   "desc": "pintura crema y gris (el nombre dice naranja)",
+   "color": "crema y gris"
+  },
+  "tx:video/elementos/fuego_y_humo/llamas_y_humo_blancos_monocromo_que_ocup_0006": {
+   "nota_correccion": "corrección: el catálogo dice fondo gris claro y modo multiplicar, pero se ve fuego blanco sobre negro: debe usarse en trama",
+   "modo": "trama",
+   "fondo": "negro",
+   "desc": "llamas y humo blancos sobre NEGRO (monocromo): usar en trama"
+  },
+  "tx:video/transiciones/pintura/transition_texture2": {
+   "nota_correccion": "corrección: el catálogo dice diagonal pero el brochazo es horizontal y avanza de arriba abajo",
+   "desc": "brochazo negro HORIZONTAL que avanza de arriba abajo, cubre y descubre"
+  },
+  "tx:video/transiciones/tinta_4k/horizontal/horizontal_7": {
+   "nota_correccion": "a saltos (8 fps); corrección: no barre en horizontal sino que cierra desde los lados hacia el centro",
+   "desc": "transición de tinta seca que CIERRA desde los dos lados hacia el centro (telón), a saltos 8 fps"
+  },
+  "tx:video/transiciones/tinta_4k/vertical/vertical_3": {
+   "nota_correccion": "a saltos (8 fps); corrección: los trazos son verticales pero no barren de arriba abajo, aparecen por todo el ancho",
+   "desc": "trazos verticales de rotulador que aparecen por todo el ancho (no barren de arriba abajo), a saltos 8 fps"
+  },
+  "tx:video/transiciones/tinta_4k/vertical/vertical_7": {
+   "nota_correccion": "a saltos (8 fps); corrección: cierra desde arriba y abajo hacia el centro (tipo telón horizontal)",
+   "desc": "transición de tinta seca que cierra desde arriba y abajo hacia el centro, a saltos 8 fps"
+  }
+ }
+}

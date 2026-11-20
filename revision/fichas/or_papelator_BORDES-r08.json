@@ -167,7 +167,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r08.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r08.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:6bcb8c38c02ee3feac72779ce16223ee": {
 "que_es": "papel azul con borde de fibras blanco",
@@ -303,7 +305,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r08.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r08.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:c4ede230b62a72c22480c5938091783b": {
 "que_es": "papel azul con borde de fibras blanco diagonal",

@@ -32,7 +32,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-08.jpg"
+"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-08.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:ddf2ffb7d072c0a78655d108d01094ed": {
 "que_es": "transición V7 original: esponja que entra por arriba y abajo y se abre en franja central",
@@ -67,7 +69,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-08.jpg"
+"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-08.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:9092f7aad4220846cf71facf6f83a3bd": {
 "que_es": "V_Texture: textura de tinta negra a pantalla completa que cambia (relleno de las verticales)",

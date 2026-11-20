@@ -32,7 +32,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-03.jpg"
+"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-03.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:d9ae0ab49ab29a96f968be409a9eb541": {
 "que_es": "mate H7: textura de esponja que entra desde ambos lados, cubre y se abre dejando una franja central",
@@ -67,7 +69,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-03.jpg"
+"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-03.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:57a53744ebc6539236f862dc22aaddef": {
 "que_es": "mate vertical V1: frente de pulverizado que baja de arriba abajo",
@@ -172,7 +176,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-03.jpg"
+"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-03.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:c64ae23db3c92707a12744b7081f82b8": {
 "que_es": "mate vertical V4: pinceladas horizontales que bajan de arriba abajo",

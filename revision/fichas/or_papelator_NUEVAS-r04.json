@@ -31,7 +31,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_NUEVAS-r04.jpg"
+"hoja": "revision/hojas/or_papelator_NUEVAS-r04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:f77f6abf36c3b5fdd237baad45ec78f7": {
 "que_es": "papel gris con arrugas grandes curvas",

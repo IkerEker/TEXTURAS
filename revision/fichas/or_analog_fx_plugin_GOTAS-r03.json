@@ -65,7 +65,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_analog_fx_plugin_GOTAS-r03.jpg"
+"hoja": "revision/hojas/or_analog_fx_plugin_GOTAS-r03.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:6e4bc1cb79ad85012d0b1ed40edec585": {
 "que_es": "goteos ondulados finos rotos",

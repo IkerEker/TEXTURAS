@@ -96,7 +96,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_tileables-r16.jpg"
+"hoja": "revision/hojas/tx_tileables-r16.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "tx:tileables/pintura/color_naranja_1227": {
 "que_es": "tile de pintura terracota/gris/beige (de 1227)",

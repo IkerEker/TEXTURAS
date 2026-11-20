@@ -32,7 +32,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_slitscan-01.jpg"
+"hoja": "revision/hojas/or_gumroad_slitscan-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:61653b5a811db30238f07902a58fbf66": {
 "que_es": "mapa slit-scan D2: borde de luz curvo (silueta) sobre oscuro que se desplaza",
@@ -67,7 +69,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_slitscan-01.jpg"
+"hoja": "revision/hojas/or_gumroad_slitscan-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:6d2c1bd9a45ddaf8ce47852013338553": {
 "que_es": "mapa slit-scan D3: láminas que se doblan hacia la derecha sobre fondo claro",
@@ -102,7 +106,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_slitscan-01.jpg"
+"hoja": "revision/hojas/or_gumroad_slitscan-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:ad6a898d288589b0b51ce0da868a8a59": {
 "que_es": "mapa slit-scan D4: cortinas/pliegues verticales con degradado",
@@ -137,7 +143,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_slitscan-01.jpg"
+"hoja": "revision/hojas/or_gumroad_slitscan-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:0fc388a61730c6442568ba79267d8be1": {
 "que_es": "mapa slit-scan D5: barras verticales finas sobre negro",
@@ -172,7 +180,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_slitscan-01.jpg"
+"hoja": "revision/hojas/or_gumroad_slitscan-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:e1d9050b7e75e0c01dc447e6a02e822f": {
 "que_es": "mapa slit-scan D6: pliegues verticales oscuros con franja clara",
@@ -207,6 +217,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_slitscan-01.jpg"
+"hoja": "revision/hojas/or_gumroad_slitscan-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 }

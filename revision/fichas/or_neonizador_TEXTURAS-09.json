@@ -32,7 +32,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_neonizador_TEXTURAS-09.jpg"
+"hoja": "revision/hojas/or_neonizador_TEXTURAS-09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:d63a00623d970e45c7f8bf6722e3d1d6": {
 "que_es": "V_Texture MP4 4K: relleno de tinta negra con vetas",

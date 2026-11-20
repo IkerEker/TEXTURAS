@@ -109,7 +109,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_video-09.jpg"
+"hoja": "revision/hojas/tx_video-09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "tx:video/transiciones/tinta_4k/vertical/vertical_4": {
 "que_es": "brochazos horizontales que bajan de arriba abajo 4K",

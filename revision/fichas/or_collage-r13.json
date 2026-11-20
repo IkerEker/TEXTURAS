@@ -96,7 +96,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_collage-r13.jpg"
+"hoja": "revision/hojas/or_collage-r13.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:52072885a3dfac0f118e046de719d384": {
 "que_es": "tres tiras blancas estrechas sobre gris",
@@ -129,7 +131,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_collage-r13.jpg"
+"hoja": "revision/hojas/or_collage-r13.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:be00ed0ca12a9c5e93cd200ba524baa7": {
 "que_es": "tres tiras de carrocero (una vertical) sobre gris",

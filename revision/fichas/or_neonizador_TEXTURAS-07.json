@@ -32,7 +32,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_neonizador_TEXTURAS-07.jpg"
+"hoja": "revision/hojas/or_neonizador_TEXTURAS-07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:7c6d1576e2ca3a77a397b32e657f90b2": {
 "que_es": "transición H4 MP4 4K: trazos verticales de izquierda a derecha",
@@ -137,7 +139,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_neonizador_TEXTURAS-07.jpg"
+"hoja": "revision/hojas/or_neonizador_TEXTURAS-07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:f026c8ffa28fba98415b34d41558b865": {
 "que_es": "transición H7 MP4 4K: esponja por ambos lados, franja central",
@@ -172,7 +176,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_neonizador_TEXTURAS-07.jpg"
+"hoja": "revision/hojas/or_neonizador_TEXTURAS-07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:4b6b02bd9a999f6ba640a714fe496b03": {
 "que_es": "H_Texture MP4 4K: relleno de tinta negra con vetas",

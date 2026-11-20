@@ -137,7 +137,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-02.jpg"
+"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:74e6963dbf115e61d07cc26244861de1": {
 "que_es": "mate de tinta horizontal H4: trazos verticales de brocha que barren de izquierda a derecha",

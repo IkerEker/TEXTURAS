@@ -67,7 +67,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-06.jpg"
+"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-06.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:99b723ba9237d1da9611e3074607131c": {
 "que_es": "transición H4 original: trazos verticales que barren de izquierda a derecha",
@@ -172,7 +174,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-06.jpg"
+"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-06.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:99604d7a0e79f152ee67677106f562bc": {
 "que_es": "transición H7 original: esponja que entra por ambos lados y se abre en franja central",
@@ -207,6 +211,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-06.jpg"
+"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-06.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 }

@@ -67,7 +67,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-04.jpg"
+"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:372a4937db41849c770470b502c91985": {
 "que_es": "mate V7: textura de esponja que entra por arriba y abajo y se abre en franja central",
@@ -102,7 +104,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-04.jpg"
+"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:3df549c8454bef1f42876e6056cb27c9": {
 "que_es": "transición D1 original: pulverizado negro diagonal sobre papel blanco con textura",

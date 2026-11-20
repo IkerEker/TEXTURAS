@@ -32,7 +32,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/co-r10.jpg"
+"hoja": "revision/hojas/co-r10.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "tx:collage/cintas/carrocero/carrocero_0186_3": {
 "que_es": "tira blanca fina con empalme",
@@ -67,7 +69,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/co-r10.jpg"
+"hoja": "revision/hojas/co-r10.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "tx:collage/cintas/carrocero/carrocero_0187_1": {
 "que_es": "tira de carrocero vertical amarillenta",

@@ -31,7 +31,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r07.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:2fcdf49bf0bd58fcd44d8cf79d4dd76d": {
 "que_es": "papel gris con borde muy fibroso",
@@ -201,7 +203,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r07.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:7fc38f8c74ed8eb73ee17ef8555faa51": {
 "que_es": "bloque de cartón marrón oscuro arrugado",
@@ -235,7 +239,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r07.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:d5ce8aced17d6b02d955ff3119ee04c9": {
 "que_es": "papel blanco con borde de fibras",

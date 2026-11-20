@@ -32,7 +32,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_slitscan-02.jpg"
+"hoja": "revision/hojas/or_gumroad_slitscan-02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:41ba0bc4cba94bee4a1e67259cf0c1ad": {
 "que_es": "mapa slit-scan horizontal D8: superficie ondulada con estrías horizontales",
@@ -67,7 +69,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_slitscan-02.jpg"
+"hoja": "revision/hojas/or_gumroad_slitscan-02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:efe3dfc5687e4da0bd90c7fcd454c289": {
 "que_es": "mapa slit-scan vertical D1: láminas horizontales rayadas, 9:16",

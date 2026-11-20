@@ -102,7 +102,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-09.jpg"
+"hoja": "revision/hojas/tx_bordes-09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "tx:bordes/gris/carton_gris_rasgado_0485": {
 "que_es": "cartón gris con rasgado crema fibroso regular",

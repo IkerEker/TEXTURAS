@@ -1173,7 +1173,7 @@
 "tipo": "imagen",
 "clase": "bordes",
 "sub": "C_vieja",
-"desc": "Fragmentos de papel envejecido en cuadrícula",
+"desc": "fragmentos de papel envejecido (sin cuadrícula visible)",
 "md5": "f24c10d45e55c851c4e5b1258dcf05fa",
 "w": 1536,
 "h": 1024,
@@ -1201,6 +1201,10 @@
 1536
 ],
 "hoja": "TEXTURAS/hojas/bordes__C_vieja.jpg",
+"nota_correccion": "CORRECCIÓN: no tiene cuadrícula visible pese al nombre",
+"antes_de_corregir": {
+"desc": "Fragmentos de papel envejecido en cuadrícula"
+},
 "revision": {
 "que_es": "4 trozos de papel envejecido limpio, esquinas redondeadas (el nombre dice cuadrícula pero no se ve cuadrícula)",
 "calidad": 4,
@@ -1234,7 +1238,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-02.jpg"
+"hoja": "revision/hojas/tx_bordes-02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -1952,7 +1958,7 @@
 "tipo": "imagen",
 "clase": "bordes",
 "sub": "bisel",
-"desc": "Borde de papel azul",
+"desc": "borde de papel azul con el rasgado ABAJO (al revés que el resto: girar 180°)",
 "md5": "b00f5bf97cef0cd35622fe1567464db3",
 "w": 2528,
 "h": 1696,
@@ -1979,6 +1985,10 @@
 2528
 ],
 "hoja": "TEXTURAS/hojas/bordes__bisel.jpg",
+"nota_correccion": "CORRECCIÓN: el rasgado está en el borde inferior, no arriba como el resto",
+"antes_de_corregir": {
+"desc": "Borde de papel azul"
+},
 "revision": {
 "que_es": "tira azul eléctrico ARRIBA con el rasgado blanco fibroso ABAJO",
 "calidad": 4,
@@ -2012,7 +2022,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-02.jpg"
+"hoja": "revision/hojas/tx_bordes-02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -8624,7 +8636,7 @@
 "tipo": "imagen",
 "clase": "bordes",
 "sub": "gris",
-"desc": "Borde de Papel Rasgado sobre Verde Vivo",
+"desc": "borde de papel rasgado gris (no verde)",
 "md5": "79ea8bdf3017978c6d47f50a2650a333",
 "w": 1536,
 "h": 1024,
@@ -8652,6 +8664,10 @@
 1536
 ],
 "hoja": "TEXTURAS/hojas/bordes__gris.jpg",
+"nota_correccion": "CORRECCIÓN: no es verde, es gris",
+"antes_de_corregir": {
+"desc": "Borde de Papel Rasgado sobre Verde Vivo"
+},
 "revision": {
 "que_es": "cartulina gris con rasgado blanco en doble capa (el nombre dice «verde vivo» pero es gris)",
 "calidad": 4,
@@ -8685,7 +8701,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_bordes-09.jpg"
+"hoja": "revision/hojas/tx_bordes-09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -22925,7 +22943,7 @@
 "tipo": "imagen",
 "clase": "imperfecciones",
 "sub": "uv",
-"desc": "Textura Circular de Papel Quemado",
+"desc": "amarilleo circular suave de papel (no es quemadura)",
 "md5": "c493e4f5e5992d55f6a41449e7232789",
 "w": 1117,
 "h": 1103,
@@ -22959,6 +22977,10 @@
 "pieza": 1,
 "piezas": 1,
 "hoja": "TEXTURAS/hojas/imperfecciones__uv.jpg",
+"nota_correccion": "nombre dice «papel quemado» pero es un amarilleo suave, no quemadura (corrección)",
+"antes_de_corregir": {
+"desc": "Textura Circular de Papel Quemado"
+},
 "revision": {
 "que_es": "mancha circular cálida difusa con centro algo más ocre",
 "calidad": 4,
@@ -22992,7 +23014,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_imperfecciones-12.jpg"
+"hoja": "revision/hojas/tx_imperfecciones-12.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -55612,7 +55636,7 @@
 "tipo": "imagen",
 "clase": "superposiciones",
 "sub": "9x16/aguada",
-"desc": "Textura 9:16 · aguada",
+"desc": "pasta / gouache con relieve de brocha (no aguada)",
 "md5": "335d2194a64892b4afb882f94a658826",
 "w": 1536,
 "h": 2752,
@@ -55631,6 +55655,10 @@
 "metodo": "superposicion_y_tile",
 "licencia": "propio",
 "hoja": "TEXTURAS/hojas/superposiciones__9x16__aguada.jpg",
+"nota_correccion": "el nombre dice aguada pero es pasta/gouache con relieve de brocha (corrección)",
+"antes_de_corregir": {
+"desc": "Textura 9:16 · aguada"
+},
 "revision": {
 "que_es": "capa gris uniforme con relieve de pinceladas empastadas",
 "calidad": 4,
@@ -55662,7 +55690,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_superposiciones-r01.jpg"
+"hoja": "revision/hojas/tx_superposiciones-r01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -56876,7 +56906,7 @@
 "tipo": "imagen",
 "clase": "superposiciones",
 "sub": "9x16/grafito",
-"desc": "Textura 9:16 · grafito",
+"desc": "pinceladas de pintura sobre lienzo (no grafito)",
 "md5": "19c81e16de04148db8d5022a6d9797f8",
 "w": 1536,
 "h": 2752,
@@ -56895,6 +56925,10 @@
 "metodo": "superposicion_y_tile",
 "licencia": "propio",
 "hoja": "TEXTURAS/hojas/superposiciones__9x16__grafito.jpg",
+"nota_correccion": "el nombre dice grafito pero son pinceladas de pintura sobre lienzo (corrección)",
+"antes_de_corregir": {
+"desc": "Textura 9:16 · grafito"
+},
 "revision": {
 "que_es": "pinceladas curvas de pintura gris sobre lienzo (tipo escamas/ondas)",
 "calidad": 4,
@@ -56926,7 +56960,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_superposiciones-r02.jpg"
+"hoja": "revision/hojas/tx_superposiciones-r02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -61264,7 +61300,7 @@
 "tipo": "imagen",
 "clase": "superposiciones",
 "sub": "9x16/veta",
-"desc": "Textura 9:16 · veta",
+"desc": "veta (no es 9:16 aunque esté en esa carpeta)",
 "md5": "076303282cec3c1364f4ecc3938f0f5e",
 "w": 2072,
 "h": 2048,
@@ -61283,6 +61319,10 @@
 "metodo": "superposicion_y_tile",
 "licencia": "propio",
 "hoja": "TEXTURAS/hojas/superposiciones__9x16__veta.jpg",
+"nota_correccion": "no es 9:16 aunque esté en la carpeta 9x16 (corrección)",
+"antes_de_corregir": {
+"desc": "Textura 9:16 · veta"
+},
 "revision": {
 "que_es": "vetas verticales gris-beige (formato casi cuadrado 2072×2048)",
 "calidad": 4,
@@ -61314,7 +61354,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_superposiciones-r07.jpg"
+"hoja": "revision/hojas/tx_superposiciones-r07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -63267,7 +63309,7 @@
 "tipo": "imagen",
 "clase": "tileables",
 "sub": "grafito_y_carbon",
-"desc": "grafito gris claro",
+"desc": "pintura sobre lienzo gris claro (no grafito)",
 "md5": "3d26c6ab0122f302ae62656ea632acda",
 "w": 1408,
 "h": 2624,
@@ -63291,6 +63333,10 @@
 0.83
 ],
 "hoja": "TEXTURAS/hojas/tileables__grafito_y_carbon.jpg",
+"nota_correccion": "nombre dice grafito pero es pintura sobre lienzo (corrección)",
+"antes_de_corregir": {
+"desc": "grafito gris claro"
+},
 "revision": {
 "que_es": "tile de pinceladas curvas sobre lienzo (de grafito_1162; no es grafito, es pintura)",
 "calidad": 4,
@@ -63322,7 +63368,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_tileables-r01.jpg"
+"hoja": "revision/hojas/tx_tileables-r01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -69111,7 +69159,7 @@
 "tipo": "imagen",
 "clase": "tileables",
 "sub": "papel",
-"desc": "Cuadriculado grande",
+"desc": "papel cuadriculado de cuadro grande (no milimetrado)",
 "md5": "1e48846a0c6e99857de8b0ac76930109",
 "w": 647,
 "h": 764,
@@ -69136,6 +69184,10 @@
 7.16
 ],
 "hoja": "TEXTURAS/hojas/tileables__papel.jpg",
+"nota_correccion": "el nombre dice milimetrado pero es cuadrícula simple de cuadro grande (corrección)",
+"antes_de_corregir": {
+"desc": "Cuadriculado grande"
+},
 "revision": {
 "que_es": "papel cuadriculado azul de cuadro grande",
 "calidad": 4,
@@ -69167,7 +69219,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_tileables-r07.jpg"
+"hoja": "revision/hojas/tx_tileables-r07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -76464,7 +76518,7 @@
 "tipo": "imagen",
 "clase": "tileables",
 "sub": "pintura",
-"desc": "color gris",
+"desc": "pintura multicolor (el nombre dice gris)",
 "md5": "0f811cd84903ba09266c87ffb7184c80",
 "w": 1408,
 "h": 2624,
@@ -76473,7 +76527,7 @@
 "modo": "multiplicar",
 "modo_texto": "normal o multiplicar",
 "modo_fuente": "TEXTURAS",
-"color": "gris",
+"color": "multicolor",
 "color_medio": [
 109,
 142,
@@ -76488,6 +76542,11 @@
 1.07
 ],
 "hoja": "TEXTURAS/hojas/tileables__pintura.jpg",
+"nota_correccion": "el nombre dice gris pero es muy colorida (corrección); repetición evidente",
+"antes_de_corregir": {
+"desc": "color gris",
+"color": "gris"
+},
 "revision": {
 "que_es": "tile de pintura azul cobalto/turquesa/verde (de pintura_color_1158)",
 "calidad": 3,
@@ -76519,7 +76578,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_tileables-r15.jpg"
+"hoja": "revision/hojas/tx_tileables-r15.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -76529,7 +76590,7 @@
 "tipo": "imagen",
 "clase": "tileables",
 "sub": "pintura",
-"desc": "color gris",
+"desc": "pintura verde agua (el nombre dice gris)",
 "md5": "9b4ce0abd9206c5ffaeb21c0653af14e",
 "w": 1408,
 "h": 2624,
@@ -76538,7 +76599,7 @@
 "modo": "multiplicar",
 "modo_texto": "normal o multiplicar",
 "modo_fuente": "TEXTURAS",
-"color": "gris",
+"color": "verde agua",
 "color_medio": [
 149,
 180,
@@ -76553,6 +76614,11 @@
 0.91
 ],
 "hoja": "TEXTURAS/hojas/tileables__pintura.jpg",
+"nota_correccion": "el nombre dice gris pero es verde agua (corrección); repetición evidente",
+"antes_de_corregir": {
+"desc": "color gris",
+"color": "gris"
+},
 "revision": {
 "que_es": "tile de pintura verde agua (de 1166)",
 "calidad": 3,
@@ -76584,7 +76650,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_tileables-r15.jpg"
+"hoja": "revision/hojas/tx_tileables-r15.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -76594,7 +76662,7 @@
 "tipo": "imagen",
 "clase": "tileables",
 "sub": "pintura",
-"desc": "color gris",
+"desc": "pintura azul verdoso (el nombre dice gris)",
 "md5": "8e0739ebe22a9af80b236a768ab0a115",
 "w": 1408,
 "h": 2624,
@@ -76603,7 +76671,7 @@
 "modo": "multiplicar",
 "modo_texto": "normal o multiplicar",
 "modo_fuente": "TEXTURAS",
-"color": "gris",
+"color": "azul verdoso",
 "color_medio": [
 137,
 157,
@@ -76618,6 +76686,11 @@
 0.97
 ],
 "hoja": "TEXTURAS/hojas/tileables__pintura.jpg",
+"nota_correccion": "el nombre dice gris pero es azul verdoso (corrección); repetición evidente",
+"antes_de_corregir": {
+"desc": "color gris",
+"color": "gris"
+},
 "revision": {
 "que_es": "tile de pintura azul-verde-oscuro (de 1167)",
 "calidad": 3,
@@ -76649,7 +76722,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_tileables-r15.jpg"
+"hoja": "revision/hojas/tx_tileables-r15.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -76724,7 +76799,7 @@
 "tipo": "imagen",
 "clase": "tileables",
 "sub": "pintura",
-"desc": "color gris",
+"desc": "pintura oliva y azul (el nombre dice gris)",
 "md5": "21fed16811469c3561736012ac7c34e1",
 "w": 1408,
 "h": 2624,
@@ -76733,7 +76808,7 @@
 "modo": "multiplicar",
 "modo_texto": "normal o multiplicar",
 "modo_fuente": "TEXTURAS",
-"color": "gris",
+"color": "oliva y azul",
 "color_medio": [
 125,
 135,
@@ -76748,6 +76823,11 @@
 1.07
 ],
 "hoja": "TEXTURAS/hojas/tileables__pintura.jpg",
+"nota_correccion": "nombre dice gris pero es oliva y azul (corrección); repetición evidente",
+"antes_de_corregir": {
+"desc": "color gris",
+"color": "gris"
+},
 "revision": {
 "que_es": "tile de pintura oliva/azul marino/blanco (de 1188)",
 "calidad": 3,
@@ -76779,7 +76859,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_tileables-r15.jpg"
+"hoja": "revision/hojas/tx_tileables-r15.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -76789,7 +76871,7 @@
 "tipo": "imagen",
 "clase": "tileables",
 "sub": "pintura",
-"desc": "color gris",
+"desc": "pintura azul cobalto (el nombre dice gris)",
 "md5": "695a4ddab094c59d166433f721468c7d",
 "w": 1408,
 "h": 2624,
@@ -76798,7 +76880,7 @@
 "modo": "multiplicar",
 "modo_texto": "normal o multiplicar",
 "modo_fuente": "TEXTURAS",
-"color": "gris",
+"color": "azul cobalto",
 "color_medio": [
 110,
 140,
@@ -76813,6 +76895,11 @@
 1.08
 ],
 "hoja": "TEXTURAS/hojas/tileables__pintura.jpg",
+"nota_correccion": "nombre dice gris pero es azul cobalto (corrección); repetición evidente",
+"antes_de_corregir": {
+"desc": "color gris",
+"color": "gris"
+},
 "revision": {
 "que_es": "tile de pintura cobalto/verde (de 1224)",
 "calidad": 3,
@@ -76844,7 +76931,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_tileables-r15.jpg"
+"hoja": "revision/hojas/tx_tileables-r15.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -76919,7 +77008,7 @@
 "tipo": "imagen",
 "clase": "tileables",
 "sub": "pintura",
-"desc": "color gris",
+"desc": "pintura turquesa (el nombre dice gris)",
 "md5": "d343b98e1bec58cefb6a4bde07838c19",
 "w": 1408,
 "h": 2624,
@@ -76928,7 +77017,7 @@
 "modo": "multiplicar",
 "modo_texto": "normal o multiplicar",
 "modo_fuente": "TEXTURAS",
-"color": "gris",
+"color": "turquesa",
 "color_medio": [
 120,
 155,
@@ -76943,6 +77032,11 @@
 0.93
 ],
 "hoja": "TEXTURAS/hojas/tileables__pintura.jpg",
+"nota_correccion": "nombre dice gris pero es turquesa (corrección); repetición evidente",
+"antes_de_corregir": {
+"desc": "color gris",
+"color": "gris"
+},
 "revision": {
 "que_es": "tile de pintura turquesa/azul marino (de 1226)",
 "calidad": 3,
@@ -76974,7 +77068,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_tileables-r15.jpg"
+"hoja": "revision/hojas/tx_tileables-r15.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -77244,7 +77340,7 @@
 "tipo": "imagen",
 "clase": "tileables",
 "sub": "pintura",
-"desc": "color naranja",
+"desc": "pintura beige grisácea (el nombre dice naranja)",
 "md5": "a4c07188c1b69c4676b0d87153a44238",
 "w": 1408,
 "h": 2624,
@@ -77253,7 +77349,7 @@
 "modo": "multiplicar",
 "modo_texto": "normal o multiplicar",
 "modo_fuente": "TEXTURAS",
-"color": "naranja",
+"color": "beige grisáceo",
 "color_medio": [
 202,
 186,
@@ -77268,6 +77364,11 @@
 1.13
 ],
 "hoja": "TEXTURAS/hojas/tileables__pintura.jpg",
+"nota_correccion": "nombre dice naranja pero es beige grisáceo (corrección); repetición visible",
+"antes_de_corregir": {
+"desc": "color naranja",
+"color": "naranja"
+},
 "revision": {
 "que_es": "tile de pintura beige/gris claro (de 1189)",
 "calidad": 3,
@@ -77299,7 +77400,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_tileables-r15.jpg"
+"hoja": "revision/hojas/tx_tileables-r15.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -77569,7 +77672,7 @@
 "tipo": "imagen",
 "clase": "tileables",
 "sub": "pintura",
-"desc": "color naranja",
+"desc": "pintura crema y gris (el nombre dice naranja)",
 "md5": "7e810cb9baacc0dbb0b8b447858bb43a",
 "w": 1408,
 "h": 2624,
@@ -77578,7 +77681,7 @@
 "modo": "multiplicar",
 "modo_texto": "normal o multiplicar",
 "modo_fuente": "TEXTURAS",
-"color": "naranja",
+"color": "crema y gris",
 "color_medio": [
 218,
 191,
@@ -77593,6 +77696,11 @@
 1.13
 ],
 "hoja": "TEXTURAS/hojas/tileables__pintura.jpg",
+"nota_correccion": "nombre dice naranja pero es crema y gris (corrección); repetición evidente",
+"antes_de_corregir": {
+"desc": "color naranja",
+"color": "naranja"
+},
 "revision": {
 "que_es": "tile de pintura crema/gris/negro (de 1219)",
 "calidad": 3,
@@ -77624,7 +77732,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/tx_tileables-r16.jpg"
+"hoja": "revision/hojas/tx_tileables-r16.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -112224,14 +112334,14 @@
 "tipo": "video",
 "clase": "video",
 "sub": "elementos/fuego_y_humo",
-"desc": "Llamas y humo blancos (monocromo) que ocupan todo el cuadro",
+"desc": "llamas y humo blancos sobre NEGRO (monocromo): usar en trama",
 "md5": "75ae736bc9130c34f526156993f64e77",
 "w": 1080,
 "h": 1920,
 "alfa": false,
-"fondo": "gris claro",
+"fondo": "negro",
 "tileable": false,
-"modo": "multiplicar",
+"modo": "trama",
 "modo_texto": "multiplicar (el blanco desaparece)",
 "modo_fuente": "TEXTURAS",
 "origen": "or:3ecc6217bfd4a5fb8d7f997bc5760cf2",
@@ -112256,6 +112366,12 @@
 "incrustado": false
 },
 "hoja": "TEXTURAS/hojas/video__elementos__fuego_y_humo.jpg",
+"nota_correccion": "corrección: el catálogo dice fondo gris claro y modo multiplicar, pero se ve fuego blanco sobre negro: debe usarse en trama",
+"antes_de_corregir": {
+"modo": "multiplicar",
+"fondo": "gris claro",
+"desc": "Llamas y humo blancos (monocromo) que ocupan todo el cuadro"
+},
 "revision": {
 "que_es": "llamas y humo blancos monocromo que ocupan el cuadro, sobre fondo NEGRO, 10 s",
 "calidad": 4,
@@ -112283,6 +112399,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/tx_video-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -114268,7 +114386,7 @@
 "tipo": "video",
 "clase": "video",
 "sub": "transiciones/pintura",
-"desc": "Brochazo negro diagonal que cubre y descubre la pantalla",
+"desc": "brochazo negro HORIZONTAL que avanza de arriba abajo, cubre y descubre",
 "md5": "804a6d1e56ce121eb05c70672dcb2e9d",
 "w": 1920,
 "h": 1080,
@@ -114320,6 +114438,10 @@
 "ritmo_autor": "animado a mano: Posterize Time 12/8/6 fps; cambiar velocidad por saltos, no por interpolación",
 "desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "hoja": "TEXTURAS/hojas/video__transiciones__pintura.jpg",
+"nota_correccion": "corrección: el catálogo dice diagonal pero el brochazo es horizontal y avanza de arriba abajo",
+"antes_de_corregir": {
+"desc": "Brochazo negro diagonal que cubre y descubre la pantalla"
+},
 "revision": {
 "que_es": "brochazo negro horizontal ancho que entra desde arriba, tapa la pantalla y se va por abajo, 1 s",
 "calidad": 5,
@@ -114347,6 +114469,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/tx_video-06.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -115743,7 +115867,7 @@
 "tipo": "video",
 "clase": "video",
 "sub": "transiciones/tinta_4k/horizontal",
-"desc": "Transición horizontal de tinta seca y textura de esponja (4K): cubre la pantalla y la descubre",
+"desc": "transición de tinta seca que CIERRA desde los dos lados hacia el centro (telón), a saltos 8 fps",
 "md5": "212cc3bee84c8db4f10f19aa144ddd0c",
 "w": 3840,
 "h": 2160,
@@ -115796,6 +115920,10 @@
 "desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Horizontal/H7/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__horizontal.jpg",
+"nota_correccion": "a saltos (8 fps); corrección: no barre en horizontal sino que cierra desde los lados hacia el centro",
+"antes_de_corregir": {
+"desc": "Transición horizontal de tinta seca y textura de esponja (4K): cubre la pantalla y la descubre"
+},
 "revision": {
 "que_es": "tinta seca de esponja que entra por los dos lados, cierra en el centro y se abre dejando franja central",
 "calidad": 4,
@@ -115823,6 +115951,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/tx_video-08.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -116104,7 +116234,7 @@
 "tipo": "video",
 "clase": "video",
 "sub": "transiciones/tinta_4k/vertical",
-"desc": "Transición vertical de trazos de rotulador inclinados (4K): cubre la pantalla y la descubre",
+"desc": "trazos verticales de rotulador que aparecen por todo el ancho (no barren de arriba abajo), a saltos 8 fps",
 "md5": "c005e60f956e177d1017e783a8b213ce",
 "w": 3840,
 "h": 2160,
@@ -116157,6 +116287,10 @@
 "desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Vertical/V3/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__vertical.jpg",
+"nota_correccion": "a saltos (8 fps); corrección: los trazos son verticales pero no barren de arriba abajo, aparecen por todo el ancho",
+"antes_de_corregir": {
+"desc": "Transición vertical de trazos de rotulador inclinados (4K): cubre la pantalla y la descubre"
+},
 "revision": {
 "que_es": "trazos verticales de rotulador que aparecen por toda la pantalla y se vacían 4K",
 "calidad": 4,
@@ -116184,6 +116318,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/tx_video-09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -116476,7 +116612,7 @@
 "tipo": "video",
 "clase": "video",
 "sub": "transiciones/tinta_4k/vertical",
-"desc": "Transición vertical de tinta seca y textura de esponja (4K): cubre la pantalla y la descubre",
+"desc": "transición de tinta seca que cierra desde arriba y abajo hacia el centro, a saltos 8 fps",
 "md5": "320c56510bc9a75cf09031ffc2960f3f",
 "w": 3840,
 "h": 2160,
@@ -116529,6 +116665,10 @@
 "desplazamiento": "luminancia como Displacement Map, pocos píxeles (como en el proyecto del autor)",
 "version_sin_perdida": "originales/neonizador/TEXTURAS/GUMROAD/TransitionPack4K_Gumroad/Textured_PNGs/Vertical/V7/ (8 PNG 4K)",
 "hoja": "TEXTURAS/hojas/video__transiciones__tinta_4k__vertical.jpg",
+"nota_correccion": "a saltos (8 fps); corrección: cierra desde arriba y abajo hacia el centro (tipo telón horizontal)",
+"antes_de_corregir": {
+"desc": "Transición vertical de tinta seca y textura de esponja (4K): cubre la pantalla y la descubre"
+},
 "revision": {
 "que_es": "tinta seca de esponja que entra desde arriba y abajo, cierra y se abre dejando franja central",
 "calidad": 4,
@@ -116556,6 +116696,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/tx_video-10.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -120382,6 +120524,7 @@
 "tx:trazos/pincel/ocho_pinceladas_azules_0061_06",
 "tx:trazos/pincel/ocho_pinceladas_azules_0061_07"
 ],
+"nota_correccion": "CORRECCIÓN: el nombre dice ocho pero se ven siete",
 "revision": {
 "que_es": "siete pinceladas azules finas",
 "calidad": 5,
@@ -120414,7 +120557,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_APOYO-r08.jpg"
+"hoja": "revision/hojas/or_papelator_APOYO-r08.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -122887,6 +123032,7 @@
 "tx:manchas/goteos/impacto/goteo_148",
 "tx:manchas/goteos/seca/goteo_145"
 ],
+"nota_correccion": "CORRECCIÓN: son manchas sueltas con goteo, no goteos desde el borde",
 "revision": {
 "que_es": "manchas de pintura seca con goteo corto (no cuelgan de arriba)",
 "calidad": 5,
@@ -122919,7 +123065,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_analog_fx_plugin_GOTAS-r03.jpg"
+"hoja": "revision/hojas/or_analog_fx_plugin_GOTAS-r03.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -134098,6 +134246,7 @@
 "tx:superposiciones/9x16/veta/veta_1216",
 "tx:tileables/veta_pintada/veta_gris_1216"
 ],
+"nota_correccion": "CORRECCIÓN: no es 9:16, es casi cuadrado (2072×2048)",
 "revision": {
 "que_es": "arrastres verticales grises, 2072×2048 casi cuadrado",
 "calidad": 4,
@@ -134130,7 +134279,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_analog_fx_plugin_textures_src-r12.jpg"
+"hoja": "revision/hojas/or_analog_fx_plugin_textures_src-r12.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -140249,6 +140400,7 @@
 "productos": [
 "tx:video/texturas_animadas/sellos/texture8_black_paper_stamps"
 ],
+"nota_correccion": "CORRECCIÓN: el nombre dice BlackPaper pero se ve papel blanco con sellos negros",
 "revision": {
 "que_es": "papel blanco con sellos circulares negros (huellas de esponja) que cambian",
 "calidad": 5,
@@ -140283,6 +140435,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_neonizador_TEXTURAS-04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -141203,6 +141357,7 @@
 "productos": [
 "tx:video/transiciones/tinta_4k/horizontal/horizontal_3"
 ],
+"nota_correccion": "CORRECCIÓN: rellena por franjas, no barre; duplicado del ProRes H3",
 "revision": {
 "que_es": "transición H3 MP4 4K: brochazos horizontales por franjas",
 "calidad": 5,
@@ -141237,6 +141392,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_neonizador_TEXTURAS-07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -141362,6 +141519,7 @@
 "productos": [
 "tx:video/transiciones/tinta_4k/horizontal/horizontal_6"
 ],
+"nota_correccion": "CORRECCIÓN: bloques en varios puntos; duplicado del ProRes H6",
 "revision": {
 "que_es": "transición H6 MP4 4K: bloques de rodillo dispersos",
 "calidad": 5,
@@ -141396,6 +141554,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_neonizador_TEXTURAS-07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -141415,6 +141575,7 @@
 "productos": [
 "tx:video/transiciones/tinta_4k/horizontal/horizontal_7"
 ],
+"nota_correccion": "CORRECCIÓN: cierre tipo telón; duplicado del ProRes H7",
 "revision": {
 "que_es": "transición H7 MP4 4K: esponja por ambos lados, franja central",
 "calidad": 5,
@@ -141449,6 +141610,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_neonizador_TEXTURAS-07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -141627,6 +141790,7 @@
 "productos": [
 "tx:video/transiciones/tinta_4k/vertical/vertical_3"
 ],
+"nota_correccion": "CORRECCIÓN: rellena por columnas; duplicado del ProRes V3",
 "revision": {
 "que_es": "transición V3 MP4 4K: columnas de brochazo",
 "calidad": 5,
@@ -141661,6 +141825,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_neonizador_TEXTURAS-08.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -141786,6 +141952,7 @@
 "productos": [
 "tx:video/transiciones/tinta_4k/vertical/vertical_6"
 ],
+"nota_correccion": "CORRECCIÓN: bloques en varios puntos; duplicado del ProRes V6",
 "revision": {
 "que_es": "transición V6 MP4 4K: bloques de rodillo dispersos",
 "calidad": 5,
@@ -141820,6 +141987,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_neonizador_TEXTURAS-08.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -141839,6 +142008,7 @@
 "productos": [
 "tx:video/transiciones/tinta_4k/vertical/vertical_7"
 ],
+"nota_correccion": "CORRECCIÓN: entra por arriba y abajo a la vez; duplicado del ProRes V7",
 "revision": {
 "que_es": "transición V7 MP4 4K: esponja que entra por arriba y abajo y se abre en franja",
 "calidad": 5,
@@ -141873,6 +142043,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_neonizador_TEXTURAS-09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -153884,6 +154056,7 @@
 "productos": [
 "tx:pliegues/6_pliegues/textura_pliegues_cuadricula_4_0721"
 ],
+"nota_correccion": "sutil, CORRECCIÓN: se ven 3×4 paneles, no 4×4",
 "revision": {
 "que_es": "cuadrícula de pliegues 4×4 muy suave",
 "calidad": 4,
@@ -153916,7 +154089,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_NUEVAS-r04.jpg"
+"hoja": "revision/hojas/or_papelator_NUEVAS-r04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -155665,6 +155840,7 @@
 "productos": [
 "tx:tileables/vidrios_y_plasticos/textura_vidrio_acanalado_gris_0832"
 ],
+"nota_correccion": "CORRECCIÓN: es gris claro, no fondo negro: en trama aclara todo el cuadro",
 "revision": {
 "que_es": "vidrio acanalado gris claro",
 "calidad": 5,
@@ -155697,7 +155873,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_SOBREPONER-r02.jpg"
+"hoja": "revision/hojas/or_papelator_SOBREPONER-r02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -155716,6 +155894,7 @@
 "productos": [
 "tx:tileables/vidrios_y_plasticos/textura_vidrio_estriado_translucido_0837"
 ],
+"nota_correccion": "CORRECCIÓN: fondo gris claro, no negro",
 "revision": {
 "que_es": "vidrio estriado translúcido gris claro",
 "calidad": 5,
@@ -155748,7 +155927,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_SOBREPONER-r03.jpg"
+"hoja": "revision/hojas/or_papelator_SOBREPONER-r03.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -161937,6 +162118,7 @@
 "productos": [
 "tx:imperfecciones/uv/textura_circular_papel_quemado_0970"
 ],
+"nota_correccion": "CORRECCIÓN: el nombre dice papel quemado pero es una mancha cálida difusa sin carbonizado",
 "revision": {
 "que_es": "mancha difusa naranja (no es quemadura marcada)",
 "calidad": 4,
@@ -161969,7 +162151,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_imperfecciones-r09.jpg"
+"hoja": "revision/hojas/or_papelator_imperfecciones-r09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -171964,6 +172148,7 @@
 "productos": [
 "tx:bordes/vegetal/borde_papel_translucido_rasgado_0474"
 ],
+"nota_correccion": "CORRECCIÓN: fondo negro, no verde",
 "revision": {
 "que_es": "papel gris translúcido sobre negro con borde fino",
 "calidad": 5,
@@ -171996,7 +172181,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r02.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -173566,6 +173753,7 @@
 "productos": [
 "tx:bordes/bisel/borde_azul_0506"
 ],
+"nota_correccion": "CORRECCIÓN: tiene fondo azul arriba y verde abajo, no es un borde simple",
 "revision": {
 "que_es": "franja de fibras blancas sobre azul y verde (tira con dos fondos)",
 "calidad": 4,
@@ -173598,7 +173786,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r04.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -175017,6 +175207,7 @@
 "productos": [
 "tx:bordes/carton/borde_naranja_0535"
 ],
+"nota_correccion": "CORRECCIÓN: es un trozo de cartón entero, no solo un borde superior",
 "revision": {
 "que_es": "cartón kraft arrugado en bloque (bordes en tres lados)",
 "calidad": 4,
@@ -175049,7 +175240,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r06.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r06.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -175117,6 +175310,7 @@
 "productos": [
 "tx:bordes/carton/borde_naranja_0537"
 ],
+"nota_correccion": "CORRECCIÓN: es una tira estrecha, no un borde de página",
 "revision": {
 "que_es": "tira de cartón con ventana de corrugado (tira horizontal)",
 "calidad": 4,
@@ -175149,7 +175343,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r06.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r06.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -175267,6 +175463,7 @@
 "productos": [
 "tx:bordes/carton/borde_naranja_0540"
 ],
+"nota_correccion": "CORRECCIÓN: bloque aislado, no borde de página",
 "revision": {
 "que_es": "trozo de cartón kraft arrugado en bloque",
 "calidad": 4,
@@ -175299,7 +175496,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r07.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -175517,6 +175716,7 @@
 "productos": [
 "tx:bordes/carton/borde_naranja_0545"
 ],
+"nota_correccion": "CORRECCIÓN: tira aislada, no borde de página",
 "revision": {
 "que_es": "tira de cartón con corrugado a la izquierda",
 "calidad": 4,
@@ -175549,7 +175749,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r07.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -175567,6 +175769,7 @@
 "productos": [
 "tx:bordes/carton/borde_marron_0546"
 ],
+"nota_correccion": "CORRECCIÓN: bloque aislado, no borde de página",
 "revision": {
 "que_es": "bloque de cartón marrón oscuro arrugado",
 "calidad": 4,
@@ -175599,7 +175802,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r07.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -176217,6 +176422,7 @@
 "productos": [
 "tx:bordes/carton/borde_naranja_0559"
 ],
+"nota_correccion": "CORRECCIÓN: bloque con esquina, no borde completo",
 "revision": {
 "que_es": "bloque de cartón arrugado con esquina izquierda",
 "calidad": 4,
@@ -176249,7 +176455,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r08.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r08.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -176417,6 +176625,7 @@
 "productos": [
 "tx:bordes/carton/borde_naranja_0563"
 ],
+"nota_correccion": "CORRECCIÓN: tira aislada, no borde de página",
 "revision": {
 "que_es": "tira de papel viejo quemado con borde en dientes",
 "calidad": 4,
@@ -176449,7 +176658,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r08.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r08.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -222530,7 +222741,7 @@
 "tipo": "video",
 "md5": "234e8845db058a7ae5e64f1ea79400c7",
 "bytes": 8048870,
-"desc": "Mapa de desplazamiento slit-scan D1 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"desc": "Mapa de desplazamiento slit-scan D1 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
 "autor": "Studio DamDam",
 "pack_origen": "Easy Slit Scan Effect + AE Project",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -222546,6 +222757,10 @@
 "clase": "desplazamiento",
 "desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
 "hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg",
+"nota_correccion": "ninguno; CORRECCIÓN: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
+"antes_de_corregir": {
+"desc": "Mapa de desplazamiento slit-scan D1 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s"
+},
 "revision": {
 "que_es": "mapa slit-scan D1: láminas verticales rayadas que se curvan y giran",
 "calidad": 5,
@@ -222580,6 +222795,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_slitscan-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -222592,7 +222809,7 @@
 "tipo": "video",
 "md5": "61653b5a811db30238f07902a58fbf66",
 "bytes": 7366051,
-"desc": "Mapa de desplazamiento slit-scan D2 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"desc": "Mapa de desplazamiento slit-scan D2 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
 "autor": "Studio DamDam",
 "pack_origen": "Easy Slit Scan Effect + AE Project",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -222608,6 +222825,10 @@
 "clase": "desplazamiento",
 "desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
 "hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg",
+"nota_correccion": "muy oscuro, poco rango; CORRECCIÓN: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
+"antes_de_corregir": {
+"desc": "Mapa de desplazamiento slit-scan D2 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s"
+},
 "revision": {
 "que_es": "mapa slit-scan D2: borde de luz curvo (silueta) sobre oscuro que se desplaza",
 "calidad": 4,
@@ -222642,6 +222863,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_slitscan-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -222654,7 +222877,7 @@
 "tipo": "video",
 "md5": "6d2c1bd9a45ddaf8ce47852013338553",
 "bytes": 7426159,
-"desc": "Mapa de desplazamiento slit-scan D3 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"desc": "Mapa de desplazamiento slit-scan D3 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
 "autor": "Studio DamDam",
 "pack_origen": "Easy Slit Scan Effect + AE Project",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -222670,6 +222893,10 @@
 "clase": "desplazamiento",
 "desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
 "hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg",
+"nota_correccion": "ninguno; CORRECCIÓN: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
+"antes_de_corregir": {
+"desc": "Mapa de desplazamiento slit-scan D3 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s"
+},
 "revision": {
 "que_es": "mapa slit-scan D3: láminas que se doblan hacia la derecha sobre fondo claro",
 "calidad": 5,
@@ -222704,6 +222931,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_slitscan-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -222716,7 +222945,7 @@
 "tipo": "video",
 "md5": "ad6a898d288589b0b51ce0da868a8a59",
 "bytes": 7493693,
-"desc": "Mapa de desplazamiento slit-scan D4 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"desc": "Mapa de desplazamiento slit-scan D4 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
 "autor": "Studio DamDam",
 "pack_origen": "Easy Slit Scan Effect + AE Project",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -222732,6 +222961,10 @@
 "clase": "desplazamiento",
 "desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
 "hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg",
+"nota_correccion": "ninguno; CORRECCIÓN: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
+"antes_de_corregir": {
+"desc": "Mapa de desplazamiento slit-scan D4 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s"
+},
 "revision": {
 "que_es": "mapa slit-scan D4: cortinas/pliegues verticales con degradado",
 "calidad": 5,
@@ -222766,6 +222999,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_slitscan-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -222778,7 +223013,7 @@
 "tipo": "video",
 "md5": "0fc388a61730c6442568ba79267d8be1",
 "bytes": 7088519,
-"desc": "Mapa de desplazamiento slit-scan D5 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"desc": "Mapa de desplazamiento slit-scan D5 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
 "autor": "Studio DamDam",
 "pack_origen": "Easy Slit Scan Effect + AE Project",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -222794,6 +223029,10 @@
 "clase": "desplazamiento",
 "desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
 "hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg",
+"nota_correccion": "muy oscuro; CORRECCIÓN: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
+"antes_de_corregir": {
+"desc": "Mapa de desplazamiento slit-scan D5 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s"
+},
 "revision": {
 "que_es": "mapa slit-scan D5: barras verticales finas sobre negro",
 "calidad": 4,
@@ -222828,6 +223067,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_slitscan-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -222840,7 +223081,7 @@
 "tipo": "video",
 "md5": "e1d9050b7e75e0c01dc447e6a02e822f",
 "bytes": 8063545,
-"desc": "Mapa de desplazamiento slit-scan D6 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"desc": "Mapa de desplazamiento slit-scan D6 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
 "autor": "Studio DamDam",
 "pack_origen": "Easy Slit Scan Effect + AE Project",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -222856,6 +223097,10 @@
 "clase": "desplazamiento",
 "desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
 "hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg",
+"nota_correccion": "oscuro; CORRECCIÓN: la desc dice 1080×1920 pero la versión horizontal se ve 16:9 apaisada",
+"antes_de_corregir": {
+"desc": "Mapa de desplazamiento slit-scan D6 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s"
+},
 "revision": {
 "que_es": "mapa slit-scan D6: pliegues verticales oscuros con franja clara",
 "calidad": 4,
@@ -222890,6 +223135,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_slitscan-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -222902,7 +223149,7 @@
 "tipo": "video",
 "md5": "17ed25cc8fea53b3a4430eac4ecd7f48",
 "bytes": 7799463,
-"desc": "Mapa de desplazamiento slit-scan D7 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"desc": "Mapa de desplazamiento slit-scan D7 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero se ve 16:9 apaisado",
 "autor": "Studio DamDam",
 "pack_origen": "Easy Slit Scan Effect + AE Project",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -222918,6 +223165,10 @@
 "clase": "desplazamiento",
 "desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
 "hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg",
+"nota_correccion": "CORRECCIÓN: la desc dice 1080×1920 pero se ve 16:9 apaisado",
+"antes_de_corregir": {
+"desc": "Mapa de desplazamiento slit-scan D7 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s"
+},
 "revision": {
 "que_es": "mapa slit-scan horizontal D7: rayas verticales finas con franjas claras",
 "calidad": 5,
@@ -222952,6 +223203,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_slitscan-02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -222964,7 +223217,7 @@
 "tipo": "video",
 "md5": "41ba0bc4cba94bee4a1e67259cf0c1ad",
 "bytes": 7394771,
-"desc": "Mapa de desplazamiento slit-scan D8 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s",
+"desc": "Mapa de desplazamiento slit-scan D8 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s — OJO: la desc dice 1080×1920 pero se ve 16:9 apaisado",
 "autor": "Studio DamDam",
 "pack_origen": "Easy Slit Scan Effect + AE Project",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -222980,6 +223233,10 @@
 "clase": "desplazamiento",
 "desplazamiento": "slit-scan: Displacement Map (o Time Displacement) por luminancia",
 "hoja": "TEXTURAS/gumroad/hojas/slitscan.jpg",
+"nota_correccion": "CORRECCIÓN: la desc dice 1080×1920 pero se ve 16:9 apaisado",
+"antes_de_corregir": {
+"desc": "Mapa de desplazamiento slit-scan D8 (horizontal): degradados en gris animados, 1080×1920, 24 fps, 4 s"
+},
 "revision": {
 "que_es": "mapa slit-scan horizontal D8: superficie ondulada con estrías horizontales",
 "calidad": 5,
@@ -223014,6 +223271,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_slitscan-02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -224089,7 +224348,7 @@
 "tipo": "video",
 "md5": "57115dd23a95b3488a89b2a9b05a0df2",
 "bytes": 13941876,
-"desc": "Mate de la transición de tinta H3 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"desc": "Mate de la transición de tinta H3 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s) — OJO: no barre de lado a lado como H1/H2, rellena por franjas horizontales",
 "autor": "Studio DamDam",
 "pack_origen": "Textured Transition Pack",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -224106,6 +224365,10 @@
 "alfa": true,
 "modo": "mascara_alfa",
 "producto": "tx:productos/mates_tinta_4k/horizontal/horizontal_3_mate",
+"nota_correccion": "CORRECCIÓN: no barre de lado a lado como H1/H2, rellena por franjas horizontales",
+"antes_de_corregir": {
+"desc": "Mate de la transición de tinta H3 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)"
+},
 "revision": {
 "que_es": "mate de tinta H3: brochazos horizontales que van rellenando por bandas (no es barrido lateral)",
 "calidad": 5,
@@ -224140,6 +224403,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -224278,7 +224543,7 @@
 "tipo": "video",
 "md5": "3c5ae00c8bb54a3ccda83b378d6c2cb0",
 "bytes": 17590484,
-"desc": "Mate de la transición de tinta H6 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"desc": "Mate de la transición de tinta H6 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s) — OJO: no barre de izquierda a derecha, los bloques salen en varios puntos a la vez",
 "autor": "Studio DamDam",
 "pack_origen": "Textured Transition Pack",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -224295,6 +224560,10 @@
 "alfa": true,
 "modo": "mascara_alfa",
 "producto": "tx:productos/mates_tinta_4k/horizontal/horizontal_6_mate",
+"nota_correccion": "CORRECCIÓN: no barre de izquierda a derecha, los bloques salen en varios puntos a la vez",
+"antes_de_corregir": {
+"desc": "Mate de la transición de tinta H6 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)"
+},
 "revision": {
 "que_es": "mate H6: bloques de rodillo/brochazo seco que aparecen dispersos y se acumulan",
 "calidad": 5,
@@ -224329,6 +224598,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-03.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -224341,7 +224612,7 @@
 "tipo": "video",
 "md5": "d9ae0ab49ab29a96f968be409a9eb541",
 "bytes": 21520868,
-"desc": "Mate de la transición de tinta H7 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"desc": "Mate de la transición de tinta H7 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s) — OJO: entra por los dos lados (cierre tipo telón), no de izquierda a derecha",
 "autor": "Studio DamDam",
 "pack_origen": "Textured Transition Pack",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -224358,6 +224629,10 @@
 "alfa": true,
 "modo": "mascara_alfa",
 "producto": "tx:productos/mates_tinta_4k/horizontal/horizontal_7_mate",
+"nota_correccion": "CORRECCIÓN: entra por los dos lados (cierre tipo telón), no de izquierda a derecha",
+"antes_de_corregir": {
+"desc": "Mate de la transición de tinta H7 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)"
+},
 "revision": {
 "que_es": "mate H7: textura de esponja que entra desde ambos lados, cubre y se abre dejando una franja central",
 "calidad": 5,
@@ -224392,6 +224667,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-03.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -224530,7 +224807,7 @@
 "tipo": "video",
 "md5": "6be2dfd306178ed6fe9ae435a40565bf",
 "bytes": 22211092,
-"desc": "Mate de la transición de tinta V3 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"desc": "Mate de la transición de tinta V3 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s) — OJO: no baja de arriba abajo, rellena por columnas verticales",
 "autor": "Studio DamDam",
 "pack_origen": "Textured Transition Pack",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -224547,6 +224824,10 @@
 "alfa": true,
 "modo": "mascara_alfa",
 "producto": "tx:productos/mates_tinta_4k/vertical/vertical_3_mate",
+"nota_correccion": "CORRECCIÓN: no baja de arriba abajo, rellena por columnas verticales",
+"antes_de_corregir": {
+"desc": "Mate de la transición de tinta V3 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)"
+},
 "revision": {
 "que_es": "mate V3: brochazos verticales que se acumulan por columnas hasta cubrir",
 "calidad": 5,
@@ -224581,6 +224862,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-03.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -224719,7 +225002,7 @@
 "tipo": "video",
 "md5": "678588b18abc23b814eff9228f84f4a7",
 "bytes": 20633012,
-"desc": "Mate de la transición de tinta V6 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"desc": "Mate de la transición de tinta V6 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s) — OJO: no baja de arriba abajo, bloques en varios puntos",
 "autor": "Studio DamDam",
 "pack_origen": "Textured Transition Pack",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -224736,6 +225019,10 @@
 "alfa": true,
 "modo": "mascara_alfa",
 "producto": "tx:productos/mates_tinta_4k/vertical/vertical_6_mate",
+"nota_correccion": "CORRECCIÓN: no baja de arriba abajo, bloques en varios puntos",
+"antes_de_corregir": {
+"desc": "Mate de la transición de tinta V6 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)"
+},
 "revision": {
 "que_es": "mate V6: bloques de rodillo que aparecen dispersos y se acumulan",
 "calidad": 5,
@@ -224770,6 +225057,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -224782,7 +225071,7 @@
 "tipo": "video",
 "md5": "372a4937db41849c770470b502c91985",
 "bytes": 24164068,
-"desc": "Mate de la transición de tinta V7 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)",
+"desc": "Mate de la transición de tinta V7 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s) — OJO: entra por arriba y abajo a la vez, no de arriba abajo",
 "autor": "Studio DamDam",
 "pack_origen": "Textured Transition Pack",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -224799,6 +225088,10 @@
 "alfa": true,
 "modo": "mascara_alfa",
 "producto": "tx:productos/mates_tinta_4k/vertical/vertical_7_mate",
+"nota_correccion": "CORRECCIÓN: entra por arriba y abajo a la vez, no de arriba abajo",
+"antes_de_corregir": {
+"desc": "Mate de la transición de tinta V7 (ProRes 4444 XQ 4K con ALFA = tinta, RGB negro, 25 fps, 1 s)"
+},
 "revision": {
 "que_es": "mate V7: textura de esponja que entra por arriba y abajo y se abre en franja central",
 "calidad": 5,
@@ -224833,6 +225126,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -225435,7 +225730,7 @@
 "tipo": "video",
 "md5": "910336cb63a2f4d2d1fb660f69b699af",
 "bytes": 206780228,
-"desc": "Transición de tinta texturada H3 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"desc": "Transición de tinta texturada H3 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4 — OJO: rellena por franjas, no barre de lado a lado",
 "autor": "Studio DamDam",
 "pack_origen": "Textured Transition Pack",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -225448,6 +225743,10 @@
 "mapa_de_desplazamiento",
 "mate"
 ],
+"nota_correccion": "CORRECCIÓN: rellena por franjas, no barre de lado a lado",
+"antes_de_corregir": {
+"desc": "Transición de tinta texturada H3 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4"
+},
 "revision": {
 "que_es": "transición H3 original: brochazos horizontales que rellenan por franjas",
 "calidad": 5,
@@ -225482,6 +225781,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-06.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -225612,7 +225913,7 @@
 "tipo": "video",
 "md5": "2de0ebc6bc722a5244124e5e1b388c23",
 "bytes": 197317748,
-"desc": "Transición de tinta texturada H6 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"desc": "Transición de tinta texturada H6 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4 — OJO: bloques en varios puntos, no barrido",
 "autor": "Studio DamDam",
 "pack_origen": "Textured Transition Pack",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -225625,6 +225926,10 @@
 "mapa_de_desplazamiento",
 "mate"
 ],
+"nota_correccion": "CORRECCIÓN: bloques en varios puntos, no barrido",
+"antes_de_corregir": {
+"desc": "Transición de tinta texturada H6 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4"
+},
 "revision": {
 "que_es": "transición H6 original: bloques de rodillo dispersos que se acumulan",
 "calidad": 5,
@@ -225659,6 +225964,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-06.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -225671,7 +225978,7 @@
 "tipo": "video",
 "md5": "99604d7a0e79f152ee67677106f562bc",
 "bytes": 206664692,
-"desc": "Transición de tinta texturada H7 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"desc": "Transición de tinta texturada H7 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4 — OJO: cierre tipo telón por los dos lados",
 "autor": "Studio DamDam",
 "pack_origen": "Textured Transition Pack",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -225684,6 +225991,10 @@
 "mapa_de_desplazamiento",
 "mate"
 ],
+"nota_correccion": "CORRECCIÓN: cierre tipo telón por los dos lados",
+"antes_de_corregir": {
+"desc": "Transición de tinta texturada H7 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4"
+},
 "revision": {
 "que_es": "transición H7 original: esponja que entra por ambos lados y se abre en franja central",
 "calidad": 5,
@@ -225718,6 +226029,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-06.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -225907,7 +226220,7 @@
 "tipo": "video",
 "md5": "bd581c0c9755f8e952b0fd25817e6552",
 "bytes": 212099668,
-"desc": "Transición de tinta texturada V3 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"desc": "Transición de tinta texturada V3 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4 — OJO: rellena por columnas, no baja",
 "autor": "Studio DamDam",
 "pack_origen": "Textured Transition Pack",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -225920,6 +226233,10 @@
 "mapa_de_desplazamiento",
 "mate"
 ],
+"nota_correccion": "CORRECCIÓN: rellena por columnas, no baja",
+"antes_de_corregir": {
+"desc": "Transición de tinta texturada V3 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4"
+},
 "revision": {
 "que_es": "transición V3 original: brochazos verticales por columnas",
 "calidad": 5,
@@ -225954,6 +226271,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -226084,7 +226403,7 @@
 "tipo": "video",
 "md5": "82ac0ffa79d50ea111fa073cd9d52041",
 "bytes": 204262356,
-"desc": "Transición de tinta texturada V6 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"desc": "Transición de tinta texturada V6 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4 — OJO: bloques en varios puntos, no baja",
 "autor": "Studio DamDam",
 "pack_origen": "Textured Transition Pack",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -226097,6 +226416,10 @@
 "mapa_de_desplazamiento",
 "mate"
 ],
+"nota_correccion": "CORRECCIÓN: bloques en varios puntos, no baja",
+"antes_de_corregir": {
+"desc": "Transición de tinta texturada V6 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4"
+},
 "revision": {
 "que_es": "transición V6 original: bloques de rodillo dispersos",
 "calidad": 5,
@@ -226131,6 +226454,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-08.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -226143,7 +226468,7 @@
 "tipo": "video",
 "md5": "ddf2ffb7d072c0a78655d108d01094ed",
 "bytes": 213000356,
-"desc": "Transición de tinta texturada V7 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4",
+"desc": "Transición de tinta texturada V7 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4 — OJO: entra por arriba y abajo a la vez",
 "autor": "Studio DamDam",
 "pack_origen": "Textured Transition Pack",
 "licencia": "Gumroad (Studio DamDam): uso propio, no redistribuir",
@@ -226156,6 +226481,10 @@
 "mapa_de_desplazamiento",
 "mate"
 ],
+"nota_correccion": "CORRECCIÓN: entra por arriba y abajo a la vez",
+"antes_de_corregir": {
+"desc": "Transición de tinta texturada V7 en calidad original (ProRes 4444 XQ 4K, sin alfa); la que usaban los plugins era un MP4"
+},
 "revision": {
 "que_es": "transición V7 original: esponja que entra por arriba y abajo y se abre en franja central",
 "calidad": 5,
@@ -226190,6 +226519,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-08.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": null,
 "audio_revisado": false
 }
@@ -274669,7 +275000,7 @@
 "h": 2160,
 "alfa": false,
 "bytes": 68288884,
-"modo": "multiplicar",
+"modo": "trama (o invertir y multiplicar)",
 "modo_texto": "multiply",
 "modo_fuente": "ACIDBITE (tutorial)",
 "modos_acidbite": [
@@ -274721,6 +275052,10 @@
 ]
 }
 ],
+"nota_correccion": "CORRECCIÓN: el índice dice multiplicar pero es oscuro sobre negro: en multiplicar oscurece todo; usar trama o invertir",
+"antes_de_corregir": {
+"modo": "multiplicar"
+},
 "revision": {
 "que_es": "papel oscuro casi negro con grano y arañazos tenues",
 "calidad": 3,
@@ -274755,6 +275090,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Textile_Transitions-04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false,
 "sfx_acidbite": [
@@ -274776,7 +275113,7 @@
 "h": 2160,
 "alfa": false,
 "bytes": 41764724,
-"modo": "multiplicar",
+"modo": "trama / superponer",
 "modo_texto": "multiply",
 "modo_fuente": "ACIDBITE (tutorial)",
 "colocacion": "encima_corte",
@@ -274809,6 +275146,10 @@
 },
 "audio": {
 "incrustado": true
+},
+"nota_correccion": "CORRECCIÓN: el índice dice multiplicar pero es luz sobre negro: mejor superponer o trama",
+"antes_de_corregir": {
+"modo": "multiplicar"
 },
 "revision": {
 "que_es": "papel arrugado en blanco y negro muy contrastado que cambia a saltos",
@@ -274844,6 +275185,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Textile_Transitions-04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": true
 },
@@ -274862,7 +275205,7 @@
 "h": 2160,
 "alfa": false,
 "bytes": 32103892,
-"modo": "multiplicar",
+"modo": "trama (o invertir y multiplicar)",
 "modo_texto": "multiply",
 "modo_fuente": "ACIDBITE (tutorial)",
 "modos_acidbite": [
@@ -274915,6 +275258,10 @@
 ]
 }
 ],
+"nota_correccion": "CORRECCIÓN: el índice dice multiplicar pero es oscuro: usar trama o invertir",
+"antes_de_corregir": {
+"modo": "multiplicar"
+},
 "revision": {
 "que_es": "papel negro con motas blancas finas",
 "calidad": 4,
@@ -274949,6 +275296,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Textile_Transitions-05.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": true,
 "sfx_acidbite": [
@@ -274970,7 +275319,7 @@
 "h": 2160,
 "alfa": false,
 "bytes": 45905652,
-"modo": "multiplicar",
+"modo": "trama (o invertir y multiplicar)",
 "modo_texto": "multiply",
 "modo_fuente": "ACIDBITE (tutorial)",
 "colocacion": "encima_corte",
@@ -275006,6 +275355,10 @@
 "audio": {
 "incrustado": true
 },
+"nota_correccion": "CORRECCIÓN: el índice dice multiplicar pero es oscuro: usar trama o invertir",
+"antes_de_corregir": {
+"modo": "multiplicar"
+},
 "revision": {
 "que_es": "papel negro con rayas y manchas blancas",
 "calidad": 4,
@@ -275040,6 +275393,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Textile_Transitions-05.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": true
 },
@@ -312372,6 +312727,7 @@
 "audio": {
 "incrustado": false
 },
+"nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
 "revision": {
 "que_es": "visor 16mm 1.85: marco doble y cruz central partida",
 "calidad": 5,
@@ -312406,6 +312762,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Viewfinders_Plus-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -312455,6 +312813,7 @@
 "audio": {
 "incrustado": false
 },
+"nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
 "revision": {
 "que_es": "visor 16mm 1.85: corchetes arriba y abajo con borde punteado y aspa central",
 "calidad": 5,
@@ -312489,6 +312848,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Viewfinders_Plus-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -312538,6 +312899,7 @@
 "audio": {
 "incrustado": false
 },
+"nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
 "revision": {
 "que_es": "visor 16mm 1.85: líneas verticales en los lados y cruz partida",
 "calidad": 5,
@@ -312572,6 +312934,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Viewfinders_Plus-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -312621,6 +312985,7 @@
 "audio": {
 "incrustado": false
 },
+"nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
 "revision": {
 "que_es": "visor 16mm 1.85: marco con rectángulo redondeado y cruz",
 "calidad": 5,
@@ -312655,6 +313020,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Viewfinders_Plus-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -312704,6 +313071,7 @@
 "audio": {
 "incrustado": false
 },
+"nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
 "revision": {
 "que_es": "visor 16mm 1.85: rectángulo redondeado discontinuo y cruz que cruza todo",
 "calidad": 5,
@@ -312738,6 +313106,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Viewfinders_Plus-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -312787,6 +313157,7 @@
 "audio": {
 "incrustado": false
 },
+"nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
 "revision": {
 "que_es": "visor 16mm 1.85: marco con zonas laterales discontinuas y cruz",
 "calidad": 5,
@@ -312821,6 +313192,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Viewfinders_Plus-01.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -312870,6 +313243,7 @@
 "audio": {
 "incrustado": false
 },
+"nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
 "revision": {
 "que_es": "visor 16mm 1.85: cruz que cruza todo con círculo y zonas en las esquinas",
 "calidad": 5,
@@ -312904,6 +313278,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Viewfinders_Plus-02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -312953,6 +313329,7 @@
 "audio": {
 "incrustado": false
 },
+"nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
 "revision": {
 "que_es": "visor 16mm 1.85: corchetes, rectángulos y círculo con cruz",
 "calidad": 5,
@@ -312987,6 +313364,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Viewfinders_Plus-02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -313036,6 +313415,7 @@
 "audio": {
 "incrustado": false
 },
+"nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
 "revision": {
 "que_es": "visor 16mm 1.85: esquinas y círculo con cruz grande",
 "calidad": 5,
@@ -313070,6 +313450,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Viewfinders_Plus-02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -313119,6 +313501,7 @@
 "audio": {
 "incrustado": false
 },
+"nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
 "revision": {
 "que_es": "visor 16mm 1.85: marco doble con raya central pequeña",
 "calidad": 5,
@@ -313153,6 +313536,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Viewfinders_Plus-02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -313202,6 +313587,7 @@
 "audio": {
 "incrustado": false
 },
+"nota_correccion": "el nombre del archivo dice Multiply pero son líneas claras sobre negro: va en trama",
 "revision": {
 "que_es": "visor 16mm scope (3840×1630): marco y cruz partida",
 "calidad": 5,
@@ -313236,6 +313622,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Viewfinders_Plus-02.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -368257,7 +368645,7 @@
 "h": 2160,
 "alfa": false,
 "bytes": 49294131,
-"modo": "trama",
+"modo": "multiplicar",
 "modo_texto": "screen",
 "modo_fuente": "ACIDBITE (tutorial)",
 "colocacion": "encima_corte",
@@ -368298,6 +368686,10 @@
 ],
 "confianza": "nombre y duración coinciden"
 },
+"nota_correccion": "CORRECCIÓN: el índice dice trama pero es oscuro sobre blanco: usar multiplicar",
+"antes_de_corregir": {
+"modo": "trama"
+},
 "revision": {
 "que_es": "trazos gruesos verde oscuro y negro (pincel seco) sobre blanco",
 "calidad": 5,
@@ -368332,6 +368724,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Ultimate_Paper_Pack-04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": true,
 "sfx": [
@@ -368354,7 +368748,7 @@
 "h": 2160,
 "alfa": false,
 "bytes": 39089371,
-"modo": "trama",
+"modo": "multiplicar",
 "modo_texto": "screen",
 "modo_fuente": "ACIDBITE (tutorial)",
 "colocacion": "encima_corte",
@@ -368392,6 +368786,10 @@
 ],
 "confianza": "nombre y duración coinciden"
 },
+"nota_correccion": "CORRECCIÓN: el índice dice trama pero es oscuro sobre blanco: usar multiplicar",
+"antes_de_corregir": {
+"modo": "trama"
+},
 "revision": {
 "que_es": "manchas de tinta negra, salpicaduras y cinta negra sobre blanco",
 "calidad": 5,
@@ -368426,6 +368824,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Ultimate_Paper_Pack-04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": true,
 "sfx": [
@@ -396793,6 +397193,8 @@
 "audio": {
 "incrustado": false
 },
+"nota_correccion": "CORRECCIÓN: el archivo se llama Left Arrow pero la flecha apunta a la derecha",
+"desc": "flecha que apunta a la DERECHA (el archivo se llama Left Arrow)",
 "revision": {
 "que_es": "flecha recta gruesa que apunta a la DERECHA",
 "calidad": 4,
@@ -396827,6 +397229,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Animated_Markers-31.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -398793,6 +399197,8 @@
 "audio": {
 "incrustado": false
 },
+"nota_correccion": "CORRECCIÓN: el archivo se llama Right Arrow pero la flecha apunta a la izquierda (nombres de Left/Right intercambiados)",
+"desc": "flecha que apunta a la IZQUIERDA (el archivo se llama Right Arrow)",
 "revision": {
 "que_es": "flecha que apunta a la IZQUIERDA",
 "calidad": 4,
@@ -398827,6 +399233,8 @@
 "nivel": "completo",
 "fecha": "2026-11-19",
 "hoja": "revision/hojas/ab_Animated_Markers-35.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre",
 "audio_conocido": {
 "incrustado": false
 },
@@ -566433,7 +566841,7 @@
 "tipo": "imagen",
 "clase": "collage",
 "sub": "cintas/carrocero",
-"desc": "cinta de carrocero de papel crepé beige",
+"desc": "tira blanca estrecha (tipo cinta correctora o papel), no carrocero beige",
 "material": "carrocero",
 "optica": "opaco",
 "borde": "rasgado a mano",
@@ -566442,7 +566850,7 @@
 "alfa": true,
 "fondo": "transparente",
 "md5": "a08721b421865e306077b77c72df3cd3",
-"color": "#cccdd0",
+"color": "blanco",
 "color_medio": [
 204,
 205,
@@ -566463,6 +566871,11 @@
 "metodo": "tools/atlas/collage.py",
 "hoja": "TEXTURAS/collage/hojas/cintas__carrocero.jpg",
 "sombra": "TEXTURAS/collage/cintas/carrocero/carrocero_0185_1_sombra.png",
+"nota_correccion": "CORRECCIÓN: es una tira blanca estrecha (parece cinta correctora o papel), no carrocero beige",
+"antes_de_corregir": {
+"desc": "cinta de carrocero de papel crepé beige",
+"color": "#cccdd0"
+},
 "revision": {
 "que_es": "tira blanca muy fina y estrecha",
 "calidad": 3,
@@ -566496,7 +566909,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/co-r09.jpg"
+"hoja": "revision/hojas/co-r09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -566506,7 +566921,7 @@
 "tipo": "imagen",
 "clase": "collage",
 "sub": "cintas/carrocero",
-"desc": "cinta de carrocero de papel crepé beige",
+"desc": "tira blanca estrecha (tipo cinta correctora o papel), no carrocero beige",
 "material": "carrocero",
 "optica": "opaco",
 "borde": "rasgado a mano",
@@ -566515,7 +566930,7 @@
 "alfa": true,
 "fondo": "transparente",
 "md5": "f6173d3666ea12fa562afd36d93c071a",
-"color": "#cfd2d7",
+"color": "blanco",
 "color_medio": [
 207,
 210,
@@ -566535,6 +566950,11 @@
 "procedencia": "generada con IA (Gemini) por Iker",
 "metodo": "tools/atlas/collage.py",
 "hoja": "TEXTURAS/collage/hojas/cintas__carrocero.jpg",
+"nota_correccion": "CORRECCIÓN: tira blanca estrecha, no carrocero beige",
+"antes_de_corregir": {
+"desc": "cinta de carrocero de papel crepé beige",
+"color": "#cfd2d7"
+},
 "revision": {
 "que_es": "tira blanca fina ondulada",
 "calidad": 3,
@@ -566568,7 +566988,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/co-r09.jpg"
+"hoja": "revision/hojas/co-r09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -566578,7 +567000,7 @@
 "tipo": "imagen",
 "clase": "collage",
 "sub": "cintas/carrocero",
-"desc": "cinta de carrocero de papel crepé beige",
+"desc": "tira blanca estrecha (tipo cinta correctora o papel), no carrocero beige",
 "material": "carrocero",
 "optica": "opaco",
 "borde": "rasgado a mano",
@@ -566587,7 +567009,7 @@
 "alfa": true,
 "fondo": "transparente",
 "md5": "6490cb513a5a6d26d0efd6d7629f7542",
-"color": "#d0d2d7",
+"color": "blanco",
 "color_medio": [
 208,
 210,
@@ -566607,6 +567029,11 @@
 "procedencia": "generada con IA (Gemini) por Iker",
 "metodo": "tools/atlas/collage.py",
 "hoja": "TEXTURAS/collage/hojas/cintas__carrocero.jpg",
+"nota_correccion": "CORRECCIÓN: tira blanca estrecha, no carrocero beige",
+"antes_de_corregir": {
+"desc": "cinta de carrocero de papel crepé beige",
+"color": "#d0d2d7"
+},
 "revision": {
 "que_es": "tira blanca fina con escalón",
 "calidad": 3,
@@ -566640,7 +567067,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/co-r09.jpg"
+"hoja": "revision/hojas/co-r09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -566650,7 +567079,7 @@
 "tipo": "imagen",
 "clase": "collage",
 "sub": "cintas/carrocero",
-"desc": "cinta de carrocero de papel crepé beige",
+"desc": "tira blanca estrecha (tipo cinta correctora o papel), no carrocero beige",
 "material": "carrocero",
 "optica": "opaco",
 "borde": "rasgado a mano",
@@ -566659,7 +567088,7 @@
 "alfa": true,
 "fondo": "transparente",
 "md5": "4e140fb0fc98f28be49137ae8f927dbc",
-"color": "#d0d1d4",
+"color": "blanco",
 "color_medio": [
 208,
 209,
@@ -566679,6 +567108,11 @@
 "procedencia": "generada con IA (Gemini) por Iker",
 "metodo": "tools/atlas/collage.py",
 "hoja": "TEXTURAS/collage/hojas/cintas__carrocero.jpg",
+"nota_correccion": "CORRECCIÓN: tira blanca estrecha, no carrocero beige",
+"antes_de_corregir": {
+"desc": "cinta de carrocero de papel crepé beige",
+"color": "#d0d1d4"
+},
 "revision": {
 "que_es": "tira blanca fina recta",
 "calidad": 3,
@@ -566712,7 +567146,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/co-r09.jpg"
+"hoja": "revision/hojas/co-r09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -566722,7 +567158,7 @@
 "tipo": "imagen",
 "clase": "collage",
 "sub": "cintas/carrocero",
-"desc": "cinta de carrocero de papel crepé beige",
+"desc": "cinta correctora blanca (igual que correctora_0174), no carrocero",
 "material": "carrocero",
 "optica": "opaco",
 "borde": "rasgado a mano",
@@ -566731,7 +567167,7 @@
 "alfa": true,
 "fondo": "transparente",
 "md5": "b332855abaa63ed145f19981fbcb4d4e",
-"color": "#ceced2",
+"color": "blanco",
 "color_medio": [
 206,
 206,
@@ -566751,6 +567187,11 @@
 "procedencia": "generada con IA (Gemini) por Iker",
 "metodo": "tools/atlas/collage.py",
 "hoja": "TEXTURAS/collage/hojas/cintas__carrocero.jpg",
+"nota_correccion": "CORRECCIÓN: es cinta correctora blanca, no carrocero (igual que correctora_0174)",
+"antes_de_corregir": {
+"desc": "cinta de carrocero de papel crepé beige",
+"color": "#ceced2"
+},
 "revision": {
 "que_es": "tira blanca fina ondulada",
 "calidad": 3,
@@ -566784,7 +567225,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/co-r10.jpg"
+"hoja": "revision/hojas/co-r10.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -566794,7 +567237,7 @@
 "tipo": "imagen",
 "clase": "collage",
 "sub": "cintas/carrocero",
-"desc": "cinta de carrocero de papel crepé beige",
+"desc": "cinta correctora blanca (igual que correctora_0174), no carrocero",
 "material": "carrocero",
 "optica": "opaco",
 "borde": "rasgado a mano",
@@ -566803,7 +567246,7 @@
 "alfa": true,
 "fondo": "transparente",
 "md5": "5887564b3e1d5a74cb10f5f8496512b4",
-"color": "#ceced1",
+"color": "blanco",
 "color_medio": [
 206,
 206,
@@ -566823,6 +567266,11 @@
 "procedencia": "generada con IA (Gemini) por Iker",
 "metodo": "tools/atlas/collage.py",
 "hoja": "TEXTURAS/collage/hojas/cintas__carrocero.jpg",
+"nota_correccion": "CORRECCIÓN: es cinta correctora blanca, no carrocero",
+"antes_de_corregir": {
+"desc": "cinta de carrocero de papel crepé beige",
+"color": "#ceced1"
+},
 "revision": {
 "que_es": "tira blanca fina con empalme",
 "calidad": 3,
@@ -566856,7 +567304,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/co-r10.jpg"
+"hoja": "revision/hojas/co-r10.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -583099,6 +583549,7 @@
 "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta de papel sobre gris (1).png"
 ],
 "procedencia": "generada con IA (Gemini) por Iker",
+"nota_correccion": "CORRECCIÓN: el nombre dice cinta de papel pero son tiras blancas tipo correctora (origen de carrocero_0185/0186 mal clasificados)",
 "revision": {
 "que_es": "tres tiras blancas estrechas sobre gris",
 "calidad": 5,
@@ -583130,7 +583581,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_collage-r13.jpg"
+"hoja": "revision/hojas/or_collage-r13.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {
@@ -583146,6 +583599,7 @@
 "AÑADIDOS/COLLAGE/PEGATINAS/Tiras de cinta de papel sobre gris (2).png"
 ],
 "procedencia": "generada con IA (Gemini) por Iker",
+"nota_correccion": "CORRECCIÓN: el nombre dice cinta de papel pero son tiras blancas tipo correctora",
 "revision": {
 "que_es": "tres tiras blancas estrechas sobre gris",
 "calidad": 5,
@@ -583177,7 +583631,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_collage-r13.jpg"
+"hoja": "revision/hojas/or_collage-r13.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 },
 {

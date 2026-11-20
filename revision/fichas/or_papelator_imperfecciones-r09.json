@@ -31,7 +31,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_imperfecciones-r09.jpg"
+"hoja": "revision/hojas/or_papelator_imperfecciones-r09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:7a67b2ac8072e7f4872f24cd9e89723a": {
 "que_es": "fibras de colores (rojo, azul, negro) dispersas",

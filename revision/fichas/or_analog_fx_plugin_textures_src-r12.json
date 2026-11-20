@@ -65,7 +65,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_analog_fx_plugin_textures_src-r12.jpg"
+"hoja": "revision/hojas/or_analog_fx_plugin_textures_src-r12.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:6e9b4778f2a3482b6fab05fde10b378b": {
 "que_es": "9:16 pinceladas gris cruzadas",

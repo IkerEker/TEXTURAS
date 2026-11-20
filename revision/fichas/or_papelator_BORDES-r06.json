@@ -371,7 +371,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r06.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r06.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:659ac7080d85aa5fe237697463afa8e9": {
 "que_es": "cartón gris con borde desgarrado de capas y huecos",
@@ -439,7 +441,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_BORDES-r06.jpg"
+"hoja": "revision/hojas/or_papelator_BORDES-r06.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:759d7d8271268538f5a3900eb1709917": {
 "que_es": "papel azul con borde de fibras blanco",

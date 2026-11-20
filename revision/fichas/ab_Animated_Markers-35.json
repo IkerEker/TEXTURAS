@@ -172,7 +172,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Animated_Markers-35.jpg"
+"hoja": "revision/hojas/ab_Animated_Markers-35.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "ab:8d1b27e17dd5": {
 "que_es": "cara triste que gira a saltos",

@@ -138,7 +138,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Ultimate_Paper_Pack-04.jpg"
+"hoja": "revision/hojas/ab_Ultimate_Paper_Pack-04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "ab:572bf479b921": {
 "que_es": "manchas de tinta negra, salpicaduras y cinta negra sobre blanco",
@@ -173,7 +175,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Ultimate_Paper_Pack-04.jpg"
+"hoja": "revision/hojas/ab_Ultimate_Paper_Pack-04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "ab:2fcab866feb4": {
 "que_es": "papel negro arrugado con grietas blancas",

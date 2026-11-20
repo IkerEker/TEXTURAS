@@ -102,7 +102,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_neonizador_TEXTURAS-08.jpg"
+"hoja": "revision/hojas/or_neonizador_TEXTURAS-08.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:75085d84c340b61f918c67856d41f567": {
 "que_es": "transición V4 MP4 4K: pinceladas horizontales que bajan",
@@ -207,6 +209,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_neonizador_TEXTURAS-08.jpg"
+"hoja": "revision/hojas/or_neonizador_TEXTURAS-08.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 }

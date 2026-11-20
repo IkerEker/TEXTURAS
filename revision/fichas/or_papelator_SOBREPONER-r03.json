@@ -133,7 +133,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_papelator_SOBREPONER-r03.jpg"
+"hoja": "revision/hojas/or_papelator_SOBREPONER-r03.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:852ef5c3c24556e825147c45f596a29b": {
 "que_es": "vidrio martillado brillante con relieve",

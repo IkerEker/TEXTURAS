@@ -172,7 +172,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Textile_Transitions-04.jpg"
+"hoja": "revision/hojas/ab_Textile_Transitions-04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "ab:6ae8d80f8465": {
 "que_es": "papel arrugado en blanco y negro muy contrastado que cambia a saltos",
@@ -207,6 +209,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/ab_Textile_Transitions-04.jpg"
+"hoja": "revision/hojas/ab_Textile_Transitions-04.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 }

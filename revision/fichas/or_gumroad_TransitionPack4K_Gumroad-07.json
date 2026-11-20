@@ -137,7 +137,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-07.jpg"
+"hoja": "revision/hojas/or_gumroad_TransitionPack4K_Gumroad-07.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "or:d5782db50c2cb010ab694784f5a181d4": {
 "que_es": "transición V4 original: pinceladas horizontales que bajan",

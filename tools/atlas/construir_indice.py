@@ -289,6 +289,16 @@ if _reh.exists():
         elif a['id'].startswith('or:') and a['id'][3:] in _antes:
             a['sustituido_por'] = _antes[a['id'][3:]]
 
+# correcciones de la revisión 100 % (lo visto contradice nombre o índice); los archivos no se renombran
+_cor = Path('indice/correcciones.json')
+if _cor.exists():
+    _C = json.load(open(_cor, encoding='utf-8'))['correcciones']
+    for a in idx:
+        if a['id'] in _C:
+            for k, v in _C[a['id']].items():
+                if k != 'nota_correccion' and a.get(k) is not None and a.get(k) != v: a.setdefault('antes_de_corregir', {})[k] = a[k]
+                a[k] = v
+
 os.makedirs('indice', exist_ok=True)
 out = dict(version='2026-11-19', raiz='Biblioteca/ (variable TEXTURAS_ROOT)', total=len(idx),
            por_coleccion=dict(collections.Counter(a['coleccion'] for a in idx)),

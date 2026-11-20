@@ -417,7 +417,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/co-r09.jpg"
+"hoja": "revision/hojas/co-r09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "tx:collage/cintas/carrocero/carrocero_0185_2": {
 "que_es": "tira blanca fina ondulada",
@@ -452,7 +454,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/co-r09.jpg"
+"hoja": "revision/hojas/co-r09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "tx:collage/cintas/carrocero/carrocero_0185_3": {
 "que_es": "tira blanca fina con escalón",
@@ -487,7 +491,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/co-r09.jpg"
+"hoja": "revision/hojas/co-r09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 },
 "tx:collage/cintas/carrocero/carrocero_0186_1": {
 "que_es": "tira blanca fina recta",
@@ -522,6 +528,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/co-r09.jpg"
+"hoja": "revision/hojas/co-r09.jpg",
+"corregido": true,
+"nota_pendiente": "corregido en el índice 20-11-2026 (indice/correcciones.json); el archivo conserva su nombre"
 }
 }
