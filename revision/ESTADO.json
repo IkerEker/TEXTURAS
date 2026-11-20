@@ -9027,7 +9027,7 @@
 "ab:4fac7a2aacc8",
 "ab:035fd54b16db"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Wipe_and_Light_Transitions-02",
@@ -9039,7 +9039,7 @@
 "ab:31975cc466fd",
 "ab:4394be663dfb"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Wipe_and_Light_Transitions-03",
@@ -9051,7 +9051,7 @@
 "ab:90066bfe3cbe",
 "ab:ff92dbec307c"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Wipe_and_Light_Transitions-04",
@@ -9063,7 +9063,7 @@
 "ab:3549cde36fa3",
 "ab:7a0f640151ff"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Wipe_and_Light_Transitions-05",
@@ -9075,7 +9075,7 @@
 "ab:79d8cda0a878",
 "ab:533d7fe2f927"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Wipe_and_Light_Transitions-06",
@@ -9087,7 +9087,7 @@
 "ab:b51bce265402",
 "ab:b9a77c334720"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Wipe_and_Light_Transitions-07",
@@ -9099,7 +9099,7 @@
 "ab:b9e258112b64",
 "ab:c38cd6e6f226"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Wipe_and_Light_Transitions-08",
@@ -9111,7 +9111,7 @@
 "ab:e85b6c615f99",
 "ab:a02d9f28052f"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Wipe_and_Light_Transitions-09",
@@ -9123,7 +9123,7 @@
 "ab:49fdbd883b0f",
 "ab:b800feba6ccc"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Wipe_and_Light_Transitions-10",
@@ -9135,14 +9135,14 @@
 "ab:6106cc6e9c09",
 "ab:8176a1e8e5c4"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Wipe_and_Light_Transitions-11",
 "ids": [
 "ab:76828e9a2639"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Pre_Built_VHS_Transitions_imagen-r01",
