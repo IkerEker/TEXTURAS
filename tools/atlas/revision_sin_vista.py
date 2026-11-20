@@ -20,6 +20,10 @@ def main():
     for f in (RV / 'fichas').glob('*.json'):
         if f.name != 'zz_sin_vista.json':
             vistas |= set(json.load(open(f)))
+    med = {}
+    if (RV / 'audio_medido.json').exists(): med = json.load(open(RV / 'audio_medido.json'))['sonidos']
+    plt = {}
+    if (RV / 'plantillas_leidas.json').exists(): plt = json.load(open(RV / 'plantillas_leidas.json'))['plantillas']
     out = {}
     for a in A:
         if a['id'] in vistas:
@@ -40,6 +44,12 @@ def main():
                     + (' (va con los clips ' + ', '.join(au['clips']) + ')' if au.get('clips') else ''),
                 modo='audio', audio_conocido=au, audio_revisado=False,
                 estilo=', '.join(a.get('estilos') or []))
+            m = med.get(a['id'])
+            if m:
+                base.update(nivel='medido (sin escuchar)', audio_medido=m,
+                            que_es=base['que_es'] + '; medido: ' + m['suena_como'],
+                            defectos='no escuchado: la descripción sale de medirlo (duración, nivel, golpes, graves/agudos, brillo)',
+                            escala=f"{m.get('duracion_s')} s", orient=m.get('estereo', '-'))
         else:
             ext = nombre.rsplit('.', 1)[-1].lower()
             base.update(
@@ -48,6 +58,10 @@ def main():
                 defectos='no es una imagen ni un vídeo: no se puede mirar en una hoja; solo funciona dentro de su programa',
                 uso='abrir en el programa correspondiente; no sirve para los plugins (que solo usan imágenes y vídeos)',
                 modo='no aplica')
+            pl = plt.get(a['id'])
+            if pl:
+                base.update(nivel='leído por dentro (sin abrir el programa)', plantilla_leida=pl,
+                            que_es=base['que_es'] + '; ' + pl['resumen'])
         out[a['id']] = base
     json.dump(out, open(RV / 'fichas' / 'zz_sin_vista.json', 'w'), ensure_ascii=False, indent=0)
     print('fichas sin vista:', len(out))

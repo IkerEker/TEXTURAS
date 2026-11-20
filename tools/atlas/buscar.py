@@ -15,7 +15,7 @@ Funciona desde cualquier carpeta (lee el índice junto a este script).
 Por defecto: ordena por nota (5 → 1) y mejor de familia primero; oculta lo marcado REHACER y lo sustituido
 (usa --todo para verlo todo). Los alias en inglés/de plugins se traducen con indice/nombres.json.
 La ficha no sustituye a mirar: abre la `hoja` antes de elegir."""
-import json, sys, argparse, unicodedata
+import json, sys, argparse, unicodedata, re
 from pathlib import Path
 
 R = Path(__file__).resolve().parents[2]
@@ -47,6 +47,9 @@ EXTRA = {'fire': 'fuego', 'paper': 'papel', 'water': 'agua', 'ink': 'tinta', 'st
          'wood': 'madera', 'wall': 'pared', 'glass': 'vidrio', 'rain': 'lluvia', 'foam': 'espuma', 'mold': 'moho',
          'spark': 'chispa', 'bubble': 'burbuja', 'flame': 'llama', 'dust': 'polvo', 'pompa': 'burbuja', 'ember': 'brasa', 'sound': 'sonido', 'transition': 'transicion', 'fold': 'pliegue',
          'crumpled': 'arrugado', 'torn': 'rasgado', 'edge': 'borde', 'coffee': 'cafe', 'rust': 'oxido', 'drop': 'gota'}
+EXTRA.update({'thunder': 'trueno', 'wind': 'viento', 'bird': 'pajaro', 'dog': 'perro', 'step': 'paso', 'footstep': 'paso', 'wave': 'ola', 'city': 'ciudad', 'bell': 'campana', 'hit': 'golpe', 'impact': 'golpe', 'riser': 'subida', 'whoosh': 'barrido', 'noise': 'ruido', 'paper': 'papel', 'rip': 'rasgado', 'tear': 'rasgado', 'crowd': 'gente', 'people': 'gente', 'cricket': 'grillo', 'river': 'rio', 'sea': 'mar', 'storm': 'tormenta'})
+INV = {}
+for _k, _v in EXTRA.items(): INV.setdefault(_v, []).append(_k)
 def raices(w):  # plural → singulares posibles: llamas→llama, papeles→papel, luces→luz, bubbles→bubble
     r = {w}
     if len(w) > 3 and w.endswith('s'): r.add(w[:-1])
@@ -57,9 +60,9 @@ pal = []  # cada palabra = conjunto de variantes (ella, su singular, su alias, s
 for p in a.palabras:
     w = p.lower(); vs = raices(w)
     for x in list(vs):
-        for t in (al.get(x), EXTRA.get(x)):
+        for t in (al.get(x), EXTRA.get(x), *INV.get(x, [])):
             if t: vs |= raices(t)
-    pal.append({norm(v) for v in vs})
+    pal.append([re.compile(r'(?<![a-z])' + re.escape(norm(v))) if len(v) <= 5 else norm(v) for v in vs])
 import re, operator
 OPS = [('>=', operator.ge), ('<=', operator.le), ('!=', operator.ne), ('>', operator.gt), ('<', operator.lt), ('~', None), ('=', operator.eq)]
 def valor(e, campo):
@@ -108,7 +111,7 @@ for e in idx:
     txt = ' '.join([str(e.get(k, '')) for k in ('id', 'desc', 'clase', 'sub', 'pack', 'archivo', 'familia')] +
                    [str(v.get(k, '')) for k in CAMPOS_FICHA])
     txt = norm(txt)
-    if all(any(v in txt for v in vs) for vs in pal): r.append(e)
+    if all(any((v.search(txt) if hasattr(v, 'search') else v in txt) for v in vs) for vs in pal): r.append(e)
 r.sort(key=lambda e: (-(e.get('revision', {}).get('calidad') or 0), not e.get('revision', {}).get('mejor_de_familia')))
 if a.resumen:
     import collections
