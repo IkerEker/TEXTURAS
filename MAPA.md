@@ -80,3 +80,16 @@ scripts en `tools/atlas/rehacer/`. Las copias exactas de NEONIZADOR siguen como 
 - 0 correcciones: `indice/correcciones.json`, que aplica `construir_indice.py` (los archivos no se renombran).
 - Sonidos: los 658 medidos (`revision/audio_medido.json`, `tools/atlas/medir_audio.py`). Siguen sin escucharse; `suena_como` sale de las medidas.
 - Plantillas: las 55 leídas por dentro (`revision/plantillas_leidas.json`, `tools/atlas/leer_plantillas.py`): medios que usan, efectos, huecos de los .mogrt y duración.
+
+## Recortes mejorados (20-11-2026)
+
+849 recortes `tx:` rehechos y sustituidos en su sitio (mismo nombre, mismo tamaño y caja). Registro en
+`revision/recortes_mejorados.json` (motivo y arreglo de cada uno); en el índice cada asset lleva `recorte_mejorado`.
+Muestra en `revision/recortes_mejorados_antes_despues.jpg`.
+- Salpicaduras de tinta y óxido/café, fibras, goteos (manchas y productos) y 38 trazos: sin cerco claro ni oscuro en el contorno.
+- 18 bordes rehechos desde la foto con el matte de PAPELATOR: sin velo ni bandas semitransparentes en el fondo.
+- 29 bordes de papel blanco o gris con las fibras teñidas por el croma (rosa, verde o cian) devueltas al color del papel
+  (`tools/atlas/quitar_tinte_croma.py`).
+- Se dejan como estaban a propósito, porque «arreglarlos» los empeoraba: gotas, burbujas, fuego y chispas (el alfa es luz),
+  moho, quemado, café y foxing, collage (los brillos y cantos son del material), lápiz, cera y gouache, y bordes de cartón marrón o papel azul.
+- Ningún plugin lee `tx:`: leen sus `or:` exactos, así que ningún resultado de plugin cambia.

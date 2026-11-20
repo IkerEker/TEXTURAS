@@ -362,7 +362,7 @@
 "tx:manchas/goteos/lagrima/goteo_060": {
 "que_es": "gota blanca suelta corta tipo cuchara",
 "calidad": 4,
-"defectos": "contorno oscuro fino",
+"defectos": "(corregido 20-11-2026: color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)) antes: contorno oscuro fino",
 "familia": "gota_3d",
 "variante": 4,
 "diferencia": "corta",

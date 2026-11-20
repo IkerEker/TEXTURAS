@@ -231764,7 +231764,7 @@
 "tx:productos/piezas_neonizador/salpicaduras/oxido_cafe/salpicaduras_052": {
 "que_es": "salpicado beige-grisáceo apagado de muchas gotitas con contorno",
 "calidad": 3,
-"defectos": "apagado, aspecto distinto (beige con contorno oscuro)",
+"defectos": "(corregido 20-11-2026: color del borde separado del papel blanco (sin cerco claro)) antes: apagado, aspecto distinto (beige con contorno oscuro)",
 "familia": "pieza_salpicadura_oxido",
 "variante": 52,
 "diferencia": "-",
@@ -259094,7 +259094,7 @@
 "tx:manchas/goteos/lagrima/goteo_021": {
 "que_es": "goteo 3D ancho con lágrima grande",
 "calidad": 4,
-"defectos": "contorno oscuro fino en el borde",
+"defectos": "(corregido 20-11-2026: color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)) antes: contorno oscuro fino en el borde",
 "familia": "goteo_lagrima",
 "variante": 17,
 "diferencia": "ancho",
@@ -259346,7 +259346,7 @@
 "tx:manchas/goteos/lagrima/goteo_028": {
 "que_es": "gota 3D corta suelta (no sale del borde) con lágrima grande",
 "calidad": 4,
-"defectos": "contorno oscuro fino",
+"defectos": "(corregido 20-11-2026: color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)) antes: contorno oscuro fino",
 "familia": "gota_3d",
 "variante": 1,
 "diferencia": "gota suelta",
@@ -259418,7 +259418,7 @@
 "tx:manchas/goteos/lagrima/goteo_032": {
 "que_es": "gota 3D suelta con cabeza redondeada arriba y lágrima abajo",
 "calidad": 4,
-"defectos": "contorno oscuro fino",
+"defectos": "(corregido 20-11-2026: color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)) antes: contorno oscuro fino",
 "familia": "gota_3d",
 "variante": 2,
 "diferencia": "suelta",
@@ -259922,7 +259922,7 @@
 "tx:manchas/goteos/lagrima/goteo_060": {
 "que_es": "gota blanca suelta corta tipo cuchara",
 "calidad": 4,
-"defectos": "contorno oscuro fino",
+"defectos": "(corregido 20-11-2026: color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)) antes: contorno oscuro fino",
 "familia": "gota_3d",
 "variante": 4,
 "diferencia": "corta",
@@ -264464,7 +264464,7 @@
 "tx:manchas/goteos/suelta/goteo_030": {
 "que_es": "gota 3D en forma de lágrima con cuello (jarrón) muy brillante",
 "calidad": 5,
-"defectos": "contorno oscuro fino",
+"defectos": "(corregido 20-11-2026: color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)) antes: contorno oscuro fino",
 "familia": "gota_3d",
 "variante": 5,
 "diferencia": "lágrima con cuello",
@@ -264500,7 +264500,7 @@
 "tx:manchas/goteos/suelta/goteo_031": {
 "que_es": "gota 3D lágrima con cuello algo más ancha",
 "calidad": 5,
-"defectos": "contorno oscuro fino",
+"defectos": "(corregido 20-11-2026: color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)) antes: contorno oscuro fino",
 "familia": "gota_3d",
 "variante": 6,
 "diferencia": "más ancha",
@@ -264572,7 +264572,7 @@
 "tx:manchas/goteos/suelta/goteo_067": {
 "que_es": "gota gorda 3D con punta afilada arriba y reflejos",
 "calidad": 5,
-"defectos": "contorno oscuro fino",
+"defectos": "(corregido 20-11-2026: color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)) antes: contorno oscuro fino",
 "familia": "gota_3d",
 "variante": 8,
 "diferencia": "gorda",
@@ -264644,7 +264644,7 @@
 "tx:manchas/goteos/suelta/goteo_069": {
 "que_es": "gota 3D alargada tipo pera con cabeza redonda arriba",
 "calidad": 5,
-"defectos": "contorno oscuro fino",
+"defectos": "(corregido 20-11-2026: color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)) antes: contorno oscuro fino",
 "familia": "gota_3d",
 "variante": 10,
 "diferencia": "pera",
@@ -264680,7 +264680,7 @@
 "tx:manchas/goteos/suelta/goteo_070": {
 "que_es": "gota 3D grande con gotita esférica separada encima",
 "calidad": 5,
-"defectos": "contorno oscuro fino",
+"defectos": "(corregido 20-11-2026: color del borde separado del fondo negro (sin cerco oscuro); franja de 1 px del contorno recalculada (se quita el cerco sin adelgazar los hilos finos); contorno en escalones suavizado (solo la franja de 1 px)) antes: contorno oscuro fino",
 "familia": "gota_3d",
 "variante": 11,
 "diferencia": "con gotita encima",
