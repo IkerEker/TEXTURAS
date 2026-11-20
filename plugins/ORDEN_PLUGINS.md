@@ -56,8 +56,9 @@ herramientas la encuentran con la variable `TEXTURAS_ROOT`. Material, sonidos, v
 **Método obligatorio para buscar (así no se salta nada y no hace falta revisar uno a uno).** El buscador
 `tools/atlas/buscar.py` funciona desde cualquier carpeta y entiende plurales, palabras sin tilde, inglés y sinónimos.
 
-1. **Abre el abanico.** Escribe la necesidad con 3–6 palabras distintas: el objeto, el material, el efecto y el uso.
-   Por ejemplo, «goteo», «chorreón», «pintura que cae», «drip». Mira también la tabla «Qué hay» de `MAPA.md`
+1. **Abre el abanico.** Busca la necesidad con 3–6 palabras distintas, **una búsqueda por palabra**: el objeto, el
+   material, el efecto y el uso. Por ejemplo, `goteo`, `chorreon`, `drip`, `gota`, `pintura`. Varias palabras en una
+   misma búsqueda tienen que aparecer todas, así que solo sirven para estrechar. Mira también la tabla «Qué hay» de `MAPA.md`
    para saber qué clases pueden servir; incluye AcidBite (`ab:`), collage, vídeo y sonido.
 2. **Saca el mapa antes de elegir:** `buscar.py <palabra> --resumen`. Da cuántos hay en cada clase/sub y en cada
    familia. Cada familia que pueda servir se abre entera con `--familia <nombre>`: dentro viene ordenada y con su
