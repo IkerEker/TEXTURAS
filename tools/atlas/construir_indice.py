@@ -240,7 +240,7 @@ if P.exists():
                  hoja='TEXTURAS/productos/hojas/neonizador__' + sub.replace('/', '_') + '.jpg',
                  origen_ruta='neonizador/BIBLIOTECA/elementos/' + rel)
         if m:
-            a['medidas'] = {k: v for k, v in m.items() if k not in ('archivo', 'src', 'clase')}
+            a['medidas'] = {k: v for k, v in m.items() if k not in ('archivo', 'src', 'clase', 'rehecho')}
             a['foto_origen'] = m.get('src'); a['clase_pieza'] = m.get('clase')
         if sub.startswith('goteos'): a['orientacion'] = 'raíz arriba (la pintura cae hacia abajo)'
         idx.append(a)
@@ -273,6 +273,21 @@ if Path('collage/catalogo.json').exists():
 for g in man.get('collage', []):
     idx.append(dict(id=g['id'], coleccion='originales', sub='collage', archivo=g['archivo'], tipo='imagen', md5=g['md5'],
                     w=g['w'], h=g['h'], rutas_antiguas=[g['origen_biblioteca']], procedencia=g['procedencia']))
+
+# piezas rehechas en TEXTURAS (20-11-2026): ya no son copia de NEONIZADOR; la copia exacta queda como or: heredado
+_reh = P / 'piezas_neonizador' / 'REHECHAS.json'
+if _reh.exists():
+    _R = json.load(open(_reh))['piezas']
+    _antes = {v['md5_antes']: k for k, v in _R.items()}
+    for a in idx:
+        if a['id'] in _R:
+            v = _R[a['id']]
+            a['medidas'] = dict(a.get('medidas', {}), w=v['w'], h=v['h'])
+            a['metodo'] = 'REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): ' + v['metodo']
+            a['rehecho'] = dict(fecha=v['fecha'], md5_antes=v['md5_antes'], copia_exacta_neonizador=v['copia_exacta_neonizador'], origen=v['origen'])
+            a['modo_fuente'] = 'TEXTURAS (rehecha; antes NEONIZADOR)'
+        elif a['id'].startswith('or:') and a['id'][3:] in _antes:
+            a['sustituido_por'] = _antes[a['id'][3:]]
 
 os.makedirs('indice', exist_ok=True)
 out = dict(version='2026-11-19', raiz='Biblioteca/ (variable TEXTURAS_ROOT)', total=len(idx),

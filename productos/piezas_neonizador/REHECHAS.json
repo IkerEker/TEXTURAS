@@ -1,0 +1,373 @@
+{
+ "descripcion": "Piezas de piezas_neonizador REHECHAS el 20-11-2026 porque la revisión 100 % las marcó REHACER. Mismo nombre de archivo y modo; ya NO son copia exacta de NEONIZADOR. La copia exacta antigua sigue intacta como original heredado (id en copia_exacta_neonizador) y NEONIZADOR no lee ninguna de estas (todas «NO SE USA» en plugins/neonizador/uso_id.json), así que su resultado no cambia. Scripts: tools/atlas/rehacer/.",
+ "piezas": {
+  "tx:productos/piezas_neonizador/burbujas/burbujas_229_09": {
+   "archivo": "productos/piezas_neonizador/burbujas/burbujas_229_09.png",
+   "fecha": "2026-11-20",
+   "motivo": "corte recto arriba (REHACER)",
+   "md5_antes": "9bc9290915db871a53f87173fa89d081",
+   "md5": "36df8f9bc6137997b46b757800a9c547",
+   "w": 172,
+   "h": 171,
+   "modo_png": "RGBA",
+   "origen": {
+    "foto": "originales/neonizador/TEXTURAS_02/Burbujas iridiscentes flotando en la oscuridad.png",
+    "centro": [
+     961,
+     189
+    ],
+    "radio": 76
+   },
+   "metodo": "pompa completa: alfa = 1,2·(max(rgb)−3) dentro de un círculo suave de radio 1,10·r (las vecinas quedan fuera), color = foto/alfa sin premultiplicar; círculo ajustado por mínimos cuadrados al filo",
+   "copia_exacta_neonizador": "or:9bc9290915db871a53f87173fa89d081",
+   "nota": "misma burbuja que burbujas_229_06 (la única pompa pequeña completa y limpia que quedaba); recorte redondo sin vecinas"
+  },
+  "tx:productos/piezas_neonizador/burbujas/burbujas_229_04": {
+   "archivo": "productos/piezas_neonizador/burbujas/burbujas_229_04.png",
+   "fecha": "2026-11-20",
+   "motivo": "corte recto abajo y burbuja de arriba desenfocada/mal recortada (REHACER)",
+   "md5_antes": "fabd6cf6604b3471ad0989d487ef182e",
+   "md5": "37a4699e21502e4c1370004210a85ee0",
+   "w": 108,
+   "h": 108,
+   "modo_png": "RGBA",
+   "origen": {
+    "foto": "originales/neonizador/TEXTURAS_02/Burbujas iridiscentes flotando en la oscuridad.png",
+    "centro": [
+     352.3,
+     1092.7
+    ],
+    "radio": 46.5
+   },
+   "metodo": "pompa completa: alfa = 1,2·(max(rgb)−3) dentro de un círculo suave de radio 1,10·r (las vecinas quedan fuera), color = foto/alfa sin premultiplicar; círculo ajustado por mínimos cuadrados al filo",
+   "copia_exacta_neonizador": "or:fabd6cf6604b3471ad0989d487ef182e",
+   "nota": "la pieza vieja estaba cortada en recta por el borde de la foto; se sustituye por otra pompa COMPLETA de la misma serie (mismo nombre de archivo)"
+  },
+  "tx:productos/piezas_neonizador/burbujas/burbujas_229_05": {
+   "archivo": "productos/piezas_neonizador/burbujas/burbujas_229_05.png",
+   "fecha": "2026-11-20",
+   "motivo": "cortes rectos a izquierda y derecha (REHACER)",
+   "md5_antes": "0a36a20224d425a7a3549665b6dd1f0e",
+   "md5": "63f98c7ab11c8a5cc642de5f2d0b62d1",
+   "w": 231,
+   "h": 228,
+   "modo_png": "RGBA",
+   "origen": {
+    "foto": "originales/neonizador/TEXTURAS_02/Burbujas iridiscentes flotando en la oscuridad.png",
+    "centro": [
+     580.4,
+     520.0
+    ],
+    "radio": 103.1
+   },
+   "metodo": "pompa completa: alfa = 1,2·(max(rgb)−3) dentro de un círculo suave de radio 1,10·r (las vecinas quedan fuera), color = foto/alfa sin premultiplicar; círculo ajustado por mínimos cuadrados al filo",
+   "copia_exacta_neonizador": "or:0a36a20224d425a7a3549665b6dd1f0e",
+   "nota": "la pieza vieja estaba cortada en recta por el borde de la foto; se sustituye por otra pompa COMPLETA de la misma serie (mismo nombre de archivo)"
+  },
+  "tx:productos/piezas_neonizador/burbujas/burbujas_229_07": {
+   "archivo": "productos/piezas_neonizador/burbujas/burbujas_229_07.png",
+   "fecha": "2026-11-20",
+   "motivo": "corte recto a la izquierda; solo arco (REHACER)",
+   "md5_antes": "17de9c4422af4aa76749170d82c26ad4",
+   "md5": "57fa55276b2a5d209fcbc1875fb50942",
+   "w": 255,
+   "h": 255,
+   "modo_png": "RGBA",
+   "origen": {
+    "foto": "originales/neonizador/TEXTURAS_02/Burbujas de jabón iridiscentes sobre negro.png",
+    "centro": [
+     355.3,
+     1056.1
+    ],
+    "radio": 113.4
+   },
+   "metodo": "pompa completa: alfa = 1,2·(max(rgb)−3) dentro de un círculo suave de radio 1,10·r (las vecinas quedan fuera), color = foto/alfa sin premultiplicar; círculo ajustado por mínimos cuadrados al filo",
+   "copia_exacta_neonizador": "or:17de9c4422af4aa76749170d82c26ad4",
+   "nota": "la pieza vieja estaba cortada en recta por el borde de la foto; se sustituye por otra pompa COMPLETA de la misma serie (mismo nombre de archivo)"
+  },
+  "tx:productos/piezas_neonizador/burbujas/burbujas_229_11": {
+   "archivo": "productos/piezas_neonizador/burbujas/burbujas_229_11.png",
+   "fecha": "2026-11-20",
+   "motivo": "solo un trozo de arco con corte recto (REHACER o descartar)",
+   "md5_antes": "b997a698bd7d93f1eff6a26859433cf7",
+   "md5": "5e52ac3cb9db04c34b0963f787ead0d3",
+   "w": 55,
+   "h": 55,
+   "modo_png": "RGBA",
+   "origen": {
+    "foto": "originales/neonizador/TEXTURAS_02/Burbujas de jabón iridiscentes sobre negro.png",
+    "centro": [
+     720.7,
+     805.2
+    ],
+    "radio": 22.3
+   },
+   "metodo": "pompa completa: alfa = 1,2·(max(rgb)−3) dentro de un círculo suave de radio 1,10·r (las vecinas quedan fuera), color = foto/alfa sin premultiplicar; círculo ajustado por mínimos cuadrados al filo",
+   "copia_exacta_neonizador": "or:b997a698bd7d93f1eff6a26859433cf7",
+   "nota": "la pieza vieja estaba cortada en recta por el borde de la foto; se sustituye por otra pompa COMPLETA de la misma serie (mismo nombre de archivo)"
+  },
+  "tx:productos/piezas_neonizador/burbujas/burbujas_230_03": {
+   "archivo": "productos/piezas_neonizador/burbujas/burbujas_230_03.png",
+   "fecha": "2026-11-20",
+   "motivo": "cortes rectos visibles y desenfoque (REHACER)",
+   "md5_antes": "36a46b047ae2495a21bb9e043d5dfb7e",
+   "md5": "d14606af8e627e821cba402931b79b56",
+   "w": 331,
+   "h": 330,
+   "modo_png": "RGBA",
+   "origen": {
+    "foto": "originales/neonizador/TEXTURAS_02/Burbujas de jabón iridiscentes sobre negro.png",
+    "centro": [
+     910.6,
+     908.6
+    ],
+    "radio": 148.0
+   },
+   "metodo": "pompa completa: alfa = 1,2·(max(rgb)−3) dentro de un círculo suave de radio 1,10·r (las vecinas quedan fuera), color = foto/alfa sin premultiplicar; círculo ajustado por mínimos cuadrados al filo",
+   "copia_exacta_neonizador": "or:36a46b047ae2495a21bb9e043d5dfb7e",
+   "nota": "la pieza vieja estaba cortada en recta por el borde de la foto; se sustituye por otra pompa COMPLETA de la misma serie (mismo nombre de archivo)"
+  },
+  "tx:productos/piezas_neonizador/burbujas/burbujas_230_05": {
+   "archivo": "productos/piezas_neonizador/burbujas/burbujas_230_05.png",
+   "fecha": "2026-11-20",
+   "motivo": "cortes rectos (REHACER)",
+   "md5_antes": "98bd18384abbe1a4449f39df43f7410d",
+   "md5": "4e37e4f0488d196c1777713898b18ba6",
+   "w": 302,
+   "h": 304,
+   "modo_png": "RGBA",
+   "origen": {
+    "foto": "originales/neonizador/TEXTURAS_02/Burbujas iridiscentes flotando en la oscuridad.png",
+    "centro": [
+     367.0,
+     364.9
+    ],
+    "radio": 135.6
+   },
+   "metodo": "pompa completa: alfa = 1,2·(max(rgb)−3) dentro de un círculo suave de radio 1,10·r (las vecinas quedan fuera), color = foto/alfa sin premultiplicar; círculo ajustado por mínimos cuadrados al filo",
+   "copia_exacta_neonizador": "or:98bd18384abbe1a4449f39df43f7410d",
+   "nota": "la pieza vieja estaba cortada en recta por el borde de la foto; se sustituye por otra pompa COMPLETA de la misma serie (mismo nombre de archivo)"
+  },
+  "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_02": {
+   "archivo": "productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_02.png",
+   "fecha": "2026-11-20",
+   "motivo": "costura horizontal y vertical en el centro claramente visible (REHACER)",
+   "md5_antes": "63269afb2b7a27941e5fd901dd1360cd",
+   "md5": "8e228a931e4908a3b8656fec36e1bf10",
+   "w": 436,
+   "h": 436,
+   "modo_png": "L",
+   "origen": {
+    "foto": "originales/neonizador/Nuevos recursos/Burbujas brillantes sobre negro.png",
+    "recorte_xywh": [
+     322,
+     333,
+     545,
+     545
+    ],
+    "solape_px": 109
+   },
+   "metodo": "mayor cuadrado dentro de la isla de espuma → luz aplanada (resta de bajas frecuencias) → repetible con corte de error mínimo en X y en Y (el corte de Y empieza y acaba en la misma columna para que case al repetir) y fundido de 1 px; comprobado en 2×2",
+   "copia_exacta_neonizador": "or:63269afb2b7a27941e5fd901dd1360cd",
+   "nota": "tile nuevo sin la cruz de costuras del anterior; el tamaño cambia (era 442)"
+  },
+  "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_03": {
+   "archivo": "productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_03.png",
+   "fecha": "2026-11-20",
+   "motivo": "costuras en cruz muy visibles (REHACER)",
+   "md5_antes": "1945ce833563b1beda48a5dd7e11c60e",
+   "md5": "3aeb1855565bf9010ba06f9cb7f2d796",
+   "w": 348,
+   "h": 348,
+   "modo_png": "L",
+   "origen": {
+    "foto": "originales/neonizador/Nuevos recursos/Burbujas de espuma sobre negro (1).png",
+    "recorte_xywh": [
+     332,
+     393,
+     435,
+     435
+    ],
+    "solape_px": 87
+   },
+   "metodo": "mayor cuadrado dentro de la isla de espuma → luz aplanada (resta de bajas frecuencias) → repetible con corte de error mínimo en X y en Y (el corte de Y empieza y acaba en la misma columna para que case al repetir) y fundido de 1 px; comprobado en 2×2",
+   "copia_exacta_neonizador": "or:1945ce833563b1beda48a5dd7e11c60e",
+   "nota": "tile nuevo sin la cruz de costuras del anterior; el tamaño cambia (era 466)"
+  },
+  "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_05": {
+   "archivo": "productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_05.png",
+   "fecha": "2026-11-20",
+   "motivo": "costuras en cruz muy visibles (REHACER)",
+   "md5_antes": "946d046a44263502e5002091680aca2d",
+   "md5": "34d01ab298044e73c875e7d51723ddce",
+   "w": 398,
+   "h": 398,
+   "modo_png": "L",
+   "origen": {
+    "foto": "originales/neonizador/Nuevos recursos/Espectacular racimo de burbujas sobre negro.png",
+    "recorte_xywh": [
+     374,
+     352,
+     498,
+     498
+    ],
+    "solape_px": 100
+   },
+   "metodo": "mayor cuadrado dentro de la isla de espuma → luz aplanada (resta de bajas frecuencias) → repetible con corte de error mínimo en X y en Y (el corte de Y empieza y acaba en la misma columna para que case al repetir) y fundido de 1 px; comprobado en 2×2",
+   "copia_exacta_neonizador": "or:946d046a44263502e5002091680aca2d",
+   "nota": "tile nuevo sin la cruz de costuras del anterior; el tamaño cambia (era 436)"
+  },
+  "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_09": {
+   "archivo": "productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_09.png",
+   "fecha": "2026-11-20",
+   "motivo": "costuras en cruz muy visibles; solo 504 px (REHACER)",
+   "md5_antes": "0a63a6d9e5a88a90644b47559c90f447",
+   "md5": "a964b49c5a05b925209f9c2a55263f10",
+   "w": 466,
+   "h": 466,
+   "modo_png": "L",
+   "origen": {
+    "foto": "originales/neonizador/Nuevos recursos/Macro de espuma jabonosa brillante.png",
+    "recorte_xywh": [
+     314,
+     368,
+     583,
+     583
+    ],
+    "solape_px": 117
+   },
+   "metodo": "mayor cuadrado dentro de la isla de espuma → luz aplanada (resta de bajas frecuencias) → repetible con corte de error mínimo en X y en Y (el corte de Y empieza y acaba en la misma columna para que case al repetir) y fundido de 1 px; comprobado en 2×2",
+   "copia_exacta_neonizador": "or:0a63a6d9e5a88a90644b47559c90f447",
+   "nota": "tile nuevo sin la cruz de costuras del anterior; el tamaño cambia (era 504)"
+  },
+  "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_10": {
+   "archivo": "productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_10.png",
+   "fecha": "2026-11-20",
+   "motivo": "REHACER: costuras rectas visibles entre bloques",
+   "md5_antes": "f5f98f33709dbad11f517fb290da20c3",
+   "md5": "bc13407fed087caca508bbead0cfce0f",
+   "w": 395,
+   "h": 395,
+   "modo_png": "L",
+   "origen": {
+    "foto": "originales/neonizador/Nuevos recursos/Racimo brillante de burbujas sobre negro.png",
+    "recorte_xywh": [
+     359,
+     344,
+     494,
+     494
+    ],
+    "solape_px": 99
+   },
+   "metodo": "mayor cuadrado dentro de la isla de espuma → luz aplanada (resta de bajas frecuencias) → repetible con corte de error mínimo en X y en Y (el corte de Y empieza y acaba en la misma columna para que case al repetir) y fundido de 1 px; comprobado en 2×2",
+   "copia_exacta_neonizador": "or:f5f98f33709dbad11f517fb290da20c3",
+   "nota": "tile nuevo sin la cruz de costuras del anterior; el tamaño cambia (era 474)"
+  },
+  "tx:productos/piezas_neonizador/gotas/gotas_104": {
+   "archivo": "productos/piezas_neonizador/gotas/gotas_104.png",
+   "fecha": "2026-11-20",
+   "motivo": "corte recto arriba (REHACER)",
+   "md5_antes": "3667c064a5366051658cd70b1a2fea24",
+   "md5": "ef9d1d59aff7aeb65b7c362b74fc6d33",
+   "w": 38,
+   "h": 35,
+   "modo_png": "RGBA",
+   "origen": {
+    "foto": "originales/papelator/SOBREPONER/Gotas de lluvia sobre cristal negro.png",
+    "centro": [
+     720,
+     725
+    ],
+    "radio": 30
+   },
+   "metodo": "gota entera: silueta = envolvente convexa del filo iluminado (L>30) sin gotitas vecinas, suavizada a 4×; alfa = silueta, RGB = foto",
+   "copia_exacta_neonizador": "or:3667c064a5366051658cd70b1a2fea24",
+   "nota": "la gota vieja estaba en el borde superior de la foto y salía cortada en recta; se sustituye por otra gota entera y libre de la misma foto"
+  },
+  "tx:productos/piezas_neonizador/gotas/gotas_111": {
+   "archivo": "productos/piezas_neonizador/gotas/gotas_111.png",
+   "fecha": "2026-11-20",
+   "motivo": "corte recto arriba (REHACER)",
+   "md5_antes": "3840c3782b0cdb3c7bbb9db922bcf8fa",
+   "md5": "23f62fffacb85ab988c25e1358230309",
+   "w": 45,
+   "h": 56,
+   "modo_png": "RGBA",
+   "origen": {
+    "foto": "originales/papelator/SOBREPONER/Gotas de lluvia sobre cristal negro.png",
+    "centro": [
+     381,
+     1014
+    ],
+    "radio": 30
+   },
+   "metodo": "gota entera: silueta = envolvente convexa del filo iluminado (L>30) sin gotitas vecinas, suavizada a 4×; alfa = silueta, RGB = foto",
+   "copia_exacta_neonizador": "or:3840c3782b0cdb3c7bbb9db922bcf8fa",
+   "nota": "la gota vieja estaba en el borde superior de la foto y salía cortada en recta; se sustituye por otra gota entera y libre de la misma foto"
+  },
+  "tx:productos/piezas_neonizador/gotas/gotas_123": {
+   "archivo": "productos/piezas_neonizador/gotas/gotas_123.png",
+   "fecha": "2026-11-20",
+   "motivo": "corte recto arriba (REHACER)",
+   "md5_antes": "0619d102dd6e26405caf7b16c928e468",
+   "md5": "af961237fae606ff366023e083b47efb",
+   "w": 35,
+   "h": 40,
+   "modo_png": "RGBA",
+   "origen": {
+    "foto": "originales/papelator/SOBREPONER/Gotas de lluvia sobre cristal negro.png",
+    "centro": [
+     540,
+     304
+    ],
+    "radio": 24
+   },
+   "metodo": "gota entera: silueta = envolvente convexa del filo iluminado (L>30) sin gotitas vecinas, suavizada a 4×; alfa = silueta, RGB = foto",
+   "copia_exacta_neonizador": "or:0619d102dd6e26405caf7b16c928e468",
+   "nota": "la gota vieja estaba en el borde superior de la foto y salía cortada en recta; se sustituye por otra gota entera y libre de la misma foto"
+  },
+  "tx:productos/piezas_neonizador/gotas/gotas_133": {
+   "archivo": "productos/piezas_neonizador/gotas/gotas_133.png",
+   "fecha": "2026-11-20",
+   "motivo": "resto de fondo gris alrededor (REHACER)",
+   "md5_antes": "3e5366c111cb66ea3ca492f3d0bea72d",
+   "md5": "2fad773f04017e6cab975b578427f6d9",
+   "w": 36,
+   "h": 37,
+   "modo_png": "RGBA",
+   "origen": {
+    "foto": "originales/papelator/SOBREPONER/Gotas de lluvia sobre cristal negro.png",
+    "centro": [
+     496,
+     171
+    ],
+    "radio": 19
+   },
+   "metodo": "gota entera: silueta = envolvente convexa del filo iluminado (L>30) sin gotitas vecinas, suavizada a 4×; alfa = silueta, RGB = foto",
+   "copia_exacta_neonizador": "or:3e5366c111cb66ea3ca492f3d0bea72d",
+   "nota": "la gota vieja estaba en el borde superior de la foto y salía cortada en recta; se sustituye por otra gota entera y libre de la misma foto"
+  },
+  "tx:productos/piezas_neonizador/goteos/sueltos/goteo_238_06": {
+   "archivo": "productos/piezas_neonizador/goteos/sueltos/goteo_238_06.png",
+   "fecha": "2026-11-20",
+   "motivo": "recorte roto y con restos de fondo (REHACER)",
+   "md5_antes": "3639e9237060b9c67fd8989d6757b287",
+   "md5": "0f9ffac89f611c341b54d62fccf65bb2",
+   "w": 53,
+   "h": 291,
+   "modo_png": "RGBA",
+   "origen": {
+    "foto": "originales/neonizador/TEXTURAS_02/Goteos de pintura blanca sobre negro (1).png",
+    "recorte_x0y0x1y1": [
+     104,
+     384,
+     157,
+     676
+    ]
+   },
+   "metodo": "alfa = (L−fondo−12)/(150−fondo−12) recortado a [0,1], componente principal + gotas sueltas, raíz arriba con fundido de 6 filas; color tomado del interior sólido (sin halo rosa del croma)",
+   "copia_exacta_neonizador": "or:3639e9237060b9c67fd8989d6757b287",
+   "nota": "goteo completo de raíz a punta, sin restos de croma"
+  }
+ }
+}

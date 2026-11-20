@@ -478,7 +478,7 @@
 "or:63269afb2b7a27941e5fd901dd1360cd": {
 "que_es": "tile de espuma",
 "calidad": 2,
-"defectos": "REHACER: costura horizontal visible en el centro del tile (cambio brusco de luz)",
+"defectos": "(conservado) costura horizontal visible en el centro del tile (cambio brusco de luz)",
 "familia": "or_heredado_neonizador",
 "variante": 30,
 "diferencia": "-",
@@ -502,11 +502,13 @@
 "saturacion": 0.099,
 "phash": "aaaf448daf5065b1"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r02.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r02.jpg",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_02",
+"nota_rehecho": "copia exacta de NEONIZADOR, se conserva tal cual para que el plugin salga igual; la versión buena es tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_02 (rehecha 20-11-2026)"
 }
 }

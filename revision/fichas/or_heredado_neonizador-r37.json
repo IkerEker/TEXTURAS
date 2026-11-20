@@ -274,7 +274,7 @@
 "or:3639e9237060b9c67fd8989d6757b287": {
 "que_es": "goteo blanco roto con halo rosa del croma",
 "calidad": 2,
-"defectos": "REHACER: restos de croma rosa en el contorno",
+"defectos": "(conservado) restos de croma rosa en el contorno",
 "familia": "or_heredado_neonizador",
 "variante": 549,
 "diferencia": "-",
@@ -298,12 +298,14 @@
 "saturacion": 0.794,
 "phash": "cc66939966996693"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r37.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r37.jpg",
+"sustituido_por": "tx:productos/piezas_neonizador/goteos/sueltos/goteo_238_06",
+"nota_rehecho": "copia exacta de NEONIZADOR, se conserva tal cual para que el plugin salga igual; la versión buena es tx:productos/piezas_neonizador/goteos/sueltos/goteo_238_06 (rehecha 20-11-2026)"
 },
 "or:f6035ae3ad896cc89062c3cfae6c6a0b": {
 "que_es": "goteo blanco grueso con gota",

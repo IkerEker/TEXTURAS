@@ -62,3 +62,8 @@ comportamiento (vídeo) y medidas. 8318 vistos a ojo; 713 con ficha sin vista (6
 `audio_revisado: false`; 55 plantillas/proyectos de programa). Empieza por `revision/RESUMEN.md`;
 `A_REHACER.md` (21), `NO_VISTOS.md`, `FICHAS.json` (todas juntas) y `familias.json`.
 Regenerar: `tools/atlas/revision_sin_vista.py` y luego `tools/atlas/revision_resumen.py --indice`.
+
+**Rehechas (20-11-2026):** las 21 marcadas REHACER están resueltas. 17 piezas de `productos/piezas_neonizador` se
+rehicieron con el mismo nombre (burbujas completas, tiles de espuma repetibles sin cruz, gotas enteras, goteo sin croma):
+detalle y origen en `productos/piezas_neonizador/REHECHAS.json`, antes/después en `productos/hojas/rehechas_2026-11-20.jpg`,
+scripts en `tools/atlas/rehacer/`. Las copias exactas de NEONIZADOR siguen como `or:` heredado con `sustituido_por`.

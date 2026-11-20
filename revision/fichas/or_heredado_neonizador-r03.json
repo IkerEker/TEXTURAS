@@ -2,7 +2,7 @@
 "or:1945ce833563b1beda48a5dd7e11c60e": {
 "que_es": "tile de espuma con zona oscura",
 "calidad": 2,
-"defectos": "REHACER: cortes rectos visibles entre bloques (costura en cruz)",
+"defectos": "(conservado) cortes rectos visibles entre bloques (costura en cruz)",
 "familia": "or_heredado_neonizador",
 "variante": 31,
 "diferencia": "-",
@@ -26,12 +26,14 @@
 "saturacion": 0.067,
 "phash": "f8bb60cd2d107e68"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_03",
+"nota_rehecho": "copia exacta de NEONIZADOR, se conserva tal cual para que el plugin salga igual; la versión buena es tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_03 (rehecha 20-11-2026)"
 },
 "or:523cb20d5b75b554bac69dd5a907f7b8": {
 "que_es": "tile de espuma con burbujas grandes",
@@ -70,7 +72,7 @@
 "or:946d046a44263502e5002091680aca2d": {
 "que_es": "tile de espuma",
 "calidad": 2,
-"defectos": "REHACER: costuras rectas visibles entre bloques",
+"defectos": "(conservado) costuras rectas visibles entre bloques",
 "familia": "or_heredado_neonizador",
 "variante": 33,
 "diferencia": "-",
@@ -94,12 +96,14 @@
 "saturacion": 0.051,
 "phash": "ff96b125919094e3"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_05",
+"nota_rehecho": "copia exacta de NEONIZADOR, se conserva tal cual para que el plugin salga igual; la versión buena es tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_05 (rehecha 20-11-2026)"
 },
 "or:acee9f3c670f2b6fe88121c072ed1ac5": {
 "que_es": "tile de espuma uniforme",
@@ -235,12 +239,14 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_09",
+"nota_rehecho": "copia exacta de NEONIZADOR, se conserva tal cual para que el plugin salga igual; la versión buena es tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_09 (rehecha 20-11-2026)"
 },
 "or:f5f98f33709dbad11f517fb290da20c3": {
 "que_es": "tile de espuma oscura",
 "calidad": 2,
-"defectos": "REHACER: costuras rectas visibles entre bloques",
+"defectos": "(conservado) costuras rectas visibles entre bloques",
 "familia": "or_heredado_neonizador",
 "variante": 38,
 "diferencia": "-",
@@ -264,12 +270,14 @@
 "saturacion": 0.08,
 "phash": "ae5116f88e4de11e"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_10",
+"nota_rehecho": "copia exacta de NEONIZADOR, se conserva tal cual para que el plugin salga igual; la versión buena es tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_10 (rehecha 20-11-2026)"
 },
 "or:1f29964927281312fb38801a80b39f3e": {
 "que_es": "chispa diminuta con cola (pocos px)",

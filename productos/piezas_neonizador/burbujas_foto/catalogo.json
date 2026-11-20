@@ -60,9 +60,10 @@
   {
    "clase": "tile",
    "archivo": "tiles/espuma_tile_02.png",
-   "w": 442,
-   "h": 442,
-   "src": "Burbujas brillantes sobre negro.png"
+   "w": 436,
+   "h": 436,
+   "src": "Burbujas brillantes sobre negro.png",
+   "rehecho": "2026-11-20: repetible de verdad (corte de error mínimo en X e Y), ver ../REHECHAS.json"
   },
   {
    "clase": "mancha",
@@ -74,9 +75,10 @@
   {
    "clase": "tile",
    "archivo": "tiles/espuma_tile_03.png",
-   "w": 466,
-   "h": 466,
-   "src": "Burbujas de espuma sobre negro (1).png"
+   "w": 348,
+   "h": 348,
+   "src": "Burbujas de espuma sobre negro (1).png",
+   "rehecho": "2026-11-20: repetible de verdad (corte de error mínimo en X e Y), ver ../REHECHAS.json"
   },
   {
    "clase": "mancha",
@@ -102,9 +104,10 @@
   {
    "clase": "tile",
    "archivo": "tiles/espuma_tile_05.png",
-   "w": 436,
-   "h": 436,
-   "src": "Espectacular racimo de burbujas sobre negro.png"
+   "w": 398,
+   "h": 398,
+   "src": "Espectacular racimo de burbujas sobre negro.png",
+   "rehecho": "2026-11-20: repetible de verdad (corte de error mínimo en X e Y), ver ../REHECHAS.json"
   },
   {
    "clase": "mancha",
@@ -158,9 +161,10 @@
   {
    "clase": "tile",
    "archivo": "tiles/espuma_tile_09.png",
-   "w": 504,
-   "h": 504,
-   "src": "Macro de espuma jabonosa brillante.png"
+   "w": 466,
+   "h": 466,
+   "src": "Macro de espuma jabonosa brillante.png",
+   "rehecho": "2026-11-20: repetible de verdad (corte de error mínimo en X e Y), ver ../REHECHAS.json"
   },
   {
    "clase": "mancha",
@@ -172,9 +176,10 @@
   {
    "clase": "tile",
    "archivo": "tiles/espuma_tile_10.png",
-   "w": 474,
-   "h": 474,
-   "src": "Racimo brillante de burbujas sobre negro.png"
+   "w": 395,
+   "h": 395,
+   "src": "Racimo brillante de burbujas sobre negro.png",
+   "rehecho": "2026-11-20: repetible de verdad (corte de error mínimo en X e Y), ver ../REHECHAS.json"
   },
   {
    "clase": "mancha",

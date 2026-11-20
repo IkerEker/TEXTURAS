@@ -207195,10 +207195,11 @@
 "neonizador/BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_10.png"
 ],
 "nota": "JPG re-guardado o recorte de NEONIZADOR: se conserva para que su plugin/tex salga igual",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_10",
 "revision": {
 "que_es": "tile de espuma oscura",
 "calidad": 2,
-"defectos": "REHACER: costuras rectas visibles entre bloques",
+"defectos": "(conservado) costuras rectas visibles entre bloques",
 "familia": "or_heredado_neonizador",
 "variante": 38,
 "diferencia": "-",
@@ -207222,12 +207223,14 @@
 "saturacion": 0.08,
 "phash": "ae5116f88e4de11e"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_10",
+"nota_rehecho": "copia exacta de NEONIZADOR, se conserva tal cual para que el plugin salga igual; la versión buena es tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_10 (rehecha 20-11-2026)"
 }
 },
 {
@@ -207287,10 +207290,11 @@
 "neonizador/BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_02.png"
 ],
 "nota": "JPG re-guardado o recorte de NEONIZADOR: se conserva para que su plugin/tex salga igual",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_02",
 "revision": {
 "que_es": "tile de espuma",
 "calidad": 2,
-"defectos": "REHACER: costura horizontal visible en el centro del tile (cambio brusco de luz)",
+"defectos": "(conservado) costura horizontal visible en el centro del tile (cambio brusco de luz)",
 "familia": "or_heredado_neonizador",
 "variante": 30,
 "diferencia": "-",
@@ -207314,12 +207318,14 @@
 "saturacion": 0.099,
 "phash": "aaaf448daf5065b1"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r02.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r02.jpg",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_02",
+"nota_rehecho": "copia exacta de NEONIZADOR, se conserva tal cual para que el plugin salga igual; la versión buena es tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_02 (rehecha 20-11-2026)"
 }
 },
 {
@@ -207333,10 +207339,11 @@
 "neonizador/BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_03.png"
 ],
 "nota": "JPG re-guardado o recorte de NEONIZADOR: se conserva para que su plugin/tex salga igual",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_03",
 "revision": {
 "que_es": "tile de espuma con zona oscura",
 "calidad": 2,
-"defectos": "REHACER: cortes rectos visibles entre bloques (costura en cruz)",
+"defectos": "(conservado) cortes rectos visibles entre bloques (costura en cruz)",
 "familia": "or_heredado_neonizador",
 "variante": 31,
 "diferencia": "-",
@@ -207360,12 +207367,14 @@
 "saturacion": 0.067,
 "phash": "f8bb60cd2d107e68"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_03",
+"nota_rehecho": "copia exacta de NEONIZADOR, se conserva tal cual para que el plugin salga igual; la versión buena es tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_03 (rehecha 20-11-2026)"
 }
 },
 {
@@ -207471,6 +207480,7 @@
 "neonizador/BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_09.png"
 ],
 "nota": "JPG re-guardado o recorte de NEONIZADOR: se conserva para que su plugin/tex salga igual",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_09",
 "revision": {
 "que_es": "tile de espuma con hueco oscuro",
 "calidad": 4,
@@ -207503,7 +207513,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_09",
+"nota_rehecho": "copia exacta de NEONIZADOR, se conserva tal cual para que el plugin salga igual; la versión buena es tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_09 (rehecha 20-11-2026)"
 }
 },
 {
@@ -207563,10 +207575,11 @@
 "neonizador/BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_05.png"
 ],
 "nota": "JPG re-guardado o recorte de NEONIZADOR: se conserva para que su plugin/tex salga igual",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_05",
 "revision": {
 "que_es": "tile de espuma",
 "calidad": 2,
-"defectos": "REHACER: costuras rectas visibles entre bloques",
+"defectos": "(conservado) costuras rectas visibles entre bloques",
 "familia": "or_heredado_neonizador",
 "variante": 33,
 "diferencia": "-",
@@ -207590,12 +207603,14 @@
 "saturacion": 0.051,
 "phash": "ff96b125919094e3"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r03.jpg",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_05",
+"nota_rehecho": "copia exacta de NEONIZADOR, se conserva tal cual para que el plugin salga igual; la versión buena es tx:productos/piezas_neonizador/burbujas_foto/tiles/espuma_tile_05 (rehecha 20-11-2026)"
 }
 },
 {
@@ -208437,6 +208452,7 @@
 "neonizador/BIBLIOTECA/elementos/burbujas/burbujas_230_03.png"
 ],
 "nota": "JPG re-guardado o recorte de NEONIZADOR: se conserva para que su plugin/tex salga igual",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas/burbujas_230_03",
 "revision": {
 "que_es": "fragmento de borde de burbuja",
 "calidad": 2,
@@ -208469,7 +208485,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r01.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r01.jpg",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas/burbujas_230_03",
+"nota_rehecho": "copia exacta de NEONIZADOR, se conserva tal cual para que el plugin salga igual; la versión buena es tx:productos/piezas_neonizador/burbujas/burbujas_230_03 (rehecha 20-11-2026)"
 }
 },
 {
@@ -211013,10 +211031,11 @@
 "neonizador/BIBLIOTECA/elementos/goteos/sueltos/goteo_238_06.png"
 ],
 "nota": "JPG re-guardado o recorte de NEONIZADOR: se conserva para que su plugin/tex salga igual",
+"sustituido_por": "tx:productos/piezas_neonizador/goteos/sueltos/goteo_238_06",
 "revision": {
 "que_es": "goteo blanco roto con halo rosa del croma",
 "calidad": 2,
-"defectos": "REHACER: restos de croma rosa en el contorno",
+"defectos": "(conservado) restos de croma rosa en el contorno",
 "familia": "or_heredado_neonizador",
 "variante": 549,
 "diferencia": "-",
@@ -211040,12 +211059,14 @@
 "saturacion": 0.794,
 "phash": "cc66939966996693"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r37.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r37.jpg",
+"sustituido_por": "tx:productos/piezas_neonizador/goteos/sueltos/goteo_238_06",
+"nota_rehecho": "copia exacta de NEONIZADOR, se conserva tal cual para que el plugin salga igual; la versión buena es tx:productos/piezas_neonizador/goteos/sueltos/goteo_238_06 (rehecha 20-11-2026)"
 }
 },
 {
@@ -461330,48 +461351,75 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/burbujas",
-"md5": "fabd6cf6604b3471ad0989d487ef182e",
+"md5": "37a4699e21502e4c1370004210a85ee0",
 "alfa": true,
 "fondo": "transparente",
 "modo": "trama",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): pompa completa: alfa = 1,2·(max(rgb)−3) dentro de un círculo suave de radio 1,10·r (las vecinas quedan fuera), color = foto/alfa sin premultiplicar; círculo ajustado por mínimos cuadrados al filo",
 "hoja": "TEXTURAS/productos/hojas/neonizador__burbujas.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/burbujas/burbujas_229_04.png",
+"medidas": {
+"w": 108,
+"h": 108
+},
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "fabd6cf6604b3471ad0989d487ef182e",
+"copia_exacta_neonizador": "or:fabd6cf6604b3471ad0989d487ef182e",
+"origen": {
+"foto": "originales/neonizador/TEXTURAS_02/Burbujas iridiscentes flotando en la oscuridad.png",
+"centro": [
+352.3,
+1092.7
+],
+"radio": 46.5
+}
+},
 "revision": {
-"que_es": "dos burbujas superpuestas, la superior borrosa",
-"calidad": 2,
-"defectos": "corte recto abajo y burbuja de arriba desenfocada/mal recortada (REHACER)",
+"que_es": "pompa pequeña completa y muy limpia, filo fino con brillos blancos y un toque azul abajo; casi incolora",
+"calidad": 4,
+"defectos": "",
 "familia": "pieza_burbuja",
 "variante": 17,
-"diferencia": "doble cortada",
+"diferencia": "rehecha: completa",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "burbuja suelta flotando",
 "modo": "trama",
-"usar_si": "borde inferior",
-"evitar_si": "centro",
-"color": "transparente arcoíris",
+"usar_si": "pompa discreta, relleno de fondo",
+"evitar_si": "primer plano grande (poco detalle)",
+"color": "transparente, casi incolora",
 "orient": "-",
-"escala": "grande",
+"escala": "pequeña",
 "estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
+"w": 108,
+"h": 108,
 "alfa_cobertura": 0.111,
-"alfa_parcial": 0.812,
-"color_medio": "#8b7c85",
-"luminancia": 0.521,
-"contraste": 0.199,
-"saturacion": 0.394,
-"phash": "941e6de31738a167"
+"alfa_parcial": 0.916,
+"color_medio": "#bab3d2",
+"luminancia": 0.753,
+"contraste": 0.115,
+"saturacion": 0.27,
+"phash": "dd8a650987559a5b"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r02.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "dos burbujas superpuestas, la superior borrosa",
+"calidad": 2,
+"defectos": "corte recto abajo y burbuja de arriba desenfocada/mal recortada (REHACER)",
+"md5": "fabd6cf6604b3471ad0989d487ef182e"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+}
 }
 },
 {
@@ -461381,48 +461429,75 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/burbujas",
-"md5": "0a36a20224d425a7a3549665b6dd1f0e",
+"md5": "63f98c7ab11c8a5cc642de5f2d0b62d1",
 "alfa": true,
 "fondo": "transparente",
 "modo": "trama",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): pompa completa: alfa = 1,2·(max(rgb)−3) dentro de un círculo suave de radio 1,10·r (las vecinas quedan fuera), color = foto/alfa sin premultiplicar; círculo ajustado por mínimos cuadrados al filo",
 "hoja": "TEXTURAS/productos/hojas/neonizador__burbujas.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/burbujas/burbujas_229_05.png",
+"medidas": {
+"w": 231,
+"h": 228
+},
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "0a36a20224d425a7a3549665b6dd1f0e",
+"copia_exacta_neonizador": "or:0a36a20224d425a7a3549665b6dd1f0e",
+"origen": {
+"foto": "originales/neonizador/TEXTURAS_02/Burbujas iridiscentes flotando en la oscuridad.png",
+"centro": [
+580.4,
+520.0
+],
+"radio": 103.1
+}
+},
 "revision": {
-"que_es": "fragmento inferior de burbuja (cuenco) con lados cortados en recta",
-"calidad": 2,
-"defectos": "cortes rectos a izquierda y derecha (REHACER)",
+"que_es": "pompa mediana completa, filo nítido con reflejos de ventana blancos y franjas naranja/azul; centro transparente",
+"calidad": 4,
+"defectos": "",
 "familia": "pieza_burbuja",
 "variante": 18,
-"diferencia": "fragmento",
+"diferencia": "rehecha: completa (pompa del par 229_02, sola)",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "burbuja suelta flotando",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "casi siempre",
-"color": "arcoíris",
-"orient": "arco abajo",
-"escala": "media",
+"usar_si": "pompa protagonista mediana",
+"evitar_si": "-",
+"color": "transparente arcoíris suave",
+"orient": "-",
+"escala": "mediana",
 "estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
-"alfa_cobertura": 0.179,
-"alfa_parcial": 0.61,
-"color_medio": "#9391a8",
-"luminancia": 0.603,
-"contraste": 0.204,
-"saturacion": 0.367,
-"phash": "972568dab5c936c8"
+"w": 231,
+"h": 228,
+"alfa_cobertura": 0.1,
+"alfa_parcial": 0.914,
+"color_medio": "#b1acc4",
+"luminancia": 0.713,
+"contraste": 0.139,
+"saturacion": 0.397,
+"phash": "98fd557047305af1"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r02.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "fragmento inferior de burbuja (cuenco) con lados cortados en recta",
+"calidad": 2,
+"defectos": "cortes rectos a izquierda y derecha (REHACER)",
+"md5": "0a36a20224d425a7a3549665b6dd1f0e"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+}
 }
 },
 {
@@ -461483,48 +461558,75 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/burbujas",
-"md5": "17de9c4422af4aa76749170d82c26ad4",
+"md5": "57fa55276b2a5d209fcbc1875fb50942",
 "alfa": true,
 "fondo": "transparente",
 "modo": "trama",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): pompa completa: alfa = 1,2·(max(rgb)−3) dentro de un círculo suave de radio 1,10·r (las vecinas quedan fuera), color = foto/alfa sin premultiplicar; círculo ajustado por mínimos cuadrados al filo",
 "hoja": "TEXTURAS/productos/hojas/neonizador__burbujas.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/burbujas/burbujas_229_07.png",
+"medidas": {
+"w": 255,
+"h": 255
+},
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "17de9c4422af4aa76749170d82c26ad4",
+"copia_exacta_neonizador": "or:17de9c4422af4aa76749170d82c26ad4",
+"origen": {
+"foto": "originales/neonizador/TEXTURAS_02/Burbujas de jabón iridiscentes sobre negro.png",
+"centro": [
+355.3,
+1056.1
+],
+"radio": 113.4
+}
+},
 "revision": {
-"que_es": "arco superior de burbuja cortado a la izquierda",
-"calidad": 2,
-"defectos": "corte recto a la izquierda; solo arco (REHACER)",
+"que_es": "pompa grande completa con película iridiscente muy viva: bandas magenta/azul/verde arriba a la izquierda y abajo a la derecha",
+"calidad": 5,
+"defectos": "",
 "familia": "pieza_burbuja",
 "variante": 20,
-"diferencia": "fragmento",
+"diferencia": "rehecha: completa (la pompa partida en 228_07/08, entera)",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "burbuja protagonista",
 "modo": "trama",
-"usar_si": "borde izquierdo",
-"evitar_si": "centro",
-"color": "arcoíris",
-"orient": "arco arriba",
-"escala": "media",
+"usar_si": "pompa grande y colorida en primer plano",
+"evitar_si": "fondos muy cargados de color",
+"color": "arcoíris intenso",
+"orient": "-",
+"escala": "grande",
 "estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
-"alfa_cobertura": 0.14,
-"alfa_parcial": 0.721,
-"color_medio": "#8c8c99",
-"luminancia": 0.568,
-"contraste": 0.21,
-"saturacion": 0.413,
-"phash": "fed0000f3f34fa92"
+"w": 255,
+"h": 255,
+"alfa_cobertura": 0.142,
+"alfa_parcial": 0.918,
+"color_medio": "#718fb8",
+"luminancia": 0.577,
+"contraste": 0.106,
+"saturacion": 0.712,
+"phash": "dd59406a0fe19b17"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r02.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "arco superior de burbuja cortado a la izquierda",
+"calidad": 2,
+"defectos": "corte recto a la izquierda; solo arco (REHACER)",
+"md5": "17de9c4422af4aa76749170d82c26ad4"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+}
 }
 },
 {
@@ -461585,48 +461687,75 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/burbujas",
-"md5": "9bc9290915db871a53f87173fa89d081",
+"md5": "36df8f9bc6137997b46b757800a9c547",
 "alfa": true,
 "fondo": "transparente",
 "modo": "trama",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): pompa completa: alfa = 1,2·(max(rgb)−3) dentro de un círculo suave de radio 1,10·r (las vecinas quedan fuera), color = foto/alfa sin premultiplicar; círculo ajustado por mínimos cuadrados al filo",
 "hoja": "TEXTURAS/productos/hojas/neonizador__burbujas.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/burbujas/burbujas_229_09.png",
+"medidas": {
+"w": 172,
+"h": 171
+},
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "9bc9290915db871a53f87173fa89d081",
+"copia_exacta_neonizador": "or:9bc9290915db871a53f87173fa89d081",
+"origen": {
+"foto": "originales/neonizador/TEXTURAS_02/Burbujas iridiscentes flotando en la oscuridad.png",
+"centro": [
+961,
+189
+],
+"radio": 76
+}
+},
 "revision": {
-"que_es": "burbuja pequeña con la parte superior cortada en recta",
-"calidad": 2,
-"defectos": "corte recto arriba (REHACER)",
+"que_es": "pompa de jabón pequeña completa, filo fino con reflejos arcoíris a la izquierda y abajo y dos brillos puntuales; centro transparente",
+"calidad": 4,
+"defectos": "",
 "familia": "pieza_burbuja",
 "variante": 22,
-"diferencia": "cortada",
+"diferencia": "rehecha: completa (misma pompa que 229_06)",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "burbuja suelta flotando",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "casi siempre",
-"color": "transparente",
+"usar_si": "pompa pequeña en segundo plano",
+"evitar_si": "junto a burbujas_229_06 (es la misma pompa)",
+"color": "transparente arcoíris",
 "orient": "-",
 "escala": "pequeña",
 "estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
-"alfa_cobertura": 0.099,
-"alfa_parcial": 0.849,
-"color_medio": "#74737d",
-"luminancia": 0.468,
-"contraste": 0.134,
-"saturacion": 0.44,
-"phash": "90f15b9e370eda30"
+"w": 172,
+"h": 171,
+"alfa_cobertura": 0.125,
+"alfa_parcial": 0.896,
+"color_medio": "#a3b5c8",
+"luminancia": 0.713,
+"contraste": 0.14,
+"saturacion": 0.431,
+"phash": "d74e503a16b81bf8"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r02.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "burbuja pequeña con la parte superior cortada en recta",
+"calidad": 2,
+"defectos": "corte recto arriba (REHACER)",
+"md5": "9bc9290915db871a53f87173fa89d081"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+}
 }
 },
 {
@@ -461687,48 +461816,75 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/burbujas",
-"md5": "b997a698bd7d93f1eff6a26859433cf7",
+"md5": "5e52ac3cb9db04c34b0963f787ead0d3",
 "alfa": true,
 "fondo": "transparente",
 "modo": "trama",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): pompa completa: alfa = 1,2·(max(rgb)−3) dentro de un círculo suave de radio 1,10·r (las vecinas quedan fuera), color = foto/alfa sin premultiplicar; círculo ajustado por mínimos cuadrados al filo",
 "hoja": "TEXTURAS/productos/hojas/neonizador__burbujas.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/burbujas/burbujas_229_11.png",
+"medidas": {
+"w": 55,
+"h": 55
+},
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "b997a698bd7d93f1eff6a26859433cf7",
+"copia_exacta_neonizador": "or:b997a698bd7d93f1eff6a26859433cf7",
+"origen": {
+"foto": "originales/neonizador/TEXTURAS_02/Burbujas de jabón iridiscentes sobre negro.png",
+"centro": [
+720.7,
+805.2
+],
+"radio": 22.3
+}
+},
 "revision": {
-"que_es": "fragmento de borde de burbuja cortado",
-"calidad": 1,
-"defectos": "solo un trozo de arco con corte recto (REHACER o descartar)",
+"que_es": "pompa diminuta completa, filo fino con brillo arriba",
+"calidad": 4,
+"defectos": "",
 "familia": "pieza_burbuja",
 "variante": 24,
-"diferencia": "trozo",
+"diferencia": "rehecha: completa",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "burbuja diminuta de relleno",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "siempre",
-"color": "arcoíris",
+"usar_si": "salpicar pompas lejanas",
+"evitar_si": "ampliar (55 px)",
+"color": "transparente",
 "orient": "-",
-"escala": "pequeña",
-"estilo": "-",
+"escala": "diminuta",
+"estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
-"alfa_cobertura": 0.177,
-"alfa_parcial": 0.728,
-"color_medio": "#997770",
-"luminancia": 0.503,
-"contraste": 0.181,
-"saturacion": 0.45,
-"phash": "993067dc7331a6ac"
+"w": 55,
+"h": 55,
+"alfa_cobertura": 0.087,
+"alfa_parcial": 0.966,
+"color_medio": "#a7a2c6",
+"luminancia": 0.692,
+"contraste": 0.108,
+"saturacion": 0.409,
+"phash": "d0fe526e432e9a64"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r02.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "fragmento de borde de burbuja cortado",
+"calidad": 1,
+"defectos": "solo un trozo de arco con corte recto (REHACER o descartar)",
+"md5": "b997a698bd7d93f1eff6a26859433cf7"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+}
 }
 },
 {
@@ -461891,48 +462047,75 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/burbujas",
-"md5": "36a46b047ae2495a21bb9e043d5dfb7e",
+"md5": "d14606af8e627e821cba402931b79b56",
 "alfa": true,
 "fondo": "transparente",
 "modo": "trama",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): pompa completa: alfa = 1,2·(max(rgb)−3) dentro de un círculo suave de radio 1,10·r (las vecinas quedan fuera), color = foto/alfa sin premultiplicar; círculo ajustado por mínimos cuadrados al filo",
 "hoja": "TEXTURAS/productos/hojas/neonizador__burbujas.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/burbujas/burbujas_230_03.png",
+"medidas": {
+"w": 331,
+"h": 330
+},
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "36a46b047ae2495a21bb9e043d5dfb7e",
+"copia_exacta_neonizador": "or:36a46b047ae2495a21bb9e043d5dfb7e",
+"origen": {
+"foto": "originales/neonizador/TEXTURAS_02/Burbujas de jabón iridiscentes sobre negro.png",
+"centro": [
+910.6,
+908.6
+],
+"radio": 148.0
+}
+},
 "revision": {
-"que_es": "fragmento de burbuja muy grande y desenfocada con cortes rectos arriba y a la derecha",
-"calidad": 2,
-"defectos": "cortes rectos visibles y desenfoque (REHACER)",
+"que_es": "pompa grande completa con remolinos iridiscentes amarillo/magenta/azul en la mitad superior y reflejos abajo; filo nítido",
+"calidad": 5,
+"defectos": "",
 "familia": "pieza_burbuja",
 "variante": 28,
-"diferencia": "desenfocada",
+"diferencia": "rehecha: completa (pompa grande de 228_02, sola)",
 "mejor_de_familia": false,
-"uso": "bokeh en primer plano",
+"uso": "burbuja protagonista",
 "modo": "trama",
-"usar_si": "en esquina",
-"evitar_si": "centro",
-"color": "arcoíris",
+"usar_si": "pompa grande en primer plano",
+"evitar_si": "junto a burbujas_228_02 (es su pompa grande, sola)",
+"color": "arcoíris intenso",
 "orient": "-",
-"escala": "muy grande",
-"estilo": "fotográfico desenfocado",
+"escala": "grande",
+"estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
-"alfa_cobertura": 0.199,
-"alfa_parcial": 0.775,
-"color_medio": "#86798b",
-"luminancia": 0.517,
-"contraste": 0.186,
-"saturacion": 0.402,
-"phash": "c09fb4316169cf4e"
+"w": 331,
+"h": 330,
+"alfa_cobertura": 0.118,
+"alfa_parcial": 0.94,
+"color_medio": "#ab92a0",
+"luminancia": 0.626,
+"contraste": 0.119,
+"saturacion": 0.589,
+"phash": "85fb01ca1741db37"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r02.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "fragmento de burbuja muy grande y desenfocada con cortes rectos arriba y a la derecha",
+"calidad": 2,
+"defectos": "cortes rectos visibles y desenfoque (REHACER)",
+"md5": "36a46b047ae2495a21bb9e043d5dfb7e"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+}
 }
 },
 {
@@ -461993,48 +462176,75 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/burbujas",
-"md5": "98bd18384abbe1a4449f39df43f7410d",
+"md5": "4e37e4f0488d196c1777713898b18ba6",
 "alfa": true,
 "fondo": "transparente",
 "modo": "trama",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): pompa completa: alfa = 1,2·(max(rgb)−3) dentro de un círculo suave de radio 1,10·r (las vecinas quedan fuera), color = foto/alfa sin premultiplicar; círculo ajustado por mínimos cuadrados al filo",
 "hoja": "TEXTURAS/productos/hojas/neonizador__burbujas.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/burbujas/burbujas_230_05.png",
+"medidas": {
+"w": 302,
+"h": 304
+},
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "98bd18384abbe1a4449f39df43f7410d",
+"copia_exacta_neonizador": "or:98bd18384abbe1a4449f39df43f7410d",
+"origen": {
+"foto": "originales/neonizador/TEXTURAS_02/Burbujas iridiscentes flotando en la oscuridad.png",
+"centro": [
+367.0,
+364.9
+],
+"radio": 135.6
+}
+},
 "revision": {
-"que_es": "arco de burbuja desenfocado cortado abajo y a la derecha",
-"calidad": 2,
-"defectos": "cortes rectos (REHACER)",
+"que_es": "pompa grande completa, iridiscencia magenta/amarilla/azul en el lado izquierdo y abajo, el resto transparente",
+"calidad": 5,
+"defectos": "",
 "familia": "pieza_burbuja",
 "variante": 30,
-"diferencia": "fragmento",
+"diferencia": "rehecha: completa (pompa del par 229_02, sola)",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "burbuja protagonista",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "casi siempre",
-"color": "arcoíris",
+"usar_si": "pompa grande en primer plano",
+"evitar_si": "-",
+"color": "arcoíris intenso",
 "orient": "-",
-"escala": "media",
-"estilo": "desenfocado",
+"escala": "grande",
+"estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
-"alfa_cobertura": 0.211,
-"alfa_parcial": 0.734,
-"color_medio": "#7a7d9a",
-"luminancia": 0.527,
-"contraste": 0.169,
-"saturacion": 0.427,
-"phash": "c8c3329ecfb16836"
+"w": 302,
+"h": 304,
+"alfa_cobertura": 0.133,
+"alfa_parcial": 0.831,
+"color_medio": "#c59aac",
+"luminancia": 0.686,
+"contraste": 0.156,
+"saturacion": 0.507,
+"phash": "cd570852033f4fda"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r02.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "arco de burbuja desenfocado cortado abajo y a la derecha",
+"calidad": 2,
+"defectos": "cortes rectos (REHACER)",
+"md5": "98bd18384abbe1a4449f39df43f7410d"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+}
 }
 },
 {
@@ -463317,52 +463527,78 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/burbujas_foto/tiles",
-"md5": "63269afb2b7a27941e5fd901dd1360cd",
+"md5": "8e228a931e4908a3b8656fec36e1bf10",
 "alfa": true,
 "fondo": "transparente",
 "modo": "trama",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): mayor cuadrado dentro de la isla de espuma → luz aplanada (resta de bajas frecuencias) → repetible con corte de error mínimo en X y en Y (el corte de Y empieza y acaba en la misma columna para que case al repetir) y fundido de 1 px; comprobado en 2×2",
 "hoja": "TEXTURAS/productos/hojas/neonizador__burbujas_foto_tiles.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_02.png",
 "medidas": {
-"w": 442,
-"h": 442
+"w": 436,
+"h": 436
 },
 "foto_origen": "Burbujas brillantes sobre negro.png",
 "clase_pieza": "tile",
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "63269afb2b7a27941e5fd901dd1360cd",
+"copia_exacta_neonizador": "or:63269afb2b7a27941e5fd901dd1360cd",
+"origen": {
+"foto": "originales/neonizador/Nuevos recursos/Burbujas brillantes sobre negro.png",
+"recorte_xywh": [
+322,
+333,
+545,
+545
+],
+"solape_px": 109
+}
+},
 "revision": {
-"que_es": "mosaico de espuma con costuras en cruz muy visibles",
-"calidad": 2,
-"defectos": "costura horizontal y vertical en el centro claramente visible (REHACER)",
+"que_es": "espuma de pompas grandes y medianas con filos brillantes entre espuma fina; repetible sin costuras",
+"calidad": 4,
+"defectos": "",
 "familia": "espuma_tile",
 "variante": 2,
-"diferencia": "costura visible",
+"diferencia": "rehecho: repetible sin cruz",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "fondo de espuma repetible",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "a la vista",
-"color": "blanco/negro",
+"usar_si": "fondo de espuma con pompas grandes",
+"evitar_si": "patrón visible si se repite mucho a escala pequeña (pompa grande repetida)",
+"color": "blanco y negro",
 "orient": "-",
 "escala": "pantalla",
 "estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
+"w": 436,
+"h": 436,
 "color_medio": "#484848",
-"luminancia": 0.285,
-"contraste": 0.231,
+"luminancia": 0.284,
+"contraste": 0.279,
 "saturacion": 0.0,
-"phash": "aaaf448daf5065b1"
+"phash": "c9aed89d11733a70"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r04.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "mosaico de espuma con costuras en cruz muy visibles",
+"calidad": 2,
+"defectos": "costura horizontal y vertical en el centro claramente visible (REHACER)",
+"md5": "63269afb2b7a27941e5fd901dd1360cd"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+},
+"tileable": true
 }
 },
 {
@@ -463372,52 +463608,78 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/burbujas_foto/tiles",
-"md5": "1945ce833563b1beda48a5dd7e11c60e",
+"md5": "3aeb1855565bf9010ba06f9cb7f2d796",
 "alfa": true,
 "fondo": "transparente",
 "modo": "trama",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): mayor cuadrado dentro de la isla de espuma → luz aplanada (resta de bajas frecuencias) → repetible con corte de error mínimo en X y en Y (el corte de Y empieza y acaba en la misma columna para que case al repetir) y fundido de 1 px; comprobado en 2×2",
 "hoja": "TEXTURAS/productos/hojas/neonizador__burbujas_foto_tiles.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_03.png",
 "medidas": {
-"w": 466,
-"h": 466
+"w": 348,
+"h": 348
 },
 "foto_origen": "Burbujas de espuma sobre negro (1).png",
 "clase_pieza": "tile",
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "1945ce833563b1beda48a5dd7e11c60e",
+"copia_exacta_neonizador": "or:1945ce833563b1beda48a5dd7e11c60e",
+"origen": {
+"foto": "originales/neonizador/Nuevos recursos/Burbujas de espuma sobre negro (1).png",
+"recorte_xywh": [
+332,
+393,
+435,
+435
+],
+"solape_px": 87
+}
+},
 "revision": {
-"que_es": "mosaico de espuma con burbuja grande cortada por las costuras",
-"calidad": 2,
-"defectos": "costuras en cruz muy visibles (REHACER)",
+"que_es": "espuma densa con una pompa grande central de filo grueso y brillo blanco; repetible sin costuras",
+"calidad": 4,
+"defectos": "",
 "familia": "espuma_tile",
 "variante": 3,
-"diferencia": "costura visible",
+"diferencia": "rehecho: repetible sin cruz",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "fondo de espuma repetible",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "a la vista",
-"color": "blanco/negro",
+"usar_si": "espuma con una pompa protagonista",
+"evitar_si": "mosaicos grandes (la pompa grande se nota al repetir)",
+"color": "blanco y negro",
 "orient": "-",
 "escala": "pantalla",
 "estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
+"w": 348,
+"h": 348,
 "color_medio": "#626262",
-"luminancia": 0.385,
-"contraste": 0.228,
+"luminancia": 0.388,
+"contraste": 0.252,
 "saturacion": 0.0,
-"phash": "f8bb60cd2d107e68"
+"phash": "ee4f86b13c387942"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r04.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "mosaico de espuma con burbuja grande cortada por las costuras",
+"calidad": 2,
+"defectos": "costuras en cruz muy visibles (REHACER)",
+"md5": "1945ce833563b1beda48a5dd7e11c60e"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+},
+"tileable": true
 }
 },
 {
@@ -463482,52 +463744,78 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/burbujas_foto/tiles",
-"md5": "946d046a44263502e5002091680aca2d",
+"md5": "34d01ab298044e73c875e7d51723ddce",
 "alfa": true,
 "fondo": "transparente",
 "modo": "trama",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): mayor cuadrado dentro de la isla de espuma → luz aplanada (resta de bajas frecuencias) → repetible con corte de error mínimo en X y en Y (el corte de Y empieza y acaba en la misma columna para que case al repetir) y fundido de 1 px; comprobado en 2×2",
 "hoja": "TEXTURAS/productos/hojas/neonizador__burbujas_foto_tiles.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_05.png",
 "medidas": {
-"w": 436,
-"h": 436
+"w": 398,
+"h": 398
 },
 "foto_origen": "Espectacular racimo de burbujas sobre negro.png",
 "clase_pieza": "tile",
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "946d046a44263502e5002091680aca2d",
+"copia_exacta_neonizador": "or:946d046a44263502e5002091680aca2d",
+"origen": {
+"foto": "originales/neonizador/Nuevos recursos/Espectacular racimo de burbujas sobre negro.png",
+"recorte_xywh": [
+374,
+352,
+498,
+498
+],
+"solape_px": 100
+}
+},
 "revision": {
-"que_es": "mosaico de espuma clara",
-"calidad": 2,
-"defectos": "costuras en cruz muy visibles (REHACER)",
+"que_es": "espuma fina y media muy brillante con huecos negros grandes; repetible sin costuras",
+"calidad": 5,
+"defectos": "",
 "familia": "espuma_tile",
 "variante": 5,
-"diferencia": "costura visible",
+"diferencia": "rehecho: repetible sin cruz",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "fondo de espuma repetible",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "a la vista",
-"color": "blanco/negro",
+"usar_si": "espuma tupida, la que menos se nota al repetir",
+"evitar_si": "-",
+"color": "blanco y negro",
 "orient": "-",
 "escala": "pantalla",
 "estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
-"color_medio": "#767676",
-"luminancia": 0.463,
-"contraste": 0.247,
+"w": 398,
+"h": 398,
+"color_medio": "#666666",
+"luminancia": 0.401,
+"contraste": 0.299,
 "saturacion": 0.0,
-"phash": "ff96b125919094e3"
+"phash": "9c107ac313faee19"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r04.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "mosaico de espuma clara",
+"calidad": 2,
+"defectos": "costuras en cruz muy visibles (REHACER)",
+"md5": "946d046a44263502e5002091680aca2d"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+},
+"tileable": true
 }
 },
 {
@@ -463702,52 +463990,78 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/burbujas_foto/tiles",
-"md5": "0a63a6d9e5a88a90644b47559c90f447",
+"md5": "a964b49c5a05b925209f9c2a55263f10",
 "alfa": true,
 "fondo": "transparente",
 "modo": "trama",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): mayor cuadrado dentro de la isla de espuma → luz aplanada (resta de bajas frecuencias) → repetible con corte de error mínimo en X y en Y (el corte de Y empieza y acaba en la misma columna para que case al repetir) y fundido de 1 px; comprobado en 2×2",
 "hoja": "TEXTURAS/productos/hojas/neonizador__burbujas_foto_tiles.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_09.png",
 "medidas": {
-"w": 504,
-"h": 504
+"w": 466,
+"h": 466
 },
 "foto_origen": "Macro de espuma jabonosa brillante.png",
 "clase_pieza": "tile",
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "0a63a6d9e5a88a90644b47559c90f447",
+"copia_exacta_neonizador": "or:0a63a6d9e5a88a90644b47559c90f447",
+"origen": {
+"foto": "originales/neonizador/Nuevos recursos/Macro de espuma jabonosa brillante.png",
+"recorte_xywh": [
+314,
+368,
+583,
+583
+],
+"solape_px": 117
+}
+},
 "revision": {
-"que_es": "mosaico de espuma clara con zona oscura grande",
-"calidad": 2,
-"defectos": "costuras en cruz muy visibles; solo 504 px (REHACER)",
+"que_es": "espuma jabonosa blanca con pompas grandes oscuras y paredes gruesas; repetible sin costuras",
+"calidad": 5,
+"defectos": "",
 "familia": "espuma_tile",
 "variante": 9,
-"diferencia": "pequeño",
+"diferencia": "rehecho: repetible sin cruz",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "fondo de espuma repetible",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "a la vista",
-"color": "blanco/negro",
+"usar_si": "espuma clara y contrastada",
+"evitar_si": "-",
+"color": "blanco y negro",
 "orient": "-",
-"escala": "504 px",
+"escala": "pantalla",
 "estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
-"color_medio": "#6d6d6d",
-"luminancia": 0.43,
-"contraste": 0.274,
+"w": 466,
+"h": 466,
+"color_medio": "#6e6e6e",
+"luminancia": 0.435,
+"contraste": 0.299,
 "saturacion": 0.0,
-"phash": "bf19113b2eb14aa6"
+"phash": "b8b3be68ce84848f"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r05.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "mosaico de espuma clara con zona oscura grande",
+"calidad": 2,
+"defectos": "costuras en cruz muy visibles; solo 504 px (REHACER)",
+"md5": "0a63a6d9e5a88a90644b47559c90f447"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+},
+"tileable": true
 }
 },
 {
@@ -463757,52 +464071,78 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/burbujas_foto/tiles",
-"md5": "f5f98f33709dbad11f517fb290da20c3",
+"md5": "bc13407fed087caca508bbead0cfce0f",
 "alfa": true,
 "fondo": "transparente",
 "modo": "trama",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): mayor cuadrado dentro de la isla de espuma → luz aplanada (resta de bajas frecuencias) → repetible con corte de error mínimo en X y en Y (el corte de Y empieza y acaba en la misma columna para que case al repetir) y fundido de 1 px; comprobado en 2×2",
 "hoja": "TEXTURAS/productos/hojas/neonizador__burbujas_foto_tiles.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/burbujas_foto/tiles/espuma_tile_10.png",
 "medidas": {
-"w": 474,
-"h": 474
+"w": 395,
+"h": 395
 },
 "foto_origen": "Racimo brillante de burbujas sobre negro.png",
 "clase_pieza": "tile",
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "f5f98f33709dbad11f517fb290da20c3",
+"copia_exacta_neonizador": "or:f5f98f33709dbad11f517fb290da20c3",
+"origen": {
+"foto": "originales/neonizador/Nuevos recursos/Racimo brillante de burbujas sobre negro.png",
+"recorte_xywh": [
+359,
+344,
+494,
+494
+],
+"solape_px": 99
+}
+},
 "revision": {
-"que_es": "mosaico de espuma oscura con burbujas grandes",
-"calidad": 3,
-"defectos": "costura vertical visible abajo; solo 474 px",
+"que_es": "racimo de pompas medianas oscuras con filos brillantes y una zona de reflejo ondulado; repetible sin costuras",
+"calidad": 4,
+"defectos": "",
 "familia": "espuma_tile",
 "variante": 10,
-"diferencia": "pequeño",
+"diferencia": "rehecho: repetible sin cruz",
 "mejor_de_familia": false,
-"uso": "fondo",
+"uso": "fondo de espuma repetible",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
-"color": "blanco/negro",
+"usar_si": "espuma oscura de pompas medianas",
+"evitar_si": "el reflejo ondulado se nota al repetir",
+"color": "blanco y negro",
 "orient": "-",
-"escala": "474 px",
+"escala": "pantalla",
 "estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
-"color_medio": "#505050",
-"luminancia": 0.315,
-"contraste": 0.207,
+"w": 395,
+"h": 395,
+"color_medio": "#4d4d4d",
+"luminancia": 0.302,
+"contraste": 0.249,
 "saturacion": 0.0,
-"phash": "ae5116f88e4de11e"
+"phash": "d19be05a0f2cae93"
 },
 "rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r05.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "mosaico de espuma oscura con burbujas grandes",
+"calidad": 3,
+"defectos": "costura vertical visible abajo; solo 474 px",
+"md5": "f5f98f33709dbad11f517fb290da20c3"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+},
+"tileable": true
 }
 },
 {
@@ -497074,48 +497414,75 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/gotas",
-"md5": "3667c064a5366051658cd70b1a2fea24",
+"md5": "ef9d1d59aff7aeb65b7c362b74fc6d33",
 "alfa": true,
 "fondo": "transparente",
 "modo": "normal",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): gota entera: silueta = envolvente convexa del filo iluminado (L>30) sin gotitas vecinas, suavizada a 4×; alfa = silueta, RGB = foto",
 "hoja": "TEXTURAS/productos/hojas/neonizador__gotas.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/gotas/gotas_104.png",
+"medidas": {
+"w": 38,
+"h": 35
+},
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "3667c064a5366051658cd70b1a2fea24",
+"copia_exacta_neonizador": "or:3667c064a5366051658cd70b1a2fea24",
+"origen": {
+"foto": "originales/papelator/SOBREPONER/Gotas de lluvia sobre cristal negro.png",
+"centro": [
+720,
+725
+],
+"radio": 30
+}
+},
 "revision": {
-"que_es": "gota apaisada con borde superior cortado en recta",
-"calidad": 2,
-"defectos": "corte recto arriba (REHACER)",
+"que_es": "gota de agua redonda entera sobre cristal, brillo arriba a la izquierda y filo oscuro",
+"calidad": 4,
+"defectos": "",
 "familia": "pieza_gota_agua",
 "variante": 104,
-"diferencia": "cortada",
+"diferencia": "rehecha: entera",
 "mejor_de_familia": false,
-"uso": "-",
-"modo": "trama",
-"usar_si": "borde superior",
-"evitar_si": "centro",
-"color": "transparente/blanco",
-"orient": "horizontal",
-"escala": "148×69",
+"uso": "gota de lluvia sobre cristal",
+"modo": "normal",
+"usar_si": "gotas pequeñas sueltas",
+"evitar_si": "-",
+"color": "transparente/gris",
+"orient": "-",
+"escala": "35 px",
 "estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
-"alfa_cobertura": 0.35,
-"alfa_parcial": 0.145,
-"color_medio": "#4b4c4d",
-"luminancia": 0.301,
-"contraste": 0.291,
-"saturacion": 0.067,
-"phash": "c2ec38a3cc3e43f1"
+"w": 38,
+"h": 35,
+"alfa_cobertura": 0.476,
+"alfa_parcial": 0.289,
+"color_medio": "#464748",
+"luminancia": 0.282,
+"contraste": 0.294,
+"saturacion": 0.081,
+"phash": "d6656bd661cb8630"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r40.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "gota apaisada con borde superior cortado en recta",
+"calidad": 2,
+"defectos": "corte recto arriba (REHACER)",
+"md5": "3667c064a5366051658cd70b1a2fea24"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+}
 }
 },
 {
@@ -497431,48 +497798,75 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/gotas",
-"md5": "3840c3782b0cdb3c7bbb9db922bcf8fa",
+"md5": "23f62fffacb85ab988c25e1358230309",
 "alfa": true,
 "fondo": "transparente",
 "modo": "normal",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): gota entera: silueta = envolvente convexa del filo iluminado (L>30) sin gotitas vecinas, suavizada a 4×; alfa = silueta, RGB = foto",
 "hoja": "TEXTURAS/productos/hojas/neonizador__gotas.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/gotas/gotas_111.png",
+"medidas": {
+"w": 45,
+"h": 56
+},
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "3840c3782b0cdb3c7bbb9db922bcf8fa",
+"copia_exacta_neonizador": "or:3840c3782b0cdb3c7bbb9db922bcf8fa",
+"origen": {
+"foto": "originales/papelator/SOBREPONER/Gotas de lluvia sobre cristal negro.png",
+"centro": [
+381,
+1014
+],
+"radio": 30
+}
+},
 "revision": {
-"que_es": "gota grande con borde superior cortado en recta",
-"calidad": 2,
-"defectos": "corte recto arriba (REHACER)",
+"que_es": "gota de agua grande en forma de lágrima, entera, con brillo vertical y filo oscuro",
+"calidad": 5,
+"defectos": "",
 "familia": "pieza_gota_agua",
 "variante": 111,
-"diferencia": "cortada",
+"diferencia": "rehecha: entera",
 "mejor_de_familia": false,
-"uso": "-",
-"modo": "trama",
-"usar_si": "borde superior",
-"evitar_si": "centro",
-"color": "transparente/blanco",
-"orient": "-",
-"escala": "86×65",
+"uso": "gota de lluvia sobre cristal",
+"modo": "normal",
+"usar_si": "gota protagonista",
+"evitar_si": "-",
+"color": "transparente/gris",
+"orient": "vertical",
+"escala": "56 px",
 "estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
-"alfa_cobertura": 0.45,
-"alfa_parcial": 0.134,
-"color_medio": "#494c4e",
-"luminancia": 0.298,
-"contraste": 0.269,
-"saturacion": 0.092,
-"phash": "93656b9e64db9424"
+"w": 45,
+"h": 56,
+"alfa_cobertura": 0.569,
+"alfa_parcial": 0.204,
+"color_medio": "#2f2f30",
+"luminancia": 0.188,
+"contraste": 0.261,
+"saturacion": 0.099,
+"phash": "946ddab6699625c8"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r40.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "gota grande con borde superior cortado en recta",
+"calidad": 2,
+"defectos": "corte recto arriba (REHACER)",
+"md5": "3840c3782b0cdb3c7bbb9db922bcf8fa"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+}
 }
 },
 {
@@ -498043,48 +498437,75 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/gotas",
-"md5": "0619d102dd6e26405caf7b16c928e468",
+"md5": "af961237fae606ff366023e083b47efb",
 "alfa": true,
 "fondo": "transparente",
 "modo": "normal",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): gota entera: silueta = envolvente convexa del filo iluminado (L>30) sin gotitas vecinas, suavizada a 4×; alfa = silueta, RGB = foto",
 "hoja": "TEXTURAS/productos/hojas/neonizador__gotas.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/gotas/gotas_123.png",
+"medidas": {
+"w": 35,
+"h": 40
+},
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "0619d102dd6e26405caf7b16c928e468",
+"copia_exacta_neonizador": "or:0619d102dd6e26405caf7b16c928e468",
+"origen": {
+"foto": "originales/papelator/SOBREPONER/Gotas de lluvia sobre cristal negro.png",
+"centro": [
+540,
+304
+],
+"radio": 24
+}
+},
 "revision": {
-"que_es": "gota con borde superior cortado en recta",
-"calidad": 2,
-"defectos": "corte recto arriba (REHACER)",
+"que_es": "gota de agua mediana entera, algo aplastada, brillo arriba",
+"calidad": 4,
+"defectos": "",
 "familia": "pieza_gota_agua",
 "variante": 123,
-"diferencia": "cortada",
+"diferencia": "rehecha: entera",
 "mejor_de_familia": false,
-"uso": "-",
-"modo": "trama",
-"usar_si": "borde superior",
-"evitar_si": "centro",
-"color": "transparente/blanco",
+"uso": "gota de lluvia sobre cristal",
+"modo": "normal",
+"usar_si": "gotas pequeñas sueltas",
+"evitar_si": "-",
+"color": "transparente/gris",
 "orient": "-",
-"escala": "60×44",
+"escala": "40 px",
 "estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
-"alfa_cobertura": 0.451,
-"alfa_parcial": 0.174,
-"color_medio": "#646565",
-"luminancia": 0.397,
-"contraste": 0.299,
-"saturacion": 0.084,
-"phash": "c3c52c9e3739d826"
+"w": 35,
+"h": 40,
+"alfa_cobertura": 0.535,
+"alfa_parcial": 0.277,
+"color_medio": "#474849",
+"luminancia": 0.285,
+"contraste": 0.274,
+"saturacion": 0.082,
+"phash": "956d4b96698f9618"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r41.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "gota con borde superior cortado en recta",
+"calidad": 2,
+"defectos": "corte recto arriba (REHACER)",
+"md5": "0619d102dd6e26405caf7b16c928e468"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+}
 }
 },
 {
@@ -498553,48 +498974,75 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/gotas",
-"md5": "3e5366c111cb66ea3ca492f3d0bea72d",
+"md5": "2fad773f04017e6cab975b578427f6d9",
 "alfa": true,
 "fondo": "transparente",
 "modo": "normal",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): gota entera: silueta = envolvente convexa del filo iluminado (L>30) sin gotitas vecinas, suavizada a 4×; alfa = silueta, RGB = foto",
 "hoja": "TEXTURAS/productos/hojas/neonizador__gotas.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/gotas/gotas_133.png",
+"medidas": {
+"w": 36,
+"h": 37
+},
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "3e5366c111cb66ea3ca492f3d0bea72d",
+"copia_exacta_neonizador": "or:3e5366c111cb66ea3ca492f3d0bea72d",
+"origen": {
+"foto": "originales/papelator/SOBREPONER/Gotas de lluvia sobre cristal negro.png",
+"centro": [
+496,
+171
+],
+"radio": 19
+}
+},
 "revision": {
-"que_es": "gota pequeña con halo gris de fondo mal recortado",
-"calidad": 2,
-"defectos": "resto de fondo gris alrededor (REHACER)",
+"que_es": "gota de agua pequeña entera, ligeramente oval, brillo arriba a la izquierda",
+"calidad": 4,
+"defectos": "",
 "familia": "pieza_gota_agua",
 "variante": 133,
-"diferencia": "sucia",
+"diferencia": "rehecha: entera",
 "mejor_de_familia": false,
-"uso": "-",
-"modo": "trama",
-"usar_si": "-",
-"evitar_si": "a la vista",
-"color": "gris/blanco",
+"uso": "gota de lluvia sobre cristal",
+"modo": "normal",
+"usar_si": "gotas pequeñas sueltas",
+"evitar_si": "-",
+"color": "transparente/gris",
 "orient": "-",
-"escala": "58×49",
-"estilo": "-",
+"escala": "37 px",
+"estilo": "fotográfico",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
-"alfa_cobertura": 0.362,
-"alfa_parcial": 0.228,
-"color_medio": "#2d2e2e",
-"luminancia": 0.182,
-"contraste": 0.215,
-"saturacion": 0.053,
-"phash": "9492b3c833896d7b"
+"w": 36,
+"h": 37,
+"alfa_cobertura": 0.504,
+"alfa_parcial": 0.289,
+"color_medio": "#414244",
+"luminancia": 0.263,
+"contraste": 0.315,
+"saturacion": 0.13,
+"phash": "d7256fc235593238"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r42.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "gota pequeña con halo gris de fondo mal recortado",
+"calidad": 2,
+"defectos": "resto de fondo gris alrededor (REHACER)",
+"md5": "3e5366c111cb66ea3ca492f3d0bea72d"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+}
 }
 },
 {
@@ -513541,49 +513989,77 @@
 "tipo": "imagen",
 "clase": "productos",
 "sub": "piezas/goteos/sueltos",
-"md5": "3639e9237060b9c67fd8989d6757b287",
+"md5": "0f9ffac89f611c341b54d62fccf65bb2",
 "alfa": true,
 "fondo": "transparente",
 "modo": "normal",
-"modo_fuente": "NEONIZADOR",
-"metodo": "NEONIZADOR extract_*.py (alfa = luz, color sin premultiplicar)",
+"modo_fuente": "TEXTURAS (rehecha; antes NEONIZADOR)",
+"metodo": "REHECHA 20-11-2026 en TEXTURAS (tools/atlas/rehacer/): alfa = (L−fondo−12)/(150−fondo−12) recortado a [0,1], componente principal + gotas sueltas, raíz arriba con fundido de 6 filas; color tomado del interior sólido (sin halo rosa del croma)",
 "hoja": "TEXTURAS/productos/hojas/neonizador__goteos_sueltos.jpg",
 "origen_ruta": "neonizador/BIBLIOTECA/elementos/goteos/sueltos/goteo_238_06.png",
 "orientacion": "raíz arriba (la pintura cae hacia abajo)",
+"medidas": {
+"w": 53,
+"h": 291
+},
+"rehecho": {
+"fecha": "2026-11-20",
+"md5_antes": "3639e9237060b9c67fd8989d6757b287",
+"copia_exacta_neonizador": "or:3639e9237060b9c67fd8989d6757b287",
+"origen": {
+"foto": "originales/neonizador/TEXTURAS_02/Goteos de pintura blanca sobre negro (1).png",
+"recorte_x0y0x1y1": [
+104,
+384,
+157,
+676
+]
+}
+},
 "revision": {
-"que_es": "fragmentos de goteo blanco mal recortado con restos",
-"calidad": 1,
-"defectos": "recorte roto y con restos de fondo (REHACER)",
+"que_es": "goteo de pintura blanca fino y completo de la raíz a la punta, con un grumo arriba, cuerpo estrecho y gota gruesa abajo; sin halo de croma",
+"calidad": 4,
+"defectos": "",
 "familia": "pieza_goteo_blanco",
 "variante": 11,
-"diferencia": "-",
+"diferencia": "rehecho: completo y sin croma",
 "mejor_de_familia": false,
 "uso": "goteo bajo letras",
-"modo": "normal recoloreado",
-"usar_si": "-",
-"evitar_si": "reducir",
-"escala": "60×208",
+"modo": "normal (recolorear)",
+"usar_si": "goteo fino largo",
+"evitar_si": "-",
 "color": "blanco",
-"orient": "raíz arriba",
+"orient": "vertical (raíz arriba)",
+"escala": "53×291",
 "estilo": "pintura blanca fresca",
 "contenido": "sin texto",
 "medidas": {
-"w": null,
-"h": null,
-"alfa_cobertura": 0.134,
-"alfa_parcial": 0.335,
-"color_medio": "#bfbfbf",
-"luminancia": 0.75,
-"contraste": 0.207,
-"saturacion": 0.0,
-"phash": "ce66339c649a6593"
+"w": 53,
+"h": 291,
+"alfa_cobertura": 0.148,
+"alfa_parcial": 0.358,
+"color_medio": "#cccccd",
+"luminancia": 0.803,
+"contraste": 0.141,
+"saturacion": 0.01,
+"phash": "cc4c9ac9e6ab7154"
 },
-"rehacer": true,
+"rehacer": false,
 "dudoso": false,
 "revisado_por_vista": true,
 "nivel": "completo",
-"fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r57.jpg"
+"fecha": "2026-11-20",
+"hoja": "productos/hojas/rehechas_2026-11-20.jpg",
+"rehecho": {
+"fecha": "2026-11-20",
+"antes": {
+"que_es": "fragmentos de goteo blanco mal recortado con restos",
+"calidad": 1,
+"defectos": "recorte roto y con restos de fondo (REHACER)",
+"md5": "3639e9237060b9c67fd8989d6757b287"
+},
+"detalle": "productos/piezas_neonizador/REHECHAS.json"
+}
 }
 },
 {

@@ -371,7 +371,9 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r01.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r01.jpg",
+"sustituido_por": "tx:productos/piezas_neonizador/burbujas/burbujas_230_03",
+"nota_rehecho": "copia exacta de NEONIZADOR, se conserva tal cual para que el plugin salga igual; la versión buena es tx:productos/piezas_neonizador/burbujas/burbujas_230_03 (rehecha 20-11-2026)"
 },
 "or:06d4c955da077ca3ef698b1ab3f4c83e": {
 "que_es": "burbuja con reflejos",

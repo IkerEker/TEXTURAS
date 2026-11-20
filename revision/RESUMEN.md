@@ -25,9 +25,9 @@ Sin vista: 658 sonidos de ACIDBITE (no se escuchan: `audio_revisado: false`, con
 | Colección | 1 | 2 | 3 | 4 | 5 |
 |---|---:|---:|---:|---:|---:|
 | ACIDBITE | 0 | 11 | 76 | 365 | 1763 |
-| TEXTURAS | 41 | 241 | 769 | 1671 | 946 |
+| TEXTURAS | 39 | 227 | 768 | 1682 | 952 |
 | originales | 0 | 260 | 291 | 354 | 1530 |
-| **Total** | **41** | **512** | **1136** | **2390** | **4239** |
+| **Total** | **39** | **498** | **1135** | **2401** | **4245** |
 
 ## Lo mejor (20 primeros «mejor de su familia» con nota 5)
 
@@ -54,7 +54,7 @@ Sin vista: 658 sonidos de ACIDBITE (no se escuchan: `audio_revisado: false`, con
 
 Hay 188 elementos marcados como «mejor de su familia» en total (campo `mejor_de_familia` en `FICHAS.json` y en el índice).
 
-## No recomendados (nota 1–2): 553
+## No recomendados (nota 1–2): 537
 
 Por familia (las 25 con más):
 
@@ -62,11 +62,10 @@ Por familia (las 25 con más):
 - pieza_pavesa: 103
 - pieza_chispa: 33
 - residuo_adhesivo: 22
-- pieza_gota_agua: 16
 - pieza_goteo_fino: 13
+- pieza_gota_agua: 12
 - tile_916: 9
 - tile_grunge: 9
-- pieza_burbuja: 9
 - pieza_moho_manchita: 8
 - pieza_salpicadura_oxido: 8
 - pieza_goteo_ondulado: 7
@@ -74,15 +73,16 @@ Por familia (las 25 con más):
 - ab_optico: 6
 - goteo_fino: 6
 - gota_suelta: 5
-- espuma_tile: 4
 - tile_gouache_calido: 3
 - tile_gouache_frio: 3
 - trazo_grafito: 3
 - co_gel: 3
 - gota_3d: 2
-- pieza_goteo_blanco: 2
+- pieza_burbuja: 2
 - co_grafito: 2
 - goteo_seco: 1
+- tile_liquidos: 1
+- tile_acuarela: 1
 
 Lista completa: buscar `"calidad": 1` o `2` en `FICHAS.json`.
 
