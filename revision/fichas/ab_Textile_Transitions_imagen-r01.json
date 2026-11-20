@@ -1,0 +1,36 @@
+{
+"ab:0ce22dca8341": {
+"que_es": "fieltro gris claro escaneado (imagen fija)",
+"calidad": 5,
+"defectos": "ninguno",
+"familia": "ab_textil_textura",
+"variante": 9,
+"diferencia": "-",
+"mejor_de_familia": false,
+"uso": "textura de fieltro fija encima del vídeo",
+"modo": "multiplicar",
+"usar_si": "-",
+"evitar_si": "-",
+"escala": "3840×2160",
+"color": "gris claro",
+"orient": "16:9",
+"estilo": "tela real escaneada",
+"contenido": "sin texto",
+"medidas": {
+"fuente_medida": "tira",
+"w": 3840,
+"h": 2160,
+"color_medio": "#ce7daf",
+"luminancia": 0.664,
+"contraste": 0.098,
+"saturacion": 0.37,
+"phash": "813777cc5c10a36f"
+},
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"nivel": "completo",
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/ab_Textile_Transitions_imagen-r01.jpg"
+}
+}

@@ -1,0 +1,36 @@
+{
+"ab:f42543d7658f": {
+"que_es": "fotograma final de polvo de 16mm: un pelo largo horizontal y motas sobre negro",
+"calidad": 4,
+"defectos": "casi vacío: solo un pelo y pocas motas",
+"familia": "ab_16mm",
+"variante": 31,
+"diferencia": "-",
+"mejor_de_familia": false,
+"uso": "fotograma fijo de polvo y pelo",
+"modo": "trama",
+"usar_si": "-",
+"evitar_si": "-",
+"escala": "3840×2160",
+"color": "blanco sobre negro",
+"orient": "16:9",
+"estilo": "polvo de película real escaneado",
+"contenido": "sin texto",
+"medidas": {
+"fuente_medida": "tira",
+"w": 3840,
+"h": 2160,
+"color_medio": "#641245",
+"luminancia": 0.246,
+"contraste": 0.276,
+"saturacion": 0.913,
+"phash": "cdcdb232b28949cd"
+},
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"nivel": "completo",
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/ab_16mm_Package_imagen-r01.jpg"
+}
+}
