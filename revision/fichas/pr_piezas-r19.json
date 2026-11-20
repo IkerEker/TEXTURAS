@@ -7,10 +7,10 @@
 "variante": 53,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "siempre",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "gris oscuro",
 "orient": "-",
 "escala": "11×13",
@@ -32,7 +32,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r19.jpg"
+"hoja": "revision/hojas/pr_piezas-r19.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_054": {
 "que_es": "brasa naranja-roja alargada",
@@ -147,10 +148,10 @@
 "variante": 57,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "siempre",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "rojo oscuro",
 "orient": "-",
 "escala": "11×10",
@@ -168,7 +169,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r19.jpg"
+"hoja": "revision/hojas/pr_piezas-r19.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_058": {
 "que_es": "brasa roja diagonal",
@@ -248,10 +250,10 @@
 "variante": 60,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "casi siempre",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "rojo oscuro",
 "orient": "diagonal",
 "escala": "14×13",
@@ -269,7 +271,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r19.jpg"
+"hoja": "revision/hojas/pr_piezas-r19.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_061": {
 "que_es": "brasa naranja alargada diagonal",
@@ -384,10 +387,10 @@
 "variante": 64,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "siempre",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "rojo oscuro",
 "orient": "-",
 "escala": "11×12",
@@ -405,7 +408,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r19.jpg"
+"hoja": "revision/hojas/pr_piezas-r19.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_065": {
 "que_es": "ceniza marrón cuadrada tenue",
@@ -415,10 +419,10 @@
 "variante": 65,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "marrón rosado",
 "orient": "-",
 "escala": "18×18",
@@ -440,7 +444,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r19.jpg"
+"hoja": "revision/hojas/pr_piezas-r19.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_066": {
 "que_es": "trozo ardiendo alargado amarillo muy brillante",

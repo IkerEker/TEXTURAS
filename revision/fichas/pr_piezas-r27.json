@@ -7,10 +7,10 @@
 "variante": 173,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "beige",
 "orient": "diagonal",
 "escala": "12×12",
@@ -32,7 +32,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r27.jpg"
+"hoja": "revision/hojas/pr_piezas-r27.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_174": {
 "que_es": "chispa diagonal amarilla con extremo rojo y halo",
@@ -147,10 +148,10 @@
 "variante": 177,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "naranja",
 "orient": "vertical",
 "escala": "11×14",
@@ -172,7 +173,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r27.jpg"
+"hoja": "revision/hojas/pr_piezas-r27.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_178": {
 "que_es": "mota pálida diminuta",
@@ -182,10 +184,10 @@
 "variante": 178,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "beige",
 "orient": "-",
 "escala": "12×11",
@@ -207,7 +209,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r27.jpg"
+"hoja": "revision/hojas/pr_piezas-r27.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_179": {
 "que_es": "mota naranja diminuta",
@@ -217,10 +220,10 @@
 "variante": 179,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "naranja",
 "orient": "-",
 "escala": "11×12",
@@ -242,7 +245,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r27.jpg"
+"hoja": "revision/hojas/pr_piezas-r27.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_180": {
 "que_es": "mota roja diminuta",
@@ -252,10 +256,10 @@
 "variante": 180,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "rojo",
 "orient": "-",
 "escala": "11×12",
@@ -277,7 +281,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r27.jpg"
+"hoja": "revision/hojas/pr_piezas-r27.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_181": {
 "que_es": "brasa diagonal amarilla con halo",
@@ -322,10 +327,10 @@
 "variante": 182,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "rojo/naranja",
 "orient": "vertical",
 "escala": "11×13",
@@ -347,7 +352,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r27.jpg"
+"hoja": "revision/hojas/pr_piezas-r27.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_183": {
 "que_es": "brasa horizontal pequeña",
@@ -462,10 +468,10 @@
 "variante": 186,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "siempre",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "rojo muy oscuro",
 "orient": "-",
 "escala": "22×22",
@@ -483,7 +489,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r27.jpg"
+"hoja": "revision/hojas/pr_piezas-r27.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_187": {
 "que_es": "chispa diagonal pálida diminuta",
@@ -493,10 +500,10 @@
 "variante": 187,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "beige",
 "orient": "diagonal",
 "escala": "13×12",
@@ -518,6 +525,7 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r27.jpg"
+"hoja": "revision/hojas/pr_piezas-r27.jpg",
+"rol": "relleno de fondo"
 }
 }

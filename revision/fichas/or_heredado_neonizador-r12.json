@@ -7,10 +7,10 @@
 "variante": 166,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "chispa suelta",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "normal",
-"usar_si": "-",
-"evitar_si": "reducir",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "escala": "desconocida (no medida)",
 "color": "naranja",
 "orient": "-",
@@ -31,7 +31,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r12.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r12.jpg",
+"rol": "relleno de fondo"
 },
 "or:782441fb1a018d8645484f97dcbe119a": {
 "que_es": "nube de humo gris translúcida recortada",

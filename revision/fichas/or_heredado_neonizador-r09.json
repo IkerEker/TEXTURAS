@@ -7,10 +7,10 @@
 "variante": 121,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "chispa suelta",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "normal o trama",
-"usar_si": "-",
-"evitar_si": "reducir",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "escala": "desconocida (diminuta, pocos px)",
 "color": "naranja",
 "orient": "-",
@@ -31,7 +31,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg",
+"rol": "relleno de fondo"
 },
 "or:177773d8f073030eaff0de51f415f3c7": {
 "que_es": "chispa diagonal amarilla brillante con halo",
@@ -109,10 +110,10 @@
 "variante": 124,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "chispa suelta",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "normal o trama",
-"usar_si": "-",
-"evitar_si": "reducir",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "escala": "desconocida (diminuta, pocos px)",
 "color": "naranja",
 "orient": "-",
@@ -133,7 +134,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg",
+"rol": "relleno de fondo"
 },
 "or:7e7497545bbc55122904276b799dfec6": {
 "que_es": "chispa diagonal apagada",
@@ -143,10 +145,10 @@
 "variante": 125,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "chispa suelta",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "normal o trama",
-"usar_si": "-",
-"evitar_si": "reducir",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "escala": "desconocida (diminuta, pocos px)",
 "color": "naranja",
 "orient": "-",
@@ -167,7 +169,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg",
+"rol": "relleno de fondo"
 },
 "or:bf03b58db4598410bd172cc90d32bda8": {
 "que_es": "chispa diagonal clara",
@@ -177,10 +180,10 @@
 "variante": 126,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "chispa suelta",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "normal o trama",
-"usar_si": "-",
-"evitar_si": "reducir",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "escala": "desconocida (diminuta, pocos px)",
 "color": "naranja",
 "orient": "-",
@@ -201,7 +204,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg",
+"rol": "relleno de fondo"
 },
 "or:46372d8433615e9951ccb93a581b0f08": {
 "que_es": "chispa en Y amarilla con halo rojo",
@@ -245,10 +249,10 @@
 "variante": 128,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "chispa suelta",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "normal o trama",
-"usar_si": "-",
-"evitar_si": "reducir",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "escala": "desconocida (diminuta, pocos px)",
 "color": "naranja",
 "orient": "-",
@@ -269,7 +273,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg",
+"rol": "relleno de fondo"
 },
 "or:b780c4adf4c37abaa9490c7d916cf414": {
 "que_es": "chispa vertical apagada",
@@ -279,10 +284,10 @@
 "variante": 129,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "chispa suelta",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "normal o trama",
-"usar_si": "-",
-"evitar_si": "reducir",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "escala": "desconocida (diminuta, pocos px)",
 "color": "naranja",
 "orient": "-",
@@ -303,7 +308,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg",
+"rol": "relleno de fondo"
 },
 "or:56fd566e18dfd6d0c649770e1ec334d6": {
 "que_es": "chispa diagonal clara",
@@ -415,10 +421,10 @@
 "variante": 133,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "chispa suelta",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "normal o trama",
-"usar_si": "-",
-"evitar_si": "reducir",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "escala": "desconocida (diminuta, pocos px)",
 "color": "naranja",
 "orient": "-",
@@ -439,7 +445,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg",
+"rol": "relleno de fondo"
 },
 "or:a21ee7a43f04ea7df8b637db038c3b5e": {
 "que_es": "chispa diagonal blanca",
@@ -483,10 +490,10 @@
 "variante": 135,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "chispa suelta",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "normal o trama",
-"usar_si": "-",
-"evitar_si": "reducir",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "escala": "desconocida (diminuta, pocos px)",
 "color": "naranja",
 "orient": "-",
@@ -507,6 +514,7 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg"
+"hoja": "revision/hojas/or_heredado_neonizador-r09.jpg",
+"rol": "relleno de fondo"
 }
 }

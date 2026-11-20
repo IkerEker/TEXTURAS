@@ -42,10 +42,10 @@
 "variante": 249,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "siempre",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "marrón",
 "orient": "-",
 "escala": "11×10",
@@ -63,7 +63,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r32.jpg"
+"hoja": "revision/hojas/pr_piezas-r32.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_250": {
 "que_es": "brasa naranja redonda",
@@ -108,10 +109,10 @@
 "variante": 251,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "beige",
 "orient": "diagonal",
 "escala": "13×11",
@@ -133,7 +134,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r32.jpg"
+"hoja": "revision/hojas/pr_piezas-r32.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_252": {
 "que_es": "mota pálida diminuta",
@@ -143,10 +145,10 @@
 "variante": 252,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "beige",
 "orient": "-",
 "escala": "11×11",
@@ -168,7 +170,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r32.jpg"
+"hoja": "revision/hojas/pr_piezas-r32.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_253": {
 "que_es": "dos brasas (una grande horizontal blanca y otra pequeña)",
@@ -213,10 +216,10 @@
 "variante": 254,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "rosado",
 "orient": "-",
 "escala": "11×11",
@@ -238,7 +241,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r32.jpg"
+"hoja": "revision/hojas/pr_piezas-r32.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_255": {
 "que_es": "chispa en V (rebote) amarilla brillante",
@@ -353,10 +357,10 @@
 "variante": 258,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "gris",
 "orient": "-",
 "escala": "11×10",
@@ -378,7 +382,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r32.jpg"
+"hoja": "revision/hojas/pr_piezas-r32.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_259": {
 "que_es": "chispa larga fina blanca con halo amplio",
@@ -458,10 +463,10 @@
 "variante": 261,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "rosado",
 "orient": "-",
 "escala": "12×11",
@@ -483,7 +488,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r32.jpg"
+"hoja": "revision/hojas/pr_piezas-r32.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_262": {
 "que_es": "mota casi invisible",
@@ -493,10 +499,10 @@
 "variante": 262,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "siempre",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "gris oscuro",
 "orient": "-",
 "escala": "10×11",
@@ -518,6 +524,7 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r32.jpg"
+"hoja": "revision/hojas/pr_piezas-r32.jpg",
+"rol": "relleno de fondo"
 }
 }

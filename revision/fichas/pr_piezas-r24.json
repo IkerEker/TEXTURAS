@@ -42,10 +42,10 @@
 "variante": 129,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "ceniza",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "gris pardo",
 "orient": "-",
 "escala": "19×16",
@@ -63,7 +63,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r24.jpg"
+"hoja": "revision/hojas/pr_piezas-r24.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_130": {
 "que_es": "ceniza oscura con borde rojo",
@@ -213,10 +214,10 @@
 "variante": 134,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "naranja oscuro",
 "orient": "diagonal",
 "escala": "15×16",
@@ -238,7 +239,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r24.jpg"
+"hoja": "revision/hojas/pr_piezas-r24.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_135": {
 "que_es": "trozo grande de papel ardiendo amarillo-naranja muy brillante",
@@ -423,10 +425,10 @@
 "variante": 140,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "ceniza",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "marrón",
 "orient": "diagonal",
 "escala": "25×20",
@@ -448,7 +450,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r24.jpg"
+"hoja": "revision/hojas/pr_piezas-r24.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_141": {
 "que_es": "trozo de papel rosado claro diagonal",
@@ -493,10 +496,10 @@
 "variante": 142,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "-",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "siempre",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "rojo oscuro",
 "orient": "vertical",
 "escala": "11×14",
@@ -518,6 +521,7 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r24.jpg"
+"hoja": "revision/hojas/pr_piezas-r24.jpg",
+"rol": "relleno de fondo"
 }
 }

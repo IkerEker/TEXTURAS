@@ -287,10 +287,10 @@
 "variante": 1,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "ceniza lejana",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "ampliar",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "rojo",
 "orient": "-",
 "escala": "13×13",
@@ -312,7 +312,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r15.jpg"
+"hoja": "revision/hojas/pr_piezas-r15.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_002": {
 "que_es": "trozo de ceniza gris tenue",
@@ -322,10 +323,10 @@
 "variante": 2,
 "diferencia": "ceniza",
 "mejor_de_familia": false,
-"uso": "ceniza",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "-",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "gris pardo",
 "orient": "horizontal",
 "escala": "28×15",
@@ -347,7 +348,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r15.jpg"
+"hoja": "revision/hojas/pr_piezas-r15.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_003": {
 "que_es": "brasa roja pequeña redonda",
@@ -462,10 +464,10 @@
 "variante": 6,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "casi siempre",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "rojo oscuro",
 "orient": "-",
 "escala": "17×18",
@@ -483,7 +485,8 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r15.jpg"
+"hoja": "revision/hojas/pr_piezas-r15.jpg",
+"rol": "relleno de fondo"
 },
 "tx:productos/piezas_neonizador/fuego/pavesas/pavesa_007": {
 "que_es": "punto blanco rosado diminuto",
@@ -493,10 +496,10 @@
 "variante": 7,
 "diferencia": "-",
 "mejor_de_familia": false,
-"uso": "relleno",
+"uso": "partícula de relleno: lluvia de chispas/pavesas de fondo con blur de movimiento",
 "modo": "trama",
-"usar_si": "-",
-"evitar_si": "ampliar",
+"usar_si": "partículas lejanas de fondo, en masa y con desenfoque de movimiento (chispas que vuelan, ceniza que cae)",
+"evitar_si": "como chispa protagonista o en primer plano",
 "color": "blanco rosado",
 "orient": "-",
 "escala": "13×12",
@@ -518,6 +521,7 @@
 "revisado_por_vista": true,
 "nivel": "completo",
 "fecha": "2026-11-19",
-"hoja": "revision/hojas/pr_piezas-r15.jpg"
+"hoja": "revision/hojas/pr_piezas-r15.jpg",
+"rol": "relleno de fondo"
 }
 }

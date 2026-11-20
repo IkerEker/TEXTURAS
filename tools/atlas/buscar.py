@@ -25,6 +25,7 @@ for k in ('clase', 'sub', 'modo', 'colocacion', 'coleccion', 'pack', 'tipo', 'fa
 ap.add_argument('--alfa', action='store_true'); ap.add_argument('--tileable', action='store_true')
 ap.add_argument('--min', type=int, default=0, help='nota mínima de la revisión (1–5)')
 ap.add_argument('--mejor', action='store_true', help='solo el mejor de cada familia')
+ap.add_argument('--relleno', action='store_true', help='solo piezas de relleno de fondo (partículas lejanas, para usar en masa)')
 ap.add_argument('--todo', action='store_true', help='incluir REHACER, sustituidos y dudosos')
 ap.add_argument('--json', action='store_true'); ap.add_argument('--ficha')
 ap.add_argument('--donde', action='append', default=[], metavar='CAMPO OP VALOR',
@@ -83,7 +84,7 @@ def cumple(e, cond):
             try: return f(float(x), float(val))
             except (TypeError, ValueError): return f(norm(str(x)), norm(val))
     raise SystemExit('filtro --donde mal escrito: ' + cond)
-CAMPOS_FICHA = ('que_es', 'uso', 'usar_si', 'color', 'estilo', 'familia', 'diferencia', 'orient', 'escala', 'comportamiento')
+CAMPOS_FICHA = ('que_es', 'uso', 'usar_si', 'rol', 'color', 'estilo', 'familia', 'diferencia', 'orient', 'escala', 'comportamiento')
 if a.parecidos:
     base = next((e for e in idx if e['id'] == a.parecidos), None)
     if not base: raise SystemExit('no existe ' + a.parecidos)
@@ -108,6 +109,7 @@ for e in idx:
     if not a.todo and (v.get('rehacer') or e.get('sustituido_por') or v.get('dudoso') or v.get('duplicado_de')): continue
     if (v.get('calidad') or 0) < a.min: continue
     if a.mejor and not v.get('mejor_de_familia'): continue
+    if a.relleno and v.get('rol') != 'relleno de fondo': continue
     txt = ' '.join([str(e.get(k, '')) for k in ('id', 'desc', 'clase', 'sub', 'pack', 'archivo', 'familia')] +
                    [str(v.get(k, '')) for k in CAMPOS_FICHA])
     txt = norm(txt)
