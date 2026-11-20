@@ -8,6 +8,9 @@ Funciona desde cualquier carpeta (lee el índice junto a este script).
   python3 tools/atlas/buscar.py --colocacion mascara --alfa --json      # salida JSON para scripts
   python3 tools/atlas/buscar.py --ficha tx:productos/piezas_neonizador/gotas/gotas_111   # ficha completa
   python3 tools/atlas/buscar.py --familia pieza_burbuja        # toda una familia, mejor primero
+  python3 tools/atlas/buscar.py goteo --resumen                # mapa: cuántos hay en cada clase/sub y familia
+  python3 tools/atlas/buscar.py --parecidos <id>               # alternativas parecidas a una que ya te sirve
+  python3 tools/atlas/buscar.py papel --donde 'w>=2000' --donde 'orient~vertical' --donde 'medidas.luminancia>0.8'
 
 Por defecto: ordena por nota (5 → 1) y mejor de familia primero; oculta lo marcado REHACER y lo sustituido
 (usa --todo para verlo todo). Los alias en inglés/de plugins se traducen con indice/nombres.json.
@@ -24,6 +27,10 @@ ap.add_argument('--min', type=int, default=0, help='nota mínima de la revisión
 ap.add_argument('--mejor', action='store_true', help='solo el mejor de cada familia')
 ap.add_argument('--todo', action='store_true', help='incluir REHACER, sustituidos y dudosos')
 ap.add_argument('--json', action='store_true'); ap.add_argument('--ficha')
+ap.add_argument('--donde', action='append', default=[], metavar='CAMPO OP VALOR',
+                help="filtro por cualquier campo, también de la ficha: 'w>=2000' 'orient~vertical' 'color~rojo' 'medidas.luminancia<0.3' 'fondo=transparente'")
+ap.add_argument('--resumen', action='store_true', help='mapa de lo encontrado: cuántos por clase/sub y por familia (para no saltarse nada)')
+ap.add_argument('--parecidos', metavar='ID', help='los más parecidos a ese asset (misma familia + pHash), para ver alternativas')
 ap.add_argument('-n', type=int, default=40)
 a = ap.parse_args()
 idx = json.load(open(R / 'indice' / 'indice.json', encoding='utf-8'))['assets']
@@ -53,12 +60,46 @@ for p in a.palabras:
         for t in (al.get(x), EXTRA.get(x)):
             if t: vs |= raices(t)
     pal.append({norm(v) for v in vs})
+import re, operator
+OPS = [('>=', operator.ge), ('<=', operator.le), ('!=', operator.ne), ('>', operator.gt), ('<', operator.lt), ('~', None), ('=', operator.eq)]
+def valor(e, campo):
+    v = e.get('revision', {}); m = v.get('medidas', {}) or {}
+    for fuente in (e, v, m):
+        x = fuente
+        for parte in campo.split('.'):
+            x = x.get(parte) if isinstance(x, dict) else None
+        if x is not None: return x
+    if campo == 'w' or campo == 'h': return m.get(campo)
+    return None
+def cumple(e, cond):
+    for op, f in OPS:
+        if op in cond:
+            campo, val = cond.split(op, 1); x = valor(e, campo.strip()); val = val.strip()
+            if x is None: return False
+            if f is None: return norm(val) in norm(str(x))
+            try: return f(float(x), float(val))
+            except (TypeError, ValueError): return f(norm(str(x)), norm(val))
+    raise SystemExit('filtro --donde mal escrito: ' + cond)
 CAMPOS_FICHA = ('que_es', 'uso', 'usar_si', 'color', 'estilo', 'familia', 'diferencia', 'orient', 'escala', 'comportamiento')
+if a.parecidos:
+    base = next((e for e in idx if e['id'] == a.parecidos), None)
+    if not base: raise SystemExit('no existe ' + a.parecidos)
+    ph = lambda e: (e.get('revision', {}).get('medidas') or {}).get('phash')
+    hb = ph(base); fb = base.get('revision', {}).get('familia')
+    def dist(e):
+        h = ph(e); d = bin(int(h, 16) ^ int(hb, 16)).count('1') if h and hb else 64
+        return d - (20 if e.get('revision', {}).get('familia') == fb else 0) - (6 if e.get('sub') == base.get('sub') else 0)
+    cand = [e for e in idx if e['id'] != base['id'] and e.get('tipo') == base.get('tipo')]
+    for e in sorted(cand, key=dist)[:a.n]:
+        v = e.get('revision', {})
+        print(f"{v.get('calidad', '-')}{'*' if v.get('mejor_de_familia') else ' '} {e['id']:66} {v.get('que_es', '')[:60]}  [{v.get('hoja') or e.get('hoja')}]")
+    sys.exit()
 r = []
 for e in idx:
     v = e.get('revision', {})
     if any(getattr(a, k) and not str(e.get(k, '')).startswith(getattr(a, k)) for k in ('clase', 'sub', 'modo', 'colocacion', 'coleccion', 'pack', 'tipo')): continue
     if a.familia and v.get('familia') != a.familia: continue
+    if a.donde and not all(cumple(e, c) for c in a.donde): continue
     if a.alfa and not e.get('alfa'): continue
     if a.tileable and not (e.get('tileable') or v.get('tileable')): continue
     if not a.todo and (v.get('rehacer') or e.get('sustituido_por') or v.get('dudoso')): continue
@@ -69,6 +110,15 @@ for e in idx:
     txt = norm(txt)
     if all(any(v in txt for v in vs) for vs in pal): r.append(e)
 r.sort(key=lambda e: (-(e.get('revision', {}).get('calidad') or 0), not e.get('revision', {}).get('mejor_de_familia')))
+if a.resumen:
+    import collections
+    c1 = collections.Counter(f"{e.get('clase', '—')}/{e.get('sub', '—')}" for e in r)
+    c2 = collections.Counter(e.get('revision', {}).get('familia', '—') for e in r)
+    print(f'{len(r)} resultados. Por clase/sub:')
+    for k, n in c1.most_common(): print(f'  {n:5}  {k}')
+    print('Por familia (mira cada familia con --familia):')
+    for k, n in c2.most_common(60): print(f'  {n:5}  {k}')
+    sys.exit()
 if a.json:
     print(json.dumps(r[:a.n], ensure_ascii=False, indent=1)); sys.exit()
 for e in r[:a.n]:

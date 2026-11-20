@@ -53,21 +53,36 @@ herramientas la encuentran con la variable `TEXTURAS_ROOT`. Material, sonidos, v
 | `medidas` | tamaño, alfa, color medio, pHash… |
 | `hoja` | hoja de contactos donde se ve |
 
-Usa siempre el buscador; funciona desde cualquier carpeta:
+**Método obligatorio para buscar (así no se salta nada y no hace falta revisar uno a uno).** El buscador
+`tools/atlas/buscar.py` funciona desde cualquier carpeta y entiende plurales, palabras sin tilde, inglés y sinónimos.
 
-```bash
-python3 <TEXTURAS>/tools/atlas/buscar.py goteo blanco --min 4            # palabras + ficha, mejores primero
-python3 <TEXTURAS>/tools/atlas/buscar.py --clase tileables --sub papel --tileable --mejor
-python3 <TEXTURAS>/tools/atlas/buscar.py --familia pieza_burbuja --json   # para scripts
-python3 <TEXTURAS>/tools/atlas/buscar.py --ficha <id>                     # ficha completa de un asset
-```
+1. **Abre el abanico.** Escribe la necesidad con 3–6 palabras distintas: el objeto, el material, el efecto y el uso.
+   Por ejemplo, «goteo», «chorreón», «pintura que cae», «drip». Mira también la tabla «Qué hay» de `MAPA.md`
+   para saber qué clases pueden servir; incluye AcidBite (`ab:`), collage, vídeo y sonido.
+2. **Saca el mapa antes de elegir:** `buscar.py <palabra> --resumen`. Da cuántos hay en cada clase/sub y en cada
+   familia. Cada familia que pueda servir se abre entera con `--familia <nombre>`: dentro viene ordenada y con su
+   mejor marcada (`*`).
+3. **Recorre también sin palabras** las clases/sub que encaje: `--clase … --sub …`. Las palabras fallan a veces; las
+   categorías no.
+4. **Filtra por lo que de verdad necesitas** con las fichas:
+   - `--min 4`, `--mejor`, `--alfa`, `--tileable`, `--modo`;
+   - `--donde`, con cualquier campo: `'w>=2000'`, `'orient~vertical'`, `'color~rojo'`, `'escala~grande'`,
+     `'medidas.luminancia<0.3'`, `'medidas.alfa_parcial>0.5'`, `'fondo=transparente'`;
+   - para scripts, `--json`.
+5. **Amplía desde lo que ya te sirve:** `--parecidos <id>` da las alternativas más parecidas (misma familia y
+   aspecto).
+6. **Lee la ficha** (`--ficha <id>`): qué es, nota, defectos, cuándo usarla y cuándo evitarla, modo, escala.
+   Después **mira su `hoja`** con Read. Elige mirando, nunca solo por el texto.
+7. **Deja constancia de qué miraste:** búsquedas, familias abiertas y por qué elegiste cada id. Así la siguiente
+   conversación no repite el trabajo.
 
-- Por defecto oculta lo marcado REHACER, lo sustituido y lo dudoso (`--todo` lo enseña).
-- Ordena por nota y pone delante el mejor de cada familia.
-- No recorras carpetas a mano ni vuelvas a revisar bancos enteros: **busca en las fichas y mira solo la `hoja` de lo
-  que vas a usar** (con Read).
-- Para cada función nueva o mejora, recorre **todas** las clases que puedan servir (`MAPA.md` → «Qué hay»). Eso
-  incluye AcidBite (`ab:`), collage, vídeo y sonido. Así no se te escapa nada.
+Por defecto el buscador esconde lo marcado REHACER, lo sustituido y lo dudoso (`--todo` lo enseña) y pone delante
+la nota más alta. Recuerda dos huecos de la revisión:
+- los **sonidos** solo tienen la ficha de su nombre y su pack (no se han escuchado todavía);
+- las **plantillas de programas** no se han abierto.
+
+En esos dos casos, compruébalos tú antes de usarlos. Las fichas se corrigen en la biblioteca: **vuelve a leer el
+índice en cada conversación** (sin cachés viejas) y siempre verás la última revisión.
 
 **Cómo se construye.** Tu herramienta de construcción lee cada archivo **por id**:
 - `or:<md5>` para originales bit a bit;
@@ -103,25 +118,42 @@ resultado. Propónlo con el antes y el después y espera el sí de Iker.
    - Tiene que poder ejecutarse en el PC de Iker con una sola orden (un `.bat`/`node …`) y escribir un JSON de
      resultados.
    - Las medidas de la sandbox no valen como referencia.
-3. **Revisa tu código buscando dónde se va el tiempo.** Candidatos habituales:
-   - decodificar o convertir texturas en cada uso → hazlo una vez y guárdalo en caché;
-   - preparar al construir (mipmaps, tamaños reducidos, LUT) lo que hoy se calcula en vivo;
-   - bucles por píxel → arrays tipados y menos copias;
-   - trabajo independiente → workers;
-   - operaciones que Photoshop ya hace de forma nativa (y acelerada) → `batchPlay`;
-   - vídeo → ffmpeg con NVENC/NVDEC.
-4. **GPU todo lo posible, con estas condiciones:**
-   - **Comprueba qué ofrece tu anfitrión** (UXP de Photoshop, CEP de After Effects, Node) **en la versión que usa
-     Iker**, y pruébalo. No supongas. NEONIZADOR vídeo ya usa WebGL2 en CEP: es el modelo a seguir allí.
+3. **Encuentra dónde se va el tiempo de verdad.**
+   - Perfila con el banco de pruebas, no a ojo.
+   - Ordena las fases de más a menos lenta y ataca primero la que más pesa.
+   - Revisa **todo el camino**: arranque del panel, carga de texturas, cálculo, intercambio de píxeles con
+     Photoshop/AE, guardado, construcción del `.ccx`.
+4. **Arreglos que no cambian el resultado** (hazlos primero):
+   - decodificar o convertir cada textura **una sola vez** y guardarla en caché en memoria;
+   - preparar al construir lo que hoy se calcula en vivo y da lo mismo (tamaños reducidos, mipmaps, tablas);
+   - cargar solo lo que el efecto usa, y cuando lo usa;
+   - menos copias de buffers: arrays tipados y trabajar por bloques;
+   - trabajo independiente en workers o en paralelo;
+   - intercambiar píxeles con la vía más rápida que ofrezca tu anfitrión (por ejemplo, la API de imagen de UXP en
+     lugar de rutas lentas);
+   - evitar pasos repetidos de historial o capas temporales;
+   - en las herramientas, ffmpeg con **NVENC/NVDEC** para vídeo.
+
+   Cada arreglo se queda solo si la prueba exacta da **idéntico** y el banco de pruebas mejora.
+5. **GPU todo lo posible, con estas condiciones:**
+   - **Comprueba qué ofrece tu anfitrión en la versión de Iker** (UXP de Photoshop, CEP de After Effects, Node) y
+     pruébalo en su PC. No supongas.
+     - NEONIZADOR vídeo ya usa WebGL2 en CEP: es el modelo a seguir allí.
+     - Si el anfitrión no deja usar la gráfica, apunta qué alternativa habría: filtros nativos de Photoshop/AE
+       acelerados, o un proceso auxiliar local por GPU. La segunda añade un programa al plugin, así que es
+       decisión de Iker.
+   - **Aprovecha las dos RTX 4090.** Reparte por tandas o fotogramas, o una calcula mientras la otra codifica. Las
+     texturas se suben **una vez** a la gráfica y se reutilizan. Evita idas y vueltas CPU↔GPU por cada operación.
    - Las herramientas de construcción pueden usar GPU para **analizar**. Lo que **alimenta al plugin** se genera en
-     CPU y de forma determinista (DECISIONES §10), porque dos gráficas no dan los mismos bytes.
-   - Cada camino nuevo por GPU **conserva el camino CPU**: como referencia y como respaldo si la gráfica no está o
-     falla. El plugin tiene que funcionar igual en un ordenador sin esas gráficas.
+     CPU y de forma determinista (DECISIONES §10), porque dos gráficas o dos drivers no dan los mismos bytes en
+     flotante.
+   - Cada camino por GPU **conserva el camino CPU**: como referencia y como respaldo automático si la gráfica no
+     está o falla. El plugin tiene que funcionar igual en un ordenador con una sola gráfica o sin ninguna.
    - Si la versión GPU da **exactamente** tu prueba exacta, se puede activar.
-   - Si difiere aunque sea un poco, mide la diferencia (máxima por canal, % de píxeles distintos) y prepara
+   - Si difiere aunque sea un poco, mide la diferencia (máxima por canal y % de píxeles distintos) y prepara las
      imágenes del antes y el después. Queda **apagada** hasta que Iker diga sí. Nunca se activa sin avisar.
-5. **Optimizaciones que no cambian el resultado** (caché, menos copias, precálculo idéntico, cargar menos): hazlas si
-   la prueba exacta da idéntico y el banco de pruebas mejora. Si no mejora de verdad, deshazla.
+6. **Repite** medir → arreglar → prueba exacta hasta que ya no se gane nada que merezca la pena. Deja el banco de
+   pruebas en tu repo para medir cada cambio futuro.
 
 ## Informe que me das al terminar
 
@@ -140,8 +172,9 @@ Corto y claro.
 ```
 ## Biblioteca y velocidad (orden de Iker, 20-11-2026; texto completo: TEXTURAS/plugins/ORDEN_PLUGINS.md)
 - Material SOLO de la biblioteca IkerEker/TEXTURAS (rama atlas) + Biblioteca/ local (TEXTURAS_ROOT). Nada de bancos propios.
-- Buscar con tools/atlas/buscar.py (usa las fichas de la revisión 100 %: nota, mejor de familia, usar/evitar si);
-  mirar la `hoja` de lo elegido; no revisar bancos enteros; recorrer todas las clases útiles (incl. ab:, vídeo, sonido).
+- Buscar SIEMPRE con el método de 7 pasos de ORDEN_PLUGINS.md (varias palabras → --resumen → abrir familias → recorrer
+  clases → filtrar con --donde/--min → --parecidos → ficha + mirar la `hoja`). Incluye ab:, collage, vídeo y sonido.
+  No revisar bancos enteros: las fichas ya están hechas. Releer el índice en cada conversación.
 - Construir leyendo por id (or:/tx:/ab:) vía indice/indice.json. El plugin lleva dentro lo que usa: funciona sin Claude ni internet.
 - Si falta algo: «PEDIDO PARA LA BIBLIOTECA:» al final de la respuesta; nunca dibujarlo/descargarlo dentro del plugin.
 - Prueba exacta antes y después de todo cambio; cualquier diferencia → Iker decide con antes/después.
