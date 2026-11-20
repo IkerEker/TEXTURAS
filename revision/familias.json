@@ -9732,5 +9732,181 @@
 "modo": "normal o superponer",
 "usar_si": "transición por pintura que tapa",
 "evitar_si": "se necesita alfa"
+},
+"ab_textil_marco": {
+"miembros": [
+"ab:b460600b0f53",
+"ab:9fdf402c8d7e",
+"ab:6c25807a0dfc",
+"ab:a1d50ac92fbc",
+"ab:8a10dae0c4d9",
+"ab:257163d72a18",
+"ab:1d5894f69868",
+"ab:be605ab26d93",
+"ab:2b83ae80c932",
+"ab:2276b21d0389",
+"ab:3cdfcc0a3c2f",
+"ab:75d0e8d11612",
+"ab:fd1b7b903f32",
+"ab:4e2366d07afe",
+"ab:f8d49bca45aa",
+"ab:4630f3b74d36",
+"ab:6dc9f79684f1",
+"ab:b1f5a1ef5d64",
+"ab:9be320566102",
+"ab:37fb73b2f199",
+"ab:bd9875f5e392",
+"ab:35d07fea73a6",
+"ab:569c53154961",
+"ab:6ae8d80f8465",
+"ab:baeed2a1f761",
+"ab:836752fc3702",
+"ab:be454b8ec08f"
+],
+"uso": "marco de tela recortada de ACIDBITE Textile Transitions: trozo de tela real (fieltro, arpillera, tela gris, negra o lino) con una ventana rectangular transparente que se abre y se cierra a saltos, 4K con alfa",
+"modo": "normal (alfa) o mate alfa",
+"usar_si": "encuadrar el vídeo en un marco de tela o transición textil",
+"evitar_si": "se quiere marco limpio"
+},
+"ab_textil_textura": {
+"miembros": [
+"ab:ec48b96e507a",
+"ab:a3d8d3df751d",
+"ab:c4845186d179",
+"ab:5cdda8d9ed97",
+"ab:cf769df0efb9",
+"ab:3c5c5a454b84",
+"ab:077dcec405a6",
+"ab:cbf2844a9a98"
+],
+"uso": "tela real escaneada a pantalla completa (fieltro, lino, algodón) que cambia levemente a saltos, 4K, de ACIDBITE Textile Transitions",
+"modo": "multiplicar",
+"usar_si": "textura de tela animada encima del vídeo",
+"evitar_si": "se quiere tela fija (usar un tileable)"
+},
+"ab_tunel": {
+"miembros": [
+"ab:0d1a356ca0b8",
+"ab:c3d2bc823aec",
+"ab:051348d7c448",
+"ab:91f8881423ef",
+"ab:c900baac1e39",
+"ab:cc64770ccfed",
+"ab:d48a029ace84",
+"ab:b73a9c131710",
+"ab:94fb1244c626",
+"ab:c048e30be1e7",
+"ab:e69e77ef8878",
+"ab:e309b711a67e",
+"ab:2f1183478c21",
+"ab:e290dbd96ad9",
+"ab:cbbeeff61092",
+"ab:66c9f548db12",
+"ab:7209fb90dd73",
+"ab:e5a516533a89",
+"ab:31d1a880de5a",
+"ab:62000fb796c9",
+"ab:3e9a6ac06fe8",
+"ab:a3d9ab33a24a",
+"ab:69d247b1c6be",
+"ab:c123253e2121"
+],
+"uso": "transición de túnel 3D de ACIDBITE Tunnel Transitions, 4K con alfa: el túnel aparece como un punto en el centro, crece hasta llenar el cuadro (se viaja por dentro) y se cierra o se sale",
+"modo": "normal (alfa)",
+"usar_si": "transición psicodélica viajando por un túnel",
+"evitar_si": "se quiere algo discreto"
+},
+"ab_papel_roto": {
+"miembros": [
+"ab:259a467b48c9",
+"ab:d1970b8fef6c",
+"ab:febc253651af",
+"ab:492f1ed09d8b",
+"ab:2f31888285da",
+"ab:579933d7dbff",
+"ab:da8cb8c4e10b",
+"ab:5a4fb8124609",
+"ab:efde318d8773",
+"ab:3c510c4fa395",
+"ab:25a7fd8b2e75",
+"ab:561ab4ed5c83",
+"ab:04c30055453f",
+"ab:5b3c7a143d7c",
+"ab:d42da3cfa670",
+"ab:7c0ce0645984",
+"ab:1f9eb291e074",
+"ab:675772f59815"
+],
+"uso": "transición de papel real rasgado o arrugado de ACIDBITE Ultimate Paper Pack, 4K con alfa: el papel (negro, gris o blanco) se rompe y se abre un hueco transparente que crece, o el papel se arruga en una bola y se aleja",
+"modo": "normal (alfa)",
+"usar_si": "transición de papel rasgado stop motion",
+"evitar_si": "se quiere corte limpio"
+},
+"ab_papel_collage": {
+"miembros": [
+"ab:5b55524b0958",
+"ab:60e1c736f9c9",
+"ab:82e63eb168b1",
+"ab:948456c59c92",
+"ab:6519bb735f6f",
+"ab:2caaaa620706"
+],
+"uso": "marco de collage de papel real de ACIDBITE Ultimate Paper Pack: hoja de papel (cuaderno de espiral, papel blanco, papel negro) con varias ventanas transparentes recortadas para meter vídeos, 4K con alfa",
+"modo": "normal (alfa)",
+"usar_si": "pantalla dividida tipo collage de papel",
+"evitar_si": "se quiere un solo plano"
+},
+"ab_papel_opener": {
+"miembros": [
+"ab:40af65df7af9",
+"ab:fa4c34abda3e",
+"ab:42ab8ef97da9",
+"ab:d671b6623cd3",
+"ab:1895a51cb415",
+"ab:0656ef07bbca",
+"ab:408d4803ec4c",
+"ab:cf4249cbe724",
+"ab:572bf479b921"
+],
+"uso": "apertura de ACIDBITE Ultimate Paper Pack sobre negro: celo arrugado iridiscente, clips, garabatos azules, pintura blanca y rayas que aparecen a saltos, 4K",
+"modo": "trama",
+"usar_si": "intro o transición de collage sobre negro",
+"evitar_si": "se quiere algo sobrio"
+},
+"ab_papel_overlap": {
+"miembros": [
+"ab:2fcab866feb4",
+"ab:054267a34729",
+"ab:456e0ba1de43",
+"ab:e89a5c5c332a",
+"ab:135026146d22",
+"ab:7b35e040d80a",
+"ab:b288d3739453",
+"ab:3f7bb0aa834b",
+"ab:f5b25af452d7"
+],
+"uso": "papel arrugado a pantalla completa de ACIDBITE Ultimate Paper Pack (Overlap): hoja negra o de color con pliegues y grietas que se superpone al vídeo y cambia a saltos, 4K",
+"modo": "normal o superponer",
+"usar_si": "fondo o capa de papel arrugado animado",
+"evitar_si": "se quiere papel liso"
+},
+"ab_papel_pliegue": {
+"miembros": [
+"ab:8e80a44cca74",
+"ab:c04e9f66e977",
+"ab:f77d3a0db3ce",
+"ab:58af7ce46fc5",
+"ab:8769241d290b",
+"ab:d7865062c2b8",
+"ab:d60b53fa2845",
+"ab:8bdc1f0bf40c",
+"ab:1905bbc5bae6",
+"ab:f76a2117c262",
+"ab:0bd4442bada3"
+],
+"uso": "papel blanco arrugado o doblado filmado de ACIDBITE Ultimate Paper Pack, 4K, para multiplicar sobre el vídeo",
+"modo": "multiplicar",
+"usar_si": "dar al vídeo aspecto de estar impreso en papel arrugado o doblado",
+"evitar_si": "se quiere imagen limpia"
 }
 }
