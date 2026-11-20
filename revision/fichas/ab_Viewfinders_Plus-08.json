@@ -1,0 +1,37 @@
+{
+"ab:e5c07978c9b4": {
+"que_es": "cuadrícula de prueba CRT (raster) con un rectángulo blanco central: en multiplicar, el vídeo solo se ve en el rectángulo y en las líneas",
+"calidad": 5,
+"defectos": "ninguno",
+"familia": "ab_visor",
+"variante": 43,
+"diferencia": "-",
+"mejor_de_familia": false,
+"uso": "ventana pequeña dentro de una cuadrícula de monitor",
+"modo": "multiplicar",
+"usar_si": "-",
+"evitar_si": "-",
+"escala": "3840×2160, 4.96 s a 23.976 fps, sin loop",
+"color": "negro con cuadrícula y ventana blanca",
+"orient": "16:9",
+"estilo": "patrón de prueba en pantalla CRT",
+"contenido": "sin texto",
+"comportamiento": "casi fijo con leve parpadeo",
+"medidas": {
+"fuente_medida": "tira",
+"w": 3840,
+"h": 2160,
+"color_medio": "#474c4f",
+"luminancia": 0.296,
+"contraste": 0.315,
+"saturacion": 0.187,
+"phash": "d566754b517a003f"
+},
+"rehacer": false,
+"dudoso": false,
+"revisado_por_vista": true,
+"nivel": "completo",
+"fecha": "2026-11-19",
+"hoja": "revision/hojas/ab_Viewfinders_Plus-08.jpg"
+}
+}

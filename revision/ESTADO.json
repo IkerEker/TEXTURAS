@@ -8936,7 +8936,7 @@
 "ab:5b26e445fa73",
 "ab:91cdfa3737f6"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Viewfinders_Plus-02",
@@ -8948,7 +8948,7 @@
 "ab:fc200400aed6",
 "ab:b3e39fec3091"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Viewfinders_Plus-03",
@@ -8960,7 +8960,7 @@
 "ab:5bc9cc1dd5a2",
 "ab:96e432597e25"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Viewfinders_Plus-04",
@@ -8972,7 +8972,7 @@
 "ab:0b4985da4f87",
 "ab:a56272d5eee5"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Viewfinders_Plus-05",
@@ -8984,7 +8984,7 @@
 "ab:6c86328d0b57",
 "ab:764c226223cf"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Viewfinders_Plus-06",
@@ -8996,7 +8996,7 @@
 "ab:c73a8c353ad1",
 "ab:5134e7a4e8d4"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Viewfinders_Plus-07",
@@ -9008,14 +9008,14 @@
 "ab:618386ac5daf",
 "ab:f74c7b94806f"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Viewfinders_Plus-08",
 "ids": [
 "ab:e5c07978c9b4"
 ],
-"hecho": false
+"hecho": true
 },
 {
 "lote": "ab_Wipe_and_Light_Transitions-01",
