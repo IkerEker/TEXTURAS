@@ -70,3 +70,12 @@ Regenerar: `tools/atlas/revision_sin_vista.py` y luego `tools/atlas/revision_res
 rehicieron con el mismo nombre (burbujas completas, tiles de espuma repetibles sin cruz, gotas enteras, goteo sin croma):
 detalle y origen en `productos/piezas_neonizador/REHECHAS.json`, antes/después en `productos/hojas/rehechas_2026-11-20.jpg`,
 scripts en `tools/atlas/rehacer/`. Las copias exactas de NEONIZADOR siguen como `or:` heredado con `sustituido_por`.
+
+**Pendientes resueltos (20-11-2026, mañana):**
+- 0 dudosos:
+  - las 59 LUT de Super 8 son copias byte a byte de las de 16mm (`duplicado_de`);
+  - los vídeos con texto o personas, vistos a tamaño completo, llevan `aviso`/`contenido`;
+  - los goteos translúcidos se comprobaron contra su foto.
+- 0 correcciones: `indice/correcciones.json`, que aplica `construir_indice.py` (los archivos no se renombran).
+- Sonidos: los 658 medidos (`revision/audio_medido.json`, `tools/atlas/medir_audio.py`). Siguen sin escucharse; `suena_como` sale de las medidas.
+- Plantillas: las 55 leídas por dentro (`revision/plantillas_leidas.json`, `tools/atlas/leer_plantillas.py`): medios que usan, efectos, huecos de los .mogrt y duración.

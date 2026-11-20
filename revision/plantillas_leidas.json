@@ -1,0 +1,1487 @@
+{
+"descripcion": "Plantillas y proyectos de editor leídos por dentro sin abrir el programa (20-11-2026, tools/atlas/leer_plantillas.py).",
+"plantillas": {
+"or:ce32f64fdf254c1ef745394bac745795": {
+"tipo": "aep",
+"medios": [
+"16x9_TexturePackPromo.mov",
+"TexturePack_Promo.mov"
+],
+"n_medios": 2,
+"efectos": [
+"Displacement Map",
+"Appears in Reflections",
+"Reflection Coefficient",
+"Glossiness Coefficient",
+"Fresnel Coefficient",
+"Transparency Coefficient",
+"Transp Rolloff",
+"Index of Refraction",
+"Layer Sets",
+"Opacity",
+"Time Remapping",
+"Layer Source Alternate",
+"Effect Parade",
+"CurvesCustom",
+"Posterize Time",
+"Brightness",
+"Vector Shape",
+"Simple Choker",
+"Threshold2",
+"Text Properties",
+"Text Document",
+"Text Path Options",
+"Text More Options",
+"Vector Graphic",
+"Vector Fill Color",
+"Invert",
+"Text Animators",
+"Text Animator",
+"Text Selectors",
+"Text Selector",
+"Text Range Advanced",
+"Text Animator Properties",
+"Escher",
+"Camera Zoom",
+"Camera Focus Distance",
+"Text Range Type2",
+"Text Percent Start",
+"Mask Parade",
+"Mask Atom",
+"Mask Shape"
+],
+"modos_fusion": [],
+"resumen": "leído por dentro: usa 2 medios (16x9_TexturePackPromo.mov, TexturePack_Promo.mov); efectos/ajustes: Displacement Map, Appears in Reflections, Reflection Coefficient, Glossiness Coefficient, Fresnel Coefficient, Transparency Coefficient, Transp Rolloff, Index of Refraction"
+},
+"or:0d2fcc5b7c0f1bd724d5a2de9df21980": {
+"tipo": "aep",
+"medios": [
+"1 1.png",
+"1.png",
+"2 1.png",
+"3 1.png",
+"4 1.png",
+"MAIN_Animation (0-00-01-15).png",
+"page6_ 15.png",
+"page6_ 16.png",
+"page6_ 17.png",
+"page6_ 18.png"
+],
+"n_medios": 10,
+"efectos": [
+"Displacement Map",
+"Transparency Coefficient",
+"Transp Rolloff",
+"Index of Refraction",
+"Layer Sets",
+"Opacity",
+"Echo",
+"Vector Shape",
+"Invert",
+"Appears in Reflections",
+"Reflection Coefficient",
+"Glossiness Coefficient",
+"Fresnel Coefficient",
+"Time Remapping",
+"Layer Source Alternate",
+"Effect Parade",
+"Light Transmission",
+"Vector Graphic",
+"Vector Fill Color",
+"Iris Diffraction Fringe",
+"Iris Highlight Gain",
+"Iris Highlight Threshold",
+"Iris Hightlight Saturation",
+"Turbulent Displace",
+"Fill",
+"Posterize Time",
+"Box Blur2",
+"Simple Choker",
+"Camera Zoom",
+"Camera Focus Distance",
+"CurvesCustom",
+"Sharpen",
+"Escher",
+"Text Properties",
+"Text Document",
+"Text Path Options",
+"Text More Options",
+"Ernst",
+"Vector Ellipse Size",
+"Vector Stroke Color"
+],
+"modos_fusion": [],
+"resumen": "leído por dentro: usa 10 medios (1 1.png, 1.png, 2 1.png, 3 1.png, 4 1.png, MAIN_Animation (0-00-01-15).png, …); efectos/ajustes: Displacement Map, Transparency Coefficient, Transp Rolloff, Index of Refraction, Layer Sets, Opacity, Echo, Vector Shape"
+},
+"or:819285699b9f7dd071ce54ebcb0237ee": {
+"tipo": "aep",
+"medios": [
+"HQ2.mov"
+],
+"n_medios": 1,
+"efectos": [
+"Camera Lens Blur",
+"Displacement Map",
+"Simple Choker",
+"Casts Shadows",
+"Light Transmission",
+"Accepts Shadows",
+"Accepts Lights",
+"Shadow Color",
+"Appears in Reflections",
+"Ambient Coefficient",
+"Diffuse Coefficient",
+"Specular Coefficient",
+"Shininess Coefficient",
+"Metal Coefficient",
+"Reflection Coefficient",
+"Glossiness Coefficient",
+"Fresnel Coefficient",
+"Transparency Coefficient",
+"Transp Rolloff",
+"Index of Refraction",
+"Layer Sets",
+"Tint",
+"Opacity",
+"Posterize Time",
+"Time Remapping",
+"Effect Parade",
+"Layer Source Alternate",
+"Text Properties",
+"Text Document",
+"Text Path Options",
+"Text More Options",
+"Camera Zoom",
+"Camera Focus Distance",
+"Escher",
+"Simple Chokerpjef"
+],
+"modos_fusion": [],
+"resumen": "leído por dentro: usa 1 medios (HQ2.mov); efectos/ajustes: Camera Lens Blur, Displacement Map, Simple Choker, Casts Shadows, Light Transmission, Accepts Shadows, Accepts Lights, Shadow Color"
+},
+"ab:15465d004d0e": {
+"tipo": "drt",
+"medios": [
+"01_VHS_TRANSITION_screen.mov",
+"PBVHS_footage01.mov",
+"PBVHS_footage02.mov",
+"Scanlines.png",
+"Shadow Mask.png",
+"VHS_TRANSITION_SFX_01.wav"
+],
+"n_medios": 6,
+"efectos": [],
+"modos_fusion": [],
+"proyecto": "VHS Transition 1",
+"duracion_fotogramas": 78,
+"resumen": "leído por dentro: usa 6 medios (01_VHS_TRANSITION_screen.mov, PBVHS_footage01.mov, PBVHS_footage02.mov, Scanlines.png, Shadow Mask.png, VHS_TRANSITION_SFX_01.wav); efectos/ajustes: VHS Transition 1; línea de tiempo de 78 fotogramas"
+},
+"ab:eb9c1028ea6d": {
+"tipo": "drt",
+"medios": [
+"02_VHS_TRANSITION_screen.mov",
+"PBVHS_footage01.mov",
+"PBVHS_footage02.mov",
+"Scanlines.png",
+"Shadow Mask.png",
+"VHS_TRANSITION_SFX_02.wav"
+],
+"n_medios": 6,
+"efectos": [],
+"modos_fusion": [],
+"proyecto": "VHS Transition 2",
+"duracion_fotogramas": 56,
+"resumen": "leído por dentro: usa 6 medios (02_VHS_TRANSITION_screen.mov, PBVHS_footage01.mov, PBVHS_footage02.mov, Scanlines.png, Shadow Mask.png, VHS_TRANSITION_SFX_02.wav); efectos/ajustes: VHS Transition 2; línea de tiempo de 56 fotogramas"
+},
+"ab:f62aadf3afeb": {
+"tipo": "drt",
+"medios": [
+"03_VHS_TRANSITION_screen.mov",
+"PBVHS_footage01.mov",
+"PBVHS_footage02.mov",
+"Shadow Mask.png",
+"VHS_TRANSITION_SFX_03.wav"
+],
+"n_medios": 5,
+"efectos": [],
+"modos_fusion": [],
+"proyecto": "VHS Transition 3",
+"duracion_fotogramas": 78,
+"resumen": "leído por dentro: usa 5 medios (03_VHS_TRANSITION_screen.mov, PBVHS_footage01.mov, PBVHS_footage02.mov, Shadow Mask.png, VHS_TRANSITION_SFX_03.wav); efectos/ajustes: VHS Transition 3; línea de tiempo de 78 fotogramas"
+},
+"ab:cfba39b9a371": {
+"tipo": "drt",
+"medios": [
+"04_VHS_TRANSITION_overlay.mov",
+"PBVHS_footage01.mov",
+"PBVHS_footage02.mov",
+"Shadow Mask.png",
+"VHS_TRANSITION_SFX_04.wav"
+],
+"n_medios": 5,
+"efectos": [],
+"modos_fusion": [],
+"proyecto": "VHS Transition 4",
+"duracion_fotogramas": 61,
+"resumen": "leído por dentro: usa 5 medios (04_VHS_TRANSITION_overlay.mov, PBVHS_footage01.mov, PBVHS_footage02.mov, Shadow Mask.png, VHS_TRANSITION_SFX_04.wav); efectos/ajustes: VHS Transition 4; línea de tiempo de 61 fotogramas"
+},
+"ab:8a6268bb7e34": {
+"tipo": "drt",
+"medios": [
+"05_VHS_TRANSITION_screen.mov",
+"PBVHS_footage01.mov",
+"PBVHS_footage02.mov",
+"Scanlines.png",
+"VHS_TRANSITION_SFX_05.wav"
+],
+"n_medios": 5,
+"efectos": [],
+"modos_fusion": [],
+"proyecto": "VHS Transition 5",
+"duracion_fotogramas": 76,
+"resumen": "leído por dentro: usa 5 medios (05_VHS_TRANSITION_screen.mov, PBVHS_footage01.mov, PBVHS_footage02.mov, Scanlines.png, VHS_TRANSITION_SFX_05.wav); efectos/ajustes: VHS Transition 5; línea de tiempo de 76 fotogramas"
+},
+"ab:7109456d0e56": {
+"tipo": "drt",
+"medios": [
+"06_GLITCH_TRANSITION_screen.mov",
+"PBVHS_footage01.mov",
+"PBVHS_footage02.mov",
+"VHS_TRANSITION_SFX_06.wav"
+],
+"n_medios": 4,
+"efectos": [],
+"modos_fusion": [],
+"proyecto": "VHS Transition 6",
+"duracion_fotogramas": 85,
+"resumen": "leído por dentro: usa 4 medios (06_GLITCH_TRANSITION_screen.mov, PBVHS_footage01.mov, PBVHS_footage02.mov, VHS_TRANSITION_SFX_06.wav); efectos/ajustes: VHS Transition 6; línea de tiempo de 85 fotogramas"
+},
+"ab:6e1338ddcab4": {
+"tipo": "drt",
+"medios": [
+"07_GLITCH_TRANSITION_screen.mov",
+"PBVHS_footage01.mov",
+"PBVHS_footage02.mov",
+"VHS_TRANSITION_SFX_07.wav"
+],
+"n_medios": 4,
+"efectos": [],
+"modos_fusion": [],
+"proyecto": "VHS Transition 7",
+"duracion_fotogramas": 85,
+"resumen": "leído por dentro: usa 4 medios (07_GLITCH_TRANSITION_screen.mov, PBVHS_footage01.mov, PBVHS_footage02.mov, VHS_TRANSITION_SFX_07.wav); efectos/ajustes: VHS Transition 7; línea de tiempo de 85 fotogramas"
+},
+"ab:a06ae6a32b0a": {
+"tipo": "drt",
+"medios": [
+"08_GLITCH_TRANSITION_screen.mov",
+"PBVHS_footage01.mov",
+"PBVHS_footage02.mov",
+"VHS_TRANSITION_SFX_08.wav"
+],
+"n_medios": 4,
+"efectos": [],
+"modos_fusion": [],
+"proyecto": "VHS Transition 8",
+"duracion_fotogramas": 85,
+"resumen": "leído por dentro: usa 4 medios (08_GLITCH_TRANSITION_screen.mov, PBVHS_footage01.mov, PBVHS_footage02.mov, VHS_TRANSITION_SFX_08.wav); efectos/ajustes: VHS Transition 8; línea de tiempo de 85 fotogramas"
+},
+"ab:7343ce5a4c23": {
+"tipo": "drt",
+"medios": [
+"09_GLITCH_TRANSITION_screen.mov",
+"PBVHS_footage01.mov",
+"PBVHS_footage02.mov",
+"VHS_TRANSITION_SFX_09.wav"
+],
+"n_medios": 4,
+"efectos": [],
+"modos_fusion": [],
+"proyecto": "VHS Transition 9",
+"duracion_fotogramas": 85,
+"resumen": "leído por dentro: usa 4 medios (09_GLITCH_TRANSITION_screen.mov, PBVHS_footage01.mov, PBVHS_footage02.mov, VHS_TRANSITION_SFX_09.wav); efectos/ajustes: VHS Transition 9; línea de tiempo de 85 fotogramas"
+},
+"ab:d976d5012959": {
+"tipo": "prproj",
+"medios": [
+"01_VHS_TRANSITION_screen.mov",
+"02_VHS_TRANSITION_screen.mov",
+"03_VHS_TRANSITION_screen.mov",
+"04_VHS_TRANSITION_overlay.mov",
+"05_VHS_TRANSITION_screen.mov",
+"06_GLITCH_TRANSITION_screen.mov",
+"07_GLITCH_TRANSITION_screen.mov",
+"08_GLITCH_TRANSITION_screen.mov",
+"09_GLITCH_TRANSITION_screen.mov",
+"Scanlines.png",
+"Shadow Mask.png",
+"VHS_TRANSITION_01_screen.mov",
+"VHS_TRANSITION_02_screen.mov",
+"VHS_TRANSITION_03_screen.mov",
+"VHS_TRANSITION_04_overlay.mov",
+"VHS_TRANSITION_05_screen.mov",
+"VHS_TRANSITION_SFX_01.wav",
+"VHS_TRANSITION_SFX_02.wav",
+"VHS_TRANSITION_SFX_03.wav",
+"VHS_TRANSITION_SFX_04.wav",
+"VHS_TRANSITION_SFX_05.wav",
+"VHS_TRANSITION_SFX_06.wav",
+"VHS_TRANSITION_SFX_07.wav",
+"VHS_TRANSITION_SFX_08.wav",
+"VHS_TRANSITION_SFX_09.wav"
+],
+"n_medios": 25,
+"efectos": [
+"Motion",
+"Wave Warp",
+"Lumetri",
+"Opacity",
+"Wave Speed",
+"Camera Roll",
+"Wave Height",
+"PRE-BUILT VHS TRANSITIONS",
+"Wave Type",
+"Wave Width"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [],
+"resumen": "leído por dentro: usa 25 medios (01_VHS_TRANSITION_screen.mov, 02_VHS_TRANSITION_screen.mov, 03_VHS_TRANSITION_screen.mov, 04_VHS_TRANSITION_overlay.mov, 05_VHS_TRANSITION_screen.mov, 06_GLITCH_TRANSITION_screen.mov, …); efectos/ajustes: Motion, Wave Warp, Lumetri, Opacity, Wave Speed, Camera Roll, Wave Height, PRE-BUILT VHS TRANSITIONS"
+},
+"ab:3bd95914e227": {
+"tipo": "drt",
+"medios": [
+"Filmburn03.mov",
+"Key_Transition02.mov",
+"Key_Transition05.mov",
+"Testfootage_01.mp4",
+"Testfootage_02.mp4",
+"WARP_SFX_01.wav"
+],
+"n_medios": 6,
+"efectos": [
+"No Output Transform",
+"Color Curves",
+"Warp SFX",
+"No Input Transform"
+],
+"modos_fusion": [],
+"proyecto": "Warp01",
+"duracion_fotogramas": 29,
+"resumen": "leído por dentro: usa 6 medios (Filmburn03.mov, Key_Transition02.mov, Key_Transition05.mov, Testfootage_01.mp4, Testfootage_02.mp4, WARP_SFX_01.wav); efectos/ajustes: No Output Transform, Color Curves, Warp SFX, No Input Transform; línea de tiempo de 29 fotogramas"
+},
+"ab:876e5bd2a23c": {
+"tipo": "drt",
+"medios": [
+"FRAME_difference.mov",
+"Filmburn03.mov",
+"Key_Transition12.mov",
+"Testfootage_01.mp4",
+"Testfootage_02.mp4",
+"WARP_SFX_02.wav"
+],
+"n_medios": 6,
+"efectos": [
+"No Output Transform",
+"Warp SFX",
+"No Input Transform"
+],
+"modos_fusion": [],
+"proyecto": "Warp02",
+"duracion_fotogramas": 23,
+"resumen": "leído por dentro: usa 6 medios (FRAME_difference.mov, Filmburn03.mov, Key_Transition12.mov, Testfootage_01.mp4, Testfootage_02.mp4, WARP_SFX_02.wav); efectos/ajustes: No Output Transform, Warp SFX, No Input Transform; línea de tiempo de 23 fotogramas"
+},
+"ab:6627b4613439": {
+"tipo": "drt",
+"medios": [
+"Filmburn01.mov",
+"Key_Transition08.mov",
+"Key_Transition14.mov",
+"Testfootage_01.mp4",
+"Testfootage_02.mp4",
+"WARP_SFX_03.wav"
+],
+"n_medios": 6,
+"efectos": [
+"No Output Transform",
+"Color Curves",
+"Warp SFX",
+"No Input Transform"
+],
+"modos_fusion": [],
+"proyecto": "Warp03",
+"duracion_fotogramas": 50,
+"resumen": "leído por dentro: usa 6 medios (Filmburn01.mov, Key_Transition08.mov, Key_Transition14.mov, Testfootage_01.mp4, Testfootage_02.mp4, WARP_SFX_03.wav); efectos/ajustes: No Output Transform, Color Curves, Warp SFX, No Input Transform; línea de tiempo de 50 fotogramas"
+},
+"ab:84d573158419": {
+"tipo": "drt",
+"medios": [
+"Filmburn02.mov",
+"Key_Transition13.mov",
+"PUNCHHOLE01_maskout.png",
+"Testfootage_01.mp4",
+"Testfootage_02.mp4",
+"WARP_SFX_04.wav"
+],
+"n_medios": 6,
+"efectos": [
+"No Output Transform",
+"Color Curves",
+"Warp SFX",
+"No Input Transform"
+],
+"modos_fusion": [],
+"proyecto": "Warp04",
+"duracion_fotogramas": 32,
+"resumen": "leído por dentro: usa 6 medios (Filmburn02.mov, Key_Transition13.mov, PUNCHHOLE01_maskout.png, Testfootage_01.mp4, Testfootage_02.mp4, WARP_SFX_04.wav); efectos/ajustes: No Output Transform, Color Curves, Warp SFX, No Input Transform; línea de tiempo de 32 fotogramas"
+},
+"ab:8045602d9e2e": {
+"tipo": "drt",
+"medios": [
+"BLACKWHITE_difference.mov",
+"Filmburn03.mov",
+"Key_Transition12.mov",
+"Testfootage_01.mp4",
+"Testfootage_02.mp4",
+"WARP_SFX_05.wav"
+],
+"n_medios": 6,
+"efectos": [
+"No Output Transform",
+"Warp SFX",
+"No Input Transform"
+],
+"modos_fusion": [],
+"proyecto": "Warp05",
+"duracion_fotogramas": 57,
+"resumen": "leído por dentro: usa 6 medios (BLACKWHITE_difference.mov, Filmburn03.mov, Key_Transition12.mov, Testfootage_01.mp4, Testfootage_02.mp4, WARP_SFX_05.wav); efectos/ajustes: No Output Transform, Warp SFX, No Input Transform; línea de tiempo de 57 fotogramas"
+},
+"ab:2482f7b02f6c": {
+"tipo": "drt",
+"medios": [
+"FRAME_difference.mov",
+"Filmburn01.mov",
+"Key_Transition12.mov",
+"Testfootage_01.mp4",
+"Testfootage_02.mp4",
+"WARP_SFX_07.wav"
+],
+"n_medios": 6,
+"efectos": [
+"No Output Transform",
+"Color Curves",
+"Warp SFX",
+"No Input Transform"
+],
+"modos_fusion": [],
+"proyecto": "Warp06",
+"duracion_fotogramas": 54,
+"resumen": "leído por dentro: usa 6 medios (FRAME_difference.mov, Filmburn01.mov, Key_Transition12.mov, Testfootage_01.mp4, Testfootage_02.mp4, WARP_SFX_07.wav); efectos/ajustes: No Output Transform, Color Curves, Warp SFX, No Input Transform; línea de tiempo de 54 fotogramas"
+},
+"ab:2d6f04384d6a": {
+"tipo": "drt",
+"medios": [
+"COLLAGE07_alpha.mov",
+"Filmburn02.mov",
+"Key_Transition12.mov",
+"Testfootage_01.mp4",
+"Testfootage_02.mp4",
+"WARP_SFX_08.wav"
+],
+"n_medios": 6,
+"efectos": [
+"No Output Transform",
+"Warp SFX",
+"No Input Transform"
+],
+"modos_fusion": [],
+"proyecto": "Warp07",
+"duracion_fotogramas": 31,
+"resumen": "leído por dentro: usa 6 medios (COLLAGE07_alpha.mov, Filmburn02.mov, Key_Transition12.mov, Testfootage_01.mp4, Testfootage_02.mp4, WARP_SFX_08.wav); efectos/ajustes: No Output Transform, Warp SFX, No Input Transform; línea de tiempo de 31 fotogramas"
+},
+"ab:506bb04314c3": {
+"tipo": "prfpset",
+"medios": [],
+"n_medios": 0,
+"efectos": [
+"Lens Distortion",
+"Legacy Key Track Matte",
+"Fill Color",
+"Track Matte Key"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [
+"Presets"
+],
+"resumen": "leído por dentro: efectos/ajustes: Lens Distortion, Legacy Key Track Matte, Fill Color, Track Matte Key"
+},
+"ab:dd070aa60228": {
+"tipo": "prfpset",
+"medios": [],
+"n_medios": 0,
+"efectos": [
+"Lens Distortion",
+"Motion",
+"Fill Color"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [
+"Presets"
+],
+"resumen": "leído por dentro: efectos/ajustes: Lens Distortion, Motion, Fill Color"
+},
+"ab:7d87053cf4e1": {
+"tipo": "prfpset",
+"medios": [],
+"n_medios": 0,
+"efectos": [
+"Legacy Key Track Matte",
+"Track Matte Key"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [
+"Presets"
+],
+"resumen": "leído por dentro: efectos/ajustes: Legacy Key Track Matte, Track Matte Key"
+},
+"ab:044c845b8eaf": {
+"tipo": "prfpset",
+"medios": [],
+"n_medios": 0,
+"efectos": [
+"Spherize",
+"Legacy Key Track Matte",
+"Track Matte Key"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [
+"Presets"
+],
+"resumen": "leído por dentro: efectos/ajustes: Spherize, Legacy Key Track Matte, Track Matte Key"
+},
+"ab:abb8a450f5d2": {
+"tipo": "prfpset",
+"medios": [],
+"n_medios": 0,
+"efectos": [
+"Spherize",
+"Legacy Key Track Matte",
+"Track Matte Key"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [
+"Presets"
+],
+"resumen": "leído por dentro: efectos/ajustes: Spherize, Legacy Key Track Matte, Track Matte Key"
+},
+"ab:c0bdf9f1c38a": {
+"tipo": "prfpset",
+"medios": [],
+"n_medios": 0,
+"efectos": [
+"Lens Distortion",
+"Legacy Key Track Matte",
+"Fill Color",
+"Track Matte Key"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [
+"Presets"
+],
+"resumen": "leído por dentro: efectos/ajustes: Lens Distortion, Legacy Key Track Matte, Fill Color, Track Matte Key"
+},
+"ab:fdebd35f053b": {
+"tipo": "prfpset",
+"medios": [],
+"n_medios": 0,
+"efectos": [
+"Lens Distortion",
+"Legacy Key Track Matte",
+"Fill Color",
+"Invert Rotation",
+"Track Matte Key"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [
+"Presets"
+],
+"resumen": "leído por dentro: efectos/ajustes: Lens Distortion, Legacy Key Track Matte, Fill Color, Invert Rotation, Track Matte Key"
+},
+"ab:10461c7e0c7d": {
+"tipo": "prfpset",
+"medios": [],
+"n_medios": 0,
+"efectos": [
+"Spherize",
+"Motion"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [
+"Presets"
+],
+"resumen": "leído por dentro: efectos/ajustes: Spherize, Motion"
+},
+"ab:9e4a8677626f": {
+"tipo": "prfpset",
+"medios": [],
+"n_medios": 0,
+"efectos": [
+"Legacy Key Track Matte",
+"Track Matte Key"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [
+"Presets"
+],
+"resumen": "leído por dentro: efectos/ajustes: Legacy Key Track Matte, Track Matte Key"
+},
+"ab:3abe2ddc7779": {
+"tipo": "prfpset",
+"medios": [],
+"n_medios": 0,
+"efectos": [
+"Spherize"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [
+"Presets"
+],
+"resumen": "leído por dentro: efectos/ajustes: Spherize"
+},
+"ab:aac972fc4063": {
+"tipo": "prfpset",
+"medios": [],
+"n_medios": 0,
+"efectos": [
+"Legacy Key Track Matte",
+"Track Matte Key"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [
+"Presets"
+],
+"resumen": "leído por dentro: efectos/ajustes: Legacy Key Track Matte, Track Matte Key"
+},
+"ab:4a3afafb0401": {
+"tipo": "prproj",
+"medios": [
+"BLACKWHITE_PUNCHHOLE.tif",
+"BLACKWHITE_difference.mov",
+"COLLAGE01_alpha.mov",
+"COLLAGE02_alpha.mov",
+"COLLAGE03_alpha.mov",
+"COLLAGE04_alpha.mov",
+"COLLAGE05_alpha.mov",
+"COLLAGE06_alpha.mov",
+"COLLAGE07_alpha.mov",
+"COLLAGE08_alpha.mov",
+"FRAME.tiff",
+"FRAME_difference.mov",
+"Filmburn01.mov",
+"Filmburn02.mov",
+"Filmburn03.mov",
+"Key_Transition01.mov",
+"Key_Transition02.mov",
+"Key_Transition03.mov",
+"Key_Transition04.mov",
+"Key_Transition05.mov",
+"Key_Transition06.mov",
+"Key_Transition07.mov",
+"Key_Transition08.mov",
+"Key_Transition09.mov",
+"Key_Transition10.mov",
+"Key_Transition11.mov",
+"Key_Transition12.mov",
+"Key_Transition13.mov",
+"Key_Transition14.mov",
+"Key_Transition15.mov",
+"MOVINGTEXTURE01_alpha.mov",
+"MOVINGTEXTURE02_alpha.mov",
+"MOVINGTEXTURE03_alpha.mov",
+"PUNCHHOLE01_maskinside.png",
+"PUNCHHOLE01_maskout.png",
+"PUNCHHOLE02_maskinside.png",
+"PUNCHHOLE02_maskout.png",
+"PUNCHHOLE03_maskinside.png",
+"PUNCHHOLE03_maskout.png",
+"PUNCHHOLE04_maskout.png",
+"PUNCHHOLE05_maskinside.png",
+"RECTANGLE01_difference.mov",
+"RECTANGLE02_difference.mov",
+"WARP_SFX_01.wav",
+"WARP_SFX_02.wav",
+"WARP_SFX_03.wav",
+"WARP_SFX_04.wav",
+"WARP_SFX_05.wav",
+"WARP_SFX_06.wav",
+"WARP_SFX_07.wav",
+"WARP_SFX_08.wav",
+"thumbnail_loch2.png"
+],
+"n_medios": 52,
+"efectos": [
+"Motion",
+"Opacity",
+"Invert",
+"Spherize",
+"Horizontal Flip",
+"Lens Distortion",
+"Cross Dissolve New",
+"WARP SFX",
+"Camera Roll",
+"Fill Color",
+"Key Holes"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [],
+"resumen": "leído por dentro: usa 52 medios (BLACKWHITE_PUNCHHOLE.tif, BLACKWHITE_difference.mov, COLLAGE01_alpha.mov, COLLAGE02_alpha.mov, COLLAGE03_alpha.mov, COLLAGE04_alpha.mov, …); efectos/ajustes: Motion, Opacity, Invert, Spherize, Horizontal Flip, Lens Distortion, Cross Dissolve New, WARP SFX"
+},
+"ab:7e07c411aa36": {
+"tipo": "drt",
+"medios": [
+"Grunge Texture 5.mov",
+"Textile Texture Animation 4.mov",
+"Transition 1 Frame.mov",
+"Transition Sound 3.wav",
+"Transition Sound 4.wav"
+],
+"n_medios": 5,
+"efectos": [
+"Textile Frames",
+"No Output Transform",
+"No Input Transform",
+"Textile Transitions",
+"Textile Textures"
+],
+"modos_fusion": [],
+"proyecto": "Textile Transition 1",
+"duracion_fotogramas": 864024,
+"resumen": "leído por dentro: usa 5 medios (Grunge Texture 5.mov, Textile Texture Animation 4.mov, Transition 1 Frame.mov, Transition Sound 3.wav, Transition Sound 4.wav); efectos/ajustes: Textile Frames, No Output Transform, Textile Transition 1, No Input Transform, Textile Transitions, Textile Textures; línea de tiempo de 864024 fotogramas"
+},
+"ab:09ff5a2e951d": {
+"tipo": "drt",
+"medios": [
+"Paper Texture 1.mov",
+"Textile Texture Animation 5.mov",
+"Transition 2 Frame.mov",
+"Transition Sound 1.wav"
+],
+"n_medios": 4,
+"efectos": [
+"Textile Frames",
+"No Output Transform",
+"No Input Transform",
+"Textile Transitions",
+"Textile Textures"
+],
+"modos_fusion": [],
+"proyecto": "Textile Transition 2",
+"duracion_fotogramas": 864023,
+"resumen": "leído por dentro: usa 4 medios (Paper Texture 1.mov, Textile Texture Animation 5.mov, Transition 2 Frame.mov, Transition Sound 1.wav); efectos/ajustes: Textile Transition 2, Textile Frames, No Output Transform, No Input Transform, Textile Transitions, Textile Textures; línea de tiempo de 864023 fotogramas"
+},
+"ab:9b6d5f214e7f": {
+"tipo": "drt",
+"medios": [
+"Grunge Texture 3.mov",
+"Textile Punch Hole.mov",
+"Transition 3 Frame.mov",
+"Transition Sound 3.wav",
+"Transition Sound 4.wav",
+"Transition Sound 5.wav"
+],
+"n_medios": 6,
+"efectos": [
+"Textile Frames",
+"No Output Transform",
+"No Input Transform",
+"Textile Transitions",
+"Textile Textures"
+],
+"modos_fusion": [],
+"proyecto": "Textile Transition 3",
+"duracion_fotogramas": 864019,
+"resumen": "leído por dentro: usa 6 medios (Grunge Texture 3.mov, Textile Punch Hole.mov, Transition 3 Frame.mov, Transition Sound 3.wav, Transition Sound 4.wav, Transition Sound 5.wav); efectos/ajustes: Textile Frames, No Output Transform, Textile Transition 3, No Input Transform, Textile Transitions, Textile Textures; línea de tiempo de 864019 fotogramas"
+},
+"ab:ffe435dc967b": {
+"tipo": "drt",
+"medios": [
+"Textile Texture Animation 1.mov",
+"Transition 4 Frame.mov",
+"Transition Sound 1.wav",
+"Transition Sound 4.wav"
+],
+"n_medios": 4,
+"efectos": [
+"Textile Frames",
+"No Output Transform",
+"No Input Transform",
+"Textile Transitions",
+"Textile Textures"
+],
+"modos_fusion": [],
+"proyecto": "Textile Transition 4",
+"duracion_fotogramas": 864016,
+"resumen": "leído por dentro: usa 4 medios (Textile Texture Animation 1.mov, Transition 4 Frame.mov, Transition Sound 1.wav, Transition Sound 4.wav); efectos/ajustes: Textile Frames, No Output Transform, Textile Transition 4, No Input Transform, Textile Transitions, Textile Textures; línea de tiempo de 864016 fotogramas"
+},
+"ab:fe197d6f6500": {
+"tipo": "drt",
+"medios": [
+"Grunge Texture 2.mov",
+"Textile Texture Animation 8.mov",
+"Transition 5 Frame.mov",
+"Transition Sound 2.wav"
+],
+"n_medios": 4,
+"efectos": [
+"Textile Frames",
+"No Output Transform",
+"No Input Transform",
+"Textile Transitions",
+"Textile Textures"
+],
+"modos_fusion": [],
+"proyecto": "Textile Transition 5",
+"duracion_fotogramas": 864019,
+"resumen": "leído por dentro: usa 4 medios (Grunge Texture 2.mov, Textile Texture Animation 8.mov, Transition 5 Frame.mov, Transition Sound 2.wav); efectos/ajustes: Textile Frames, No Output Transform, Textile Transition 5, No Input Transform, Textile Transitions, Textile Textures; línea de tiempo de 864019 fotogramas"
+},
+"ab:4f62423bf573": {
+"tipo": "drt",
+"medios": [
+"Paper Texture 3.mov",
+"Transition 6 Frame 1.mov",
+"Transition 6 Frame 2.mov",
+"Transition Sound 2.wav"
+],
+"n_medios": 4,
+"efectos": [
+"Textile Frames",
+"No Output Transform",
+"No Input Transform",
+"Textile Transitions"
+],
+"modos_fusion": [],
+"proyecto": "Textile Transition 6",
+"duracion_fotogramas": 864013,
+"resumen": "leído por dentro: usa 4 medios (Paper Texture 3.mov, Transition 6 Frame 1.mov, Transition 6 Frame 2.mov, Transition Sound 2.wav); efectos/ajustes: Textile Frames, No Output Transform, No Input Transform, Textile Transitions, Textile Transition 6; línea de tiempo de 864013 fotogramas"
+},
+"ab:aaae75c2e18f": {
+"tipo": "drt",
+"medios": [
+"Grunge Texture 4.mov",
+"Transition 7 Frame.mov",
+"Transition Sound 4.wav"
+],
+"n_medios": 3,
+"efectos": [
+"Textile Frames",
+"No Output Transform",
+"No Input Transform",
+"Textile Transitions"
+],
+"modos_fusion": [],
+"proyecto": "Textile Transition 7",
+"duracion_fotogramas": 864019,
+"resumen": "leído por dentro: usa 3 medios (Grunge Texture 4.mov, Transition 7 Frame.mov, Transition Sound 4.wav); efectos/ajustes: Textile Frames, No Output Transform, Textile Transition 7, No Input Transform, Textile Transitions; línea de tiempo de 864019 fotogramas"
+},
+"ab:99284a809220": {
+"tipo": "drt",
+"medios": [
+"Textile Texture Animation 3.mov",
+"Transition 8 Frame.mov",
+"Transition Sound 5.wav"
+],
+"n_medios": 3,
+"efectos": [
+"Textile Frames",
+"No Output Transform",
+"No Input Transform",
+"Textile Transitions",
+"Textile Textures"
+],
+"modos_fusion": [],
+"proyecto": "Textile Transition 8",
+"duracion_fotogramas": 864017,
+"resumen": "leído por dentro: usa 3 medios (Textile Texture Animation 3.mov, Transition 8 Frame.mov, Transition Sound 5.wav); efectos/ajustes: Textile Transition 8, Textile Frames, No Output Transform, No Input Transform, Textile Transitions, Textile Textures; línea de tiempo de 864017 fotogramas"
+},
+"ab:3178b5acaac5": {
+"tipo": "prproj",
+"medios": [
+"Grunge Texture 1.mov",
+"Grunge Texture 2.mov",
+"Grunge Texture 3.mov",
+"Grunge Texture 4.mov",
+"Grunge Texture 5.mov",
+"Paper Texture 1.mov",
+"Paper Texture 2.mov",
+"Paper Texture 3.mov",
+"Paper Texture 4.mov",
+"Textile Frame 1.mov",
+"Textile Frame 2.mov",
+"Textile Frame 3.mov",
+"Textile Frame 4.mov",
+"Textile Frame 5.mov",
+"Textile Frame 6.mov",
+"Textile Frame 7.mov",
+"Textile Frame 8.mov",
+"Textile Punch Hole.mov",
+"Textile Texture Animation 1.mov",
+"Textile Texture Animation 2.mov",
+"Textile Texture Animation 3.mov",
+"Textile Texture Animation 4.mov",
+"Textile Texture Animation 5.mov",
+"Textile Texture Animation 6.mov",
+"Textile Texture Animation 7.mov",
+"Textile Texture Animation 8.mov",
+"Textille Texture.png",
+"Transition 1 Frame.mov",
+"Transition 2 Frame.mov",
+"Transition 3 Frame.mov",
+"Transition 4 Frame.mov",
+"Transition 5 Frame.mov",
+"Transition 6 Frame 1.mov",
+"Transition 6 Frame 2.mov",
+"Transition 7 Frame.mov",
+"Transition 8 Frame.mov",
+"Transition Sound 1.wav",
+"Transition Sound 2.wav",
+"Transition Sound 3.wav",
+"Transition Sound 4.wav",
+"Transition Sound 5.wav",
+"Warp 1 Frame.mov",
+"Warp 2 Frame.mov",
+"Warp 3 Frame.mov",
+"Warp 4 Frame.mov",
+"Warp 5 Frame.mov",
+"Warp 6 Frame 1.mov",
+"Warp 6 Frame 2.mov",
+"Warp 7 Frame.mov",
+"Warp 8 Frame.mov"
+],
+"n_medios": 50,
+"efectos": [
+"Opacity",
+"Motion",
+"Textile Frames",
+"Textile Transition 3",
+"Textile Transition 1",
+"Textile Transition 4",
+"Textile Transition 8",
+"Textile Transition 7",
+"Camera Roll",
+"Textile Transition 5",
+"Textile Textures",
+"Textile Transition 2",
+"Channel Volume",
+"Internal Channel Volume Stereo",
+"Textile Transition 6"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [
+"Shot 1, Apply Preset",
+"Shot 2, Apply Preset"
+],
+"resumen": "leído por dentro: usa 50 medios (Grunge Texture 1.mov, Grunge Texture 2.mov, Grunge Texture 3.mov, Grunge Texture 4.mov, Grunge Texture 5.mov, Paper Texture 1.mov, …); efectos/ajustes: Opacity, Motion, Textile Frames, Textile Transition 3, Textile Transition 1, Textile Transition 4, Textile Transition 8, Textile Transition 7"
+},
+"ab:c151c7a3d0fd": {
+"tipo": "prfpset",
+"medios": [],
+"n_medios": 0,
+"efectos": [
+"Posterize",
+"Wave Warp",
+"Legacy Key Track Matte",
+"Wave Height",
+"Wave Type",
+"ACIDBITE Textile Transition Presets",
+"Track Matte Key",
+"Warp 1 Shot 2 Preset",
+"Wave Speed",
+"Warp 1 Shot 1 Preset",
+"Wave Width"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [
+"ACIDBITE Textile Transition Presets",
+"Transition 1 Shot 1 Preset",
+"Transition 1 Shot 2 Preset",
+"Transition 2 Shot 1 Preset",
+"Transition 2 Shot 2 Preset",
+"Transition 3 Shot 1 Preset",
+"Transition 3 Shot 2 Preset",
+"Transition 4 Shot 1 Preset",
+"Transition 4 Shot 2 Preset",
+"Transition 5 Shot 1 Preset",
+"Transition 5 Shot 2 Preset",
+"Transition 6 Shot 1 Preset",
+"Transition 6 Shot 2 Preset",
+"Transition 7 Shot 1 Preset",
+"Transition 7 Shot 2 Preset",
+"Transition 8 Shot 1 Preset",
+"Transition 8 Shot 2 Preset"
+],
+"resumen": "leído por dentro: efectos/ajustes: Posterize, Wave Warp, Legacy Key Track Matte, Wave Height, Wave Type, ACIDBITE Textile Transition Presets, Track Matte Key, Warp 1 Shot 2 Preset"
+},
+"ab:709ce65b3533": {
+"tipo": "prproj",
+"medios": [
+"Mask 1,85 to 1,33 rounded.png",
+"Mask 4K 1,85 to 1,33 rounded.png"
+],
+"n_medios": 2,
+"efectos": [
+"Lumetri",
+"Opacity",
+"Motion",
+"Color Emboss",
+"Wave Warp",
+"Gaussian Blur 2",
+"Motion Blur",
+"Gaussian Blur",
+"Wave Speed",
+"Directional Blur",
+"Camera Roll",
+"Lumetri Color",
+"RGB Curves",
+"Hue Saturation Curves",
+"Blur Dimensions",
+"Wave Height",
+"Wave Type",
+"Add color",
+"Set color",
+"Blur Length",
+"Tint Balance",
+"Remove color",
+"Wave Width",
+"Faded Film"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [],
+"resumen": "leído por dentro: usa 2 medios (Mask 1,85 to 1,33 rounded.png, Mask 4K 1,85 to 1,33 rounded.png); efectos/ajustes: Lumetri, Opacity, Motion, Color Emboss, Wave Warp, Gaussian Blur 2, Motion Blur, Gaussian Blur"
+},
+"ab:f921dacfd904": {
+"tipo": "prproj",
+"medios": [],
+"n_medios": 0,
+"efectos": [
+"Gaussian Blur 2",
+"Opacity",
+"Motion Blur",
+"Legacy Key Track Matte",
+"Brightness",
+"Gaussian Blur",
+"Directional Blur",
+"Blur Length",
+"Camera Roll",
+"Track Matte Key",
+"Blur Dimensions"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [],
+"resumen": "leído por dentro: efectos/ajustes: Gaussian Blur 2, Opacity, Motion Blur, Legacy Key Track Matte, Brightness, Gaussian Blur, Directional Blur, Blur Length"
+},
+"ab:941d2803ddde": {
+"tipo": "prproj",
+"medios": [],
+"n_medios": 0,
+"efectos": [
+"Opacity",
+"Motion Blur",
+"Legacy Key Track Matte",
+"Brightness",
+"Gaussian Blur 2",
+"Gaussian Blur",
+"Directional Blur",
+"Blur Length",
+"Camera Roll",
+"Track Matte Key",
+"Blur Dimensions"
+],
+"modos_fusion": [],
+"secuencias": [],
+"presets": [],
+"resumen": "leído por dentro: efectos/ajustes: Opacity, Motion Blur, Legacy Key Track Matte, Brightness, Gaussian Blur 2, Gaussian Blur, Directional Blur, Blur Length"
+},
+"ab:7188071fe712": {
+"tipo": "mogrt",
+"medios": [
+"76c181fb-c0ef-465f-848f-463be4fe19b2.png",
+"BRAND FILM_VFX_SHOT11_UHD.mp4",
+"BRAND FILM_VFX_SHOTS13_UHD.mp4",
+"Noise_01.jpg"
+],
+"n_medios": 4,
+"efectos": [
+"Escher",
+"Difference Matte2",
+"Displacement Map"
+],
+"modos_fusion": [],
+"mogrt": {
+"nombre": "ACIDBITE Morpheus 16x9 Mosh",
+"app": "aefx",
+"efectos_usados": [
+"ADBE Angle Control",
+"ADBE Difference Matte2",
+"ADBE Displacement Map",
+"ADBE Geometry2",
+"ADBE Slider Control"
+],
+"parametros": [
+"Clip 1 (3840×2160)",
+"Clip 2 (3840×2160)",
+"Texture (3840×3840)",
+"Transition Direction",
+"Displacement",
+"Texture Strength",
+"Texture Scale",
+"Texture Rotation"
+],
+"duracion_s": 2.0
+},
+"resumen": "leído por dentro: plantilla para Premiere con 8 huecos/controles: Clip 1 (3840×2160), Clip 2 (3840×2160), Texture (3840×3840), Transition Direction, Displacement, Texture Strength, Texture Scale, Texture Rotation (2.0 s); usa 4 medios (76c181fb-c0ef-465f-848f-463be4fe19b2.png, BRAND FILM_VFX_SHOT11_UHD.mp4, BRAND FILM_VFX_SHOTS13_UHD.mp4, Noise_01.jpg); efectos/ajustes: Escher, Difference Matte2, Displacement Map"
+},
+"ab:b7c5e231037e": {
+"tipo": "mogrt",
+"medios": [
+"BRAND FILM_VFX_SHOT11_UHD.mp4",
+"BRAND FILM_VFX_SHOTS13_UHD.mp4",
+"Noise_01.jpg",
+"ab4c9637-fb0f-438c-922f-70594fd60e60.png"
+],
+"n_medios": 4,
+"efectos": [
+"Escher",
+"Displacement Map"
+],
+"modos_fusion": [],
+"mogrt": {
+"nombre": "ACIDBITE Morpheus 16x9 Wipe 1",
+"app": "aefx",
+"efectos_usados": [
+"ADBE Angle Control",
+"ADBE Displacement Map",
+"ADBE Geometry2",
+"ADBE Slider Control"
+],
+"parametros": [
+"Clip 1 (3840×2160)",
+"Clip 2 (3840×2160)",
+"Texture (3840×3840)",
+"Transition Direction",
+"Displacement",
+"Texture Strength",
+"Texture Scale",
+"Texture Rotation"
+],
+"duracion_s": 2.0
+},
+"resumen": "leído por dentro: plantilla para Premiere con 8 huecos/controles: Clip 1 (3840×2160), Clip 2 (3840×2160), Texture (3840×3840), Transition Direction, Displacement, Texture Strength, Texture Scale, Texture Rotation (2.0 s); usa 4 medios (BRAND FILM_VFX_SHOT11_UHD.mp4, BRAND FILM_VFX_SHOTS13_UHD.mp4, Noise_01.jpg, ab4c9637-fb0f-438c-922f-70594fd60e60.png); efectos/ajustes: Escher, Displacement Map"
+},
+"ab:0913ab6ea151": {
+"tipo": "mogrt",
+"medios": [
+"14013035-e93d-406e-94d3-7fbd506e03d2.png",
+"BRAND FILM_VFX_SHOT11_UHD.mp4",
+"BRAND FILM_VFX_SHOTS13_UHD.mp4",
+"Noise_01.jpg"
+],
+"n_medios": 4,
+"efectos": [
+"Escher",
+"Displacement Map"
+],
+"modos_fusion": [],
+"mogrt": {
+"nombre": "ACIDBITE Morpheus 16x9 Wipe 2",
+"app": "aefx",
+"efectos_usados": [
+"ADBE Angle Control",
+"ADBE Displacement Map",
+"ADBE Geometry2",
+"ADBE Slider Control"
+],
+"parametros": [
+"Clip 1 (3840×2160)",
+"Clip 2 (3840×2160)",
+"Texture (3840×3840)",
+"Transition Direction",
+"Displacement",
+"Texture Strength",
+"Texture Scale",
+"Texture Rotation"
+],
+"duracion_s": 2.0
+},
+"resumen": "leído por dentro: plantilla para Premiere con 8 huecos/controles: Clip 1 (3840×2160), Clip 2 (3840×2160), Texture (3840×3840), Transition Direction, Displacement, Texture Strength, Texture Scale, Texture Rotation (2.0 s); usa 4 medios (14013035-e93d-406e-94d3-7fbd506e03d2.png, BRAND FILM_VFX_SHOT11_UHD.mp4, BRAND FILM_VFX_SHOTS13_UHD.mp4, Noise_01.jpg); efectos/ajustes: Escher, Displacement Map"
+},
+"ab:6e920ee97810": {
+"tipo": "mogrt",
+"medios": [
+"058bf31c-7fe3-40de-b4fd-b0a706805050.png",
+"BRAND FILM_VFX_SHOT11_UHD.mp4",
+"BRAND FILM_VFX_SHOTS13_UHD.mp4",
+"Noise_01.jpg"
+],
+"n_medios": 4,
+"efectos": [
+"Escher",
+"Displacement Map"
+],
+"modos_fusion": [],
+"mogrt": {
+"nombre": "ACIDBITE Morpheus 16x9 Wipe 3",
+"app": "aefx",
+"efectos_usados": [
+"ADBE Angle Control",
+"ADBE Displacement Map",
+"ADBE Geometry2",
+"ADBE Slider Control"
+],
+"parametros": [
+"Clip 1 (3840×2160)",
+"Clip 2 (3840×2160)",
+"Texture (3840×3840)",
+"Transition Direction",
+"Displacement",
+"Texture Strength",
+"Texture Scale",
+"Texture Rotation"
+],
+"duracion_s": 2.0
+},
+"resumen": "leído por dentro: plantilla para Premiere con 8 huecos/controles: Clip 1 (3840×2160), Clip 2 (3840×2160), Texture (3840×3840), Transition Direction, Displacement, Texture Strength, Texture Scale, Texture Rotation (2.0 s); usa 4 medios (058bf31c-7fe3-40de-b4fd-b0a706805050.png, BRAND FILM_VFX_SHOT11_UHD.mp4, BRAND FILM_VFX_SHOTS13_UHD.mp4, Noise_01.jpg); efectos/ajustes: Escher, Displacement Map"
+},
+"ab:90ea64e4ba51": {
+"tipo": "mogrt",
+"medios": [
+"9a1cd51b-d42b-4140-9cc2-1585585bc482.png",
+"BRAND FILM_VFX_SHOT11_UHD.mp4",
+"BRAND FILM_VFX_SHOTS13_UHD.mp4",
+"Noise_01.jpg"
+],
+"n_medios": 4,
+"efectos": [
+"Escher",
+"Displacement Map",
+"Offset"
+],
+"modos_fusion": [],
+"mogrt": {
+"nombre": "ACIDBITE Morpheus 16x9 Wipe 4",
+"app": "aefx",
+"efectos_usados": [
+"ADBE Angle Control",
+"ADBE Displacement Map",
+"ADBE Geometry2",
+"ADBE Offset",
+"ADBE Slider Control"
+],
+"parametros": [
+"Clip 1 (3840×2160)",
+"Clip 2 (3840×2160)",
+"Texture (3840×3840)",
+"Transition Direction",
+"Texture Strength",
+"Texture Scale",
+"Texture Rotation"
+],
+"duracion_s": 2.0
+},
+"resumen": "leído por dentro: plantilla para Premiere con 7 huecos/controles: Clip 1 (3840×2160), Clip 2 (3840×2160), Texture (3840×3840), Transition Direction, Texture Strength, Texture Scale, Texture Rotation (2.0 s); usa 4 medios (9a1cd51b-d42b-4140-9cc2-1585585bc482.png, BRAND FILM_VFX_SHOT11_UHD.mp4, BRAND FILM_VFX_SHOTS13_UHD.mp4, Noise_01.jpg); efectos/ajustes: Escher, Displacement Map, Offset"
+},
+"ab:7cfedb39bef3": {
+"tipo": "mogrt",
+"medios": [
+"BRAND FILM_VFX_SHOT11_9x16_UHD.mp4",
+"Noise_01.jpg"
+],
+"n_medios": 2,
+"efectos": [
+"Escher",
+"Difference Matte2",
+"Displacement Map"
+],
+"modos_fusion": [],
+"mogrt": {
+"nombre": "ACIDBITE Morpheus 9x16 Mosh",
+"app": "aefx",
+"efectos_usados": [
+"ADBE Angle Control",
+"ADBE Difference Matte2",
+"ADBE Displacement Map",
+"ADBE Geometry2",
+"ADBE Slider Control"
+],
+"parametros": [
+"Clip 1 (2160×3840)",
+"Clip 2 (2160×3840)",
+"Texture (3840×3840)",
+"Transition Direction",
+"Displacement",
+"Texture Strength",
+"Texture Scale",
+"Texture Rotation"
+],
+"duracion_s": 2.0
+},
+"resumen": "leído por dentro: plantilla para Premiere con 8 huecos/controles: Clip 1 (2160×3840), Clip 2 (2160×3840), Texture (3840×3840), Transition Direction, Displacement, Texture Strength, Texture Scale, Texture Rotation (2.0 s); usa 2 medios (BRAND FILM_VFX_SHOT11_9x16_UHD.mp4, Noise_01.jpg); efectos/ajustes: Escher, Difference Matte2, Displacement Map"
+},
+"ab:cdeea609106b": {
+"tipo": "mogrt",
+"medios": [
+"BRAND FILM_VFX_SHOT11_9x16_UHD.mp4",
+"Noise_01.jpg"
+],
+"n_medios": 2,
+"efectos": [
+"Escher",
+"Displacement Map"
+],
+"modos_fusion": [],
+"mogrt": {
+"nombre": "ACIDBITE Morpheus 9x16 Wipe 1",
+"app": "aefx",
+"efectos_usados": [
+"ADBE Angle Control",
+"ADBE Displacement Map",
+"ADBE Geometry2",
+"ADBE Slider Control"
+],
+"parametros": [
+"Clip 1 (2160×3840)",
+"Clip 2 (2160×3840)",
+"Texture (3840×3840)",
+"Transition Direction",
+"Displacement",
+"Texture Strength",
+"Texture Scale",
+"Texture Rotation"
+],
+"duracion_s": 2.0
+},
+"resumen": "leído por dentro: plantilla para Premiere con 8 huecos/controles: Clip 1 (2160×3840), Clip 2 (2160×3840), Texture (3840×3840), Transition Direction, Displacement, Texture Strength, Texture Scale, Texture Rotation (2.0 s); usa 2 medios (BRAND FILM_VFX_SHOT11_9x16_UHD.mp4, Noise_01.jpg); efectos/ajustes: Escher, Displacement Map"
+},
+"ab:cff944f02dd7": {
+"tipo": "mogrt",
+"medios": [
+"BRAND FILM_VFX_SHOT11_9x16_UHD.mp4",
+"Noise_01.jpg"
+],
+"n_medios": 2,
+"efectos": [
+"Escher",
+"Displacement Map"
+],
+"modos_fusion": [],
+"mogrt": {
+"nombre": "ACIDBITE Morpheus 9x16 Wipe 2",
+"app": "aefx",
+"efectos_usados": [
+"ADBE Angle Control",
+"ADBE Displacement Map",
+"ADBE Geometry2",
+"ADBE Slider Control"
+],
+"parametros": [
+"Clip 1 (2160×3840)",
+"Clip 2 (2160×3840)",
+"Texture (3840×3840)",
+"Transition Direction",
+"Displacement",
+"Texture Strength",
+"Texture Scale",
+"Texture Rotation"
+],
+"duracion_s": 2.0
+},
+"resumen": "leído por dentro: plantilla para Premiere con 8 huecos/controles: Clip 1 (2160×3840), Clip 2 (2160×3840), Texture (3840×3840), Transition Direction, Displacement, Texture Strength, Texture Scale, Texture Rotation (2.0 s); usa 2 medios (BRAND FILM_VFX_SHOT11_9x16_UHD.mp4, Noise_01.jpg); efectos/ajustes: Escher, Displacement Map"
+},
+"ab:8f287f45b0ec": {
+"tipo": "mogrt",
+"medios": [
+"BRAND FILM_VFX_SHOT11_9x16_UHD.mp4",
+"Noise_01.jpg"
+],
+"n_medios": 2,
+"efectos": [
+"Escher",
+"Displacement Map"
+],
+"modos_fusion": [],
+"mogrt": {
+"nombre": "ACIDBITE Morpheus 9x16 Wipe 3",
+"app": "aefx",
+"efectos_usados": [
+"ADBE Angle Control",
+"ADBE Displacement Map",
+"ADBE Geometry2",
+"ADBE Slider Control"
+],
+"parametros": [
+"Clip 1 (2160×3840)",
+"Clip 2 (2160×3840)",
+"Texture (3840×3840)",
+"Transition Direction",
+"Displacement",
+"Texture Strength",
+"Texture Scale",
+"Texture Rotation"
+],
+"duracion_s": 2.0
+},
+"resumen": "leído por dentro: plantilla para Premiere con 8 huecos/controles: Clip 1 (2160×3840), Clip 2 (2160×3840), Texture (3840×3840), Transition Direction, Displacement, Texture Strength, Texture Scale, Texture Rotation (2.0 s); usa 2 medios (BRAND FILM_VFX_SHOT11_9x16_UHD.mp4, Noise_01.jpg); efectos/ajustes: Escher, Displacement Map"
+},
+"ab:7644e9add065": {
+"tipo": "mogrt",
+"medios": [
+"BRAND FILM_VFX_SHOT11_9x16_UHD.mp4",
+"Noise_01.jpg"
+],
+"n_medios": 2,
+"efectos": [
+"Escher",
+"Displacement Map",
+"Offset"
+],
+"modos_fusion": [],
+"mogrt": {
+"nombre": "ACIDBITE Morpheus 9x16 Wipe 4",
+"app": "aefx",
+"efectos_usados": [
+"ADBE Angle Control",
+"ADBE Displacement Map",
+"ADBE Geometry2",
+"ADBE Offset",
+"ADBE Slider Control"
+],
+"parametros": [
+"Clip 1 (2160×3840)",
+"Clip 2 (2160×3840)",
+"Texture (3840×3840)",
+"Transition Direction",
+"Texture Strength",
+"Texture Scale",
+"Texture Rotation"
+],
+"duracion_s": 2.0
+},
+"resumen": "leído por dentro: plantilla para Premiere con 7 huecos/controles: Clip 1 (2160×3840), Clip 2 (2160×3840), Texture (3840×3840), Transition Direction, Texture Strength, Texture Scale, Texture Rotation (2.0 s); usa 2 medios (BRAND FILM_VFX_SHOT11_9x16_UHD.mp4, Noise_01.jpg); efectos/ajustes: Escher, Displacement Map, Offset"
+}
+}
+}
