@@ -1,1 +1,6 @@
 __pycache__/
+
+# carteles con croma (24-11-2026): las imágenes viven solo en el PC de Iker (Biblioteca/TEXTURAS/collage/carteles_croma);
+# en git solo va su índice (indice/anadidos/carteles_croma.json). Así ACTUALIZAR_TEXTURAS no choca con ellas.
+collage/carteles_croma/
+hojas/collage__carteles_croma__*.jpg

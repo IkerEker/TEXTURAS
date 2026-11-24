@@ -308,6 +308,12 @@ if _cor.exists():
                 if k != 'nota_correccion' and a.get(k) is not None and a.get(k) != v: a.setdefault('antes_de_corregir', {})[k] = a[k]
                 a[k] = v
 
+# añadidos por plugins (indice/anadidos/*.json): material nuevo de Iker ya procesado y revisado a ojo, con su ficha
+# dentro (p. ej. carteles_croma.json, 24-11-2026: 82 carteles con croma de Biblioteca/POSTER, por COLLAGATOR)
+for _f in sorted(Path('indice/anadidos').glob('*.json')):
+    _ya = {a['id'] for a in idx}
+    idx.extend(a for a in json.load(open(_f, encoding='utf-8'))['assets'] if a['id'] not in _ya)
+
 os.makedirs('indice', exist_ok=True)
 out = dict(version='2026-11-19', raiz='Biblioteca/ (variable TEXTURAS_ROOT)', total=len(idx),
            por_coleccion=dict(collections.Counter(a['coleccion'] for a in idx)),

@@ -2065,6 +2065,102 @@
    "hoja": "TEXTURAS/indice/necesidades_hojas/lut_pelicula.jpg",
    "encajan": 161,
    "revisada": "automática (sonidos y LUT: no se ven; elegidos por subcategoría medida)"
+  },
+  {
+   "grupo": "CARTELES CON CROMA (azul = tu imagen, verde = hueco)",
+   "nombre": "cartel_croma_rasgado",
+   "titulo": "cartel arrancado: rasgado recto, diagonal, tira o lenguas",
+   "como": "Capa *_capa.png encima; donde *_tinta.png es blanco pon TU imagen multiplicada por el gris de la capa ×2 (luces y arrugas reales); el papel/pulpa queda tal cual; lo transparente deja ver la capa de debajo o la pared",
+   "consulta": "cartel rasgado | cartel arrancado | decollage",
+   "ids": [
+    "tx:collage/carteles_croma/linea/cartel_linea_03",
+    "tx:collage/carteles_croma/diagonal/cartel_diagonal_01",
+    "tx:collage/carteles_croma/tira/cartel_tira_01",
+    "tx:collage/carteles_croma/lenguas/cartel_lenguas_01",
+    "tx:collage/carteles_croma/linea/cartel_linea_05",
+    "tx:collage/carteles_croma/diagonal/cartel_diagonal_04",
+    "tx:collage/carteles_croma/lenguas/cartel_lenguas_03",
+    "tx:collage/carteles_croma/tira/cartel_tira_03",
+    "tx:collage/carteles_croma/linea/cartel_linea_12",
+    "tx:collage/carteles_croma/diagonal/cartel_diagonal_07",
+    "tx:collage/carteles_croma/lenguas/cartel_lenguas_04",
+    "tx:collage/carteles_croma/tira/cartel_tira_06"
+   ],
+   "hoja": "TEXTURAS/indice/necesidades_hojas/cartel_croma_rasgado.jpg",
+   "encajan": 83,
+   "revisada": "a ojo, una a una (20-11-2026)"
+  },
+  {
+   "grupo": "CARTELES CON CROMA (azul = tu imagen, verde = hueco)",
+   "nombre": "cartel_croma_restos",
+   "titulo": "restos de cartel en la pared y cartel con agujeros",
+   "como": "Capa *_capa.png encima; donde *_tinta.png es blanco pon TU imagen multiplicada por el gris de la capa ×2 (luces y arrugas reales); el papel/pulpa queda tal cual; lo transparente deja ver la capa de debajo o la pared. Restos 05/08/09/10 fuera: islas con forma de ojo o cara",
+   "consulta": "restos cartel | agujeros cartel",
+   "ids": [
+    "tx:collage/carteles_croma/restos/cartel_restos_02",
+    "tx:collage/carteles_croma/agujeros/cartel_agujeros_01",
+    "tx:collage/carteles_croma/restos/cartel_restos_04",
+    "tx:collage/carteles_croma/agujeros/cartel_agujeros_02",
+    "tx:collage/carteles_croma/restos/cartel_restos_06",
+    "tx:collage/carteles_croma/agujeros/cartel_agujeros_03",
+    "tx:collage/carteles_croma/restos/cartel_restos_07",
+    "tx:collage/carteles_croma/agujeros/cartel_agujeros_05",
+    "tx:collage/carteles_croma/restos/cartel_restos_12",
+    "tx:collage/carteles_croma/restos/cartel_restos_01",
+    "tx:collage/carteles_croma/restos/cartel_restos_13",
+    "tx:collage/carteles_croma/agujeros/cartel_agujeros_07"
+   ],
+   "hoja": "TEXTURAS/indice/necesidades_hojas/cartel_croma_restos.jpg",
+   "encajan": 28,
+   "revisada": "a ojo, una a una (20-11-2026)"
+  },
+  {
+   "grupo": "CARTELES CON CROMA (azul = tu imagen, verde = hueco)",
+   "nombre": "cartel_croma_esquina_mojado",
+   "titulo": "esquina arrancada, cartel mojado y capas sobre la pared",
+   "como": "Capa *_capa.png encima; donde *_tinta.png es blanco pon TU imagen multiplicada por el gris de la capa ×2 (luces y arrugas reales); el papel/pulpa queda tal cual; lo transparente deja ver la capa de debajo o la pared",
+   "consulta": "esquina cartel | cartel mojado | cartel pared",
+   "ids": [
+    "tx:collage/carteles_croma/esquina/cartel_esquina_01",
+    "tx:collage/carteles_croma/mojado/cartel_mojado_01",
+    "tx:collage/carteles_croma/pared/cartel_pared_01",
+    "tx:collage/carteles_croma/esquina/cartel_esquina_02",
+    "tx:collage/carteles_croma/mojado/cartel_mojado_02",
+    "tx:collage/carteles_croma/pared/cartel_pared_04",
+    "tx:collage/carteles_croma/esquina/cartel_esquina_05",
+    "tx:collage/carteles_croma/mojado/cartel_mojado_03",
+    "tx:collage/carteles_croma/pared/cartel_pared_05",
+    "tx:collage/carteles_croma/esquina/cartel_esquina_03",
+    "tx:collage/carteles_croma/mojado/cartel_mojado_04",
+    "tx:collage/carteles_croma/pared/cartel_pared_07"
+   ],
+   "hoja": "TEXTURAS/indice/necesidades_hojas/cartel_croma_esquina_mojado.jpg",
+   "encajan": 84,
+   "revisada": "a ojo, una a una (20-11-2026)"
+  },
+  {
+   "grupo": "CARTELES CON CROMA (azul = tu imagen, verde = hueco)",
+   "nombre": "cartel_croma_arrugas",
+   "titulo": "arrugas y burbujas de cola de un cartel pegado (sin rasgar)",
+   "como": "Todo es tinta: TU imagen × gris de la capa ×2 = el cartel pegado con sus arrugas reales. Una sola familia porque es un único efecto (sombreado); hay 12 variantes",
+   "consulta": "arrugas cartel",
+   "ids": [
+    "tx:collage/carteles_croma/arrugas/cartel_arrugas_01",
+    "tx:collage/carteles_croma/arrugas/cartel_arrugas_02",
+    "tx:collage/carteles_croma/arrugas/cartel_arrugas_03",
+    "tx:collage/carteles_croma/arrugas/cartel_arrugas_04",
+    "tx:collage/carteles_croma/arrugas/cartel_arrugas_05",
+    "tx:collage/carteles_croma/arrugas/cartel_arrugas_06",
+    "tx:collage/carteles_croma/arrugas/cartel_arrugas_07",
+    "tx:collage/carteles_croma/arrugas/cartel_arrugas_08",
+    "tx:collage/carteles_croma/arrugas/cartel_arrugas_09",
+    "tx:collage/carteles_croma/arrugas/cartel_arrugas_10",
+    "tx:collage/carteles_croma/arrugas/cartel_arrugas_11",
+    "tx:collage/carteles_croma/arrugas/cartel_arrugas_12"
+   ],
+   "hoja": "TEXTURAS/indice/necesidades_hojas/cartel_croma_arrugas.jpg",
+   "encajan": 82,
+   "revisada": "a ojo, una a una (20-11-2026)"
   }
  ]
 }
